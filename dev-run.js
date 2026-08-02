@@ -51,15 +51,24 @@ async function main() {
   const client = createYoutubeClient({ apiKey: 'dev-fixture-key', fetchImpl: fixtureFetch });
 
   console.log('[dev] 채널 정보 조회 중...');
-  const channels = await resolveChannels(client, config.channels);
+  // fixtures/에는 @evalet 샘플만 있어서, config.json의 나머지 channelId 항목들은
+  // 일부러 "찾지 못함" 처리된다 — 이번에 추가한 에러 격리(한 채널 실패해도 계속 진행)가
+  // 실제로 동작하는지 보여주는 좋은 예시라 그대로 둔다.
+  const { resolved: channels, errors: resolveErrors } = await resolveChannels(client, config.channels);
   for (const c of channels) {
     console.log(`  ${c.name}: 구독자 ${c.subscriberCount.toLocaleString()}명, 총 조회수 ${c.totalViewCount.toLocaleString()}회`);
   }
+  for (const e of resolveErrors) {
+    console.warn(`  건너뜀(예상됨): ${e.entry.name || e.entry.handle || e.entry.channelId} — ${e.message}`);
+  }
 
   console.log('\n[dev] 최근 영상 목록/지표 수집 중...');
-  const videos = await collectVideos(client, channels, config.collection);
+  const { videos, errors: videoErrors } = await collectVideos(client, channels, config.collection);
   for (const v of videos) {
     console.log(`  [${v.channelId}] ${v.title}: 조회수 ${v.viewCount.toLocaleString()}회`);
+  }
+  for (const e of videoErrors) {
+    console.warn(`  일부 실패: ${e.channel ? e.channel.name : '영상 배치'} — ${e.message}`);
   }
 
   const date = todayKST();

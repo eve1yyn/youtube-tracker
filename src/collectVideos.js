@@ -26,36 +26,46 @@ async function listRecentVideoIds(client, uploadsPlaylistId, { windowDays, maxPe
 }
 
 // channels: resolveChannels()가 반환한 배열 (channelId, uploadsPlaylistId 포함)
+// 채널 하나의 재생목록 조회가 실패해도 나머지 채널은 계속 진행하고, 실패는 errors로 반환한다.
 async function collectVideos(client, channels, { videoWindowDays, maxVideosPerChannel }) {
   const channelIdByVideoId = new Map();
+  const errors = [];
 
   for (const channel of channels) {
-    const videoIds = await listRecentVideoIds(client, channel.uploadsPlaylistId, {
-      windowDays: videoWindowDays,
-      maxPerChannel: maxVideosPerChannel,
-    });
-    for (const videoId of videoIds) channelIdByVideoId.set(videoId, channel.channelId);
+    try {
+      const videoIds = await listRecentVideoIds(client, channel.uploadsPlaylistId, {
+        windowDays: videoWindowDays,
+        maxPerChannel: maxVideosPerChannel,
+      });
+      for (const videoId of videoIds) channelIdByVideoId.set(videoId, channel.channelId);
+    } catch (err) {
+      errors.push({ channel, message: err.message });
+    }
   }
 
   const allVideoIds = [...channelIdByVideoId.keys()];
   const videos = [];
 
   for (const batch of chunk(allVideoIds, 50)) {
-    const res = await client.getVideosByIds(batch);
-    for (const item of res.items || []) {
-      videos.push({
-        videoId: item.id,
-        channelId: channelIdByVideoId.get(item.id),
-        title: item.snippet.title,
-        publishedAt: item.snippet.publishedAt,
-        viewCount: Number(item.statistics.viewCount || 0),
-        likeCount: item.statistics.likeCount !== undefined ? Number(item.statistics.likeCount) : null,
-        commentCount: item.statistics.commentCount !== undefined ? Number(item.statistics.commentCount) : null,
-      });
+    try {
+      const res = await client.getVideosByIds(batch);
+      for (const item of res.items || []) {
+        videos.push({
+          videoId: item.id,
+          channelId: channelIdByVideoId.get(item.id),
+          title: item.snippet.title,
+          publishedAt: item.snippet.publishedAt,
+          viewCount: Number(item.statistics.viewCount || 0),
+          likeCount: item.statistics.likeCount !== undefined ? Number(item.statistics.likeCount) : null,
+          commentCount: item.statistics.commentCount !== undefined ? Number(item.statistics.commentCount) : null,
+        });
+      }
+    } catch (err) {
+      errors.push({ videoIds: batch, message: err.message });
     }
   }
 
-  return videos;
+  return { videos, errors };
 }
 
 module.exports = { collectVideos, listRecentVideoIds };

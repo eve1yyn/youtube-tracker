@@ -132,7 +132,20 @@
   }
 
   /* 채널 목록 테이블 */
-  .table-toolbar { display: flex; justify-content: flex-end; margin-bottom: 10px; }
+  .table-toolbar { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px; flex-wrap: wrap; }
+  .tier-filter { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tier-btn {
+    border: 1px solid var(--border);
+    background: var(--surface-1);
+    color: var(--text-secondary);
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+  }
+  .tier-btn.active { color: #fff; background: var(--text-primary); border-color: var(--text-primary); }
   .search-input {
     width: 220px;
     max-width: 100%;
@@ -217,9 +230,10 @@
     <div class="section">
       <div class="section-head">
         <h2>채널 목록</h2>
-        <div class="section-sub">열 제목을 클릭하면 정렬돼요. 도달률 = 최근 영상 평균 조회수 ÷ 구독자 수</div>
+        <div class="section-sub">열 제목을 클릭하면 정렬돼요. 도달률은 튀는 영상 1개에 덜 흔들리는 중앙값 기준(괄호 안은 평균)</div>
       </div>
       <div class="table-toolbar">
+        <div class="tier-filter" id="tierFilter"></div>
         <input type="text" class="search-input" id="channelSearch" placeholder="채널명 검색" />
       </div>
       <div class="card" style="padding:0; overflow-x:auto;">
@@ -228,9 +242,12 @@
             <tr>
               <th class="sortable" data-sort="title">채널</th>
               <th class="sortable num" data-sort="subscriberCount">구독자<span class="arrow">▾</span></th>
-              <th class="sortable num" data-sort="delta7d">7일 증감<span class="arrow">▾</span></th>
-              <th class="sortable num" data-sort="totalViewCount">총 조회수<span class="arrow">▾</span></th>
-              <th class="sortable num" data-sort="reachRate">도달률<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="growthRate30d">구독자 증가율<br />(30일)<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="viewDelta7d">신규 조회수<br />(7일)<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="uploadsPerWeek">주간 업로드<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="avgViewsPerVideo">영상당<br />평균 조회수<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="engagementRate">참여율<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="reachRateMedian">도달률<span class="arrow">▾</span></th>
               <th>추이</th>
             </tr>
           </thead>
@@ -253,7 +270,7 @@
         <div class="section-sub">채널을 선택하면 최근 영상 지표를 볼 수 있어요</div>
       </div>
       <div class="tabs" id="channelTabs"></div>
-      <div class="card">
+      <div class="card" style="padding:0; overflow-x:auto;">
         <table>
           <thead>
             <tr>
@@ -261,7 +278,8 @@
               <th>게시일</th>
               <th class="num">조회수</th>
               <th class="num">좋아요</th>
-              <th class="num">댓글</th>
+              <th class="num">좋아요율</th>
+              <th class="num">댓글참여율</th>
               <th class="num">전일 대비</th>
             </tr>
           </thead>

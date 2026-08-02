@@ -2,20 +2,35 @@ const vizRoot = document.querySelector('.viz-root');
 const style = getComputedStyle(vizRoot);
 const seriesColor = style.getPropertyValue('--series-1').trim();
 
-const state = { channels: [], sortKey: 'subscriberCount', sortDir: 'desc', search: '', activeChannelId: null };
+const TIERS = [
+  { key: 'all', label: '전체', test: () => true },
+  { key: 'nano', label: '나노 (~1만)', test: (s) => s < 10000 },
+  { key: 'micro', label: '마이크로 (1만~10만)', test: (s) => s >= 10000 && s < 100000 },
+  { key: 'macro', label: '매크로 (10만~100만)', test: (s) => s >= 100000 && s < 1000000 },
+  { key: 'mega', label: '메가 (100만~)', test: (s) => s >= 1000000 },
+];
+
+const state = { channels: [], sortKey: 'subscriberCount', sortDir: 'desc', search: '', tier: 'all', activeChannelId: null };
 
 function fmtNum(n) {
-  return n === null || n === undefined ? '-' : n.toLocaleString('ko-KR');
+  return n === null || n === undefined ? '-' : Math.round(n).toLocaleString('ko-KR');
 }
 
-function fmtPercent(n) {
-  return n === null || n === undefined ? '-' : `${n.toFixed(1)}%`;
+function fmtPercent(n, digits = 1) {
+  return n === null || n === undefined ? '-' : `${n.toFixed(digits)}%`;
 }
 
 function fmtDelta(n) {
   if (n === null || n === undefined) return { text: '집계 중', cls: 'delta-empty' };
   if (n > 0) return { text: `▲ ${n.toLocaleString('ko-KR')}`, cls: 'delta-up' };
   if (n < 0) return { text: `▼ ${Math.abs(n).toLocaleString('ko-KR')}`, cls: 'delta-down' };
+  return { text: '변화 없음', cls: 'delta-empty' };
+}
+
+function fmtGrowthPercent(n) {
+  if (n === null || n === undefined) return { text: '집계 중', cls: 'delta-empty' };
+  if (n > 0) return { text: `▲ ${n.toFixed(1)}%`, cls: 'delta-up' };
+  if (n < 0) return { text: `▼ ${Math.abs(n).toFixed(1)}%`, cls: 'delta-down' };
   return { text: '변화 없음', cls: 'delta-empty' };
 }
 
@@ -56,6 +71,7 @@ async function main() {
   renderKpiTiles(data);
   renderMovers(data.topMovers);
   renderChannelTabs(data.channels);
+  renderTierFilter();
 
   const initial = getSortedFilteredChannels()[0];
   if (initial) {
@@ -94,19 +110,19 @@ async function main() {
 function renderKpiTiles(data) {
   const channels = data.channels;
   const totalSubscribers = channels.reduce((sum, c) => sum + c.latest.subscriberCount, 0);
-  const reachRates = channels.map((c) => c.reachRate).filter((v) => v !== null && v !== undefined);
+  const reachRates = channels.map((c) => c.reachRateMedian).filter((v) => v !== null && v !== undefined);
   const avgReach = reachRates.length ? reachRates.reduce((a, b) => a + b, 0) / reachRates.length : null;
 
-  const growthCandidates = channels.filter((c) => c.delta7d !== null && c.delta7d !== undefined);
-  const topGrower = growthCandidates.length ? growthCandidates.reduce((a, b) => (b.delta7d > a.delta7d ? b : a)) : null;
+  const growthCandidates = channels.filter((c) => c.growthRate30d !== null && c.growthRate30d !== undefined);
+  const topGrower = growthCandidates.length ? growthCandidates.reduce((a, b) => (b.growthRate30d > a.growthRate30d ? b : a)) : null;
 
   const tiles = [
     { label: '추적 채널 수', value: `${channels.length}개`, sub: `합산 구독자 ${fmtNum(totalSubscribers)}명` },
-    { label: '평균 도달률', value: fmtPercent(avgReach), sub: '최근 영상 평균 조회수 ÷ 구독자 수' },
+    { label: '평균 도달률 (중앙값 기준)', value: fmtPercent(avgReach), sub: '영상 1개 튀는 값에 덜 흔들리는 지표' },
     {
-      label: '7일 최고 성장 채널',
+      label: '30일 최고 성장 채널',
       value: topGrower ? topGrower.title : '집계 중',
-      sub: topGrower ? `+${topGrower.delta7d.toLocaleString('ko-KR')}명` : '내일부터 표시돼요',
+      sub: topGrower ? `구독자 +${topGrower.growthRate30d.toFixed(1)}%` : '데이터가 30일 쌓이면 표시돼요',
     },
     {
       label: '오늘 급상승 콘텐츠',
@@ -128,27 +144,43 @@ function renderKpiTiles(data) {
     .join('');
 }
 
+function renderTierFilter() {
+  const el = document.getElementById('tierFilter');
+  el.innerHTML = TIERS.map((t) => `<button class="tier-btn${t.key === state.tier ? ' active' : ''}" data-tier="${t.key}">${t.label}</button>`).join(
+    ''
+  );
+  el.querySelectorAll('.tier-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      state.tier = btn.dataset.tier;
+      el.querySelectorAll('.tier-btn').forEach((b) => b.classList.toggle('active', b === btn));
+      renderChannelTable();
+    });
+  });
+}
+
 function getSortValue(c, key) {
   if (key === 'title') return c.title;
   if (key === 'subscriberCount') return c.latest.subscriberCount;
-  if (key === 'totalViewCount') return c.latest.totalViewCount;
-  if (key === 'delta7d') return c.delta7d;
-  if (key === 'reachRate') return c.reachRate;
-  return null;
+  return c[key];
 }
 
 function getSortedFilteredChannels() {
   const q = state.search.trim().toLowerCase();
-  let rows = state.channels.filter((c) => c.title.toLowerCase().includes(q));
+  const tier = TIERS.find((t) => t.key === state.tier) || TIERS[0];
+  let rows = state.channels.filter((c) => c.title.toLowerCase().includes(q) && tier.test(c.latest.subscriberCount));
 
   rows = rows.slice().sort((a, b) => {
     if (state.sortKey === 'title') {
       return state.sortDir === 'asc' ? a.title.localeCompare(b.title, 'ko') : b.title.localeCompare(a.title, 'ko');
     }
-    let av = getSortValue(a, state.sortKey);
-    let bv = getSortValue(b, state.sortKey);
-    av = av === null || av === undefined ? -Infinity : av;
-    bv = bv === null || bv === undefined ? -Infinity : bv;
+    const av = getSortValue(a, state.sortKey);
+    const bv = getSortValue(b, state.sortKey);
+    // 값이 없는 항목은 정렬 방향과 무관하게 항상 맨 아래로 보낸다.
+    const aMissing = av === null || av === undefined;
+    const bMissing = bv === null || bv === undefined;
+    if (aMissing && bMissing) return 0;
+    if (aMissing) return 1;
+    if (bMissing) return -1;
     return state.sortDir === 'asc' ? av - bv : bv - av;
   });
 
@@ -160,22 +192,29 @@ function renderChannelTable() {
   const tbody = document.getElementById('channelTableBody');
 
   if (rows.length === 0) {
-    tbody.innerHTML = `<tr><td colspan="6"><div class="empty-state">검색 결과가 없어요.</div></td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="9"><div class="empty-state">조건에 맞는 채널이 없어요.</div></td></tr>`;
     return;
   }
 
   tbody.innerHTML = rows
     .map((c) => {
-      const d7 = fmtDelta(c.delta7d);
+      const growth = fmtGrowthPercent(c.growthRate30d);
       const spark = sparklineSvg(c.dailyStats.map((d) => d.subscriberCount));
       const active = c.channelId === state.activeChannelId ? ' active' : '';
+      const reachCell =
+        c.reachRateMedian === null
+          ? '-'
+          : `${fmtPercent(c.reachRateMedian)}<div style="color:var(--text-muted); font-size:11px; margin-top:2px;">평균 ${fmtPercent(c.reachRate)}</div>`;
       return `
       <tr class="channel-row${active}" data-channel-id="${c.channelId}">
         <td class="channel-name-cell">${c.title}</td>
         <td class="num">${fmtNum(c.latest.subscriberCount)}</td>
-        <td class="num"><span class="delta-badge ${d7.cls}">${d7.text}</span></td>
-        <td class="num">${fmtNum(c.latest.totalViewCount)}</td>
-        <td class="num">${fmtPercent(c.reachRate)}</td>
+        <td class="num"><span class="delta-badge ${growth.cls}">${growth.text}</span></td>
+        <td class="num">${c.viewDelta7d === null ? '집계 중' : `+${fmtNum(c.viewDelta7d)}`}</td>
+        <td class="num">${c.uploadsPerWeek.toFixed(1)}회</td>
+        <td class="num">${fmtNum(c.avgViewsPerVideo)}</td>
+        <td class="num">${fmtPercent(c.engagementRate, 2)}</td>
+        <td class="num">${reachCell}</td>
         <td class="sparkline-cell">${spark}</td>
       </tr>
     `;
@@ -241,7 +280,7 @@ async function loadVideoTable(channelId) {
       const stats = v.dailyStats;
       const latest = stats[stats.length - 1];
       const dayDelta = stats.length >= 2 ? latest.viewCount - stats[stats.length - 2].viewCount : null;
-      return { title: v.title, publishedAt: v.publishedAt, latest, dayDelta };
+      return { title: v.title, publishedAt: v.publishedAt, likeRate: v.likeRate, commentRate: v.commentRate, latest, dayDelta };
     })
     .sort((a, b) => b.latest.viewCount - a.latest.viewCount);
 
@@ -254,7 +293,8 @@ async function loadVideoTable(channelId) {
         <td>${fmtDate(r.publishedAt)}</td>
         <td class="num">${fmtNum(r.latest.viewCount)}</td>
         <td class="num">${fmtNum(r.latest.likeCount)}</td>
-        <td class="num">${fmtNum(r.latest.commentCount)}</td>
+        <td class="num">${fmtPercent(r.likeRate, 2)}</td>
+        <td class="num">${fmtPercent(r.commentRate, 2)}</td>
         <td class="num ${r.dayDelta === null ? '' : d.cls}">${r.dayDelta === null ? '-' : d.text}</td>
       </tr>
     `;
