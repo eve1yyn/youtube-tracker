@@ -10,7 +10,8 @@
   },
   "scripts": {
     "collect": "node index.js",
-    "dev": "node dev-run.js"
+    "dev": "node dev-run.js",
+    "export-dashboard-data": "node src/exportDashboardData.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5"
