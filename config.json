@@ -1,0 +1,10 @@
+{
+  "channels": [
+    { "handle": "@evalet", "name": "에바EVA" },
+    { "handle": "@hongwonplushyunjuequalrua", "name": "양홍원의 육아일기" }
+  ],
+  "collection": {
+    "videoWindowDays": 30,
+    "maxVideosPerChannel": 50
+  }
+}

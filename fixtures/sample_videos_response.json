@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "eva_video_1",
+      "snippet": { "title": "에바 브이로그 1", "publishedAt": "2026-07-30T09:00:00Z" },
+      "statistics": { "viewCount": "120000", "likeCount": "3400", "commentCount": "210" }
+    },
+    {
+      "id": "eva_video_2",
+      "snippet": { "title": "에바 브이로그 2", "publishedAt": "2026-07-25T09:00:00Z" },
+      "statistics": { "viewCount": "95000", "likeCount": "2100", "commentCount": "150" }
+    },
+    {
+      "id": "hong_video_1",
+      "snippet": { "title": "육아일기 티저", "publishedAt": "2026-07-31T09:00:00Z" },
+      "statistics": { "viewCount": "500000", "likeCount": "22000", "commentCount": "3100" }
+    }
+  ]
+}
