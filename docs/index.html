@@ -90,36 +90,36 @@
     padding: 20px;
   }
 
-  .channel-grid {
+  /* KPI 타일 */
+  .kpi-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 14px;
   }
-  .channel-card { cursor: pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
-  .channel-card:hover { transform: translateY(-1px); }
-  .channel-card.active { outline: 2px solid var(--series-1); outline-offset: -1px; }
-  .channel-card .name { font-weight: 600; font-size: 14px; margin-bottom: 10px; color: var(--text-secondary); }
-  .channel-card .stat {
-    font-size: 28px;
+  .kpi-tile .kpi-label { font-size: 12px; color: var(--text-muted); font-weight: 500; }
+  .kpi-tile .kpi-value {
+    font-size: 26px;
     font-weight: 700;
     letter-spacing: -0.01em;
     font-variant-numeric: tabular-nums;
+    margin-top: 8px;
   }
-  .channel-card .label { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
-  .deltas { display: flex; gap: 8px; margin-top: 14px; }
-  .deltas span {
+  .kpi-tile .kpi-sub { font-size: 12px; color: var(--text-secondary); margin-top: 6px; }
+
+  .deltas span,
+  .delta-badge {
     display: inline-flex;
     align-items: center;
     font-size: 12px;
     font-weight: 600;
-    padding: 4px 9px;
+    padding: 3px 8px;
     border-radius: 999px;
     font-variant-numeric: tabular-nums;
+    white-space: nowrap;
   }
   .delta-up { color: var(--good); background: var(--good-bg); }
   .delta-down { color: var(--critical); background: var(--critical-bg); }
   .delta-empty { color: var(--text-muted); background: var(--page-plane); }
-  .sub-stats { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--gridline); font-size: 12px; color: var(--text-secondary); display: flex; gap: 16px; }
 
   .empty-state {
     color: var(--text-muted);
@@ -131,7 +131,33 @@
     background: var(--page-plane);
   }
 
-  .legend { display: flex; gap: 16px; margin-bottom: 12px; font-size: 13px; }
+  /* 채널 목록 테이블 */
+  .table-toolbar { display: flex; justify-content: flex-end; margin-bottom: 10px; }
+  .search-input {
+    width: 220px;
+    max-width: 100%;
+    font-family: inherit;
+    font-size: 13px;
+    padding: 8px 12px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--surface-1);
+    color: var(--text-primary);
+  }
+  .search-input:focus { outline: 2px solid var(--series-1); outline-offset: -1px; }
+  .search-input::placeholder { color: var(--text-muted); }
+
+  th.sortable { cursor: pointer; user-select: none; white-space: nowrap; }
+  th.sortable:hover { color: var(--text-secondary); }
+  th.sortable .arrow { margin-left: 3px; opacity: 0.5; }
+  th.sortable.sorted .arrow { opacity: 1; }
+  .channel-row { cursor: pointer; }
+  .channel-row:hover td { background: var(--page-plane); }
+  .channel-row.active td { background: var(--good-bg); }
+  .channel-name-cell { font-weight: 500; }
+  .sparkline-cell { width: 100px; }
+
+  .legend { display: flex; gap: 16px; margin-bottom: 12px; font-size: 13px; flex-wrap: wrap; }
   .legend-item { display: flex; align-items: center; gap: 6px; color: var(--text-secondary); font-weight: 500; }
   .swatch { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
 
@@ -182,23 +208,34 @@
 
     <div class="section">
       <div class="section-head">
-        <h2>채널 개요</h2>
-        <div class="section-sub">추적 중인 채널의 현재 구독자·조회수와 최근 증감</div>
+        <h2>핵심 지표</h2>
+        <div class="section-sub">전체 추적 채널 기준 요약</div>
       </div>
-      <div class="channel-grid" id="channelGrid"></div>
+      <div class="kpi-grid" id="kpiGrid"></div>
     </div>
 
     <div class="section">
       <div class="section-head">
-        <h2>구독자 추이</h2>
-        <div class="section-sub">일자별 구독자 수 변화</div>
+        <h2>채널 목록</h2>
+        <div class="section-sub">열 제목을 클릭하면 정렬돼요. 도달률 = 최근 영상 평균 조회수 ÷ 구독자 수</div>
       </div>
-      <div class="card">
-        <div class="legend" id="chartLegend"></div>
-        <canvas id="subscriberChart" height="90"></canvas>
-        <div class="empty-state" id="chartEmptyState" style="display:none; margin-top: 8px;">
-          데이터가 하루뿐이라 아직 추이를 그릴 수 없어요. 다음 날 수집부터 선이 생겨요.
-        </div>
+      <div class="table-toolbar">
+        <input type="text" class="search-input" id="channelSearch" placeholder="채널명 검색" />
+      </div>
+      <div class="card" style="padding:0; overflow-x:auto;">
+        <table>
+          <thead>
+            <tr>
+              <th class="sortable" data-sort="title">채널</th>
+              <th class="sortable num" data-sort="subscriberCount">구독자<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="delta7d">7일 증감<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="totalViewCount">총 조회수<span class="arrow">▾</span></th>
+              <th class="sortable num" data-sort="reachRate">도달률<span class="arrow">▾</span></th>
+              <th>추이</th>
+            </tr>
+          </thead>
+          <tbody id="channelTableBody"></tbody>
+        </table>
       </div>
     </div>
 

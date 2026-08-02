@@ -57,12 +57,20 @@ function exportDashboardData(dbPath, outDir) {
       JSON.stringify({ channelId, title: latestChannel.title, dailyStats: channelRows, videos }, null, 2)
     );
 
+    // 도달률: 추적 중인 영상들의 평균 조회수 대비 구독자 수 비율.
+    // 구독자 규모 대비 영상이 실제로 얼마나 퍼지는지를 보는 참고 지표.
+    const latestViewCounts = videos.map((v) => v.dailyStats[v.dailyStats.length - 1].viewCount);
+    const avgViews = latestViewCounts.length ? latestViewCounts.reduce((a, b) => a + b, 0) / latestViewCounts.length : null;
+    const reachRate =
+      avgViews !== null && latestChannel.subscriberCount > 0 ? (avgViews / latestChannel.subscriberCount) * 100 : null;
+
     indexChannels.push({
       channelId,
       title: latestChannel.title,
       latest: latestChannel,
       delta7d: computeDelta(channelRows, 'subscriberCount', 7),
       delta30d: computeDelta(channelRows, 'subscriberCount', 30),
+      reachRate,
       dailyStats: channelRows,
     });
   }
