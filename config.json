@@ -1,7 +1,30 @@
 {
   "channels": [
     { "handle": "@evalet", "name": "에바EVA" },
-    { "handle": "@hongwonplushyunjuequalrua", "name": "양홍원의 육아일기" }
+    { "channelId": "UCpXj65Icu4FzbgMTpe6yYYw", "name": "호주패밀리 Hojufamily" },
+    { "channelId": "UCC4lLxNewZaghdrxcvZe1SA", "name": "자취반장" },
+    { "channelId": "UCTnH8Piru1x6uYBkVK0_JNQ", "name": "알밤로그" },
+    { "channelId": "UCMxGrrcSv8mLjDSsMmKTQBw", "name": "소소한 나의 미니멀라이프" },
+    { "channelId": "UCf1XpmvM9dzX-S-y7azW9tg", "name": "김곰돌자취일기" },
+    { "channelId": "UCHCzM5Q07KU-QsaqWjKUxew", "name": "자취하는 해달이" },
+    { "channelId": "UCo4ia3fXOoy2PCk6Ul0gErQ", "name": "오리지널 레미" },
+    { "channelId": "UCyU9SS7OSXHox_ZRGBIVcCg", "name": "고초희 Daily Chohees" },
+    { "channelId": "UCnD6dVL_ZQGmB651igqBJ2g", "name": "형은순 청담헤어 라이프" },
+    { "channelId": "UCjQBsQBy9vFxG3t82pve85Q", "name": "준희 JUNEHEE" },
+    { "channelId": "UC6hIfm4cG58W0DLvvrrd9sQ", "name": "설아의날들" },
+    { "channelId": "UCDBst6RZE7Z6m4ROlSjr8Iw", "name": "에린남 Erinnam" },
+    { "channelId": "UCioqBNry60RpQs38YcNDGpQ", "name": "절약의 달인 곽지현" },
+    { "channelId": "UC31beQxRocqnWrVeQecWYJA", "name": "상큼한 뿌미맘" },
+    { "channelId": "UCJcsfpxHdQ5PKIF5mOSRbUQ", "name": "데일리지현" },
+    { "channelId": "UCabsEts6Lw1lrvCtA39dvYQ", "name": "소수빈" },
+    { "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA", "name": "아임지현 Jihyun" },
+    { "channelId": "UCxOUr6CvZkcOZ8H2IRAYK-Q", "name": "némo 김네모" },
+    { "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA", "name": "Daily소현" },
+    { "channelId": "UCvsp8e2LrbUAuE5oLHrBQ_Q", "name": "효뎡 Dyeong" },
+    { "channelId": "UCpOtHjfr_hcAhPTky6OWcHA", "name": "세빈 SEBIN" },
+    { "channelId": "UCSn90DAxCF3yRs6mFK0-8TA", "name": "ondo온도" },
+    { "channelId": "UCPaApoLkmPqxCeZF7gjoc3w", "name": "planD플랜디" },
+    { "channelId": "UCyG7zAV_2JlPnxhwDxZN6sA", "name": "지현꿍" }
   ],
   "collection": {
     "videoWindowDays": 30,

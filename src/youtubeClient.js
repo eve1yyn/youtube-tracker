@@ -55,7 +55,20 @@ function createYoutubeClient({ apiKey, fetchImpl } = {}) {
     });
   }
 
-  return { getChannelsByIds, getChannelByHandle, getPlaylistItems, getVideosByIds };
+  // 채널 후보 발굴용 검색. 호출당 100유닛 — 일일 자동 수집에는 쓰지 말 것.
+  function searchChannels(query, { pageToken, regionCode } = {}) {
+    return getJson('search', {
+      part: 'snippet',
+      type: 'channel',
+      q: query,
+      maxResults: 50,
+      regionCode: regionCode || 'KR',
+      relevanceLanguage: 'ko',
+      pageToken,
+    });
+  }
+
+  return { getChannelsByIds, getChannelByHandle, getPlaylistItems, getVideosByIds, searchChannels };
 }
 
 module.exports = { createYoutubeClient };

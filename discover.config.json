@@ -1,0 +1,8 @@
+{
+  "keywords": ["라이프스타일 브이로그", "데일리 브이로그", "자취 브이로그", "미니멀 라이프"],
+  "maxPagesPerKeyword": 2,
+  "regionCode": "KR",
+  "minSubscribers": 5000,
+  "maxSubscribers": 3000000,
+  "requireKorean": true
+}

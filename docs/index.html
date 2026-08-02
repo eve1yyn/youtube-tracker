@@ -4,20 +4,24 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>인플루언서 유튜브 트래커</title>
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css" />
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 <style>
   .viz-root {
     color-scheme: light;
-    --surface-1:      #fcfcfb;
-    --page-plane:     #f9f9f7;
-    --text-primary:   #0b0b0b;
-    --text-secondary: #52514e;
-    --text-muted:     #898781;
-    --gridline:       #e1e0d9;
-    --baseline:       #c3c2b7;
-    --border:         rgba(11,11,11,0.10);
-    --good:           #006300;
+    --surface-1:      #ffffff;
+    --page-plane:     #f6f7f9;
+    --text-primary:   #101114;
+    --text-secondary: #5b5e68;
+    --text-muted:     #94979f;
+    --gridline:       #edeef1;
+    --baseline:       #d8dade;
+    --border:         rgba(16,17,20,0.07);
+    --shadow:         0 1px 2px rgba(16,17,20,0.04), 0 8px 24px rgba(16,17,20,0.05);
+    --good:           #158a3d;
+    --good-bg:        #e9f7ee;
     --critical:       #d03b3b;
+    --critical-bg:    #fceded;
     --series-1:       #2a78d6;
     --series-2:       #eb6834;
   }
@@ -32,8 +36,11 @@
       --gridline:       #2c2c2a;
       --baseline:       #383835;
       --border:         rgba(255,255,255,0.10);
+      --shadow:         0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.35);
       --good:           #0ca30c;
+      --good-bg:        rgba(12,163,12,0.14);
       --critical:       #e66767;
+      --critical-bg:    rgba(230,103,103,0.14);
       --series-1:       #3987e5;
       --series-2:       #d95926;
     }
@@ -48,8 +55,11 @@
     --gridline:       #2c2c2a;
     --baseline:       #383835;
     --border:         rgba(255,255,255,0.10);
+    --shadow:         0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.35);
     --good:           #0ca30c;
+    --good-bg:        rgba(12,163,12,0.14);
     --critical:       #e66767;
+    --critical-bg:    rgba(230,103,103,0.14);
     --series-1:       #3987e5;
     --series-2:       #d95926;
   }
@@ -57,79 +67,109 @@
   * { box-sizing: border-box; }
   body {
     margin: 0;
-    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-family: 'Pretendard Variable', Pretendard, system-ui, -apple-system, "Segoe UI", sans-serif;
     background: var(--page-plane);
     color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
   }
-  .wrap { max-width: 1000px; margin: 0 auto; padding: 24px 16px 64px; }
-  header { margin-bottom: 24px; }
-  h1 { font-size: 22px; margin: 0 0 4px; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 40px 20px 80px; }
+  header { margin-bottom: 32px; }
+  h1 { font-size: 24px; font-weight: 700; margin: 0 0 6px; letter-spacing: -0.01em; }
   .updated { color: var(--text-muted); font-size: 13px; }
 
-  h2 { font-size: 16px; margin: 32px 0 12px; color: var(--text-secondary); }
+  .section { margin-top: 40px; }
+  .section-head { margin-bottom: 14px; }
+  h2 { font-size: 16px; font-weight: 700; margin: 0; color: var(--text-primary); }
+  .section-sub { font-size: 13px; color: var(--text-muted); margin-top: 2px; }
 
   .card {
     background: var(--surface-1);
     border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 16px;
+    border-radius: 16px;
+    box-shadow: var(--shadow);
+    padding: 20px;
   }
 
   .channel-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 12px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 14px;
   }
-  .channel-card { cursor: pointer; }
-  .channel-card.active { outline: 2px solid var(--series-1); }
-  .channel-card .name { font-weight: 600; margin-bottom: 8px; }
+  .channel-card { cursor: pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .channel-card:hover { transform: translateY(-1px); }
+  .channel-card.active { outline: 2px solid var(--series-1); outline-offset: -1px; }
+  .channel-card .name { font-weight: 600; font-size: 14px; margin-bottom: 10px; color: var(--text-secondary); }
   .channel-card .stat {
-    font-size: 26px;
+    font-size: 28px;
     font-weight: 700;
+    letter-spacing: -0.01em;
     font-variant-numeric: tabular-nums;
   }
-  .channel-card .label { font-size: 12px; color: var(--text-muted); }
-  .deltas { display: flex; gap: 12px; margin-top: 10px; font-size: 13px; }
-  .delta-up { color: var(--good); }
-  .delta-down { color: var(--critical); }
-  .delta-empty { color: var(--text-muted); }
-  .sub-stats { margin-top: 10px; font-size: 13px; color: var(--text-secondary); display: flex; gap: 16px; }
+  .channel-card .label { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+  .deltas { display: flex; gap: 8px; margin-top: 14px; }
+  .deltas span {
+    display: inline-flex;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 4px 9px;
+    border-radius: 999px;
+    font-variant-numeric: tabular-nums;
+  }
+  .delta-up { color: var(--good); background: var(--good-bg); }
+  .delta-down { color: var(--critical); background: var(--critical-bg); }
+  .delta-empty { color: var(--text-muted); background: var(--page-plane); }
+  .sub-stats { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--gridline); font-size: 12px; color: var(--text-secondary); display: flex; gap: 16px; }
 
   .empty-state {
     color: var(--text-muted);
     font-size: 13px;
-    padding: 24px;
+    padding: 28px;
     text-align: center;
     border: 1px dashed var(--gridline);
-    border-radius: 8px;
+    border-radius: 12px;
+    background: var(--page-plane);
   }
 
-  .legend { display: flex; gap: 16px; margin-bottom: 8px; font-size: 13px; }
-  .legend-item { display: flex; align-items: center; gap: 6px; color: var(--text-secondary); }
-  .swatch { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+  .legend { display: flex; gap: 16px; margin-bottom: 12px; font-size: 13px; }
+  .legend-item { display: flex; align-items: center; gap: 6px; color: var(--text-secondary); font-weight: 500; }
+  .swatch { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
 
-  .tabs { display: flex; gap: 8px; margin-bottom: 12px; }
+  .tabs { display: flex; gap: 8px; margin-bottom: 14px; flex-wrap: wrap; }
   .tab-btn {
     border: 1px solid var(--border);
     background: var(--surface-1);
     color: var(--text-secondary);
-    padding: 6px 12px;
+    padding: 7px 14px;
     border-radius: 999px;
     font-size: 13px;
+    font-weight: 500;
+    font-family: inherit;
     cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease;
   }
   .tab-btn.active { color: #fff; background: var(--series-1); border-color: var(--series-1); }
 
   table { width: 100%; border-collapse: collapse; font-size: 13px; }
-  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--gridline); }
-  th { color: var(--text-muted); font-weight: 500; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--gridline); }
+  th { color: var(--text-muted); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.02em; }
+  tbody tr:last-child td { border-bottom: none; }
   td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 
-  .mover-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--gridline); font-size: 13px; }
+  .mover-row { display: flex; justify-content: space-between; align-items: center; padding: 10px 2px; border-bottom: 1px solid var(--gridline); font-size: 13px; }
   .mover-row:last-child { border-bottom: none; }
-  .mover-title { color: var(--text-primary); }
-  .mover-channel { color: var(--text-muted); font-size: 12px; }
-  .mover-delta { color: var(--good); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .mover-title { color: var(--text-primary); font-weight: 500; }
+  .mover-channel { color: var(--text-muted); font-size: 12px; margin-top: 1px; }
+  .mover-delta {
+    color: var(--good);
+    background: var(--good-bg);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    font-weight: 600;
+    font-size: 12px;
+    padding: 4px 9px;
+    border-radius: 999px;
+  }
 </style>
 </head>
 <body>
@@ -140,37 +180,57 @@
       <div class="updated" id="updated">불러오는 중...</div>
     </header>
 
-    <h2>채널 개요</h2>
-    <div class="channel-grid" id="channelGrid"></div>
+    <div class="section">
+      <div class="section-head">
+        <h2>채널 개요</h2>
+        <div class="section-sub">추적 중인 채널의 현재 구독자·조회수와 최근 증감</div>
+      </div>
+      <div class="channel-grid" id="channelGrid"></div>
+    </div>
 
-    <h2>구독자 추이</h2>
-    <div class="card">
-      <div class="legend" id="chartLegend"></div>
-      <canvas id="subscriberChart" height="90"></canvas>
-      <div class="empty-state" id="chartEmptyState" style="display:none; margin-top: 8px;">
-        데이터가 하루뿐이라 아직 추이를 그릴 수 없어요. 다음 날 수집부터 선이 생겨요.
+    <div class="section">
+      <div class="section-head">
+        <h2>구독자 추이</h2>
+        <div class="section-sub">일자별 구독자 수 변화</div>
+      </div>
+      <div class="card">
+        <div class="legend" id="chartLegend"></div>
+        <canvas id="subscriberChart" height="90"></canvas>
+        <div class="empty-state" id="chartEmptyState" style="display:none; margin-top: 8px;">
+          데이터가 하루뿐이라 아직 추이를 그릴 수 없어요. 다음 날 수집부터 선이 생겨요.
+        </div>
       </div>
     </div>
 
-    <h2>급상승 콘텐츠 (전일 대비 조회수 증가)</h2>
-    <div class="card" id="moversCard"></div>
+    <div class="section">
+      <div class="section-head">
+        <h2>급상승 콘텐츠</h2>
+        <div class="section-sub">전일 대비 조회수 증가 상위 영상</div>
+      </div>
+      <div class="card" id="moversCard"></div>
+    </div>
 
-    <h2>영상별 지표</h2>
-    <div class="tabs" id="channelTabs"></div>
-    <div class="card">
-      <table>
-        <thead>
-          <tr>
-            <th>영상</th>
-            <th>게시일</th>
-            <th class="num">조회수</th>
-            <th class="num">좋아요</th>
-            <th class="num">댓글</th>
-            <th class="num">전일 대비</th>
-          </tr>
-        </thead>
-        <tbody id="videoTableBody"></tbody>
-      </table>
+    <div class="section">
+      <div class="section-head">
+        <h2>영상별 지표</h2>
+        <div class="section-sub">채널을 선택하면 최근 영상 지표를 볼 수 있어요</div>
+      </div>
+      <div class="tabs" id="channelTabs"></div>
+      <div class="card">
+        <table>
+          <thead>
+            <tr>
+              <th>영상</th>
+              <th>게시일</th>
+              <th class="num">조회수</th>
+              <th class="num">좋아요</th>
+              <th class="num">댓글</th>
+              <th class="num">전일 대비</th>
+            </tr>
+          </thead>
+          <tbody id="videoTableBody"></tbody>
+        </table>
+      </div>
     </div>
   </div>
 </div>
