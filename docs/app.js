@@ -67,11 +67,12 @@ function scaleRadius(v, min, max, rMin, rMax) {
 
 function renderPositioningChart(channels) {
   const canvas = document.getElementById('positioningChart');
+  const wrap = document.getElementById('positioningChartWrap');
   const emptyState = document.getElementById('positioningEmptyState');
   const points = channels.filter((c) => c.reachRateMedian !== null && c.engagementRate !== null);
 
   if (points.length === 0) {
-    canvas.style.display = 'none';
+    wrap.style.display = 'none';
     emptyState.style.display = 'block';
     return;
   }
@@ -101,6 +102,8 @@ function renderPositioningChart(channels) {
       ],
     },
     options: {
+      responsive: true,
+      maintainAspectRatio: false,
       plugins: {
         legend: { display: false },
         tooltip: {
