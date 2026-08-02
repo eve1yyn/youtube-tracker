@@ -59,6 +59,81 @@ function sparklineSvg(values) {
   return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><polyline points="${points}" fill="none" stroke="${seriesColor}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>`;
 }
 
+function scaleRadius(v, min, max, rMin, rMax) {
+  if (max === min) return (rMin + rMax) / 2;
+  const t = (Math.sqrt(v) - Math.sqrt(min)) / (Math.sqrt(max) - Math.sqrt(min));
+  return rMin + (rMax - rMin) * t;
+}
+
+function renderPositioningChart(channels) {
+  const canvas = document.getElementById('positioningChart');
+  const emptyState = document.getElementById('positioningEmptyState');
+  const points = channels.filter((c) => c.reachRateMedian !== null && c.engagementRate !== null);
+
+  if (points.length === 0) {
+    canvas.style.display = 'none';
+    emptyState.style.display = 'block';
+    return;
+  }
+
+  const subs = points.map((c) => c.latest.subscriberCount);
+  const minSub = Math.min(...subs);
+  const maxSub = Math.max(...subs);
+
+  new Chart(canvas.getContext('2d'), {
+    type: 'bubble',
+    data: {
+      datasets: [
+        {
+          label: '채널',
+          data: points.map((c) => ({
+            x: c.reachRateMedian,
+            y: c.engagementRate,
+            r: scaleRadius(c.latest.subscriberCount, minSub, maxSub, 6, 30),
+            channelId: c.channelId,
+            title: c.title,
+            subscriberCount: c.latest.subscriberCount,
+          })),
+          backgroundColor: `${seriesColor}66`,
+          borderColor: seriesColor,
+          borderWidth: 1.5,
+        },
+      ],
+    },
+    options: {
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: (ctx) => {
+              const p = ctx.raw;
+              return [`${p.title}`, `도달률 ${p.x.toFixed(1)}% · 참여율 ${p.y.toFixed(2)}%`, `구독자 ${p.subscriberCount.toLocaleString('ko-KR')}명`];
+            },
+          },
+        },
+      },
+      scales: {
+        x: {
+          title: { display: true, text: '도달률(중앙값, %)', color: style.getPropertyValue('--text-muted').trim() },
+          grid: { color: style.getPropertyValue('--gridline').trim() },
+        },
+        y: {
+          title: { display: true, text: '참여율(%)', color: style.getPropertyValue('--text-muted').trim() },
+          grid: { color: style.getPropertyValue('--gridline').trim() },
+        },
+      },
+      onClick: (evt, elements) => {
+        if (!elements.length) return;
+        const point = points[elements[0].index];
+        if (point) selectChannel(point.channelId, { scroll: true });
+      },
+      onHover: (evt, elements) => {
+        evt.native.target.style.cursor = elements.length ? 'pointer' : 'default';
+      },
+    },
+  });
+}
+
 async function main() {
   const res = await fetch('data/index.json', { cache: 'no-store' });
   const data = await res.json();
@@ -69,6 +144,7 @@ async function main() {
   state.channels = data.channels;
 
   renderKpiTiles(data);
+  renderPositioningChart(data.channels);
   renderMovers(data.topMovers);
   renderChannelTabs(data.channels);
   renderTierFilter();

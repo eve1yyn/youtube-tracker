@@ -229,6 +229,19 @@
 
     <div class="section">
       <div class="section-head">
+        <h2>채널 포지셔닝</h2>
+        <div class="section-sub">가로: 도달률(중앙값) · 세로: 참여율 · 원 크기: 구독자 수 — 오른쪽 위일수록 화력·반응 둘 다 좋은 채널</div>
+      </div>
+      <div class="card">
+        <canvas id="positioningChart" height="110"></canvas>
+        <div class="empty-state" id="positioningEmptyState" style="display:none; margin-top: 8px;">
+          그래프를 그릴 만큼 영상 데이터가 쌓인 채널이 아직 없어요.
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-head">
         <h2>채널 목록</h2>
         <div class="section-sub">열 제목을 클릭하면 정렬돼요. 도달률은 튀는 영상 1개에 덜 흔들리는 중앙값 기준(괄호 안은 평균)</div>
       </div>
