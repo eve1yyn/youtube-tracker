@@ -22,6 +22,8 @@
       "videoId": "23y_alw9t9I",
       "title": "살림할때 틀어놓고 심심하지 말라고 계속 수다 떠는 영상 [주부 라이브 2시간 요약본]",
       "publishedAt": "2026-07-05T12:05:57Z",
+      "durationSeconds": 7798,
+      "isShort": false,
       "likeRate": 2.9484496861327756,
       "commentRate": 0.3424006087121933,
       "dailyStats": [
@@ -31,7 +33,8 @@
           "publishedAt": "2026-07-05T12:05:57Z",
           "viewCount": 5248,
           "likeCount": 155,
-          "commentCount": 18
+          "commentCount": 18,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -39,7 +42,8 @@
           "publishedAt": "2026-07-05T12:05:57Z",
           "viewCount": 5257,
           "likeCount": 155,
-          "commentCount": 18
+          "commentCount": 18,
+          "durationSeconds": 7798
         }
       ]
     },
@@ -47,6 +51,8 @@
       "videoId": "MaNLtNh-tCk",
       "title": "스텐도마 장단점 리얼 후기, 명품 안(못)사고, 커피도 못마시는 주부가 돈 쓰고 사모으는것 ㅋㅋ ",
       "publishedAt": "2026-07-29T02:20:10Z",
+      "durationSeconds": 1619,
+      "isShort": false,
       "likeRate": 3.083019232627815,
       "commentRate": 0.3962501208079636,
       "dailyStats": [
@@ -56,7 +62,8 @@
           "publishedAt": "2026-07-29T02:20:10Z",
           "viewCount": 10222,
           "likeCount": 317,
-          "commentCount": 39
+          "commentCount": 39,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -64,7 +71,8 @@
           "publishedAt": "2026-07-29T02:20:10Z",
           "viewCount": 10347,
           "likeCount": 319,
-          "commentCount": 41
+          "commentCount": 41,
+          "durationSeconds": 1619
         }
       ]
     },
@@ -72,6 +80,8 @@
       "videoId": "NOEAh4NLjrE",
       "title": "매년 최고체중 갱신🫠 결혼 후 체중변화와 다이어트| 2주 3키로 감량.  목표는 10키로감량? 하...예전같지 않다ㅜ",
       "publishedAt": "2026-07-21T01:25:30Z",
+      "durationSeconds": 1396,
+      "isShort": false,
       "likeRate": 2.6069811596319554,
       "commentRate": 0.6718270775522127,
       "dailyStats": [
@@ -81,7 +91,8 @@
           "publishedAt": "2026-07-21T01:25:30Z",
           "viewCount": 13661,
           "likeCount": 357,
-          "commentCount": 91
+          "commentCount": 91,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -89,7 +100,8 @@
           "publishedAt": "2026-07-21T01:25:30Z",
           "viewCount": 13694,
           "likeCount": 357,
-          "commentCount": 92
+          "commentCount": 92,
+          "durationSeconds": 1396
         }
       ]
     },
@@ -97,8 +109,10 @@
       "videoId": "ZwgjOdDtpIk",
       "title": "[2분기비움] 물건비우다.. 옷 쇼핑갔다가 다이어트 하는 흐름 이해함? 미니멀의 종착지는 결국..",
       "publishedAt": "2026-07-14T00:32:03Z",
-      "likeRate": 2.4467376830892142,
-      "commentRate": 0.4549489569462938,
+      "durationSeconds": 1198,
+      "isShort": false,
+      "likeRate": 2.446601941747573,
+      "commentRate": 0.4549237170596394,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -106,15 +120,17 @@
           "publishedAt": "2026-07-14T00:32:03Z",
           "viewCount": 17987,
           "likeCount": 441,
-          "commentCount": 82
+          "commentCount": 82,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "[2분기비움] 물건비우다.. 옷 쇼핑갔다가 다이어트 하는 흐름 이해함? 미니멀의 종착지는 결국..",
           "publishedAt": "2026-07-14T00:32:03Z",
-          "viewCount": 18024,
+          "viewCount": 18025,
           "likeCount": 441,
-          "commentCount": 82
+          "commentCount": 82,
+          "durationSeconds": 1198
         }
       ]
     },
@@ -122,6 +138,8 @@
       "videoId": "fOaRove2q00",
       "title": "부산사투리로 말아주는 월요일 폭탄 살림 브이로그",
       "publishedAt": "2026-07-06T00:29:17Z",
+      "durationSeconds": 650,
+      "isShort": false,
       "likeRate": 3.7292503600394147,
       "commentRate": 0.6291215038277875,
       "dailyStats": [
@@ -131,7 +149,8 @@
           "publishedAt": "2026-07-06T00:29:17Z",
           "viewCount": 13167,
           "likeCount": 491,
-          "commentCount": 83
+          "commentCount": 83,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -139,7 +158,8 @@
           "publishedAt": "2026-07-06T00:29:17Z",
           "viewCount": 13193,
           "likeCount": 492,
-          "commentCount": 83
+          "commentCount": 83,
+          "durationSeconds": 650
         }
       ]
     }

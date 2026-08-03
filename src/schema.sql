@@ -10,15 +10,16 @@ CREATE TABLE IF NOT EXISTS channel_daily (
 );
 
 CREATE TABLE IF NOT EXISTS video_daily (
-  video_id       TEXT NOT NULL,
-  channel_id     TEXT NOT NULL,
-  date           TEXT NOT NULL,
-  title          TEXT,
-  published_at   TEXT,
-  view_count     INTEGER,
-  like_count     INTEGER,
-  comment_count  INTEGER,
-  collected_at   TEXT NOT NULL,
+  video_id          TEXT NOT NULL,
+  channel_id        TEXT NOT NULL,
+  date              TEXT NOT NULL,
+  title             TEXT,
+  published_at      TEXT,
+  view_count        INTEGER,
+  like_count        INTEGER,
+  comment_count     INTEGER,
+  duration_seconds  INTEGER,
+  collected_at      TEXT NOT NULL,
   PRIMARY KEY (video_id, date)
 );
 

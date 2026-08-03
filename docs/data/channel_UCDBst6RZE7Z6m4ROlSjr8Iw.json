@@ -22,8 +22,10 @@
       "videoId": "YpLWDq-pQfE",
       "title": "미니멀리스트의 여름옷장",
       "publishedAt": "2026-07-11T00:55:58Z",
-      "likeRate": 3.0931227377426787,
-      "commentRate": 0.04935834155972359,
+      "durationSeconds": 65,
+      "isShort": true,
+      "likeRate": 3.093631726180681,
+      "commentRate": 0.04936646371564917,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -31,15 +33,17 @@
           "publishedAt": "2026-07-11T00:55:58Z",
           "viewCount": 6043,
           "likeCount": 186,
-          "commentCount": 3
+          "commentCount": 3,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "미니멀리스트의 여름옷장",
           "publishedAt": "2026-07-11T00:55:58Z",
-          "viewCount": 6078,
+          "viewCount": 6077,
           "likeCount": 188,
-          "commentCount": 3
+          "commentCount": 3,
+          "durationSeconds": 65
         }
       ]
     },
@@ -47,8 +51,10 @@
       "videoId": "qVmAmouIFq0",
       "title": "우리집 주방에 없는 것 | 미니멀 주방",
       "publishedAt": "2026-07-20T10:00:37Z",
-      "likeRate": 3.993545784590561,
-      "commentRate": 0.5378512841199408,
+      "durationSeconds": 334,
+      "isShort": false,
+      "likeRate": 3.9930088733530518,
+      "commentRate": 0.5377789728421619,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -56,15 +62,17 @@
           "publishedAt": "2026-07-20T10:00:37Z",
           "viewCount": 7407,
           "likeCount": 294,
-          "commentCount": 40
+          "commentCount": 40,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "우리집 주방에 없는 것 | 미니멀 주방",
           "publishedAt": "2026-07-20T10:00:37Z",
-          "viewCount": 7437,
+          "viewCount": 7438,
           "likeCount": 297,
-          "commentCount": 40
+          "commentCount": 40,
+          "durationSeconds": 334
         }
       ]
     }

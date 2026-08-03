@@ -22,6 +22,8 @@
       "videoId": "pYD3vVkg3AA",
       "title": "가을 웜톤의 흔치 않은 색감 여름코디 🌿 | summer lookbook | #데일리룩 #shorts #ootd",
       "publishedAt": "2026-07-22T01:19:42Z",
+      "durationSeconds": 32,
+      "isShort": true,
       "likeRate": 0.6944444444444444,
       "commentRate": 0.3472222222222222,
       "dailyStats": [
@@ -31,7 +33,8 @@
           "publishedAt": "2026-07-22T01:19:42Z",
           "viewCount": 573,
           "likeCount": 4,
-          "commentCount": 2
+          "commentCount": 2,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -39,7 +42,8 @@
           "publishedAt": "2026-07-22T01:19:42Z",
           "viewCount": 576,
           "likeCount": 4,
-          "commentCount": 2
+          "commentCount": 2,
+          "durationSeconds": 32
         }
       ]
     }

@@ -22,6 +22,8 @@
       "videoId": "KR6Kj3ACwDc",
       "title": "하나씩 바꿔 나가는 재미",
       "publishedAt": "2026-07-04T00:26:04Z",
+      "durationSeconds": null,
+      "isShort": null,
       "likeRate": 6.273408239700375,
       "commentRate": 0.2808988764044944,
       "dailyStats": [
@@ -31,7 +33,8 @@
           "publishedAt": "2026-07-04T00:26:04Z",
           "viewCount": 1068,
           "likeCount": 67,
-          "commentCount": 3
+          "commentCount": 3,
+          "durationSeconds": null
         }
       ]
     },
@@ -39,8 +42,10 @@
       "videoId": "KbvS9BTUIHI",
       "title": "정리마켓 유튜브 채널에 출연했어요.",
       "publishedAt": "2026-07-29T01:30:09Z",
-      "likeRate": 5.793991416309012,
-      "commentRate": 5.150214592274678,
+      "durationSeconds": 42,
+      "isShort": true,
+      "likeRate": 5.756929637526652,
+      "commentRate": 5.11727078891258,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -48,15 +53,17 @@
           "publishedAt": "2026-07-29T01:30:09Z",
           "viewCount": 452,
           "likeCount": 27,
-          "commentCount": 24
+          "commentCount": 24,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "정리마켓 유튜브 채널에 출연했어요.",
           "publishedAt": "2026-07-29T01:30:09Z",
-          "viewCount": 466,
+          "viewCount": 469,
           "likeCount": 27,
-          "commentCount": 24
+          "commentCount": 24,
+          "durationSeconds": 42
         }
       ]
     },
@@ -64,6 +71,8 @@
       "videoId": "rLttgwqm9ow",
       "title": "여름에 더 단순해야 하는 이유",
       "publishedAt": "2026-07-19T12:45:37Z",
+      "durationSeconds": 638,
+      "isShort": false,
       "likeRate": 3.139717425431711,
       "commentRate": 0.5756148613291471,
       "dailyStats": [
@@ -73,7 +82,8 @@
           "publishedAt": "2026-07-19T12:45:37Z",
           "viewCount": 1897,
           "likeCount": 60,
-          "commentCount": 11
+          "commentCount": 11,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -81,7 +91,8 @@
           "publishedAt": "2026-07-19T12:45:37Z",
           "viewCount": 1911,
           "likeCount": 60,
-          "commentCount": 11
+          "commentCount": 11,
+          "durationSeconds": 638
         }
       ]
     }

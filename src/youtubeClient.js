@@ -50,7 +50,7 @@ function createYoutubeClient({ apiKey, fetchImpl } = {}) {
   // ids: 최대 50개까지 배치 가능
   function getVideosByIds(ids) {
     return getJson('videos', {
-      part: 'snippet,statistics',
+      part: 'snippet,statistics,contentDetails',
       id: ids.join(','),
     });
   }

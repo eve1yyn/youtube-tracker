@@ -22,8 +22,10 @@
       "videoId": "f4aUKXCfujE",
       "title": "밥솥 찹쌀누룽지백숙 | Rice Cooker Glutinous Rice Chicken 🍗",
       "publishedAt": "2026-07-25T02:09:06Z",
-      "likeRate": 1.553117976585824,
-      "commentRate": 0.03354466472107612,
+      "durationSeconds": 34,
+      "isShort": true,
+      "likeRate": 1.5523889354568314,
+      "commentRate": 0.03352891869237217,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -31,15 +33,17 @@
           "publishedAt": "2026-07-25T02:09:06Z",
           "viewCount": 29705,
           "likeCount": 460,
-          "commentCount": 10
+          "commentCount": 10,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "밥솥 찹쌀누룽지백숙 | Rice Cooker Glutinous Rice Chicken 🍗",
           "publishedAt": "2026-07-25T02:09:06Z",
-          "viewCount": 29811,
+          "viewCount": 29825,
           "likeCount": 463,
-          "commentCount": 10
+          "commentCount": 10,
+          "durationSeconds": 34
         }
       ]
     },
@@ -47,8 +51,10 @@
       "videoId": "nRAE5XJt4uE",
       "title": "퇴근 후 홈이자카야 차려 먹는 자취 일상🍣 | 우니 단새우 감태·안키모김밥·콩국수·오리불고기 도시락 밀키트",
       "publishedAt": "2026-08-01T13:58:58Z",
-      "likeRate": 2.9622389339929387,
-      "commentRate": 0.11370210049669864,
+      "durationSeconds": 1004,
+      "isShort": false,
+      "likeRate": 2.9613435357249327,
+      "commentRate": 0.11328629633310147,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -56,15 +62,17 @@
           "publishedAt": "2026-08-01T13:58:58Z",
           "viewCount": 34814,
           "likeCount": 1203,
-          "commentCount": 47
+          "commentCount": 47,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "퇴근 후 홈이자카야 차려 먹는 자취 일상🍣 | 우니 단새우 감태·안키모김밥·콩국수·오리불고기 도시락 밀키트",
           "publishedAt": "2026-08-01T13:58:58Z",
-          "viewCount": 50131,
-          "likeCount": 1485,
-          "commentCount": 57
+          "viewCount": 50315,
+          "likeCount": 1490,
+          "commentCount": 57,
+          "durationSeconds": 1004
         }
       ]
     },
@@ -72,8 +80,10 @@
       "videoId": "oaN2IgxXhIs",
       "title": "더운 여름에도 야무지게 해먹는 자취 일상🦐 | 생새우회 한상·밥솥 누룽지백숙·도시락 밀키트 만들기",
       "publishedAt": "2026-07-20T10:30:07Z",
-      "likeRate": 2.254687313403129,
-      "commentRate": 0.09235301142470444,
+      "durationSeconds": 1064,
+      "isShort": false,
+      "likeRate": 2.2545078215181307,
+      "commentRate": 0.09234565935596864,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -81,15 +91,17 @@
           "publishedAt": "2026-07-20T10:30:07Z",
           "viewCount": 122303,
           "likeCount": 2786,
-          "commentCount": 114
+          "commentCount": 114,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "더운 여름에도 야무지게 해먹는 자취 일상🦐 | 생새우회 한상·밥솥 누룽지백숙·도시락 밀키트 만들기",
           "publishedAt": "2026-07-20T10:30:07Z",
-          "viewCount": 125605,
+          "viewCount": 125615,
           "likeCount": 2832,
-          "commentCount": 116
+          "commentCount": 116,
+          "durationSeconds": 1064
         }
       ]
     },
@@ -97,6 +109,8 @@
       "videoId": "pMN8Y5MKmf0",
       "title": "여름 휴일 집밥 자취 일상🌿 치즈 듬뿍 로제열라면 먹기🧀 | 열무비빔국수·취나물쌈·고구마피자·도니돈가스쫄면",
       "publishedAt": "2026-07-10T09:00:36Z",
+      "durationSeconds": 1058,
+      "isShort": false,
       "likeRate": 2.362151452181897,
       "commentRate": 0.07152177064707872,
       "dailyStats": [
@@ -106,7 +120,8 @@
           "publishedAt": "2026-07-10T09:00:36Z",
           "viewCount": 103125,
           "likeCount": 2439,
-          "commentCount": 74
+          "commentCount": 74,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -114,7 +129,8 @@
           "publishedAt": "2026-07-10T09:00:36Z",
           "viewCount": 103465,
           "likeCount": 2444,
-          "commentCount": 74
+          "commentCount": 74,
+          "durationSeconds": 1058
         }
       ]
     }

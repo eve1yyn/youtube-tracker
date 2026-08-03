@@ -22,6 +22,8 @@
       "videoId": "hp_Dkty6H6I",
       "title": "[#24 대딩로그] 스스로에게 건강한 식사를 대접하자🌿 비건 포케, 후무스 플레이트, 파프리카 도전!",
       "publishedAt": "2026-07-27T10:00:27Z",
+      "durationSeconds": 827,
+      "isShort": false,
       "likeRate": 1.9303482587064675,
       "commentRate": 0.6169154228855721,
       "dailyStats": [
@@ -31,7 +33,8 @@
           "publishedAt": "2026-07-27T10:00:27Z",
           "viewCount": 4979,
           "likeCount": 95,
-          "commentCount": 31
+          "commentCount": 31,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -39,7 +42,8 @@
           "publishedAt": "2026-07-27T10:00:27Z",
           "viewCount": 5025,
           "likeCount": 97,
-          "commentCount": 31
+          "commentCount": 31,
+          "durationSeconds": 827
         }
       ]
     },
@@ -47,6 +51,8 @@
       "videoId": "jxB_V7hLJJ4",
       "title": "[#23 대딩로그] 진로?🙅🏻‍♀️없고 인스타 끊은 지 1년차 대학생의 여름방학 vlog / 고등학교 친구들이랑 파자마 야르파티",
       "publishedAt": "2026-07-10T11:00:21Z",
+      "durationSeconds": 917,
+      "isShort": false,
       "likeRate": 1.3483677653366977,
       "commentRate": 0.4258003469484309,
       "dailyStats": [
@@ -56,7 +62,8 @@
           "publishedAt": "2026-07-10T11:00:21Z",
           "viewCount": 12662,
           "likeCount": 171,
-          "commentCount": 54
+          "commentCount": 54,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
@@ -64,7 +71,8 @@
           "publishedAt": "2026-07-10T11:00:21Z",
           "viewCount": 12682,
           "likeCount": 171,
-          "commentCount": 54
+          "commentCount": 54,
+          "durationSeconds": 917
         }
       ]
     }

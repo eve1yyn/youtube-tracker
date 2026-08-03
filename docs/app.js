@@ -20,6 +20,23 @@ function fmtPercent(n, digits = 1) {
   return n === null || n === undefined ? '-' : `${n.toFixed(digits)}%`;
 }
 
+function truncate(str, maxLen) {
+  if (!str) return str;
+  return str.length > maxLen ? `${str.slice(0, maxLen).trim()}…` : str;
+}
+
+// durationSeconds가 null이면(구 데이터, 재수집 전) 형식을 알 수 없어 배지를 생략한다.
+function isShort(durationSeconds) {
+  if (durationSeconds === null || durationSeconds === undefined) return null;
+  return durationSeconds <= 180;
+}
+
+function formatBadge(durationSeconds) {
+  const s = isShort(durationSeconds);
+  if (s === null) return '';
+  return `<span class="format-badge ${s ? 'short' : 'long'}">${s ? '숏폼' : '롱폼'}</span>`;
+}
+
 function fmtDelta(n) {
   if (n === null || n === undefined) return { text: '집계 중', cls: 'delta-empty' };
   if (n > 0) return { text: `▲ ${n.toLocaleString('ko-KR')}`, cls: 'delta-up' };
@@ -148,7 +165,7 @@ async function main() {
 
   renderKpiTiles(data);
   renderPositioningChart(data.channels);
-  renderMovers(data.topMovers);
+  renderMovers(data.topMoversShorts, data.topMoversLongform);
   renderChannelTabs(data.channels);
   renderTierFilter();
 
@@ -195,18 +212,23 @@ function renderKpiTiles(data) {
   const growthCandidates = channels.filter((c) => c.growthRate30d !== null && c.growthRate30d !== undefined);
   const topGrower = growthCandidates.length ? growthCandidates.reduce((a, b) => (b.growthRate30d > a.growthRate30d ? b : a)) : null;
 
+  const topMoverCandidates = [...(data.topMoversShorts || []), ...(data.topMoversLongform || [])];
+  const topMover = topMoverCandidates.length ? topMoverCandidates.reduce((a, b) => (b.viewDelta > a.viewDelta ? b : a)) : null;
+
   const tiles = [
     { label: '추적 채널 수', value: `${channels.length}개`, sub: `합산 구독자 ${fmtNum(totalSubscribers)}명` },
     { label: '평균 도달률 (중앙값 기준)', value: fmtPercent(avgReach), sub: '영상 1개 튀는 값에 덜 흔들리는 지표' },
     {
       label: '30일 최고 성장 채널',
-      value: topGrower ? topGrower.title : '집계 중',
+      value: topGrower ? truncate(topGrower.title, 24) : '집계 중',
       sub: topGrower ? `구독자 +${topGrower.growthRate30d.toFixed(1)}%` : '데이터가 30일 쌓이면 표시돼요',
+      isText: true,
     },
     {
       label: '오늘 급상승 콘텐츠',
-      value: data.topMovers.length ? data.topMovers[0].title : '집계 중',
-      sub: data.topMovers.length ? `+${data.topMovers[0].viewDelta.toLocaleString('ko-KR')}회` : '내일부터 표시돼요',
+      value: topMover ? truncate(topMover.title, 24) : '집계 중',
+      sub: topMover ? `${topMover.isShort ? '숏폼' : '롱폼'} · +${topMover.viewDelta.toLocaleString('ko-KR')}회` : '내일부터 표시돼요',
+      isText: true,
     },
   ];
 
@@ -215,7 +237,7 @@ function renderKpiTiles(data) {
       (t) => `
     <div class="card kpi-tile">
       <div class="kpi-label">${t.label}</div>
-      <div class="kpi-value">${t.value}</div>
+      <div class="kpi-value${t.isText ? ' text' : ''}">${t.value}</div>
       <div class="kpi-sub">${t.sub}</div>
     </div>
   `
@@ -305,13 +327,12 @@ function renderChannelTable() {
   });
 }
 
-function renderMovers(movers) {
-  const el = document.getElementById('moversCard');
+function renderMoverList(movers) {
   if (!movers || movers.length === 0) {
-    el.innerHTML = `<div class="empty-state">아직 비교할 전날 데이터가 없어요. 다음 날 수집부터 순위가 표시됩니다.</div>`;
-    return;
+    return `<div class="empty-state">아직 비교할 전날 데이터가 없어요.</div>`;
   }
-  el.innerHTML = movers
+  return movers
+    .slice(0, 5)
     .map(
       (m) => `
     <a class="mover-row" href="https://www.youtube.com/watch?v=${m.videoId}" target="_blank" rel="noopener noreferrer">
@@ -324,6 +345,26 @@ function renderMovers(movers) {
   `
     )
     .join('');
+}
+
+function renderMovers(moversShorts, moversLongform) {
+  const el = document.getElementById('moversCard');
+  if ((!moversShorts || moversShorts.length === 0) && (!moversLongform || moversLongform.length === 0)) {
+    el.innerHTML = `<div class="empty-state">아직 비교할 전날 데이터가 없어요. 다음 날 수집부터 순위가 표시됩니다.</div>`;
+    return;
+  }
+  el.innerHTML = `
+    <div class="movers-split">
+      <div>
+        <div class="movers-subhead">숏폼</div>
+        ${renderMoverList(moversShorts)}
+      </div>
+      <div>
+        <div class="movers-subhead">롱폼</div>
+        ${renderMoverList(moversLongform)}
+      </div>
+    </div>
+  `;
 }
 
 function renderChannelTabs(channels) {
@@ -359,7 +400,16 @@ async function loadVideoTable(channelId) {
       const stats = v.dailyStats;
       const latest = stats[stats.length - 1];
       const dayDelta = stats.length >= 2 ? latest.viewCount - stats[stats.length - 2].viewCount : null;
-      return { videoId: v.videoId, title: v.title, publishedAt: v.publishedAt, likeRate: v.likeRate, commentRate: v.commentRate, latest, dayDelta };
+      return {
+        videoId: v.videoId,
+        title: v.title,
+        publishedAt: v.publishedAt,
+        durationSeconds: v.durationSeconds,
+        likeRate: v.likeRate,
+        commentRate: v.commentRate,
+        latest,
+        dayDelta,
+      };
     })
     .sort((a, b) => b.latest.viewCount - a.latest.viewCount);
 
@@ -368,7 +418,7 @@ async function loadVideoTable(channelId) {
       const d = fmtDelta(r.dayDelta);
       return `
       <tr>
-        <td><a class="video-link" href="https://www.youtube.com/watch?v=${r.videoId}" target="_blank" rel="noopener noreferrer">${r.title}</a></td>
+        <td>${formatBadge(r.durationSeconds)} <a class="video-link" href="https://www.youtube.com/watch?v=${r.videoId}" target="_blank" rel="noopener noreferrer">${r.title}</a></td>
         <td>${fmtDate(r.publishedAt)}</td>
         <td class="num">${fmtNum(r.latest.viewCount)}</td>
         <td class="num">${fmtNum(r.latest.likeCount)}</td>

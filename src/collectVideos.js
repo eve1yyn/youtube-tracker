@@ -4,6 +4,16 @@ function chunk(arr, size) {
   return chunks;
 }
 
+// "PT1H2M3S" 같은 ISO 8601 duration을 초 단위로 변환
+function parseIso8601Duration(iso) {
+  const match = /^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/.exec(iso || '');
+  if (!match) return null;
+  const hours = parseInt(match[1] || '0', 10);
+  const minutes = parseInt(match[2] || '0', 10);
+  const seconds = parseInt(match[3] || '0', 10);
+  return hours * 3600 + minutes * 60 + seconds;
+}
+
 // 채널의 업로드 재생목록을 페이지네이션하며, 수집 기간(windowDays)을 벗어나거나
 // 채널당 최대 개수(maxPerChannel)에 도달하면 중단한다.
 async function listRecentVideoIds(client, uploadsPlaylistId, { windowDays, maxPerChannel }) {
@@ -58,6 +68,7 @@ async function collectVideos(client, channels, { videoWindowDays, maxVideosPerCh
           viewCount: Number(item.statistics.viewCount || 0),
           likeCount: item.statistics.likeCount !== undefined ? Number(item.statistics.likeCount) : null,
           commentCount: item.statistics.commentCount !== undefined ? Number(item.statistics.commentCount) : null,
+          durationSeconds: parseIso8601Duration(item.contentDetails?.duration),
         });
       }
     } catch (err) {
@@ -68,4 +79,4 @@ async function collectVideos(client, channels, { videoWindowDays, maxVideosPerCh
   return { videos, errors };
 }
 
-module.exports = { collectVideos, listRecentVideoIds };
+module.exports = { collectVideos, listRecentVideoIds, parseIso8601Duration };

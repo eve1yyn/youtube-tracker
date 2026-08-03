@@ -48,6 +48,13 @@ function ratePercent(numerator, denominator) {
   return (numerator / denominator) * 100;
 }
 
+// 유튜브 쇼츠 여부를 판단할 공식 API 필드가 없어, 재생시간 3분 이하를 쇼츠로 추정한다.
+// 구 데이터(재수집 전)는 duration_seconds가 없어 null(형식 미상)로 남는다.
+function isShort(durationSeconds) {
+  if (durationSeconds === null || durationSeconds === undefined) return null;
+  return durationSeconds <= 180;
+}
+
 function exportDashboardData(dbPath, outDir) {
   const db = new DatabaseSync(dbPath, { readOnly: true });
   const channelIds = db.prepare('SELECT DISTINCT channel_id FROM channel_daily ORDER BY channel_id').all().map((r) => r.channel_id);
@@ -71,20 +78,29 @@ function exportDashboardData(dbPath, outDir) {
 
     const videos = videoIds.map((videoId) => {
       const videoRows = db
-        .prepare('SELECT date, title, published_at AS publishedAt, view_count AS viewCount, like_count AS likeCount, comment_count AS commentCount FROM video_daily WHERE video_id = ? ORDER BY date ASC')
+        .prepare('SELECT date, title, published_at AS publishedAt, view_count AS viewCount, like_count AS likeCount, comment_count AS commentCount, duration_seconds AS durationSeconds FROM video_daily WHERE video_id = ? ORDER BY date ASC')
         .all(videoId);
       const latest = videoRows[videoRows.length - 1];
       const dayDelta =
         videoRows.length >= 2 ? videoRows[videoRows.length - 1].viewCount - videoRows[videoRows.length - 2].viewCount : null;
 
       if (dayDelta !== null) {
-        allMovers.push({ videoId, channelId, channelTitle: latestChannel.title, title: latest.title, viewDelta: dayDelta });
+        allMovers.push({
+          videoId,
+          channelId,
+          channelTitle: latestChannel.title,
+          title: latest.title,
+          viewDelta: dayDelta,
+          isShort: isShort(latest.durationSeconds),
+        });
       }
 
       return {
         videoId,
         title: latest.title,
         publishedAt: latest.publishedAt,
+        durationSeconds: latest.durationSeconds,
+        isShort: isShort(latest.durationSeconds),
         likeRate: ratePercent(latest.likeCount, latest.viewCount),
         commentRate: ratePercent(latest.commentCount, latest.viewCount),
         dailyStats: videoRows,
@@ -133,10 +149,17 @@ function exportDashboardData(dbPath, outDir) {
   }
 
   allMovers.sort((a, b) => b.viewDelta - a.viewDelta);
+  // 숏폼은 구조적으로 조회수가 빨리 튀어서, 롱폼과 한 순위에 섞으면 롱폼 성장 신호가 묻힌다.
+  const topMoversShorts = allMovers.filter((m) => m.isShort === true).slice(0, 10);
+  const topMoversLongform = allMovers.filter((m) => m.isShort === false).slice(0, 10);
 
   fs.writeFileSync(
     path.join(outDir, 'index.json'),
-    JSON.stringify({ generatedAt: new Date().toISOString(), channels: indexChannels, topMovers: allMovers.slice(0, 10) }, null, 2)
+    JSON.stringify(
+      { generatedAt: new Date().toISOString(), channels: indexChannels, topMoversShorts, topMoversLongform },
+      null,
+      2
+    )
   );
 
   db.close();

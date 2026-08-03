@@ -22,8 +22,10 @@
       "videoId": "6Je3tzNOTk8",
       "title": "버니 다이어트 쉐이크 신메뉴 곧 만나요!",
       "publishedAt": "2026-07-06T13:06:41Z",
-      "likeRate": 1.153116333381988,
-      "commentRate": 0.04378922784994892,
+      "durationSeconds": 59,
+      "isShort": true,
+      "likeRate": 1.153958515921706,
+      "commentRate": 0.04382120946538125,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -31,15 +33,17 @@
           "publishedAt": "2026-07-06T13:06:41Z",
           "viewCount": 6794,
           "likeCount": 79,
-          "commentCount": 3
+          "commentCount": 3,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "버니 다이어트 쉐이크 신메뉴 곧 만나요!",
           "publishedAt": "2026-07-06T13:06:41Z",
-          "viewCount": 6851,
+          "viewCount": 6846,
           "likeCount": 79,
-          "commentCount": 3
+          "commentCount": 3,
+          "durationSeconds": 59
         }
       ]
     },
@@ -47,8 +51,10 @@
       "videoId": "AteRIqs3Uek",
       "title": "쉐이크 2탄🤤🤎 #다이어트",
       "publishedAt": "2026-07-06T13:07:44Z",
-      "likeRate": 1.310930576070901,
-      "commentRate": 0.11078286558345643,
+      "durationSeconds": 50,
+      "isShort": true,
+      "likeRate": 1.3118994826311898,
+      "commentRate": 0.11086474501108648,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -56,15 +62,17 @@
           "publishedAt": "2026-07-06T13:07:44Z",
           "viewCount": 5356,
           "likeCount": 71,
-          "commentCount": 6
+          "commentCount": 6,
+          "durationSeconds": null
         },
         {
           "date": "2026-08-03",
           "title": "쉐이크 2탄🤤🤎 #다이어트",
           "publishedAt": "2026-07-06T13:07:44Z",
-          "viewCount": 5416,
+          "viewCount": 5412,
           "likeCount": 71,
-          "commentCount": 6
+          "commentCount": 6,
+          "durationSeconds": 50
         }
       ]
     },
@@ -72,6 +80,8 @@
       "videoId": "BKFmxk2eAXY",
       "title": "단백질 쉐이크 + 커피 조합 ㄱㅊ드라 ~~ 🤎🍓☕️ #단백질쉐이크 #다이어트",
       "publishedAt": "2026-07-03T13:09:22Z",
+      "durationSeconds": null,
+      "isShort": null,
       "likeRate": 0.6216006216006216,
       "commentRate": 0.019425019425019424,
       "dailyStats": [
@@ -81,7 +91,8 @@
           "publishedAt": "2026-07-03T13:09:22Z",
           "viewCount": 5148,
           "likeCount": 32,
-          "commentCount": 1
+          "commentCount": 1,
+          "durationSeconds": null
         }
       ]
     }
