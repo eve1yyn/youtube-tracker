@@ -195,8 +195,23 @@
   tbody tr:last-child td { border-bottom: none; }
   td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 
-  .mover-row { display: flex; justify-content: space-between; align-items: center; padding: 10px 2px; border-bottom: 1px solid var(--gridline); font-size: 13px; }
+  .mover-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 2px;
+    border-bottom: 1px solid var(--gridline);
+    font-size: 13px;
+    text-decoration: none;
+    color: inherit;
+    border-radius: 8px;
+  }
   .mover-row:last-child { border-bottom: none; }
+  .mover-row:hover { background: var(--page-plane); }
+  .mover-row:hover .mover-title { text-decoration: underline; }
+
+  .video-link { color: inherit; text-decoration: none; }
+  .video-link:hover { text-decoration: underline; color: var(--series-1); }
   .mover-title { color: var(--text-primary); font-weight: 500; }
   .mover-channel { color: var(--text-muted); font-size: 12px; margin-top: 1px; }
   .mover-delta {

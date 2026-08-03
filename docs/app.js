@@ -314,13 +314,13 @@ function renderMovers(movers) {
   el.innerHTML = movers
     .map(
       (m) => `
-    <div class="mover-row">
+    <a class="mover-row" href="https://www.youtube.com/watch?v=${m.videoId}" target="_blank" rel="noopener noreferrer">
       <div>
         <div class="mover-title">${m.title}</div>
         <div class="mover-channel">${m.channelTitle}</div>
       </div>
       <div class="mover-delta">+${m.viewDelta.toLocaleString('ko-KR')}</div>
-    </div>
+    </a>
   `
     )
     .join('');
@@ -359,7 +359,7 @@ async function loadVideoTable(channelId) {
       const stats = v.dailyStats;
       const latest = stats[stats.length - 1];
       const dayDelta = stats.length >= 2 ? latest.viewCount - stats[stats.length - 2].viewCount : null;
-      return { title: v.title, publishedAt: v.publishedAt, likeRate: v.likeRate, commentRate: v.commentRate, latest, dayDelta };
+      return { videoId: v.videoId, title: v.title, publishedAt: v.publishedAt, likeRate: v.likeRate, commentRate: v.commentRate, latest, dayDelta };
     })
     .sort((a, b) => b.latest.viewCount - a.latest.viewCount);
 
@@ -368,7 +368,7 @@ async function loadVideoTable(channelId) {
       const d = fmtDelta(r.dayDelta);
       return `
       <tr>
-        <td>${r.title}</td>
+        <td><a class="video-link" href="https://www.youtube.com/watch?v=${r.videoId}" target="_blank" rel="noopener noreferrer">${r.title}</a></td>
         <td>${fmtDate(r.publishedAt)}</td>
         <td class="num">${fmtNum(r.latest.viewCount)}</td>
         <td class="num">${fmtNum(r.latest.likeCount)}</td>
