@@ -8,6 +8,13 @@
       "subscriberCount": 7870,
       "totalViewCount": 2555436,
       "videoCount": 268
+    },
+    {
+      "date": "2026-08-03",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 7880,
+      "totalViewCount": 2555436,
+      "videoCount": 268
     }
   ],
   "videos": [
@@ -32,14 +39,22 @@
       "videoId": "KbvS9BTUIHI",
       "title": "정리마켓 유튜브 채널에 출연했어요.",
       "publishedAt": "2026-07-29T01:30:09Z",
-      "likeRate": 5.9734513274336285,
-      "commentRate": 5.3097345132743365,
+      "likeRate": 5.793991416309012,
+      "commentRate": 5.150214592274678,
       "dailyStats": [
         {
           "date": "2026-08-02",
           "title": "정리마켓 유튜브 채널에 출연했어요.",
           "publishedAt": "2026-07-29T01:30:09Z",
           "viewCount": 452,
+          "likeCount": 27,
+          "commentCount": 24
+        },
+        {
+          "date": "2026-08-03",
+          "title": "정리마켓 유튜브 채널에 출연했어요.",
+          "publishedAt": "2026-07-29T01:30:09Z",
+          "viewCount": 466,
           "likeCount": 27,
           "commentCount": 24
         }
@@ -49,14 +64,22 @@
       "videoId": "rLttgwqm9ow",
       "title": "여름에 더 단순해야 하는 이유",
       "publishedAt": "2026-07-19T12:45:37Z",
-      "likeRate": 3.16288877174486,
-      "commentRate": 0.5798629414865577,
+      "likeRate": 3.139717425431711,
+      "commentRate": 0.5756148613291471,
       "dailyStats": [
         {
           "date": "2026-08-02",
           "title": "여름에 더 단순해야 하는 이유",
           "publishedAt": "2026-07-19T12:45:37Z",
           "viewCount": 1897,
+          "likeCount": 60,
+          "commentCount": 11
+        },
+        {
+          "date": "2026-08-03",
+          "title": "여름에 더 단순해야 하는 이유",
+          "publishedAt": "2026-07-19T12:45:37Z",
+          "viewCount": 1911,
           "likeCount": 60,
           "commentCount": 11
         }
