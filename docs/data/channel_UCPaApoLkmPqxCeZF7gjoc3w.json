@@ -15,6 +15,13 @@
       "subscriberCount": 2360000,
       "totalViewCount": 418563585,
       "videoCount": 317
+    },
+    {
+      "date": "2026-08-04",
+      "title": "planD플랜디",
+      "subscriberCount": 2360000,
+      "totalViewCount": 418746588,
+      "videoCount": 317
     }
   ],
   "videos": [
@@ -24,8 +31,8 @@
       "publishedAt": "2026-07-16T09:00:12Z",
       "durationSeconds": 68,
       "isShort": true,
-      "likeRate": 3.6795682468081683,
-      "commentRate": 0.05235812960650851,
+      "likeRate": 3.6698644738845743,
+      "commentRate": 0.05209460380050171,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -44,6 +51,15 @@
           "likeCount": 4568,
           "commentCount": 65,
           "durationSeconds": 68
+        },
+        {
+          "date": "2026-08-04",
+          "title": "더운 여름, 집순이가 침대에서 힐링하는 법",
+          "publishedAt": "2026-07-16T09:00:12Z",
+          "viewCount": 124773,
+          "likeCount": 4579,
+          "commentCount": 65,
+          "durationSeconds": 68
         }
       ]
     },
@@ -53,8 +69,8 @@
       "publishedAt": "2026-07-24T09:00:24Z",
       "durationSeconds": 66,
       "isShort": true,
-      "likeRate": 3.33472978634269,
-      "commentRate": 0.0754084625052367,
+      "likeRate": 3.3218050406941826,
+      "commentRate": 0.0745542278460041,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -73,6 +89,15 @@
           "likeCount": 1592,
           "commentCount": 36,
           "durationSeconds": 66
+        },
+        {
+          "date": "2026-08-04",
+          "title": "음식얼룩도 강력 세탁해주는 세탁 꿀템 소개",
+          "publishedAt": "2026-07-24T09:00:24Z",
+          "viewCount": 48287,
+          "likeCount": 1604,
+          "commentCount": 36,
+          "durationSeconds": 66
         }
       ]
     },
@@ -82,8 +107,8 @@
       "publishedAt": "2026-07-23T07:47:15Z",
       "durationSeconds": 71,
       "isShort": true,
-      "likeRate": 3.666371117022104,
-      "commentRate": 0.08399832003359933,
+      "likeRate": 3.653531644397815,
+      "commentRate": 0.08331533310704478,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -102,6 +127,15 @@
           "likeCount": 2357,
           "commentCount": 54,
           "durationSeconds": 71
+        },
+        {
+          "date": "2026-08-04",
+          "title": "꿀조합 골뱅이 5가지 레시피 🐚",
+          "publishedAt": "2026-07-23T07:47:15Z",
+          "viewCount": 64814,
+          "likeCount": 2368,
+          "commentCount": 54,
+          "durationSeconds": 71
         }
       ]
     },
@@ -111,8 +145,8 @@
       "publishedAt": "2026-07-14T11:20:03Z",
       "durationSeconds": 1607,
       "isShort": false,
-      "likeRate": 3.1806782725337532,
-      "commentRate": 0.14361531507887906,
+      "likeRate": 3.1647909344518603,
+      "commentRate": 0.14228034457450242,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -130,6 +164,15 @@
           "viewCount": 548688,
           "likeCount": 17452,
           "commentCount": 788,
+          "durationSeconds": 1607
+        },
+        {
+          "date": "2026-08-04",
+          "title": "잠실 야구장⚾️ 먹방투어. 6종 반찬 만들고 완두콩🫛 베이킹하는 자취일상. 장미상가 구경하기",
+          "publishedAt": "2026-07-14T11:20:03Z",
+          "viewCount": 554539,
+          "likeCount": 17550,
+          "commentCount": 789,
           "durationSeconds": 1607
         }
       ]

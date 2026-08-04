@@ -15,6 +15,13 @@
       "subscriberCount": 89300,
       "totalViewCount": 9987099,
       "videoCount": 98
+    },
+    {
+      "date": "2026-08-04",
+      "title": "소수빈",
+      "subscriberCount": 89300,
+      "totalViewCount": 9993307,
+      "videoCount": 98
     }
   ],
   "videos": [
@@ -24,8 +31,8 @@
       "publishedAt": "2026-07-27T10:00:27Z",
       "durationSeconds": 827,
       "isShort": false,
-      "likeRate": 1.926514399205561,
-      "commentRate": 0.6156901688182721,
+      "likeRate": 1.9178082191780823,
+      "commentRate": 0.6066536203522506,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -44,6 +51,15 @@
           "likeCount": 97,
           "commentCount": 31,
           "durationSeconds": 827
+        },
+        {
+          "date": "2026-08-04",
+          "title": "[#24 대딩로그] 스스로에게 건강한 식사를 대접하자🌿 비건 포케, 후무스 플레이트, 파프리카 도전!",
+          "publishedAt": "2026-07-27T10:00:27Z",
+          "viewCount": 5110,
+          "likeCount": 98,
+          "commentCount": 31,
+          "durationSeconds": 827
         }
       ]
     },
@@ -53,8 +69,8 @@
       "publishedAt": "2026-07-10T11:00:21Z",
       "durationSeconds": 917,
       "isShort": false,
-      "likeRate": 1.3483677653366977,
-      "commentRate": 0.4258003469484309,
+      "likeRate": 1.3458208720289628,
+      "commentRate": 0.4249960648512514,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -70,6 +86,15 @@
           "title": "[#23 대딩로그] 진로?🙅🏻‍♀️없고 인스타 끊은 지 1년차 대학생의 여름방학 vlog / 고등학교 친구들이랑 파자마 야르파티",
           "publishedAt": "2026-07-10T11:00:21Z",
           "viewCount": 12682,
+          "likeCount": 171,
+          "commentCount": 54,
+          "durationSeconds": 917
+        },
+        {
+          "date": "2026-08-04",
+          "title": "[#23 대딩로그] 진로?🙅🏻‍♀️없고 인스타 끊은 지 1년차 대학생의 여름방학 vlog / 고등학교 친구들이랑 파자마 야르파티",
+          "publishedAt": "2026-07-10T11:00:21Z",
+          "viewCount": 12706,
           "likeCount": 171,
           "commentCount": 54,
           "durationSeconds": 917
