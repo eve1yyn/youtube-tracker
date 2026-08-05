@@ -22,6 +22,13 @@
       "subscriberCount": 89300,
       "totalViewCount": 9993307,
       "videoCount": 98
+    },
+    {
+      "date": "2026-08-05",
+      "title": "소수빈",
+      "subscriberCount": 89300,
+      "totalViewCount": 9996844,
+      "videoCount": 98
     }
   ],
   "videos": [
@@ -31,8 +38,8 @@
       "publishedAt": "2026-07-27T10:00:27Z",
       "durationSeconds": 827,
       "isShort": false,
-      "likeRate": 1.9178082191780823,
-      "commentRate": 0.6066536203522506,
+      "likeRate": 1.9086176980913823,
+      "commentRate": 0.5976479660690187,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -60,6 +67,15 @@
           "likeCount": 98,
           "commentCount": 31,
           "durationSeconds": 827
+        },
+        {
+          "date": "2026-08-05",
+          "title": "[#24 대딩로그] 스스로에게 건강한 식사를 대접하자🌿 비건 포케, 후무스 플레이트, 파프리카 도전!",
+          "publishedAt": "2026-07-27T10:00:27Z",
+          "viewCount": 5187,
+          "likeCount": 99,
+          "commentCount": 31,
+          "durationSeconds": 827
         }
       ]
     },
@@ -69,8 +85,8 @@
       "publishedAt": "2026-07-10T11:00:21Z",
       "durationSeconds": 917,
       "isShort": false,
-      "likeRate": 1.3458208720289628,
-      "commentRate": 0.4249960648512514,
+      "likeRate": 1.3429670933794078,
+      "commentRate": 0.42409487159349724,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -95,6 +111,15 @@
           "title": "[#23 대딩로그] 진로?🙅🏻‍♀️없고 인스타 끊은 지 1년차 대학생의 여름방학 vlog / 고등학교 친구들이랑 파자마 야르파티",
           "publishedAt": "2026-07-10T11:00:21Z",
           "viewCount": 12706,
+          "likeCount": 171,
+          "commentCount": 54,
+          "durationSeconds": 917
+        },
+        {
+          "date": "2026-08-05",
+          "title": "[#23 대딩로그] 진로?🙅🏻‍♀️없고 인스타 끊은 지 1년차 대학생의 여름방학 vlog / 고등학교 친구들이랑 파자마 야르파티",
+          "publishedAt": "2026-07-10T11:00:21Z",
+          "viewCount": 12733,
           "likeCount": 171,
           "commentCount": 54,
           "durationSeconds": 917

@@ -22,6 +22,13 @@
       "subscriberCount": 775000,
       "totalViewCount": 217413647,
       "videoCount": 732
+    },
+    {
+      "date": "2026-08-05",
+      "title": "에바EVA",
+      "subscriberCount": 775000,
+      "totalViewCount": 217522349,
+      "videoCount": 733
     }
   ],
   "videos": [
@@ -60,8 +67,8 @@
       "publishedAt": "2026-07-11T12:28:08Z",
       "durationSeconds": 2207,
       "isShort": false,
-      "likeRate": 1.3041719767095794,
-      "commentRate": 0.12133607039018324,
+      "likeRate": 1.2992128966765908,
+      "commentRate": 0.12045180791345651,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -89,6 +96,15 @@
           "likeCount": 1709,
           "commentCount": 159,
           "durationSeconds": 2207
+        },
+        {
+          "date": "2026-08-05",
+          "title": "살 안 찌는 거 ㅈㄴ 부럽다",
+          "publishedAt": "2026-07-11T12:28:08Z",
+          "viewCount": 132003,
+          "likeCount": 1715,
+          "commentCount": 159,
+          "durationSeconds": 2207
         }
       ]
     },
@@ -98,8 +114,8 @@
       "publishedAt": "2026-07-29T12:20:21Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 2.3091660784511445,
-      "commentRate": 0.08873651305838459,
+      "likeRate": 2.300923540370209,
+      "commentRate": 0.08720123667208371,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -127,6 +143,15 @@
           "likeCount": 1145,
           "commentCount": 44,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-08-05",
+          "title": "혹시 이 노래 아세요..?",
+          "publishedAt": "2026-07-29T12:20:21Z",
+          "viewCount": 50458,
+          "likeCount": 1161,
+          "commentCount": 44,
+          "durationSeconds": 59
         }
       ]
     },
@@ -136,8 +161,8 @@
       "publishedAt": "2026-08-02T12:35:07Z",
       "durationSeconds": 3667,
       "isShort": false,
-      "likeRate": 2.1324536736606823,
-      "commentRate": 0.257769125387555,
+      "likeRate": 1.9972297931280996,
+      "commentRate": 0.2278718555917966,
       "dailyStats": [
         {
           "date": "2026-08-03",
@@ -156,6 +181,35 @@
           "likeCount": 1183,
           "commentCount": 143,
           "durationSeconds": 3667
+        },
+        {
+          "date": "2026-08-05",
+          "title": "행복은 10,415km 떨어진 곳에 있었다..",
+          "publishedAt": "2026-08-02T12:35:07Z",
+          "viewCount": 67143,
+          "likeCount": 1341,
+          "commentCount": 153,
+          "durationSeconds": 3667
+        }
+      ]
+    },
+    {
+      "videoId": "jeDWhg5w5yc",
+      "title": "발 편하고 예쁜 플랫슈즈는 없을까..?😞그렇다면 이거요ㅋ",
+      "publishedAt": "2026-08-04T12:15:18Z",
+      "durationSeconds": 58,
+      "isShort": true,
+      "likeRate": 2.5915687629578437,
+      "commentRate": 0.0414651002073255,
+      "dailyStats": [
+        {
+          "date": "2026-08-05",
+          "title": "발 편하고 예쁜 플랫슈즈는 없을까..?😞그렇다면 이거요ㅋ",
+          "publishedAt": "2026-08-04T12:15:18Z",
+          "viewCount": 14470,
+          "likeCount": 375,
+          "commentCount": 6,
+          "durationSeconds": 58
         }
       ]
     },
@@ -165,8 +219,8 @@
       "publishedAt": "2026-07-25T12:23:53Z",
       "durationSeconds": 1156,
       "isShort": false,
-      "likeRate": 1.7126933059047253,
-      "commentRate": 0.2469770723947806,
+      "likeRate": 1.7156325691849412,
+      "commentRate": 0.24576717853356944,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -194,6 +248,15 @@
           "likeCount": 2864,
           "commentCount": 413,
           "durationSeconds": 1156
+        },
+        {
+          "date": "2026-08-05",
+          "title": "혼자 사는 여자의 비오는 주말",
+          "publishedAt": "2026-07-25T12:23:53Z",
+          "viewCount": 168859,
+          "likeCount": 2897,
+          "commentCount": 415,
+          "durationSeconds": 1156
         }
       ]
     },
@@ -203,8 +266,8 @@
       "publishedAt": "2026-07-19T12:28:08Z",
       "durationSeconds": 1840,
       "isShort": false,
-      "likeRate": 1.7158088764329813,
-      "commentRate": 0.1576022530269911,
+      "likeRate": 1.7150035501665848,
+      "commentRate": 0.15702659894041182,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -232,6 +295,15 @@
           "likeCount": 2504,
           "commentCount": 230,
           "durationSeconds": 1840
+        },
+        {
+          "date": "2026-08-05",
+          "title": "난 너를 사랑하는 거야 네 남친이 아니라",
+          "publishedAt": "2026-07-19T12:28:08Z",
+          "viewCount": 146472,
+          "likeCount": 2512,
+          "commentCount": 230,
+          "durationSeconds": 1840
         }
       ]
     },
@@ -241,8 +313,8 @@
       "publishedAt": "2026-07-20T12:18:03Z",
       "durationSeconds": 23,
       "isShort": true,
-      "likeRate": 3.0264189145059106,
-      "commentRate": 0.041636731761478675,
+      "likeRate": 3.017844858981103,
+      "commentRate": 0.04127382349370776,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -268,6 +340,15 @@
           "publishedAt": "2026-07-20T12:18:03Z",
           "viewCount": 122488,
           "likeCount": 3707,
+          "commentCount": 51,
+          "durationSeconds": 23
+        },
+        {
+          "date": "2026-08-05",
+          "title": "살면서 한 번쯤은 혼자 해봐야 하는 10가지",
+          "publishedAt": "2026-07-20T12:18:03Z",
+          "viewCount": 123565,
+          "likeCount": 3729,
           "commentCount": 51,
           "durationSeconds": 23
         }

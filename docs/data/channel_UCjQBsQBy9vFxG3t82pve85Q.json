@@ -22,6 +22,13 @@
       "subscriberCount": 34300,
       "totalViewCount": 3435286,
       "videoCount": 96
+    },
+    {
+      "date": "2026-08-05",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34300,
+      "totalViewCount": 3438995,
+      "videoCount": 96
     }
   ],
   "videos": [
@@ -31,8 +38,8 @@
       "publishedAt": "2026-07-06T13:06:41Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 1.145425547339423,
-      "commentRate": 0.04349717268377556,
+      "likeRate": 1.1324541284403669,
+      "commentRate": 0.04300458715596331,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -60,6 +67,15 @@
           "likeCount": 79,
           "commentCount": 3,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-08-05",
+          "title": "버니 다이어트 쉐이크 신메뉴 곧 만나요!",
+          "publishedAt": "2026-07-06T13:06:41Z",
+          "viewCount": 6976,
+          "likeCount": 79,
+          "commentCount": 3,
+          "durationSeconds": 59
         }
       ]
     },
@@ -69,8 +85,8 @@
       "publishedAt": "2026-07-06T13:07:44Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 1.2960934647681637,
-      "commentRate": 0.10952902519167579,
+      "likeRate": 1.2942656839834623,
+      "commentRate": 0.10785547366528853,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -96,6 +112,15 @@
           "publishedAt": "2026-07-06T13:07:44Z",
           "viewCount": 5478,
           "likeCount": 71,
+          "commentCount": 6,
+          "durationSeconds": 50
+        },
+        {
+          "date": "2026-08-05",
+          "title": "쉐이크 2탄🤤🤎 #다이어트",
+          "publishedAt": "2026-07-06T13:07:44Z",
+          "viewCount": 5563,
+          "likeCount": 72,
           "commentCount": 6,
           "durationSeconds": 50
         }

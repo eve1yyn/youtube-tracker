@@ -22,6 +22,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 148736852,
       "videoCount": 395
+    },
+    {
+      "date": "2026-08-05",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 148742216,
+      "videoCount": 395
     }
   ],
   "videos": [
@@ -31,8 +38,8 @@
       "publishedAt": "2026-07-20T10:30:11Z",
       "durationSeconds": 1449,
       "isShort": false,
-      "likeRate": 3.432757374679719,
-      "commentRate": 0.2332304053610144,
+      "likeRate": 3.4336721396924683,
+      "commentRate": 0.23292937190513419,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -59,6 +66,15 @@
           "viewCount": 60884,
           "likeCount": 2090,
           "commentCount": 142,
+          "durationSeconds": 1449
+        },
+        {
+          "date": "2026-08-05",
+          "title": "여름방학 전 바쁜 카페영업,아기 고양이를 구조했다..🙀,젤리슈즈 꾸미기 🩰",
+          "publishedAt": "2026-07-20T10:30:11Z",
+          "viewCount": 61392,
+          "likeCount": 2108,
+          "commentCount": 143,
           "durationSeconds": 1449
         }
       ]
