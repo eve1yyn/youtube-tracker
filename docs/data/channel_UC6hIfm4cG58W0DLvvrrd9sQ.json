@@ -29,6 +29,13 @@
       "subscriberCount": 40100,
       "totalViewCount": 1443106,
       "videoCount": 37
+    },
+    {
+      "date": "2026-08-06",
+      "title": "설아의날들 (Seola's Moments)",
+      "subscriberCount": 40100,
+      "totalViewCount": 1443423,
+      "videoCount": 37
     }
   ],
   "videos": [
@@ -38,8 +45,8 @@
       "publishedAt": "2026-07-11T13:00:09Z",
       "durationSeconds": 1887,
       "isShort": false,
-      "likeRate": 7.131878266215801,
-      "commentRate": 1.1374116200430373,
+      "likeRate": 7.135201347419996,
+      "commentRate": 1.133057724697596,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -74,6 +81,15 @@
           "publishedAt": "2026-07-11T13:00:09Z",
           "viewCount": 6506,
           "likeCount": 464,
+          "commentCount": 74,
+          "durationSeconds": 1887
+        },
+        {
+          "date": "2026-08-06",
+          "title": "대충 살아도 괜찮은가요 02.JINLI(Kpop 작곡,작사가) (인맥관리는 필수인걸까? / 30대라는 전성기 우주소녀 보컬 순위 물어봐도 될까요?)",
+          "publishedAt": "2026-07-11T13:00:09Z",
+          "viewCount": 6531,
+          "likeCount": 466,
           "commentCount": 74,
           "durationSeconds": 1887
         }

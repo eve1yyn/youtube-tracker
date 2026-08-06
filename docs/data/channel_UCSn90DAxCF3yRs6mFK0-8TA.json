@@ -29,6 +29,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 148742216,
       "videoCount": 395
+    },
+    {
+      "date": "2026-08-06",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 148743961,
+      "videoCount": 396
     }
   ],
   "videos": [
@@ -38,8 +45,8 @@
       "publishedAt": "2026-07-20T10:30:11Z",
       "durationSeconds": 1449,
       "isShort": false,
-      "likeRate": 3.4336721396924683,
-      "commentRate": 0.23292937190513419,
+      "likeRate": 3.4254392310041633,
+      "commentRate": 0.23147031875391813,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -76,6 +83,35 @@
           "likeCount": 2108,
           "commentCount": 143,
           "durationSeconds": 1449
+        },
+        {
+          "date": "2026-08-06",
+          "title": "여름방학 전 바쁜 카페영업,아기 고양이를 구조했다..🙀,젤리슈즈 꾸미기 🩰",
+          "publishedAt": "2026-07-20T10:30:11Z",
+          "viewCount": 62211,
+          "likeCount": 2131,
+          "commentCount": 144,
+          "durationSeconds": 1449
+        }
+      ]
+    },
+    {
+      "videoId": "Rpcra4TMM5c",
+      "title": "육묘에 지친 나..🐱카페 대청소,동묘 빈티지 쇼핑,혼자 파스타 먹으러 간 일상",
+      "publishedAt": "2026-08-05T08:00:04Z",
+      "durationSeconds": 1419,
+      "isShort": false,
+      "likeRate": 3.891015537041207,
+      "commentRate": 0.34226525557306914,
+      "dailyStats": [
+        {
+          "date": "2026-08-06",
+          "title": "육묘에 지친 나..🐱카페 대청소,동묘 빈티지 쇼핑,혼자 파스타 먹으러 간 일상",
+          "publishedAt": "2026-08-05T08:00:04Z",
+          "viewCount": 22205,
+          "likeCount": 864,
+          "commentCount": 76,
+          "durationSeconds": 1419
         }
       ]
     }

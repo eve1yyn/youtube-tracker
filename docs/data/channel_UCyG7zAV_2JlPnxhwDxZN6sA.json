@@ -29,6 +29,13 @@
       "subscriberCount": 3000000,
       "totalViewCount": 359802519,
       "videoCount": 229
+    },
+    {
+      "date": "2026-08-06",
+      "title": "지현꿍",
+      "subscriberCount": 3000000,
+      "totalViewCount": 359813046,
+      "videoCount": 229
     }
   ],
   "videos": [
@@ -38,8 +45,8 @@
       "publishedAt": "2026-07-12T13:09:07Z",
       "durationSeconds": 1893,
       "isShort": false,
-      "likeRate": 2.1013307485713133,
-      "commentRate": 0.10581369520001616,
+      "likeRate": 2.0985537049011773,
+      "commentRate": 0.10522891304959013,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -76,6 +83,15 @@
           "likeCount": 5203,
           "commentCount": 262,
           "durationSeconds": 1893
+        },
+        {
+          "date": "2026-08-06",
+          "title": "vlog | 네버 엔딩 이사 준비 ..🏚️ | 불닭 로제 당면, 대왕 다코야끼 만들고 도서관 다니는 일상 | 여름 맞이 신비복숭아 토스트, 샐러드 파스타 🍉",
+          "publishedAt": "2026-07-12T13:09:07Z",
+          "viewCount": 248981,
+          "likeCount": 5225,
+          "commentCount": 262,
+          "durationSeconds": 1893
         }
       ]
     },
@@ -85,8 +101,8 @@
       "publishedAt": "2026-07-24T12:33:32Z",
       "durationSeconds": 1501,
       "isShort": false,
-      "likeRate": 2.3807376137299827,
-      "commentRate": 0.1773977257010217,
+      "likeRate": 2.3653878733708384,
+      "commentRate": 0.17408880866004195,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -122,6 +138,15 @@
           "viewCount": 166293,
           "likeCount": 3959,
           "commentCount": 295,
+          "durationSeconds": 1501
+        },
+        {
+          "date": "2026-08-06",
+          "title": "vlog | 마트에서 장보고 가스파초 냉스프 🍟 시오콘부 주먹밥 만들고 사무실 출근하는 일상, 집순이 자취생의 여름 집밥 | 해산물 파스타, 멸치 김치찜",
+          "publishedAt": "2026-07-24T12:33:32Z",
+          "viewCount": 171177,
+          "likeCount": 4049,
+          "commentCount": 298,
           "durationSeconds": 1501
         }
       ]

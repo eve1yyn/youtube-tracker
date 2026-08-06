@@ -29,6 +29,13 @@
       "subscriberCount": 89300,
       "totalViewCount": 9996844,
       "videoCount": 98
+    },
+    {
+      "date": "2026-08-06",
+      "title": "소수빈",
+      "subscriberCount": 89300,
+      "totalViewCount": 9997737,
+      "videoCount": 98
     }
   ],
   "videos": [
@@ -38,8 +45,8 @@
       "publishedAt": "2026-07-27T10:00:27Z",
       "durationSeconds": 827,
       "isShort": false,
-      "likeRate": 1.9086176980913823,
-      "commentRate": 0.5976479660690187,
+      "likeRate": 1.899335232668566,
+      "commentRate": 0.5887939221272555,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -76,6 +83,15 @@
           "likeCount": 99,
           "commentCount": 31,
           "durationSeconds": 827
+        },
+        {
+          "date": "2026-08-06",
+          "title": "[#24 대딩로그] 스스로에게 건강한 식사를 대접하자🌿 비건 포케, 후무스 플레이트, 파프리카 도전!",
+          "publishedAt": "2026-07-27T10:00:27Z",
+          "viewCount": 5265,
+          "likeCount": 100,
+          "commentCount": 31,
+          "durationSeconds": 827
         }
       ]
     },
@@ -85,8 +101,8 @@
       "publishedAt": "2026-07-10T11:00:21Z",
       "durationSeconds": 917,
       "isShort": false,
-      "likeRate": 1.3429670933794078,
-      "commentRate": 0.42409487159349724,
+      "likeRate": 1.3393906164329914,
+      "commentRate": 0.4229654578209446,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -120,6 +136,15 @@
           "title": "[#23 대딩로그] 진로?🙅🏻‍♀️없고 인스타 끊은 지 1년차 대학생의 여름방학 vlog / 고등학교 친구들이랑 파자마 야르파티",
           "publishedAt": "2026-07-10T11:00:21Z",
           "viewCount": 12733,
+          "likeCount": 171,
+          "commentCount": 54,
+          "durationSeconds": 917
+        },
+        {
+          "date": "2026-08-06",
+          "title": "[#23 대딩로그] 진로?🙅🏻‍♀️없고 인스타 끊은 지 1년차 대학생의 여름방학 vlog / 고등학교 친구들이랑 파자마 야르파티",
+          "publishedAt": "2026-07-10T11:00:21Z",
+          "viewCount": 12767,
           "likeCount": 171,
           "commentCount": 54,
           "durationSeconds": 917
