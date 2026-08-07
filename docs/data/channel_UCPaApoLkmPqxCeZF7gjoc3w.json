@@ -36,6 +36,13 @@
       "subscriberCount": 2360000,
       "totalViewCount": 418861320,
       "videoCount": 318
+    },
+    {
+      "date": "2026-08-07",
+      "title": "planD플랜디",
+      "subscriberCount": 2360000,
+      "totalViewCount": 419112612,
+      "videoCount": 318
     }
   ],
   "videos": [
@@ -45,8 +52,8 @@
       "publishedAt": "2026-08-05T11:00:09Z",
       "durationSeconds": 2210,
       "isShort": false,
-      "likeRate": 5.3974055543904855,
-      "commentRate": 0.5099014350340034,
+      "likeRate": 4.149904192103429,
+      "commentRate": 0.37104069569348974,
       "dailyStats": [
         {
           "date": "2026-08-06",
@@ -55,6 +62,15 @@
           "viewCount": 166895,
           "likeCount": 9008,
           "commentCount": 851,
+          "durationSeconds": 2210
+        },
+        {
+          "date": "2026-08-07",
+          "title": "퇴원한 집순이의 집정리🏠 대차게 망한 요리와 바삭한 오징어링, 김신영 열쫄냉, 구독자님 파우치 만들기",
+          "publishedAt": "2026-08-05T11:00:09Z",
+          "viewCount": 319911,
+          "likeCount": 13276,
+          "commentCount": 1187,
           "durationSeconds": 2210
         }
       ]
@@ -65,8 +81,8 @@
       "publishedAt": "2026-07-16T09:00:12Z",
       "durationSeconds": 68,
       "isShort": true,
-      "likeRate": 3.6466549868006943,
-      "commentRate": 0.05152882046566199,
+      "likeRate": 3.637797759899038,
+      "commentRate": 0.051269916390597886,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -112,6 +128,15 @@
           "likeCount": 4600,
           "commentCount": 65,
           "durationSeconds": 68
+        },
+        {
+          "date": "2026-08-07",
+          "title": "더운 여름, 집순이가 침대에서 힐링하는 법",
+          "publishedAt": "2026-07-16T09:00:12Z",
+          "viewCount": 126780,
+          "likeCount": 4612,
+          "commentCount": 65,
+          "durationSeconds": 68
         }
       ]
     },
@@ -121,8 +146,8 @@
       "publishedAt": "2026-07-24T09:00:24Z",
       "durationSeconds": 66,
       "isShort": true,
-      "likeRate": 3.2771649088778436,
-      "commentRate": 0.07273608922293612,
+      "likeRate": 3.2603056785985074,
+      "commentRate": 0.07183048006704178,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -168,6 +193,15 @@
           "likeCount": 1622,
           "commentCount": 36,
           "durationSeconds": 66
+        },
+        {
+          "date": "2026-08-07",
+          "title": "음식얼룩도 강력 세탁해주는 세탁 꿀템 소개",
+          "publishedAt": "2026-07-24T09:00:24Z",
+          "viewCount": 50118,
+          "likeCount": 1634,
+          "commentCount": 36,
+          "durationSeconds": 66
         }
       ]
     },
@@ -177,8 +211,8 @@
       "publishedAt": "2026-07-23T07:47:15Z",
       "durationSeconds": 71,
       "isShort": true,
-      "likeRate": 3.629791628698135,
-      "commentRate": 0.08201202843083652,
+      "likeRate": 3.620728671645169,
+      "commentRate": 0.0814663951120163,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -224,6 +258,15 @@
           "likeCount": 2390,
           "commentCount": 54,
           "durationSeconds": 71
+        },
+        {
+          "date": "2026-08-07",
+          "title": "꿀조합 골뱅이 5가지 레시피 🐚",
+          "publishedAt": "2026-07-23T07:47:15Z",
+          "viewCount": 66285,
+          "likeCount": 2400,
+          "commentCount": 54,
+          "durationSeconds": 71
         }
       ]
     },
@@ -233,8 +276,8 @@
       "publishedAt": "2026-07-14T11:20:03Z",
       "durationSeconds": 1607,
       "isShort": false,
-      "likeRate": 3.139069711555452,
-      "commentRate": 0.14029954128764588,
+      "likeRate": 3.12646706418997,
+      "commentRate": 0.13908644380136914,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -278,6 +321,15 @@
           "publishedAt": "2026-07-14T11:20:03Z",
           "viewCount": 565932,
           "likeCount": 17765,
+          "commentCount": 794,
+          "durationSeconds": 1607
+        },
+        {
+          "date": "2026-08-07",
+          "title": "잠실 야구장⚾️ 먹방투어. 6종 반찬 만들고 완두콩🫛 베이킹하는 자취일상. 장미상가 구경하기",
+          "publishedAt": "2026-07-14T11:20:03Z",
+          "viewCount": 570868,
+          "likeCount": 17848,
           "commentCount": 794,
           "durationSeconds": 1607
         }

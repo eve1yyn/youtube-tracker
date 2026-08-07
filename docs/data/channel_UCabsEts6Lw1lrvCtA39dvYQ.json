@@ -36,6 +36,13 @@
       "subscriberCount": 89300,
       "totalViewCount": 9997737,
       "videoCount": 98
+    },
+    {
+      "date": "2026-08-07",
+      "title": "소수빈",
+      "subscriberCount": 89300,
+      "totalViewCount": 9999753,
+      "videoCount": 99
     }
   ],
   "videos": [
@@ -45,8 +52,8 @@
       "publishedAt": "2026-07-27T10:00:27Z",
       "durationSeconds": 827,
       "isShort": false,
-      "likeRate": 1.899335232668566,
-      "commentRate": 0.5887939221272555,
+      "likeRate": 1.910828025477707,
+      "commentRate": 0.5807418508804796,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -92,6 +99,15 @@
           "likeCount": 100,
           "commentCount": 31,
           "durationSeconds": 827
+        },
+        {
+          "date": "2026-08-07",
+          "title": "[#24 대딩로그] 스스로에게 건강한 식사를 대접하자🌿 비건 포케, 후무스 플레이트, 파프리카 도전!",
+          "publishedAt": "2026-07-27T10:00:27Z",
+          "viewCount": 5338,
+          "likeCount": 102,
+          "commentCount": 31,
+          "durationSeconds": 827
         }
       ]
     },
@@ -101,8 +117,8 @@
       "publishedAt": "2026-07-10T11:00:21Z",
       "durationSeconds": 917,
       "isShort": false,
-      "likeRate": 1.3393906164329914,
-      "commentRate": 0.4229654578209446,
+      "likeRate": 1.3507183010618362,
+      "commentRate": 0.4216114928169894,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -148,6 +164,35 @@
           "likeCount": 171,
           "commentCount": 54,
           "durationSeconds": 917
+        },
+        {
+          "date": "2026-08-07",
+          "title": "[#23 대딩로그] 진로?🙅🏻‍♀️없고 인스타 끊은 지 1년차 대학생의 여름방학 vlog / 고등학교 친구들이랑 파자마 야르파티",
+          "publishedAt": "2026-07-10T11:00:21Z",
+          "viewCount": 12808,
+          "likeCount": 173,
+          "commentCount": 54,
+          "durationSeconds": 917
+        }
+      ]
+    },
+    {
+      "videoId": "s7ANNfyRx-Q",
+      "title": "Day 1 성균관대 ➡️ 덴마크 공대 교환학생 하루",
+      "publishedAt": "2026-08-06T18:42:34Z",
+      "durationSeconds": 54,
+      "isShort": true,
+      "likeRate": 6.088560885608856,
+      "commentRate": 0.18450184501845018,
+      "dailyStats": [
+        {
+          "date": "2026-08-07",
+          "title": "Day 1 성균관대 ➡️ 덴마크 공대 교환학생 하루",
+          "publishedAt": "2026-08-06T18:42:34Z",
+          "viewCount": 3794,
+          "likeCount": 231,
+          "commentCount": 7,
+          "durationSeconds": 54
         }
       ]
     }
