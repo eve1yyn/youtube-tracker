@@ -50,6 +50,13 @@
       "subscriberCount": 34300,
       "totalViewCount": 3446510,
       "videoCount": 96
+    },
+    {
+      "date": "2026-08-09",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34300,
+      "totalViewCount": 3448490,
+      "videoCount": 97
     }
   ],
   "videos": [
@@ -164,6 +171,26 @@
           "likeCount": 32,
           "commentCount": 1,
           "durationSeconds": null
+        }
+      ]
+    },
+    {
+      "videoId": "HzIbT2Ig92c",
+      "title": "조수석 1열 메이크업쇼💄 #makeuptutorial",
+      "publishedAt": "2026-08-08T09:52:09Z",
+      "durationSeconds": 54,
+      "isShort": true,
+      "likeRate": 1.2906309751434035,
+      "commentRate": 0,
+      "dailyStats": [
+        {
+          "date": "2026-08-09",
+          "title": "조수석 1열 메이크업쇼💄 #makeuptutorial",
+          "publishedAt": "2026-08-08T09:52:09Z",
+          "viewCount": 2092,
+          "likeCount": 27,
+          "commentCount": 0,
+          "durationSeconds": 54
         }
       ]
     }

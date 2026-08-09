@@ -50,6 +50,13 @@
       "subscriberCount": 7390,
       "totalViewCount": 6017906,
       "videoCount": 161
+    },
+    {
+      "date": "2026-08-09",
+      "title": "알밤로그",
+      "subscriberCount": 7390,
+      "totalViewCount": 6021453,
+      "videoCount": 162
     }
   ],
   "videos": [
@@ -59,8 +66,8 @@
       "publishedAt": "2026-08-06T11:00:51Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 0.6939090208172706,
-      "commentRate": 0.03855050115651503,
+      "likeRate": 0.7909948281107393,
+      "commentRate": 0.0304228780042592,
       "dailyStats": [
         {
           "date": "2026-08-07",
@@ -77,6 +84,15 @@
           "publishedAt": "2026-08-06T11:00:51Z",
           "viewCount": 2594,
           "likeCount": 18,
+          "commentCount": 1,
+          "durationSeconds": 58
+        },
+        {
+          "date": "2026-08-09",
+          "title": "헤어케어에 수 억 쓴 여자의 시세이도 프로페셔널 두피스파 다녀온 썰🌷",
+          "publishedAt": "2026-08-06T11:00:51Z",
+          "viewCount": 3287,
+          "likeCount": 26,
           "commentCount": 1,
           "durationSeconds": 58
         }
@@ -135,8 +151,8 @@
       "publishedAt": "2026-07-28T11:00:55Z",
       "durationSeconds": 43,
       "isShort": true,
-      "likeRate": 2.735332956046029,
-      "commentRate": 0.018864365214110543,
+      "likeRate": 2.71078706300243,
+      "commentRate": 0.01869508319312021,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -200,6 +216,15 @@
           "likeCount": 145,
           "commentCount": 1,
           "durationSeconds": 43
+        },
+        {
+          "date": "2026-08-09",
+          "title": "저렴이부터 고렴이까지! 화장품에 수 억 쓴 여자의 바디워시 추천템 1탄🌷",
+          "publishedAt": "2026-07-28T11:00:55Z",
+          "viewCount": 5349,
+          "likeCount": 145,
+          "commentCount": 1,
+          "durationSeconds": 43
         }
       ]
     },
@@ -209,8 +234,8 @@
       "publishedAt": "2026-08-01T11:00:52Z",
       "durationSeconds": 55,
       "isShort": true,
-      "likeRate": 3.7532355478861086,
-      "commentRate": 0.05392579810181191,
+      "likeRate": 3.7354168896500055,
+      "commentRate": 0.053516001284384024,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -274,6 +299,15 @@
           "likeCount": 348,
           "commentCount": 5,
           "durationSeconds": 55
+        },
+        {
+          "date": "2026-08-09",
+          "title": "헤어케어에 수 억 쓴 여자의 헤어 에센스, 오일 추천템🌷",
+          "publishedAt": "2026-08-01T11:00:52Z",
+          "viewCount": 9343,
+          "likeCount": 349,
+          "commentCount": 5,
+          "durationSeconds": 55
         }
       ]
     },
@@ -283,8 +317,8 @@
       "publishedAt": "2026-08-03T11:01:07Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 5.128205128205128,
-      "commentRate": 6.196581196581197,
+      "likeRate": 4.798464491362764,
+      "commentRate": 5.566218809980806,
       "dailyStats": [
         {
           "date": "2026-08-04",
@@ -328,6 +362,15 @@
           "publishedAt": "2026-08-03T11:01:07Z",
           "viewCount": 468,
           "likeCount": 24,
+          "commentCount": 29,
+          "durationSeconds": 59
+        },
+        {
+          "date": "2026-08-09",
+          "title": "자기관리에 수 억 쓴 여자의 효과 제대로 본 영양제 추천🌷",
+          "publishedAt": "2026-08-03T11:01:07Z",
+          "viewCount": 521,
+          "likeCount": 25,
           "commentCount": 29,
           "durationSeconds": 59
         }
@@ -437,13 +480,33 @@
       ]
     },
     {
+      "videoId": "KE6-if1nUo4",
+      "title": "헤어케어에 수 억 쓴 여자의 머리가 퐁퐁 자라는 두피 앰플 추천🌷",
+      "publishedAt": "2026-08-08T11:03:37Z",
+      "durationSeconds": 57,
+      "isShort": true,
+      "likeRate": 1.75054704595186,
+      "commentRate": 0.3063457330415755,
+      "dailyStats": [
+        {
+          "date": "2026-08-09",
+          "title": "헤어케어에 수 억 쓴 여자의 머리가 퐁퐁 자라는 두피 앰플 추천🌷",
+          "publishedAt": "2026-08-08T11:03:37Z",
+          "viewCount": 2285,
+          "likeCount": 40,
+          "commentCount": 7,
+          "durationSeconds": 57
+        }
+      ]
+    },
+    {
       "videoId": "Q6wXRrDB71o",
       "title": "화장품에 수 억 쓴 여자의 정수리 냄새 박멸하는 법🌷",
       "publishedAt": "2026-07-20T11:00:53Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 1.3911355548366224,
-      "commentRate": 0.19411193788417988,
+      "likeRate": 1.3844172569220863,
+      "commentRate": 0.19317450096587252,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -507,6 +570,15 @@
           "likeCount": 43,
           "commentCount": 6,
           "durationSeconds": 57
+        },
+        {
+          "date": "2026-08-09",
+          "title": "화장품에 수 억 쓴 여자의 정수리 냄새 박멸하는 법🌷",
+          "publishedAt": "2026-07-20T11:00:53Z",
+          "viewCount": 3106,
+          "likeCount": 43,
+          "commentCount": 6,
+          "durationSeconds": 57
         }
       ]
     },
@@ -516,8 +588,8 @@
       "publishedAt": "2026-07-18T11:01:36Z",
       "durationSeconds": 46,
       "isShort": true,
-      "likeRate": 2.0123485021724217,
-      "commentRate": 0.06860278984678711,
+      "likeRate": 2.0235712697353794,
+      "commentRate": 0.06671114076050699,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -581,6 +653,15 @@
           "likeCount": 88,
           "commentCount": 3,
           "durationSeconds": 46
+        },
+        {
+          "date": "2026-08-09",
+          "title": "화장품에 수 억 쓴 여자의 유스트 추천템 best 3 2탄🌷",
+          "publishedAt": "2026-07-18T11:01:36Z",
+          "viewCount": 4497,
+          "likeCount": 91,
+          "commentCount": 3,
+          "durationSeconds": 46
         }
       ]
     },
@@ -590,8 +671,8 @@
       "publishedAt": "2026-07-22T11:01:16Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 2.306547619047619,
-      "commentRate": 0.5208333333333333,
+      "likeRate": 2.261123267687819,
+      "commentRate": 0.5105762217359592,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -655,6 +736,15 @@
           "likeCount": 31,
           "commentCount": 7,
           "durationSeconds": 57
+        },
+        {
+          "date": "2026-08-09",
+          "title": "화장품 수 천개 있어도 바닥까지 쓰는 인생 공병템 추천🌷",
+          "publishedAt": "2026-07-22T11:01:16Z",
+          "viewCount": 1371,
+          "likeCount": 31,
+          "commentCount": 7,
+          "durationSeconds": 57
         }
       ]
     },
@@ -664,8 +754,8 @@
       "publishedAt": "2026-07-11T11:01:03Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 2.1578391429002566,
-      "commentRate": 0.12071827372868568,
+      "likeRate": 2.1466121495327104,
+      "commentRate": 0.11682242990654204,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -729,6 +819,15 @@
           "likeCount": 143,
           "commentCount": 8,
           "durationSeconds": 56
+        },
+        {
+          "date": "2026-08-09",
+          "title": "화장품에 수 억 쓴 여자의 유스트 추천템 best 3 1탄🌷",
+          "publishedAt": "2026-07-11T11:01:03Z",
+          "viewCount": 6848,
+          "likeCount": 147,
+          "commentCount": 8,
+          "durationSeconds": 56
         }
       ]
     },
@@ -738,8 +837,8 @@
       "publishedAt": "2026-07-25T10:57:50Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.5833592052157717,
-      "commentRate": 0.03104625892579944,
+      "likeRate": 1.5721331689272502,
+      "commentRate": 0.030826140567200986,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -803,6 +902,15 @@
           "likeCount": 51,
           "commentCount": 1,
           "durationSeconds": 54
+        },
+        {
+          "date": "2026-08-09",
+          "title": "화장품에 수 억 쓴 여자의 등드름, 가드름 없애는 법🌷",
+          "publishedAt": "2026-07-25T10:57:50Z",
+          "viewCount": 3244,
+          "likeCount": 51,
+          "commentCount": 1,
+          "durationSeconds": 54
         }
       ]
     },
@@ -812,8 +920,8 @@
       "publishedAt": "2026-07-16T11:00:28Z",
       "durationSeconds": 20,
       "isShort": true,
-      "likeRate": 0.6030150753768844,
-      "commentRate": 0.1340033500837521,
+      "likeRate": 0.5980066445182725,
+      "commentRate": 0.132890365448505,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -877,6 +985,15 @@
           "likeCount": 18,
           "commentCount": 4,
           "durationSeconds": 20
+        },
+        {
+          "date": "2026-08-09",
+          "title": "저는 상속ㄴ.. 아아니 백수입니다 Pov. 고도로 발전한 백수는 상속녀와 구분할 수 없다",
+          "publishedAt": "2026-07-16T11:00:28Z",
+          "viewCount": 3010,
+          "likeCount": 18,
+          "commentCount": 4,
+          "durationSeconds": 20
         }
       ]
     },
@@ -886,7 +1003,7 @@
       "publishedAt": "2026-07-21T11:01:36Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 1.7326732673267329,
+      "likeRate": 1.762295081967213,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -951,6 +1068,15 @@
           "likeCount": 42,
           "commentCount": 0,
           "durationSeconds": 50
+        },
+        {
+          "date": "2026-08-09",
+          "title": "화장품에 수 억 쓴 여자의 두피가 시원해지는 쿨링아이템 BEST 5🌷",
+          "publishedAt": "2026-07-21T11:01:36Z",
+          "viewCount": 2440,
+          "likeCount": 43,
+          "commentCount": 0,
+          "durationSeconds": 50
         }
       ]
     },
@@ -960,7 +1086,7 @@
       "publishedAt": "2026-08-02T11:00:53Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 0.508336722244815,
+      "likeRate": 0.5194805194805194,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -1025,6 +1151,15 @@
           "likeCount": 25,
           "commentCount": 0,
           "durationSeconds": 53
+        },
+        {
+          "date": "2026-08-09",
+          "title": "헤어케어에 수 억 쓰고 받았던 예쁜 코스메틱 파우치 소개🌷",
+          "publishedAt": "2026-08-02T11:00:53Z",
+          "viewCount": 5005,
+          "likeCount": 26,
+          "commentCount": 0,
+          "durationSeconds": 53
         }
       ]
     },
@@ -1034,8 +1169,8 @@
       "publishedAt": "2026-07-30T11:01:16Z",
       "durationSeconds": 60,
       "isShort": true,
-      "likeRate": 2.1119678176332553,
-      "commentRate": 0.0670465973851827,
+      "likeRate": 2.090939263192831,
+      "commentRate": 0.06637902422834385,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1099,6 +1234,15 @@
           "likeCount": 63,
           "commentCount": 2,
           "durationSeconds": 60
+        },
+        {
+          "date": "2026-08-09",
+          "title": "#광고 피부 밝게 만들려고 수억 쓴 여자의 미백 추천템 BEST 3",
+          "publishedAt": "2026-07-30T11:01:16Z",
+          "viewCount": 3013,
+          "likeCount": 63,
+          "commentCount": 2,
+          "durationSeconds": 60
         }
       ]
     },
@@ -1108,8 +1252,8 @@
       "publishedAt": "2026-07-29T11:01:01Z",
       "durationSeconds": 55,
       "isShort": true,
-      "likeRate": 3.248755039127342,
-      "commentRate": 0.0395225673859774,
+      "likeRate": 3.2374950768018906,
+      "commentRate": 0.03938558487593541,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1170,6 +1314,15 @@
           "title": "저렴이부터 고렴이까지! 화장품에 수 억 쓴 여자의 바디워시 추천템 2탄🌷샤넬+ 알밤 강추템",
           "publishedAt": "2026-07-29T11:01:01Z",
           "viewCount": 12651,
+          "likeCount": 411,
+          "commentCount": 5,
+          "durationSeconds": 55
+        },
+        {
+          "date": "2026-08-09",
+          "title": "저렴이부터 고렴이까지! 화장품에 수 억 쓴 여자의 바디워시 추천템 2탄🌷샤넬+ 알밤 강추템",
+          "publishedAt": "2026-07-29T11:01:01Z",
+          "viewCount": 12695,
           "likeCount": 411,
           "commentCount": 5,
           "durationSeconds": 55
