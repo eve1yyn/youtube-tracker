@@ -141,7 +141,17 @@
           "commentCount": 2,
           "durationSeconds": 32
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "closeup",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "red",
+        "hasFace": true
+      }
     }
   ]
 }

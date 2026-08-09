@@ -255,6 +255,23 @@
   }
   .format-badge.short { color: var(--series-2); background: var(--critical-bg); background: color-mix(in srgb, var(--series-2) 15%, transparent); }
   .format-badge.long { color: var(--series-1); background: var(--good-bg); background: color-mix(in srgb, var(--series-1) 15%, transparent); }
+
+  /* 썸네일 요소 분석 */
+  .thumbnail-insights-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 14px;
+  }
+  .insight-dim-title { font-size: 13px; font-weight: 700; margin-bottom: 12px; color: var(--text-primary); }
+  .insight-row { margin-bottom: 10px; }
+  .insight-row:last-child { margin-bottom: 0; }
+  .insight-row-top { display: flex; justify-content: space-between; align-items: baseline; font-size: 12px; margin-bottom: 4px; }
+  .insight-row-label { color: var(--text-secondary); font-weight: 500; }
+  .insight-row-n { color: var(--text-muted); margin-left: 4px; }
+  .insight-row-value { color: var(--text-primary); font-weight: 600; font-variant-numeric: tabular-nums; }
+  .insight-row-sub { color: var(--text-muted); font-weight: 400; }
+  .insight-bar-track { height: 6px; border-radius: 999px; background: var(--page-plane); overflow: hidden; }
+  .insight-bar-fill { height: 100%; border-radius: 999px; background: var(--series-1); }
 </style>
 </head>
 <body>
@@ -286,6 +303,16 @@
           그래프를 그릴 만큼 영상 데이터가 쌓인 채널이 아직 없어요.
         </div>
       </div>
+    </div>
+
+    <div class="section">
+      <div class="section-head">
+        <h2>썸네일 요소 분석</h2>
+        <div class="section-sub">
+          얼굴/텍스트/구성 등 썸네일 요소별 평균 성과 비교 · 표본이 아직 작아 방향성 참고용이에요(통계적으로 유의미하지 않을 수 있음, n = 해당 그룹 영상 수)
+        </div>
+      </div>
+      <div class="thumbnail-insights-grid" id="thumbnailInsightsGrid"></div>
     </div>
 
     <div class="section">

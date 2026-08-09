@@ -48,6 +48,53 @@ function ratePercent(numerator, denominator) {
   return (numerator / denominator) * 100;
 }
 
+// face_count는 정수 그대로 두면 표본이 작은 우리 데이터에서 값마다 n=1짜리 버킷이 난립한다.
+// "없음/1명/2명 이상" 3버킷으로 묶어야 그룹당 표본이 그나마 확보된다.
+function bucketFaceCount(n) {
+  if (n === 0) return '없음';
+  if (n === 1) return '1명';
+  return '2명 이상';
+}
+
+function groupBy(rows, keyFn, label) {
+  const groups = new Map();
+  for (const row of rows) {
+    const key = keyFn(row);
+    if (key === null || key === undefined) continue;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(row);
+  }
+  const buckets = [...groups.entries()].map(([value, rs]) => ({
+    value,
+    count: rs.length,
+    avgViews: average(rs.map((r) => r.viewCount)),
+    medianViews: median(rs.map((r) => r.viewCount)),
+    avgEngagementRate: average(rs.map((r) => r.engagementRate).filter((v) => v !== null)),
+  }));
+  buckets.sort((a, b) => (b.avgEngagementRate ?? -Infinity) - (a.avgEngagementRate ?? -Infinity));
+  return { label, buckets };
+}
+
+// 채널 하나당 영상이 몇 개 안 되므로 채널별로는 상관관계가 무의미하다. 전체 채널의
+// 안정화된 영상을 모두 합쳐야 버킷당 표본이 확보된다(그래서 채널 루프 밖에서 호출).
+function buildThumbnailInsights(rows, totalAnalyzedCount) {
+  if (rows.length === 0) return null;
+  return {
+    sampleSize: totalAnalyzedCount,
+    stableSampleSize: rows.length,
+    generatedAt: new Date().toISOString(),
+    dimensions: {
+      faceCount: groupBy(rows, (r) => bucketFaceCount(r.faceCount), '얼굴 수'),
+      textOverlay: groupBy(rows, (r) => (r.textOverlay ? '있음' : '없음'), '텍스트 오버레이'),
+      dominantEmotion: groupBy(rows, (r) => r.dominantEmotion, '표정'),
+      shotType: groupBy(rows, (r) => r.shotType, '샷 타입'),
+      brightness: groupBy(rows, (r) => r.brightness, '밝기'),
+      sceneBusyness: groupBy(rows, (r) => r.sceneBusyness, '구성 복잡도'),
+      dominantColor: groupBy(rows, (r) => r.dominantColor, '주조색'),
+    },
+  };
+}
+
 // 유튜브 쇼츠 여부를 판단할 공식 API 필드가 없어, 재생시간 3분 이하를 쇼츠로 추정한다.
 // 구 데이터(재수집 전)는 duration_seconds가 없어 null(형식 미상)로 남는다.
 function isShort(durationSeconds) {
@@ -60,10 +107,24 @@ function exportDashboardData(dbPath, outDir) {
   const channelIds = db.prepare('SELECT DISTINCT channel_id FROM channel_daily ORDER BY channel_id').all().map((r) => r.channel_id);
   const now = Date.now();
 
+  // video_thumbnail_features는 analyze-thumbnails 스크립트를 한 번도 안 돌렸으면 아직 없을 수 있다.
+  const hasThumbnailFeatures = !!db
+    .prepare("SELECT name FROM sqlite_master WHERE type='table' AND name='video_thumbnail_features'")
+    .get();
+  const featureStmt = hasThumbnailFeatures
+    ? db.prepare(
+        `SELECT face_count AS faceCount, text_overlay AS textOverlay, dominant_emotion AS dominantEmotion,
+                shot_type AS shotType, brightness, scene_busyness AS sceneBusyness, dominant_color AS dominantColor
+         FROM video_thumbnail_features WHERE video_id = ?`
+      )
+    : null;
+
   fs.mkdirSync(outDir, { recursive: true });
 
   const indexChannels = [];
   const allMovers = [];
+  const allStableFeatureRows = [];
+  let totalAnalyzedCount = 0;
 
   for (const channelId of channelIds) {
     const channelRows = db
@@ -95,6 +156,12 @@ function exportDashboardData(dbPath, outDir) {
         });
       }
 
+      const featureRow = featureStmt ? featureStmt.get(videoId) : undefined;
+      const thumbnailFeatures = featureRow
+        ? { ...featureRow, textOverlay: !!featureRow.textOverlay, hasFace: featureRow.faceCount > 0 }
+        : null;
+      if (thumbnailFeatures) totalAnalyzedCount += 1;
+
       return {
         videoId,
         title: latest.title,
@@ -104,6 +171,7 @@ function exportDashboardData(dbPath, outDir) {
         likeRate: ratePercent(latest.likeCount, latest.viewCount),
         commentRate: ratePercent(latest.commentCount, latest.viewCount),
         dailyStats: videoRows,
+        thumbnailFeatures,
       };
     });
 
@@ -115,6 +183,16 @@ function exportDashboardData(dbPath, outDir) {
     // 채널 단위 집계는 "안정화된"(올라온 지 STABLE_VIDEO_AGE_DAYS일 이상 지난) 영상만 사용.
     const stableVideos = videos.filter((v) => now - new Date(v.publishedAt).getTime() >= STABLE_VIDEO_AGE_DAYS * 86400000);
     const stableViewCounts = stableVideos.map((v) => v.dailyStats[v.dailyStats.length - 1].viewCount);
+
+    for (const v of stableVideos) {
+      if (!v.thumbnailFeatures) continue;
+      const latestStats = v.dailyStats[v.dailyStats.length - 1];
+      allStableFeatureRows.push({
+        ...v.thumbnailFeatures,
+        viewCount: latestStats.viewCount,
+        engagementRate: ratePercent((latestStats.likeCount || 0) + (latestStats.commentCount || 0), latestStats.viewCount),
+      });
+    }
     const avgViews = average(stableViewCounts);
     const medianViews = median(stableViewCounts);
     const reachRate = avgViews !== null ? ratePercent(avgViews, latestChannel.subscriberCount) : null;
@@ -153,10 +231,12 @@ function exportDashboardData(dbPath, outDir) {
   const topMoversShorts = allMovers.filter((m) => m.isShort === true).slice(0, 10);
   const topMoversLongform = allMovers.filter((m) => m.isShort === false).slice(0, 10);
 
+  const thumbnailInsights = buildThumbnailInsights(allStableFeatureRows, totalAnalyzedCount);
+
   fs.writeFileSync(
     path.join(outDir, 'index.json'),
     JSON.stringify(
-      { generatedAt: new Date().toISOString(), channels: indexChannels, topMoversShorts, topMoversLongform },
+      { generatedAt: new Date().toISOString(), channels: indexChannels, topMoversShorts, topMoversLongform, thumbnailInsights },
       null,
       2
     )

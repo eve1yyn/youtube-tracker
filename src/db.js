@@ -65,4 +65,24 @@ function upsertVideoDaily(db, rows) {
   });
 }
 
-module.exports = { openDb, upsertChannelDaily, upsertVideoDaily };
+// 주어진 videoId 목록 중 이미 썸네일 분석이 끝난 것만 Set으로 반환한다.
+function getExistingFeatureVideoIds(db, videoIds) {
+  if (videoIds.length === 0) return new Set();
+  const placeholders = videoIds.map(() => '?').join(',');
+  const rows = db.prepare(`SELECT video_id FROM video_thumbnail_features WHERE video_id IN (${placeholders})`).all(...videoIds);
+  return new Set(rows.map((r) => r.video_id));
+}
+
+// video_id당 한 번만 기록되는 정적 테이블이라, 이미 있으면 갱신하지 않고 그대로 둔다.
+function upsertThumbnailFeatures(db, rows) {
+  const stmt = db.prepare(`
+    INSERT INTO video_thumbnail_features (video_id, thumbnail_url, face_count, text_overlay, dominant_emotion, shot_type, brightness, scene_busyness, dominant_color, model, analyzed_at)
+    VALUES (@videoId, @thumbnailUrl, @faceCount, @textOverlay, @dominantEmotion, @shotType, @brightness, @sceneBusyness, @dominantColor, @model, @analyzedAt)
+    ON CONFLICT (video_id) DO NOTHING
+  `);
+  withTransaction(db, () => {
+    for (const row of rows) stmt.run({ ...row, textOverlay: row.textOverlay ? 1 : 0 });
+  });
+}
+
+module.exports = { openDb, upsertChannelDaily, upsertVideoDaily, getExistingFeatureVideoIds, upsertThumbnailFeatures };

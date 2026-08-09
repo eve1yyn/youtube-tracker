@@ -69,6 +69,13 @@ async function collectVideos(client, channels, { videoWindowDays, maxVideosPerCh
           likeCount: item.statistics.likeCount !== undefined ? Number(item.statistics.likeCount) : null,
           commentCount: item.statistics.commentCount !== undefined ? Number(item.statistics.commentCount) : null,
           durationSeconds: parseIso8601Duration(item.contentDetails?.duration),
+          thumbnailUrl:
+            item.snippet.thumbnails?.maxres?.url ||
+            item.snippet.thumbnails?.high?.url ||
+            item.snippet.thumbnails?.standard?.url ||
+            item.snippet.thumbnails?.medium?.url ||
+            item.snippet.thumbnails?.default?.url ||
+            null,
         });
       }
     } catch (err) {

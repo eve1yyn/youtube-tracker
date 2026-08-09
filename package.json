@@ -12,9 +12,11 @@
     "collect": "node index.js",
     "dev": "node dev-run.js",
     "export-dashboard-data": "node src/exportDashboardData.js",
-    "discover": "node discover.js"
+    "discover": "node discover.js",
+    "analyze-thumbnails": "node analyzeThumbnails.js"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0",
     "dotenv": "^16.4.5"
   }
 }

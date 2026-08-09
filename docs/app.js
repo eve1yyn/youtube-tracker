@@ -154,6 +154,35 @@ function renderPositioningChart(channels) {
   });
 }
 
+function renderThumbnailInsights(thumbnailInsights) {
+  const el = document.getElementById('thumbnailInsightsGrid');
+  if (!thumbnailInsights || thumbnailInsights.stableSampleSize === 0) {
+    el.innerHTML = `<div class="empty-state" style="grid-column: 1 / -1;">아직 분석된 썸네일이 없어요. analyze-thumbnails 스크립트를 실행하면 여기 표시됩니다.</div>`;
+    return;
+  }
+
+  el.innerHTML = Object.values(thumbnailInsights.dimensions)
+    .map((dim) => {
+      const maxRate = Math.max(...dim.buckets.map((b) => b.avgEngagementRate ?? 0), 0.0001);
+      const rows = dim.buckets
+        .map((b) => {
+          const pct = Math.max(0, Math.min(100, ((b.avgEngagementRate ?? 0) / maxRate) * 100));
+          return `
+        <div class="insight-row">
+          <div class="insight-row-top">
+            <span class="insight-row-label">${b.value}<span class="insight-row-n">n=${b.count}</span></span>
+            <span class="insight-row-value">${fmtPercent(b.avgEngagementRate, 2)}<span class="insight-row-sub"> · 조회수 평균 ${fmtNum(b.avgViews)}회</span></span>
+          </div>
+          <div class="insight-bar-track"><div class="insight-bar-fill" style="width:${pct}%;"></div></div>
+        </div>
+      `;
+        })
+        .join('');
+      return `<div class="card"><div class="insight-dim-title">${dim.label}</div>${rows}</div>`;
+    })
+    .join('');
+}
+
 async function main() {
   const res = await fetch('data/index.json', { cache: 'no-store' });
   const data = await res.json();
@@ -165,6 +194,7 @@ async function main() {
 
   renderKpiTiles(data);
   renderPositioningChart(data.channels);
+  renderThumbnailInsights(data.thumbnailInsights);
   renderMovers(data.topMoversShorts, data.topMoversLongform);
   renderChannelTabs(data.channels);
   renderTierFilter();

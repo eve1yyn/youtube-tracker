@@ -88,7 +88,7 @@ async function main() {
       collectedAt,
     }))
   );
-  upsertVideoDaily(db, videos.map((v) => ({ ...v, date, collectedAt })));
+  upsertVideoDaily(db, videos.map(({ thumbnailUrl, ...v }) => ({ ...v, date, collectedAt })));
 
   db.close();
 

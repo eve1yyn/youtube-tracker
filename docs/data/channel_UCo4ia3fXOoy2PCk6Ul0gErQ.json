@@ -96,7 +96,17 @@
           "commentCount": 18,
           "durationSeconds": 7798
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "orange",
+        "hasFace": true
+      }
     },
     {
       "videoId": "MaNLtNh-tCk",
@@ -179,7 +189,17 @@
           "commentCount": 51,
           "durationSeconds": 1619
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "multicolor",
+        "hasFace": true
+      }
     },
     {
       "videoId": "NOEAh4NLjrE",
@@ -262,7 +282,17 @@
           "commentCount": 93,
           "durationSeconds": 1396
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 2,
+        "textOverlay": true,
+        "dominantEmotion": "none",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "multicolor",
+        "hasFace": true
+      }
     },
     {
       "videoId": "ZwgjOdDtpIk",
@@ -345,7 +375,17 @@
           "commentCount": 84,
           "durationSeconds": 1198
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 2,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "wide",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "multicolor",
+        "hasFace": true
+      }
     },
     {
       "videoId": "fOaRove2q00",
@@ -383,7 +423,17 @@
           "commentCount": 83,
           "durationSeconds": 650
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "black_white",
+        "hasFace": true
+      }
     }
   ]
 }

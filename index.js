@@ -54,7 +54,8 @@ async function main() {
   }));
   upsertChannelDaily(db, channelRows);
 
-  const videoRows = videos.map((v) => ({ ...v, date, collectedAt }));
+  // thumbnailUrl은 video_daily에 저장하지 않는다(썸네일 분석은 별도의 analyze-thumbnails 스크립트가 담당).
+  const videoRows = videos.map(({ thumbnailUrl, ...v }) => ({ ...v, date, collectedAt }));
   upsertVideoDaily(db, videoRows);
 
   db.close();
