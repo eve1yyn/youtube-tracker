@@ -357,7 +357,17 @@
           "commentCount": 173,
           "durationSeconds": 3667
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "multicolor",
+        "hasFace": true
+      }
     },
     {
       "videoId": "jeDWhg5w5yc",
@@ -414,16 +424,7 @@
           "durationSeconds": 58
         }
       ],
-      "thumbnailFeatures": {
-        "faceCount": 1,
-        "textOverlay": true,
-        "dominantEmotion": "neutral",
-        "shotType": "medium",
-        "brightness": "bright",
-        "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
-        "hasFace": true
-      }
+      "thumbnailFeatures": null
     },
     {
       "videoId": "lp6Il5ydNt8",

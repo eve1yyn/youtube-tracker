@@ -300,7 +300,17 @@
           "commentCount": 10,
           "durationSeconds": 31
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 2,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "medium",
+        "brightness": "medium",
+        "sceneBusyness": "moderate",
+        "dominantColor": "black_white",
+        "hasFace": true
+      }
     },
     {
       "videoId": "AFVCIDnwvF0",
@@ -330,16 +340,7 @@
           "durationSeconds": 1563
         }
       ],
-      "thumbnailFeatures": {
-        "faceCount": 2,
-        "textOverlay": true,
-        "dominantEmotion": "positive",
-        "shotType": "medium",
-        "brightness": "medium",
-        "sceneBusyness": "moderate",
-        "dominantColor": "black_white",
-        "hasFace": true
-      }
+      "thumbnailFeatures": null
     },
     {
       "videoId": "DBNNOHT_A4M",

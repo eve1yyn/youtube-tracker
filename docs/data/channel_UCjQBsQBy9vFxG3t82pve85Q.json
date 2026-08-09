@@ -105,7 +105,17 @@
           "commentCount": 3,
           "durationSeconds": 59
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "negative",
+        "shotType": "closeup",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "red",
+        "hasFace": true
+      }
     },
     {
       "videoId": "AteRIqs3Uek",
@@ -152,7 +162,17 @@
           "commentCount": 6,
           "durationSeconds": 50
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "closeup",
+        "brightness": "medium",
+        "sceneBusyness": "moderate",
+        "dominantColor": "black_white",
+        "hasFace": true
+      }
     },
     {
       "videoId": "BKFmxk2eAXY",
@@ -172,7 +192,17 @@
           "commentCount": 1,
           "durationSeconds": null
         }
-      ]
+      ],
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "closeup",
+        "brightness": "medium",
+        "sceneBusyness": "moderate",
+        "dominantColor": "multicolor",
+        "hasFace": true
+      }
     },
     {
       "videoId": "HzIbT2Ig92c",
@@ -192,7 +222,8 @@
           "commentCount": 0,
           "durationSeconds": 54
         }
-      ]
+      ],
+      "thumbnailFeatures": null
     }
   ]
 }

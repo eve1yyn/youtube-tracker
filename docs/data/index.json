@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T01:59:17.406Z",
+  "generatedAt": "2026-08-09T14:55:09.000Z",
   "channels": [
     {
       "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
@@ -16,8 +16,8 @@
       "growthRate30d": null,
       "viewDelta7d": 326371,
       "viewDelta30d": null,
-      "videosLast30d": 13,
-      "uploadsPerWeek": 3.033333333333333,
+      "videosLast30d": 12,
+      "uploadsPerWeek": 2.8000000000000003,
       "avgViewsPerVideo": 84963.07692307692,
       "reachRate": 81.69526627218934,
       "reachRateMedian": 38.714423076923076,
@@ -496,8 +496,8 @@
       "growthRate30d": null,
       "viewDelta7d": 310078,
       "viewDelta30d": null,
-      "videosLast30d": 13,
-      "uploadsPerWeek": 3.033333333333333,
+      "videosLast30d": 12,
+      "uploadsPerWeek": 2.8000000000000003,
       "avgViewsPerVideo": 97289.5625,
       "reachRate": 145.86141304347825,
       "reachRateMedian": 76.94527736131934,
@@ -818,10 +818,10 @@
       "viewDelta30d": null,
       "videosLast30d": 15,
       "uploadsPerWeek": 3.5,
-      "avgViewsPerVideo": 4587.4375,
-      "reachRate": 62.076285520974295,
-      "reachRateMedian": 45.5277401894452,
-      "engagementRate": 2.5041608044742585,
+      "avgViewsPerVideo": 4510.941176470588,
+      "reachRate": 61.04115259094165,
+      "reachRateMedian": 44.479025710419485,
+      "engagementRate": 2.4051759163354784,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -896,8 +896,8 @@
       "growthRate30d": null,
       "viewDelta7d": 83051,
       "viewDelta30d": null,
-      "videosLast30d": 6,
-      "uploadsPerWeek": 1.4000000000000001,
+      "videosLast30d": 5,
+      "uploadsPerWeek": 1.1666666666666667,
       "avgViewsPerVideo": 9389.5,
       "reachRate": 10.502796420581657,
       "reachRateMedian": 10.502796420581657,
@@ -1456,8 +1456,8 @@
       "growthRate30d": null,
       "viewDelta7d": 177810,
       "viewDelta30d": null,
-      "videosLast30d": 7,
-      "uploadsPerWeek": 1.6333333333333333,
+      "videosLast30d": 6,
+      "uploadsPerWeek": 1.4000000000000001,
       "avgViewsPerVideo": 59319.25,
       "reachRate": 5.8731930693069305,
       "reachRateMedian": 4.21039603960396,
@@ -1616,12 +1616,12 @@
       "growthRate30d": null,
       "viewDelta7d": 4431465,
       "viewDelta30d": null,
-      "videosLast30d": 45,
-      "uploadsPerWeek": 10.5,
-      "avgViewsPerVideo": 207461.4375,
-      "reachRate": 141.13022959183675,
-      "reachRateMedian": 136.78673469387755,
-      "engagementRate": 2.3987621494325375,
+      "videosLast30d": 44,
+      "uploadsPerWeek": 10.266666666666667,
+      "avgViewsPerVideo": 206277.6530612245,
+      "reachRate": 140.32493405525477,
+      "reachRateMedian": 135.1625850340136,
+      "engagementRate": 2.40471443082126,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1696,8 +1696,8 @@
       "growthRate30d": null,
       "viewDelta7d": 166675,
       "viewDelta30d": null,
-      "videosLast30d": 4,
-      "uploadsPerWeek": 0.9333333333333333,
+      "videosLast30d": 3,
+      "uploadsPerWeek": 0.7000000000000001,
       "avgViewsPerVideo": 94163.25,
       "reachRate": 12.899075342465755,
       "reachRateMedian": 13.917397260273972,
@@ -2165,5 +2165,229 @@
       "viewDelta": 1443,
       "isShort": false
     }
-  ]
+  ],
+  "thumbnailInsights": {
+    "sampleSize": 151,
+    "stableSampleSize": 151,
+    "generatedAt": "2026-08-09T14:55:08.999Z",
+    "dimensions": {
+      "faceCount": {
+        "label": "얼굴 수",
+        "buckets": [
+          {
+            "value": "2명 이상",
+            "count": 18,
+            "avgViews": 77238.5,
+            "medianViews": 31103,
+            "avgEngagementRate": 3.1795212877171455
+          },
+          {
+            "value": "1명",
+            "count": 87,
+            "avgViews": 110731,
+            "medianViews": 63773,
+            "avgEngagementRate": 2.8172818724100384
+          },
+          {
+            "value": "없음",
+            "count": 46,
+            "avgViews": 98729.19565217392,
+            "medianViews": 21944.5,
+            "avgEngagementRate": 2.391675750924137
+          }
+        ]
+      },
+      "textOverlay": {
+        "label": "텍스트 오버레이",
+        "buckets": [
+          {
+            "value": "없음",
+            "count": 13,
+            "avgViews": 41121,
+            "medianViews": 1032,
+            "avgEngagementRate": 7.553466278540236
+          },
+          {
+            "value": "있음",
+            "count": 138,
+            "avgViews": 108919.27536231885,
+            "medianViews": 65357,
+            "avgEngagementRate": 2.2764994855077485
+          }
+        ]
+      },
+      "dominantEmotion": {
+        "label": "표정",
+        "buckets": [
+          {
+            "value": "positive",
+            "count": 30,
+            "avgViews": 114967.06666666667,
+            "medianViews": 92950,
+            "avgEngagementRate": 3.5555764066112094
+          },
+          {
+            "value": "neutral",
+            "count": 64,
+            "avgViews": 102472.25,
+            "medianViews": 44514.5,
+            "avgEngagementRate": 2.5954995963705985
+          },
+          {
+            "value": "none",
+            "count": 55,
+            "avgViews": 97117.3090909091,
+            "medianViews": 32100,
+            "avgEngagementRate": 2.4809676787273847
+          },
+          {
+            "value": "negative",
+            "count": 2,
+            "avgViews": 108372.5,
+            "medianViews": 108372.5,
+            "avgEngagementRate": 1.5597509625157353
+          }
+        ]
+      },
+      "shotType": {
+        "label": "샷 타입",
+        "buckets": [
+          {
+            "value": "wide",
+            "count": 8,
+            "avgViews": 134457.125,
+            "medianViews": 73036.5,
+            "avgEngagementRate": 3.1556451790054014
+          },
+          {
+            "value": "medium",
+            "count": 89,
+            "avgViews": 107000.6404494382,
+            "medianViews": 52236,
+            "avgEngagementRate": 3.0951808047437743
+          },
+          {
+            "value": "closeup",
+            "count": 54,
+            "avgViews": 91976.27777777778,
+            "medianViews": 51370.5,
+            "avgEngagementRate": 2.0673284734602424
+          }
+        ]
+      },
+      "brightness": {
+        "label": "밝기",
+        "buckets": [
+          {
+            "value": "bright",
+            "count": 107,
+            "avgViews": 111774.6261682243,
+            "medianViews": 66941,
+            "avgEngagementRate": 3.088649557403102
+          },
+          {
+            "value": "dark",
+            "count": 4,
+            "avgViews": 16109.75,
+            "medianViews": 16422,
+            "avgEngagementRate": 2.0882452013567576
+          },
+          {
+            "value": "medium",
+            "count": 40,
+            "avgViews": 88527.725,
+            "medianViews": 29367.5,
+            "avgEngagementRate": 1.8378376793383329
+          }
+        ]
+      },
+      "sceneBusyness": {
+        "label": "구성 복잡도",
+        "buckets": [
+          {
+            "value": "moderate",
+            "count": 89,
+            "avgViews": 98745.20224719102,
+            "medianViews": 55540,
+            "avgEngagementRate": 2.8135541050358306
+          },
+          {
+            "value": "busy",
+            "count": 57,
+            "avgViews": 107418.71929824562,
+            "medianViews": 39436,
+            "avgEngagementRate": 2.641678130103466
+          },
+          {
+            "value": "clean",
+            "count": 5,
+            "avgViews": 130848.6,
+            "medianViews": 47105,
+            "avgEngagementRate": 2.2740043714011597
+          }
+        ]
+      },
+      "dominantColor": {
+        "label": "주조색",
+        "buckets": [
+          {
+            "value": "blue",
+            "count": 13,
+            "avgViews": 87331.76923076923,
+            "medianViews": 57372,
+            "avgEngagementRate": 3.6732792708121593
+          },
+          {
+            "value": "yellow",
+            "count": 9,
+            "avgViews": 134012.44444444444,
+            "medianViews": 34912,
+            "avgEngagementRate": 3.0225222806802394
+          },
+          {
+            "value": "multicolor",
+            "count": 59,
+            "avgViews": 95586.28813559322,
+            "medianViews": 27711,
+            "avgEngagementRate": 2.908190639659483
+          },
+          {
+            "value": "black_white",
+            "count": 31,
+            "avgViews": 95564.51612903226,
+            "medianViews": 41924,
+            "avgEngagementRate": 2.7025145730665723
+          },
+          {
+            "value": "orange",
+            "count": 10,
+            "avgViews": 76387.3,
+            "medianViews": 46741,
+            "avgEngagementRate": 2.244244735672379
+          },
+          {
+            "value": "pink",
+            "count": 15,
+            "avgViews": 171016.33333333334,
+            "medianViews": 157812,
+            "avgEngagementRate": 2.177785385287946
+          },
+          {
+            "value": "red",
+            "count": 9,
+            "avgViews": 83030.33333333333,
+            "medianViews": 30550,
+            "avgEngagementRate": 2.0451722585719674
+          },
+          {
+            "value": "green",
+            "count": 5,
+            "avgViews": 109105.2,
+            "medianViews": 55540,
+            "avgEngagementRate": 1.7039363212496206
+          }
+        ]
+      }
+    }
+  }
 }
