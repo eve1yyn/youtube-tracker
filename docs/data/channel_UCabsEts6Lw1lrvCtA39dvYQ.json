@@ -57,6 +57,13 @@
       "subscriberCount": 89400,
       "totalViewCount": 10070150,
       "videoCount": 102
+    },
+    {
+      "date": "2026-08-10",
+      "title": "소수빈",
+      "subscriberCount": 89400,
+      "totalViewCount": 10102069,
+      "videoCount": 103
     }
   ],
   "videos": [
@@ -66,8 +73,8 @@
       "publishedAt": "2026-08-07T19:06:58Z",
       "durationSeconds": 77,
       "isShort": true,
-      "likeRate": 1.9064911484339537,
-      "commentRate": 0.0843006290123857,
+      "likeRate": 1.8887269980033459,
+      "commentRate": 0.0863418056230101,
       "dailyStats": [
         {
           "date": "2026-08-08",
@@ -86,18 +93,27 @@
           "likeCount": 294,
           "commentCount": 13,
           "durationSeconds": 77
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Day 3 다리 짧아서 자전거 못타🥵",
+          "publishedAt": "2026-08-07T19:06:58Z",
+          "viewCount": 18531,
+          "likeCount": 350,
+          "commentCount": 16,
+          "durationSeconds": 77
         }
       ],
       "thumbnailFeatures": null
     },
     {
       "videoId": "GbUGSo7I7Yc",
-      "title": "Day 5 버스 25분에 얼마게요❓❓+외국인 친구 생겼다 우와!!!",
+      "title": "Day 4 버스 25분에 얼마게요❓❓+외국인 친구 생겼다 우와!!!",
       "publishedAt": "2026-08-08T18:46:35Z",
       "durationSeconds": 73,
       "isShort": true,
-      "likeRate": 3.5685320356853207,
-      "commentRate": 0.16220600162206003,
+      "likeRate": 2.336245894528103,
+      "commentRate": 0.06196938712276135,
       "dailyStats": [
         {
           "date": "2026-08-09",
@@ -107,6 +123,36 @@
           "likeCount": 88,
           "commentCount": 4,
           "durationSeconds": 73
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Day 4 버스 25분에 얼마게요❓❓+외국인 친구 생겼다 우와!!!",
+          "publishedAt": "2026-08-08T18:46:35Z",
+          "viewCount": 16137,
+          "likeCount": 377,
+          "commentCount": 10,
+          "durationSeconds": 73
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "J9EO5_EviLA",
+      "title": "Day 5 성균관대 교환학생 하루 / 덴마크에서 첫 요가 수업🧘🏻",
+      "publishedAt": "2026-08-09T16:47:51Z",
+      "durationSeconds": 81,
+      "isShort": true,
+      "likeRate": 3.356481481481482,
+      "commentRate": 0.057870370370370364,
+      "dailyStats": [
+        {
+          "date": "2026-08-10",
+          "title": "Day 5 성균관대 교환학생 하루 / 덴마크에서 첫 요가 수업🧘🏻",
+          "publishedAt": "2026-08-09T16:47:51Z",
+          "viewCount": 3456,
+          "likeCount": 116,
+          "commentCount": 2,
+          "durationSeconds": 81
         }
       ],
       "thumbnailFeatures": null
@@ -117,8 +163,8 @@
       "publishedAt": "2026-07-27T10:00:27Z",
       "durationSeconds": 827,
       "isShort": false,
-      "likeRate": 1.82648401826484,
-      "commentRate": 0.5444327362135581,
+      "likeRate": 1.8019564098163723,
+      "commentRate": 0.549167667753561,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -190,6 +236,15 @@
           "viewCount": 5694,
           "likeCount": 104,
           "commentCount": 31,
+          "durationSeconds": 827
+        },
+        {
+          "date": "2026-08-10",
+          "title": "[#24 대딩로그] 스스로에게 건강한 식사를 대접하자🌿 비건 포케, 후무스 플레이트, 파프리카 도전!",
+          "publishedAt": "2026-07-27T10:00:27Z",
+          "viewCount": 5827,
+          "likeCount": 105,
+          "commentCount": 32,
           "durationSeconds": 827
         }
       ],
@@ -303,8 +358,8 @@
       "publishedAt": "2026-08-07T12:59:51Z",
       "durationSeconds": 96,
       "isShort": true,
-      "likeRate": 2.3832404382087256,
-      "commentRate": 0.08648856428983279,
+      "likeRate": 2.2605231248917375,
+      "commentRate": 0.08661008141347654,
       "dailyStats": [
         {
           "date": "2026-08-08",
@@ -323,6 +378,15 @@
           "likeCount": 496,
           "commentCount": 18,
           "durationSeconds": 96
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Day2 ADHD가 해외에서 정신 놓으면 생기는 일..^^",
+          "publishedAt": "2026-08-07T12:59:51Z",
+          "viewCount": 23092,
+          "likeCount": 522,
+          "commentCount": 20,
+          "durationSeconds": 96
         }
       ],
       "thumbnailFeatures": null
@@ -333,8 +397,8 @@
       "publishedAt": "2026-08-06T18:42:34Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.8813832646479127,
-      "commentRate": 0.04863439731742903,
+      "likeRate": 1.80358872641727,
+      "commentRate": 0.04382120946538125,
       "dailyStats": [
         {
           "date": "2026-08-07",
@@ -360,6 +424,15 @@
           "publishedAt": "2026-08-06T18:42:34Z",
           "viewCount": 39067,
           "likeCount": 735,
+          "commentCount": 19,
+          "durationSeconds": 54
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Day 1 성균관대 ➡️ 덴마크 공대 교환학생 하루",
+          "publishedAt": "2026-08-06T18:42:34Z",
+          "viewCount": 43358,
+          "likeCount": 782,
           "commentCount": 19,
           "durationSeconds": 54
         }

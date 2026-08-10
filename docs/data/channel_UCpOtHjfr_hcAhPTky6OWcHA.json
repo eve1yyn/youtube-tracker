@@ -57,17 +57,45 @@
       "subscriberCount": 1010000,
       "totalViewCount": 14468328,
       "videoCount": 188
+    },
+    {
+      "date": "2026-08-10",
+      "title": "세빈 SEBIN",
+      "subscriberCount": 1010000,
+      "totalViewCount": 14483103,
+      "videoCount": 189
     }
   ],
   "videos": [
+    {
+      "videoId": "29dcIgxgyxQ",
+      "title": "요즘 핫플 고성 당일치기 여행⛱️ 실패 없는하루 코스 알려드림🥵",
+      "publishedAt": "2026-08-09T10:57:42Z",
+      "durationSeconds": 610,
+      "isShort": false,
+      "likeRate": 4.213362068965517,
+      "commentRate": 0.27478448275862066,
+      "dailyStats": [
+        {
+          "date": "2026-08-10",
+          "title": "요즘 핫플 고성 당일치기 여행⛱️ 실패 없는하루 코스 알려드림🥵",
+          "publishedAt": "2026-08-09T10:57:42Z",
+          "viewCount": 18560,
+          "likeCount": 782,
+          "commentCount": 51,
+          "durationSeconds": 610
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "2DNWEuekeY8",
       "title": "제주도의 LA?! 느좋 숙소, 인스타 감성 사진 스팟, 해변 추천 🏖️",
       "publishedAt": "2026-07-26T11:27:10Z",
       "durationSeconds": 867,
       "isShort": false,
-      "likeRate": 2.4662771919825213,
-      "commentRate": 0.10686805357651753,
+      "likeRate": 2.469468285657413,
+      "commentRate": 0.10655363394728523,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -139,6 +167,15 @@
           "viewCount": 84216,
           "likeCount": 2077,
           "commentCount": 90,
+          "durationSeconds": 867
+        },
+        {
+          "date": "2026-08-10",
+          "title": "제주도의 LA?! 느좋 숙소, 인스타 감성 사진 스팟, 해변 추천 🏖️",
+          "publishedAt": "2026-07-26T11:27:10Z",
+          "viewCount": 85403,
+          "likeCount": 2109,
+          "commentCount": 91,
           "durationSeconds": 867
         }
       ],
@@ -225,8 +262,8 @@
       "publishedAt": "2026-07-22T10:11:54Z",
       "durationSeconds": 71,
       "isShort": true,
-      "likeRate": 7.654000216520515,
-      "commentRate": 0.10826025765941323,
+      "likeRate": 7.6348488113194,
+      "commentRate": 0.10773540185304892,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -297,6 +334,15 @@
           "publishedAt": "2026-07-22T10:11:54Z",
           "viewCount": 27711,
           "likeCount": 2121,
+          "commentCount": 30,
+          "durationSeconds": 71
+        },
+        {
+          "date": "2026-08-10",
+          "title": "GRWM 연한 화장해봄.. (내 기준ㅋ)  #makeup #겟레디윗미",
+          "publishedAt": "2026-07-22T10:11:54Z",
+          "viewCount": 27846,
+          "likeCount": 2126,
           "commentCount": 30,
           "durationSeconds": 71
         }
@@ -411,8 +457,8 @@
       "publishedAt": "2026-08-02T11:30:31Z",
       "durationSeconds": 1741,
       "isShort": false,
-      "likeRate": 3.7694310437246346,
-      "commentRate": 0.2795007274676468,
+      "likeRate": 3.7329795662668364,
+      "commentRate": 0.2726954470915557,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -485,6 +531,15 @@
           "likeCount": 1969,
           "commentCount": 146,
           "durationSeconds": 1741
+        },
+        {
+          "date": "2026-08-10",
+          "title": "자기관리하는 날✨ 헬스부터 식단, 셀프레이저까지 현실 루틴",
+          "publishedAt": "2026-08-02T11:30:31Z",
+          "viewCount": 54273,
+          "likeCount": 2026,
+          "commentCount": 148,
+          "durationSeconds": 1741
         }
       ],
       "thumbnailFeatures": {
@@ -504,8 +559,8 @@
       "publishedAt": "2026-07-19T12:07:08Z",
       "durationSeconds": 1684,
       "isShort": false,
-      "likeRate": 2.823534250519259,
-      "commentRate": 0.16177569388748364,
+      "likeRate": 2.8230494645588986,
+      "commentRate": 0.1611422743498215,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -578,6 +633,15 @@
           "likeCount": 4119,
           "commentCount": 236,
           "durationSeconds": 1684
+        },
+        {
+          "date": "2026-08-10",
+          "title": "VLOG 여자 둘이 오키나와 가면 생기는일..🏝️ (화남주의)",
+          "publishedAt": "2026-07-19T12:07:08Z",
+          "viewCount": 147075,
+          "likeCount": 4152,
+          "commentCount": 237,
+          "durationSeconds": 1684
         }
       ],
       "thumbnailFeatures": {
@@ -597,8 +661,8 @@
       "publishedAt": "2026-07-20T09:14:07Z",
       "durationSeconds": 37,
       "isShort": true,
-      "likeRate": 2.3886909190586207,
-      "commentRate": 0.10964482907154324,
+      "likeRate": 2.386403321562997,
+      "commentRate": 0.1086492569166893,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -671,6 +735,15 @@
           "likeCount": 610,
           "commentCount": 28,
           "durationSeconds": 37
+        },
+        {
+          "date": "2026-08-10",
+          "title": "일본에서 변태 아저씨 만남..하🤬",
+          "publishedAt": "2026-07-20T09:14:07Z",
+          "viewCount": 25771,
+          "likeCount": 615,
+          "commentCount": 28,
+          "durationSeconds": 37
         }
       ],
       "thumbnailFeatures": {
@@ -690,8 +763,8 @@
       "publishedAt": "2026-07-24T10:40:42Z",
       "durationSeconds": 22,
       "isShort": true,
-      "likeRate": 4.699213750228561,
-      "commentRate": 0.05180715548241604,
+      "likeRate": 4.699185514881763,
+      "commentRate": 0.05147303721197807,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -762,6 +835,15 @@
           "publishedAt": "2026-07-24T10:40:42Z",
           "viewCount": 32814,
           "likeCount": 1542,
+          "commentCount": 17,
+          "durationSeconds": 22
+        },
+        {
+          "date": "2026-08-10",
+          "title": "외국언니 냄새나는 조합 알려드림..💛",
+          "publishedAt": "2026-07-24T10:40:42Z",
+          "viewCount": 33027,
+          "likeCount": 1552,
           "commentCount": 17,
           "durationSeconds": 22
         }

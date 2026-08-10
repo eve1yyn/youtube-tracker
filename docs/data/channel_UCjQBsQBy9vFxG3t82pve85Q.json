@@ -57,9 +57,37 @@
       "subscriberCount": 34300,
       "totalViewCount": 3448490,
       "videoCount": 97
+    },
+    {
+      "date": "2026-08-10",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34300,
+      "totalViewCount": 3453750,
+      "videoCount": 98
     }
   ],
   "videos": [
+    {
+      "videoId": "1cXqBF-D0xc",
+      "title": "드디어 세상에 나온 레전드 화잘먹 흑미 PDRN 마스크 겔 팩......(코덕 필수 시청🌾+인플루언서 제작템💜)",
+      "publishedAt": "2026-08-09T12:27:52Z",
+      "durationSeconds": 764,
+      "isShort": false,
+      "likeRate": 4.149797570850203,
+      "commentRate": 1.0121457489878543,
+      "dailyStats": [
+        {
+          "date": "2026-08-10",
+          "title": "드디어 세상에 나온 레전드 화잘먹 흑미 PDRN 마스크 겔 팩......(코덕 필수 시청🌾+인플루언서 제작템💜)",
+          "publishedAt": "2026-08-09T12:27:52Z",
+          "viewCount": 988,
+          "likeCount": 41,
+          "commentCount": 10,
+          "durationSeconds": 764
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "6Je3tzNOTk8",
       "title": "버니 다이어트 쉐이크 신메뉴 곧 만나요!",
@@ -210,8 +238,8 @@
       "publishedAt": "2026-08-08T09:52:09Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.2906309751434035,
-      "commentRate": 0,
+      "likeRate": 1.3933895009721322,
+      "commentRate": 0.06480881399870382,
       "dailyStats": [
         {
           "date": "2026-08-09",
@@ -220,6 +248,15 @@
           "viewCount": 2092,
           "likeCount": 27,
           "commentCount": 0,
+          "durationSeconds": 54
+        },
+        {
+          "date": "2026-08-10",
+          "title": "조수석 1열 메이크업쇼💄 #makeuptutorial",
+          "publishedAt": "2026-08-08T09:52:09Z",
+          "viewCount": 3086,
+          "likeCount": 43,
+          "commentCount": 2,
           "durationSeconds": 54
         }
       ],
