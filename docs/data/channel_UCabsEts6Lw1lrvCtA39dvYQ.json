@@ -144,7 +144,17 @@
           "durationSeconds": 73
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "closeup",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
+        "hasFace": true
+      }
     },
     {
       "videoId": "J9EO5_EviLA",
@@ -165,17 +175,7 @@
           "durationSeconds": 81
         }
       ],
-      "thumbnailFeatures": {
-        "faceCount": 1,
-        "textOverlay": true,
-        "dominantEmotion": "positive",
-        "shotType": "closeup",
-        "brightness": "bright",
-        "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
-        "titleMatch": "exaggerated",
-        "hasFace": true
-      }
+      "thumbnailFeatures": null
     },
     {
       "videoId": "hp_Dkty6H6I",

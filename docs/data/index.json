@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T02:03:53.879Z",
+  "generatedAt": "2026-08-10T05:03:05.600Z",
   "channels": [
     {
       "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
@@ -1756,8 +1756,8 @@
       "growthRate30d": null,
       "viewDelta7d": 5112780,
       "viewDelta30d": null,
-      "videosLast30d": 45,
-      "uploadsPerWeek": 10.5,
+      "videosLast30d": 44,
+      "uploadsPerWeek": 10.266666666666667,
       "avgViewsPerVideo": 209032.3673469388,
       "reachRate": 142.19888935165903,
       "reachRateMedian": 137.02517006802722,
@@ -2342,227 +2342,318 @@
     }
   ],
   "thumbnailInsights": {
-    "sampleSize": 151,
-    "stableSampleSize": 151,
-    "generatedAt": "2026-08-10T02:03:53.878Z",
+    "sampleSize": 179,
+    "stableSampleSize": 165,
+    "generatedAt": "2026-08-10T05:03:05.600Z",
     "dimensions": {
       "faceCount": {
         "label": "얼굴 수",
         "buckets": [
           {
             "value": "2명 이상",
-            "count": 18,
-            "avgViews": 77869.44444444444,
-            "medianViews": 31444.5,
-            "avgEngagementRate": 3.8972661120109873
+            "count": 20,
+            "avgViews": 79701.05,
+            "medianViews": 41544,
+            "avgEngagementRate": 3.8184961919891074
           },
           {
             "value": "1명",
-            "count": 87,
-            "avgViews": 111787.02298850575,
+            "count": 99,
+            "avgViews": 115735.71717171717,
             "medianViews": 64181,
-            "avgEngagementRate": 2.8047146422152522
+            "avgEngagementRate": 2.75227078900859
           },
           {
             "value": "없음",
             "count": 46,
-            "avgViews": 99526.06521739131,
-            "medianViews": 21944.5,
-            "avgEngagementRate": 2.3794333740140705
+            "avgViews": 88140.67391304347,
+            "medianViews": 15041,
+            "avgEngagementRate": 2.5627529287602915
           }
-        ]
+        ],
+        "insight": {
+          "topValue": "2명 이상",
+          "topRate": 3.8184961919891074,
+          "bottomValue": "없음",
+          "bottomRate": 2.5627529287602915,
+          "deltaPct": 1.255743263228816
+        }
       },
       "textOverlay": {
         "label": "텍스트 오버레이",
         "buckets": [
           {
             "value": "없음",
-            "count": 13,
-            "avgViews": 41167.53846153846,
-            "medianViews": 1032,
-            "avgEngagementRate": 8.544430124935722
+            "count": 14,
+            "avgViews": 38540.357142857145,
+            "medianViews": 1050,
+            "avgEngagementRate": 8.127867961431651
           },
           {
             "value": "있음",
-            "count": 138,
-            "avgViews": 109928.56521739131,
-            "medianViews": 65707,
-            "avgEngagementRate": 2.264763097604403
+            "count": 151,
+            "avgViews": 109713.66225165562,
+            "medianViews": 64181,
+            "avgEngagementRate": 2.3373590411560454
           }
-        ]
+        ],
+        "insight": {
+          "topValue": "없음",
+          "topRate": 8.127867961431651,
+          "bottomValue": "있음",
+          "bottomRate": 2.3373590411560454,
+          "deltaPct": 5.790508920275606
+        }
       },
       "dominantEmotion": {
         "label": "표정",
         "buckets": [
           {
-            "value": "positive",
-            "count": 30,
-            "avgViews": 115946.3,
-            "medianViews": 93543.5,
-            "avgEngagementRate": 3.543875376642204
+            "value": "긍정",
+            "count": 41,
+            "avgViews": 137089.8536585366,
+            "medianViews": 80143,
+            "avgEngagementRate": 3.071752018626001
           },
           {
-            "value": "neutral",
-            "count": 64,
-            "avgViews": 103379.078125,
-            "medianViews": 44623.5,
-            "avgEngagementRate": 2.789310651755367
+            "value": "중립",
+            "count": 70,
+            "avgViews": 89817.65714285715,
+            "medianViews": 45231.5,
+            "avgEngagementRate": 2.9146161667331065
           },
           {
-            "value": "none",
-            "count": 55,
-            "avgViews": 98054.92727272728,
-            "medianViews": 32300,
-            "avgEngagementRate": 2.4667131403613807
+            "value": "부정",
+            "count": 4,
+            "avgViews": 103336,
+            "medianViews": 94700,
+            "avgEngagementRate": 2.8645587979641665
           },
           {
-            "value": "negative",
-            "count": 2,
-            "avgViews": 108824.5,
-            "medianViews": 108824.5,
-            "avgEngagementRate": 1.5567666810431942
+            "value": "없음",
+            "count": 50,
+            "avgViews": 95701.28,
+            "medianViews": 28600,
+            "avgEngagementRate": 2.5061633409553163
           }
-        ]
+        ],
+        "insight": {
+          "topValue": "긍정",
+          "topRate": 3.071752018626001,
+          "bottomValue": "없음",
+          "bottomRate": 2.5061633409553163,
+          "deltaPct": 0.5655886776706844
+        }
       },
       "shotType": {
         "label": "샷 타입",
         "buckets": [
           {
-            "value": "medium",
-            "count": 89,
-            "avgViews": 108029.14606741573,
+            "value": "중간거리",
+            "count": 87,
+            "avgViews": 116429.33333333333,
             "medianViews": 52850,
-            "avgEngagementRate": 3.2274948515112505
+            "avgEngagementRate": 3.3265672403084747
           },
           {
-            "value": "wide",
+            "value": "넓은 화면",
             "count": 8,
             "avgViews": 134653.875,
             "medianViews": 73324.5,
             "avgEngagementRate": 3.154974607421715
           },
           {
-            "value": "closeup",
-            "count": 54,
-            "avgViews": 92842.5,
-            "medianViews": 51504,
-            "avgEngagementRate": 2.0579270453647567
+            "value": "클로즈업",
+            "count": 70,
+            "avgViews": 84282.07142857143,
+            "medianViews": 47214,
+            "avgEngagementRate": 2.172574570119928
           }
-        ]
+        ],
+        "insight": {
+          "topValue": "중간거리",
+          "topRate": 3.3265672403084747,
+          "bottomValue": "클로즈업",
+          "bottomRate": 2.172574570119928,
+          "deltaPct": 1.1539926701885466
+        }
       },
       "brightness": {
         "label": "밝기",
         "buckets": [
           {
-            "value": "bright",
-            "count": 107,
-            "avgViews": 112850.20560747663,
-            "medianViews": 67233,
-            "avgEngagementRate": 3.196761063085833
+            "value": "밝음",
+            "count": 117,
+            "avgViews": 114578.32478632478,
+            "medianViews": 71601,
+            "avgEngagementRate": 3.244408186902688
           },
           {
-            "value": "dark",
-            "count": 4,
-            "avgViews": 16539.75,
-            "medianViews": 17082,
-            "avgEngagementRate": 2.071684878985596
+            "value": "어두움",
+            "count": 5,
+            "avgViews": 18853,
+            "medianViews": 26518,
+            "avgEngagementRate": 2.0864377772367226
           },
           {
-            "value": "medium",
-            "count": 40,
-            "avgViews": 89104.725,
-            "medianViews": 29529,
-            "avgEngagementRate": 1.8318681456861348
+            "value": "보통",
+            "count": 43,
+            "avgViews": 83869.74418604652,
+            "medianViews": 36858,
+            "avgEngagementRate": 1.7838004632745994
           }
-        ]
+        ],
+        "insight": {
+          "topValue": "밝음",
+          "topRate": 3.244408186902688,
+          "bottomValue": "보통",
+          "bottomRate": 1.7838004632745994,
+          "deltaPct": 1.4606077236280886
+        }
       },
       "sceneBusyness": {
         "label": "구성 복잡도",
         "buckets": [
           {
-            "value": "busy",
-            "count": 57,
-            "avgViews": 108375.9298245614,
-            "medianViews": 39826,
-            "avgEngagementRate": 2.8608439079704615
+            "value": "복잡함",
+            "count": 53,
+            "avgViews": 110634.45283018867,
+            "medianViews": 46230,
+            "avgEngagementRate": 3.1652837303100894
           },
           {
-            "value": "moderate",
-            "count": 89,
-            "avgViews": 99696.88764044944,
+            "value": "깔끔함",
+            "count": 15,
+            "avgViews": 104056.33333333333,
+            "medianViews": 42142,
+            "avgEngagementRate": 2.6711807457840737
+          },
+          {
+            "value": "보통",
+            "count": 97,
+            "avgViews": 99812.9587628866,
             "medianViews": 55685,
-            "avgEngagementRate": 2.7997572049523005
-          },
-          {
-            "value": "clean",
-            "count": 5,
-            "avgViews": 130973.8,
-            "medianViews": 47105,
-            "avgEngagementRate": 2.2736810197001622
+            "avgEngagementRate": 2.669109461664021
           }
-        ]
+        ],
+        "insight": {
+          "topValue": "복잡함",
+          "topRate": 3.1652837303100894,
+          "bottomValue": "보통",
+          "bottomRate": 2.669109461664021,
+          "deltaPct": 0.4961742686460684
+        }
       },
       "dominantColor": {
         "label": "주조색",
         "buckets": [
           {
-            "value": "blue",
+            "value": "노랑",
+            "count": 9,
+            "avgViews": 155203.22222222222,
+            "medianViews": 39826,
+            "avgEngagementRate": 5.065397358841982
+          },
+          {
+            "value": "파랑",
             "count": 13,
-            "avgViews": 87909.69230769231,
+            "avgViews": 87838.53846153847,
             "medianViews": 57697,
-            "avgEngagementRate": 3.671147019657736
+            "avgEngagementRate": 3.546088577508224
           },
           {
-            "value": "multicolor",
-            "count": 59,
-            "avgViews": 96653.49152542373,
-            "medianViews": 27846,
-            "avgEngagementRate": 3.115962253303233
+            "value": "다채로움",
+            "count": 61,
+            "avgViews": 100437.90163934426,
+            "medianViews": 54273,
+            "avgEngagementRate": 3.042701937568292
           },
           {
-            "value": "yellow",
-            "count": 9,
-            "avgViews": 135267.11111111112,
-            "medianViews": 36342,
-            "avgEngagementRate": 3.0110606791088843
+            "value": "흑백",
+            "count": 42,
+            "avgViews": 95308.09523809524,
+            "medianViews": 39500,
+            "avgEngagementRate": 2.628903051555851
           },
           {
-            "value": "black_white",
-            "count": 31,
-            "avgViews": 96214.54838709677,
-            "medianViews": 42142,
-            "avgEngagementRate": 2.688541436480738
-          },
-          {
-            "value": "orange",
-            "count": 10,
-            "avgViews": 76989.6,
-            "medianViews": 46887,
-            "avgEngagementRate": 2.2389954077861765
-          },
-          {
-            "value": "pink",
+            "value": "분홍",
             "count": 15,
-            "avgViews": 172371.06666666668,
+            "avgViews": 162078,
             "medianViews": 161351,
-            "avgEngagementRate": 2.164675630861226
+            "avgEngagementRate": 2.2487079887770127
           },
           {
-            "value": "red",
+            "value": "빨강",
             "count": 9,
-            "avgViews": 83847.22222222222,
-            "medianViews": 30659,
-            "avgEngagementRate": 2.0299396534704375
+            "avgViews": 104897.33333333333,
+            "medianViews": 67233,
+            "avgEngagementRate": 2.0663143911173174
           },
           {
-            "value": "green",
-            "count": 5,
-            "avgViews": 109959.2,
-            "medianViews": 55685,
-            "avgEngagementRate": 1.694867765646737
+            "value": "주황",
+            "count": 8,
+            "avgViews": 58292,
+            "medianViews": 15907,
+            "avgEngagementRate": 1.9846031577765308
+          },
+          {
+            "value": "초록",
+            "count": 8,
+            "avgViews": 74545.5,
+            "medianViews": 43869,
+            "avgEngagementRate": 1.3525772458107994
           }
-        ]
+        ],
+        "insight": {
+          "topValue": "노랑",
+          "topRate": 5.065397358841982,
+          "bottomValue": "초록",
+          "bottomRate": 1.3525772458107994,
+          "deltaPct": 3.7128201130311824
+        }
+      },
+      "titleMatch": {
+        "label": "제목-썸네일 일치도",
+        "buckets": [
+          {
+            "value": "일치",
+            "count": 80,
+            "avgViews": 92728.95,
+            "medianViews": 38084,
+            "avgEngagementRate": 3.1075997039455623
+          },
+          {
+            "value": "무관",
+            "count": 24,
+            "avgViews": 149408.45833333334,
+            "medianViews": 150121,
+            "avgEngagementRate": 2.835509385666596
+          },
+          {
+            "value": "과장(클릭베이트)",
+            "count": 61,
+            "avgViews": 100036.2131147541,
+            "medianViews": 46230,
+            "avgEngagementRate": 2.4601830344747975
+          }
+        ],
+        "insight": {
+          "topValue": "일치",
+          "topRate": 3.1075997039455623,
+          "bottomValue": "과장(클릭베이트)",
+          "bottomRate": 2.4601830344747975,
+          "deltaPct": 0.6474166694707648
+        }
       }
+    },
+    "topSignal": {
+      "dimensionKey": "textOverlay",
+      "dimensionLabel": "텍스트 오버레이",
+      "topValue": "없음",
+      "topRate": 8.127867961431651,
+      "bottomValue": "있음",
+      "bottomRate": 2.3373590411560454,
+      "deltaPct": 5.790508920275606
     }
   }
 }
