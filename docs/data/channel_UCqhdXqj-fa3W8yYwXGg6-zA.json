@@ -161,12 +161,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "clean",
+        "sceneBusyness": "moderate",
         "dominantColor": "green",
         "titleMatch": "unrelated",
+        "overlayText": "뭔가 2곱 알았는데는",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -235,15 +237,17 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
-        "titleMatch": "exaggerated",
-        "hasFace": true
+        "titleMatch": "unrelated",
+        "overlayText": "이 사람이 선물을 기다렸나요?\n사랑한다는 뜻을 담아 포장한 물건\n소현",
+        "overlayTone": "plain_info",
+        "hasFace": false
       }
     },
     {
@@ -290,8 +294,10 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "pink",
         "titleMatch": "unrelated",
+        "overlayText": "Daily 소현\n1:00\n더보기 설정하기",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -389,12 +395,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "positive",
+        "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
-        "titleMatch": "consistent",
+        "titleMatch": "unrelated",
+        "overlayText": "이거 제대로 작성됐을 듯하더 도오오오",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -498,6 +506,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "소혀니의 로제트 만들기 교실\n핸드메이드 제",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -600,7 +610,9 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
-        "titleMatch": "unrelated",
+        "titleMatch": "exaggerated",
+        "overlayText": "Daily Sohyun\n사라아와 며칠 놀어서 느껴지는🍓",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -704,6 +716,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
         "titleMatch": "consistent",
+        "overlayText": "Daily소현\n12:19\n얍얍 짧은 외출 다녀왔음!",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -780,6 +794,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "신상 하트 아그작볼 5-13\n껌 무궁화팀 ㄷ!서팀됩니다!!\n고기구름옴",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -875,7 +891,7 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 0,
+        "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
@@ -883,7 +899,9 @@
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
-        "hasFace": false
+        "overlayText": "Daily Sohyun\n장 찍어머릿거려!\n그래서 쇼에 있는 미니 트윅스에!",
+        "overlayTone": "plain_info",
+        "hasFace": true
       }
     },
     {
@@ -917,12 +935,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "positive",
+        "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "Daily Sohyun",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -965,13 +985,15 @@
       ],
       "thumbnailFeatures": {
         "faceCount": 1,
-        "textOverlay": false,
+        "textOverlay": true,
         "dominantEmotion": "positive",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
         "titleMatch": "exaggerated",
+        "overlayText": "strawberry emoji pixel art covering face",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -1067,15 +1089,17 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
-        "dominantEmotion": "negative",
+        "dominantEmotion": "none",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "exaggerated",
-        "hasFace": true
+        "overlayText": "말티즈는 참지않긔",
+        "overlayTone": "superlative_hype",
+        "hasFace": false
       }
     },
     {
@@ -1137,11 +1161,13 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "wide",
+        "shotType": "medium",
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "Daily 소현 Escape Room 🧩",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -1240,11 +1266,13 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "pink",
-        "titleMatch": "exaggerated",
+        "titleMatch": "consistent",
+        "overlayText": "내 친구 기선한주?!",
+        "overlayTone": "question",
         "hasFace": false
       }
     },
@@ -1280,11 +1308,13 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "medium",
-        "brightness": "medium",
+        "shotType": "closeup",
+        "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "포아포 아중 네임!",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -1388,6 +1418,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "unrelated",
+        "overlayText": "Daily Sobyun\n얼굴에 5팩",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -1488,9 +1520,11 @@
         "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "Daily Sohyun",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -1590,10 +1624,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "medium",
-        "brightness": "medium",
+        "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "앗!!! 왕어버렸던 담 가지런이 미쳤었이 있었다!!!",
+        "overlayTone": "curiosity_hook",
         "hasFace": false
       }
     },
@@ -1696,7 +1732,9 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "Daily Sobyun",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -1800,6 +1838,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "학원 없는 날 하교 후 레츠고",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -1900,9 +1940,11 @@
         "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "medium",
-        "sceneBusyness": "busy",
-        "dominantColor": "multicolor",
+        "sceneBusyness": "moderate",
+        "dominantColor": "orange",
         "titleMatch": "consistent",
+        "overlayText": "Daily 소현",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -2006,6 +2048,8 @@
         "sceneBusyness": "clean",
         "dominantColor": "yellow",
         "titleMatch": "unrelated",
+        "overlayText": "11:22\n사랑만가득히",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -2109,6 +2153,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "Daily소현\n어딩 게했는 게 뭐했는 해봤는데",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -2206,12 +2252,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
         "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -2310,11 +2358,13 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "yellow",
         "titleMatch": "unrelated",
+        "overlayText": "Daily Sohyun\n왁뿌볼도 없고 화장품도 없는데\n클리커는 많은 나•\nASMR",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -2346,6 +2396,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "소현이의\n슬기로운\n& ROSETTE",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -2448,7 +2500,9 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
-        "titleMatch": "consistent",
+        "titleMatch": "exaggerated",
+        "overlayText": "Daily Sohyun",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -2546,12 +2600,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "positive",
+        "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "Daily 소현",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -2650,11 +2706,13 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "positive",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "busy",
         "dominantColor": "pink",
         "titleMatch": "exaggerated",
+        "overlayText": "남이 준 클리커는 처음이야",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -2717,11 +2775,13 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "medium",
+        "shotType": "wide",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "머리 묶은게 마음에 드는 나★•\n타 딩딩💚",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -2821,10 +2881,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
-        "brightness": "medium",
+        "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
         "titleMatch": "exaggerated",
+        "overlayText": "Daily소현\n알쓸소잡",
+        "overlayTone": "curiosity_hook",
         "hasFace": false
       }
     },
@@ -2865,6 +2927,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "지금부터 8 더치\n Daily Sohyun",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -2962,12 +3026,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
-        "shotType": "medium",
+        "dominantEmotion": "positive",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
-        "titleMatch": "unrelated",
+        "titleMatch": "exaggerated",
+        "overlayText": "여기?\n기억? 네도? 오이 도시 공기~을\n기억 너? 또는? 오이\n는 어려울 너버아용",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -3042,8 +3108,10 @@
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "pink",
+        "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "크런치 말랑이 만들기!",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -3145,8 +3213,10 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
-        "dominantColor": "multicolor",
+        "dominantColor": "red",
         "titleMatch": "exaggerated",
+        "overlayText": "꺼만말 레츠고 광고 Daily소현 포카포장 다이브로그 포장계 덕질",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -3250,6 +3320,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "pink",
         "titleMatch": "exaggerated",
+        "overlayText": "미니브 팝업 가방싸기 레츠고",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -3304,10 +3376,12 @@
         "textOverlay": true,
         "dominantEmotion": "neutral",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "Daily소현",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -3401,7 +3475,9 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
-        "titleMatch": "consistent",
+        "titleMatch": "unrelated",
+        "overlayText": "이 터닝 미니브 공 사세요!!!",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -3424,7 +3500,19 @@
           "durationSeconds": 41
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "black_white",
+        "titleMatch": "consistent",
+        "overlayText": "Daily소현",
+        "overlayTone": "plain_info",
+        "hasFace": true
+      }
     },
     {
       "videoId": "jC-DgjofSZA",
@@ -3503,11 +3591,13 @@
         "faceCount": 2,
         "textOverlay": true,
         "dominantEmotion": "positive",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
         "titleMatch": "consistent",
+        "overlayText": "이 정도면 아 사용\n하려는 그걸 몇몇 입니다",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -3589,10 +3679,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
-        "titleMatch": "unrelated",
+        "titleMatch": "exaggerated",
+        "overlayText": "하교 후 나가는 이유는?\nDaily Sohyun",
+        "overlayTone": "question",
         "hasFace": false
       }
     },
@@ -3672,12 +3764,14 @@
       "thumbnailFeatures": {
         "faceCount": 0,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "positive",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "blue",
         "titleMatch": "consistent",
+        "overlayText": "블리블리 귀여움 미니언즈콜 해서린 !",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -3776,11 +3870,13 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "medium",
+        "shotType": "wide",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
-        "titleMatch": "consistent",
+        "titleMatch": "unrelated",
+        "overlayText": "다른 단골들은 뭐 먹어요? 제육 먹고 \n이유튜브",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -3883,7 +3979,9 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
-        "titleMatch": "consistent",
+        "titleMatch": "exaggerated",
+        "overlayText": "POV: 여름방학이어서 학교에 안 가도 되는 기분 • 일어나자마자 이 기분 ✨",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -3926,13 +4024,15 @@
       ],
       "thumbnailFeatures": {
         "faceCount": 0,
-        "textOverlay": true,
+        "textOverlay": false,
         "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": false
       }
     },
@@ -4028,15 +4128,17 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
-        "hasFace": true
+        "overlayText": "1244\n지름신 입금 기다리는중",
+        "overlayTone": "plain_info",
+        "hasFace": false
       }
     },
     {
@@ -4139,6 +4241,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "Daily 소현\n친구들이랑",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -4234,15 +4338,17 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 0,
+        "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "red",
         "titleMatch": "consistent",
-        "hasFace": false
+        "overlayText": "잼으로 세가지 디저트 만드는 방법?!",
+        "overlayTone": "question",
+        "hasFace": true
       }
     },
     {
@@ -4341,10 +4447,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "방학이 끝나갑니다",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -4444,10 +4552,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
         "titleMatch": "unrelated",
+        "overlayText": "여름! 저 피에르 갓맨 에 몸 박혀있음🤣",
+        "overlayTone": "curiosity_hook",
         "hasFace": false
       }
     },
@@ -4499,13 +4609,15 @@
       ],
       "thumbnailFeatures": {
         "faceCount": 1,
-        "textOverlay": true,
+        "textOverlay": false,
         "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -4607,8 +4719,10 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "black_white",
-        "titleMatch": "exaggerated",
+        "dominantColor": "orange",
+        "titleMatch": "unrelated",
+        "overlayText": "Daily 소현\n할머니 할아버지께 커피 사드리고 뿌듯한 나",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -4712,6 +4826,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "red",
         "titleMatch": "consistent",
+        "overlayText": "Daily 소현\n(즉마 스윙♪)",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -4806,6 +4922,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "Daily소현\n여러분 저도 도시락 같에 참여하요!!\n여러분",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     }

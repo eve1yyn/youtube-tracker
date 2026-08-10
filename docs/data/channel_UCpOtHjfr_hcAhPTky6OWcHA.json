@@ -86,7 +86,19 @@
           "durationSeconds": 610
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 3,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "blue",
+        "titleMatch": "consistent",
+        "overlayText": "고성 당일치기",
+        "overlayTone": "plain_info",
+        "hasFace": true
+      }
     },
     {
       "videoId": "2DNWEuekeY8",
@@ -186,8 +198,10 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
-        "dominantColor": "multicolor",
+        "dominantColor": "red",
         "titleMatch": "consistent",
+        "overlayText": "제주",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -255,6 +269,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "grwm",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -356,8 +372,10 @@
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "clean",
-        "dominantColor": "black_white",
+        "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "get ready with",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -450,8 +468,10 @@
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "pink",
-        "titleMatch": "exaggerated",
+        "dominantColor": "multicolor",
+        "titleMatch": "consistent",
+        "overlayText": "성형수술\n이상형?\n재테크 방법\n몸매 관리 방법\n100만 Q&A",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -555,6 +575,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "셀프네일\n셀프레이저\n식단\n운동",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -658,6 +680,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "OKINAWA",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -755,12 +779,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
-        "shotType": "closeup",
+        "dominantEmotion": "negative",
+        "shotType": "medium",
         "brightness": "medium",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "일본에서\n변태 아저씨 만남 썰\n(분편)\n자꾸 숭윤\n자꾸 숭윤 정장은 가리지는 아저씨\n느 아저씨\n세번 SEBIN",
+        "overlayTone": "urgent_warning",
         "hasFace": true
       }
     },
@@ -860,10 +886,12 @@
         "textOverlay": true,
         "dominantEmotion": "neutral",
         "shotType": "medium",
-        "brightness": "medium",
+        "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "what i smell like:",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     }

@@ -103,7 +103,9 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "orange",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "@미미-m7s · 3주 전\n내가 저렇게 먹었으면 살 엄청 쪘을것\n그게 다 어디로 가..?",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -207,6 +209,8 @@
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "강체질이네요",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -310,6 +314,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "♫ Ah - Afterschool\n악간의 ㄱ쌍짜(?)스크음이",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -404,6 +410,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "unrelated",
+        "overlayText": "포르투칼,\n귀스보",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -476,10 +484,12 @@
         "textOverlay": true,
         "dominantEmotion": "neutral",
         "shotType": "closeup",
-        "brightness": "dark",
-        "sceneBusyness": "moderate",
+        "brightness": "medium",
+        "sceneBusyness": "busy",
         "dominantColor": "pink",
         "titleMatch": "consistent",
+        "overlayText": "Celie Glitter Mesh Gold\n145.00€\n약간 투다운된 핑크.",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -577,12 +587,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "negative",
-        "shotType": "closeup",
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "swallow\n평생 혼자 사셨으면 좋겠네요 화이팅!\n(그럴까..?)",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -682,10 +694,12 @@
         "textOverlay": false,
         "dominantEmotion": "neutral",
         "shotType": "closeup",
-        "brightness": "medium",
+        "brightness": "bright",
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -788,7 +802,9 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "red",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "6. choose what you feel over what is comfortable\n편한 것보다 누르골 것을 택하세요",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     }

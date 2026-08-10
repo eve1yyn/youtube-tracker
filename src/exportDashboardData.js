@@ -66,8 +66,25 @@ const DOMINANT_COLOR_LABELS = {
   purple: '보라', pink: '분홍', black_white: '흑백', multicolor: '다채로움',
 };
 const TITLE_MATCH_LABELS = { consistent: '일치', exaggerated: '과장(클릭베이트)', unrelated: '무관' };
+const OVERLAY_TONE_LABELS = {
+  none: '없음',
+  curiosity_hook: '궁금증 유발',
+  superlative_hype: '과장·최상급',
+  urgent_warning: '긴급·경고',
+  question: '질문형',
+  plain_info: '단순 정보',
+};
 
-function groupBy(rows, keyFn, label) {
+// 채널 구독자 규모 구간. 대시보드 클라이언트(docs/app.js)의 TIERS 기준과 동일하게 맞춘다.
+function getTier(subscriberCount) {
+  if (subscriberCount < 10000) return 'nano';
+  if (subscriberCount < 100000) return 'micro';
+  if (subscriberCount < 1000000) return 'macro';
+  return 'mega';
+}
+
+// exampleFn을 주면(overlayTone 차원 전용) 버킷마다 실제 문구 예시를 최대 3개까지 뽑아준다.
+function groupBy(rows, keyFn, label, exampleFn) {
   const groups = new Map();
   for (const row of rows) {
     const key = keyFn(row);
@@ -75,13 +92,20 @@ function groupBy(rows, keyFn, label) {
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(row);
   }
-  const buckets = [...groups.entries()].map(([value, rs]) => ({
-    value,
-    count: rs.length,
-    avgViews: average(rs.map((r) => r.viewCount)),
-    medianViews: median(rs.map((r) => r.viewCount)),
-    avgEngagementRate: average(rs.map((r) => r.engagementRate).filter((v) => v !== null)),
-  }));
+  const buckets = [...groups.entries()].map(([value, rs]) => {
+    const bucket = {
+      value,
+      count: rs.length,
+      avgViews: average(rs.map((r) => r.viewCount)),
+      medianViews: median(rs.map((r) => r.viewCount)),
+      avgEngagementRate: average(rs.map((r) => r.engagementRate).filter((v) => v !== null)),
+    };
+    if (exampleFn) {
+      const examples = [...new Set(rs.map(exampleFn).filter((t) => t && t.trim()))].slice(0, 3);
+      if (examples.length) bucket.examples = examples;
+    }
+    return bucket;
+  });
   buckets.sort((a, b) => (b.avgEngagementRate ?? -Infinity) - (a.avgEngagementRate ?? -Infinity));
   return { label, buckets, insight: dimensionInsight(buckets) };
 }
@@ -115,6 +139,7 @@ function buildThumbnailInsights(rows, totalAnalyzedCount) {
     sceneBusyness: groupBy(rows, (r) => SCENE_BUSYNESS_LABELS[r.sceneBusyness] ?? r.sceneBusyness, '구성 복잡도'),
     dominantColor: groupBy(rows, (r) => DOMINANT_COLOR_LABELS[r.dominantColor] ?? r.dominantColor, '주조색'),
     titleMatch: groupBy(rows, (r) => TITLE_MATCH_LABELS[r.titleMatch] ?? r.titleMatch, '제목-썸네일 일치도'),
+    overlayTone: groupBy(rows, (r) => OVERLAY_TONE_LABELS[r.overlayTone] ?? r.overlayTone, '오버레이 문구 톤', (r) => r.overlayText),
   };
 
   let topSignal = null;
@@ -131,6 +156,18 @@ function buildThumbnailInsights(rows, totalAnalyzedCount) {
     dimensions,
     topSignal,
   };
+}
+
+// 채널 규모(티어)별로 나눠 봐야 소형/대형 채널에서 통하는 요소가 다른지 알 수 있다.
+// 전체 표본이 179개뿐이라 티어별로 쪼개면 더 작아지므로, buildThumbnailInsights가
+// rows.length===0이면 null을 반환하는 것에 기대 표본 부족한 티어는 자동으로 빈 상태로 나온다.
+function buildThumbnailInsightsByTier(rows, totalAnalyzedCount, totalAnalyzedByTier) {
+  const result = { all: buildThumbnailInsights(rows, totalAnalyzedCount) };
+  for (const tierKey of ['nano', 'micro', 'macro', 'mega']) {
+    const tierRows = rows.filter((r) => r.tier === tierKey);
+    result[tierKey] = buildThumbnailInsights(tierRows, totalAnalyzedByTier[tierKey] || 0);
+  }
+  return result;
 }
 
 // 유튜브 쇼츠 여부를 판단할 공식 API 필드가 없어, 재생시간 3분 이하를 쇼츠로 추정한다.
@@ -153,7 +190,7 @@ function exportDashboardData(dbPath, outDir) {
     ? db.prepare(
         `SELECT face_count AS faceCount, text_overlay AS textOverlay, dominant_emotion AS dominantEmotion,
                 shot_type AS shotType, brightness, scene_busyness AS sceneBusyness, dominant_color AS dominantColor,
-                title_match AS titleMatch
+                title_match AS titleMatch, overlay_text AS overlayText, overlay_tone AS overlayTone
          FROM video_thumbnail_features WHERE video_id = ?`
       )
     : null;
@@ -163,13 +200,16 @@ function exportDashboardData(dbPath, outDir) {
   const indexChannels = [];
   const allMovers = [];
   const allStableFeatureRows = [];
+  const channelClickbaitVsGrowth = [];
   let totalAnalyzedCount = 0;
+  const totalAnalyzedByTier = { nano: 0, micro: 0, macro: 0, mega: 0 };
 
   for (const channelId of channelIds) {
     const channelRows = db
       .prepare('SELECT date, title, subscriber_count AS subscriberCount, total_view_count AS totalViewCount, video_count AS videoCount FROM channel_daily WHERE channel_id = ? ORDER BY date ASC')
       .all(channelId);
     const latestChannel = channelRows[channelRows.length - 1];
+    const tier = getTier(latestChannel.subscriberCount);
 
     const videoIds = db
       .prepare('SELECT DISTINCT video_id FROM video_daily WHERE channel_id = ? ORDER BY video_id')
@@ -199,7 +239,10 @@ function exportDashboardData(dbPath, outDir) {
       const thumbnailFeatures = featureRow
         ? { ...featureRow, textOverlay: !!featureRow.textOverlay, hasFace: featureRow.faceCount > 0 }
         : null;
-      if (thumbnailFeatures) totalAnalyzedCount += 1;
+      if (thumbnailFeatures) {
+        totalAnalyzedCount += 1;
+        totalAnalyzedByTier[tier] += 1;
+      }
 
       return {
         videoId,
@@ -223,15 +266,35 @@ function exportDashboardData(dbPath, outDir) {
     const stableVideos = videos.filter((v) => now - new Date(v.publishedAt).getTime() >= STABLE_VIDEO_AGE_DAYS * 86400000);
     const stableViewCounts = stableVideos.map((v) => v.dailyStats[v.dailyStats.length - 1].viewCount);
 
+    const channelStableFeatures = [];
     for (const v of stableVideos) {
       if (!v.thumbnailFeatures) continue;
       const latestStats = v.dailyStats[v.dailyStats.length - 1];
-      allStableFeatureRows.push({
+      const featureRow = {
         ...v.thumbnailFeatures,
+        channelId,
+        tier,
         viewCount: latestStats.viewCount,
         engagementRate: ratePercent((latestStats.likeCount || 0) + (latestStats.commentCount || 0), latestStats.viewCount),
+      };
+      allStableFeatureRows.push(featureRow);
+      channelStableFeatures.push(featureRow);
+    }
+
+    // 클릭베이트("과장"/"무관")로 판단된 영상 비율과, 이 채널의 30일 구독자 성장률을 짝지어
+    // "제목 낚시가 실제로 성장에 도움이 되는지 손해인지"를 볼 수 있게 한다.
+    if (channelStableFeatures.length > 0) {
+      const clickbaitCount = channelStableFeatures.filter((f) => f.titleMatch === 'exaggerated' || f.titleMatch === 'unrelated').length;
+      channelClickbaitVsGrowth.push({
+        channelId,
+        title: latestChannel.title,
+        subscriberCount: latestChannel.subscriberCount,
+        analyzedVideoCount: channelStableFeatures.length,
+        clickbaitRate: ratePercent(clickbaitCount, channelStableFeatures.length),
+        growthRate30d: computeGrowthRate(channelRows, 'subscriberCount', 30),
       });
     }
+
     const avgViews = average(stableViewCounts);
     const medianViews = median(stableViewCounts);
     const reachRate = avgViews !== null ? ratePercent(avgViews, latestChannel.subscriberCount) : null;
@@ -270,12 +333,19 @@ function exportDashboardData(dbPath, outDir) {
   const topMoversShorts = allMovers.filter((m) => m.isShort === true).slice(0, 10);
   const topMoversLongform = allMovers.filter((m) => m.isShort === false).slice(0, 10);
 
-  const thumbnailInsights = buildThumbnailInsights(allStableFeatureRows, totalAnalyzedCount);
+  const thumbnailInsightsByTier = buildThumbnailInsightsByTier(allStableFeatureRows, totalAnalyzedCount, totalAnalyzedByTier);
 
   fs.writeFileSync(
     path.join(outDir, 'index.json'),
     JSON.stringify(
-      { generatedAt: new Date().toISOString(), channels: indexChannels, topMoversShorts, topMoversLongform, thumbnailInsights },
+      {
+        generatedAt: new Date().toISOString(),
+        channels: indexChannels,
+        topMoversShorts,
+        topMoversLongform,
+        thumbnailInsightsByTier,
+        channelClickbaitVsGrowth,
+      },
       null,
       2
     )

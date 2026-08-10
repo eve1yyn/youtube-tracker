@@ -113,6 +113,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
         "titleMatch": "exaggerated",
+        "overlayText": "남자들은 뭐가\n잘못된지 1도 모르는\n[수치편]\nA problem men can't find\n[Embarrassing Edition]",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -211,11 +213,13 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
         "titleMatch": "exaggerated",
+        "overlayText": "Gym mom",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -287,11 +291,13 @@
         "faceCount": 2,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "POV: 아들vs딸 걸어갈때 차이\nSon vs Daughter: Walking",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -387,14 +393,16 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 7,
+        "faceCount": 5,
         "textOverlay": true,
         "dominantEmotion": "positive",
-        "shotType": "wide",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "여행중\n어떤게 설레?\n가기전 vs갔 후",
+        "overlayTone": "question",
         "hasFace": true
       }
     },
@@ -454,7 +462,7 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 3,
+        "faceCount": 4,
         "textOverlay": true,
         "dominantEmotion": "neutral",
         "shotType": "medium",
@@ -462,6 +470,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "MOM\nSON",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -559,12 +569,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "positive",
+        "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
-        "titleMatch": "consistent",
+        "titleMatch": "exaggerated",
+        "overlayText": "Warms Vibe\n섬마의 바이브",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -668,6 +680,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "exaggerated",
+        "overlayText": "DURING THE SCHOOL RUN...\n라이딩하다 심심하면 생기는 일",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -726,6 +740,8 @@
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -829,6 +845,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "green",
         "titleMatch": "exaggerated",
+        "overlayText": "왜이 왜 빠졌는지 맞춰보시오\n맞추면 딸육아100점",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -932,6 +950,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
         "titleMatch": "exaggerated",
+        "overlayText": "korean mom morning\n34세 애동맘\n오전우린",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -1026,6 +1046,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "음식룩북\nFOOD LOOKBOOK",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -1071,10 +1093,12 @@
         "textOverlay": true,
         "dominantEmotion": "positive",
         "shotType": "closeup",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "clean",
-        "dominantColor": "black_white",
+        "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "여자가 기분 좋을 때",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -1160,6 +1184,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "exaggerated",
+        "overlayText": "내가 헬스장 빌런?",
+        "overlayTone": "question",
         "hasFace": true
       }
     },
@@ -1262,7 +1288,9 @@
         "brightness": "bright",
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
-        "titleMatch": "exaggerated",
+        "titleMatch": "consistent",
+        "overlayText": "WHY I CAN'T QUIT WORKING OUT\n운동을 못끊는 이유",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -1365,7 +1393,9 @@
         "brightness": "medium",
         "sceneBusyness": "clean",
         "dominantColor": "blue",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -1433,6 +1463,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
         "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -1534,8 +1566,10 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "blue",
+        "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "Hawaii with me?\nNarang hawaii-yeo haeng galkka?",
+        "overlayTone": "question",
         "hasFace": true
       }
     }

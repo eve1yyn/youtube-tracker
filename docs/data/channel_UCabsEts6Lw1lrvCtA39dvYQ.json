@@ -109,10 +109,12 @@
         "textOverlay": true,
         "dominantEmotion": "neutral",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "성균관대-> 🇱🇹 덴마크 궁대\n교정 + 종로쌤의\n아두 EP.3",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -153,6 +155,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "성큼관대-> 🇹🇷 텐마르 궁대\n효앗하샤샤\n하루 4",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -175,7 +179,19 @@
           "durationSeconds": 81
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
+        "overlayText": "성균관대 -> 덴마크 공대\n효율하삶상\n약 2 5",
+        "overlayTone": "superlative_hype",
+        "hasFace": true
+      }
     },
     {
       "videoId": "hp_Dkty6H6I",
@@ -272,11 +288,13 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "vlog\n숭문스\n플레이트\n여름방학 b 이로그",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -370,7 +388,9 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
-        "titleMatch": "exaggerated",
+        "titleMatch": "consistent",
+        "overlayText": "하고 싶은 게 없어어...",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -420,6 +440,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "성균관대-> 🇱🇹 덴마크 공대\n꼬르륑상\n응아?2",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -473,11 +495,13 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "성균관대➡️덴마크공대\n교환학생\n충공하루 1",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     }

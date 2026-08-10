@@ -131,6 +131,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "Plan D\nVLOG",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -232,8 +234,10 @@
         "shotType": "wide",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "집순이가 침대에서 힐링하는 법",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -332,11 +336,13 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "음식 얼룩도 강력 세탁해주는\n세탁 꿀팁 소개 ◇",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -440,6 +446,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "red",
         "titleMatch": "consistent",
+        "overlayText": "꿀빙이 소문은 웋았애요!\n꿀조합 5가지 레시피 🐚",
+        "overlayTone": "curiosity_hook",
         "hasFace": false
       }
     },
@@ -542,7 +550,9 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "yellow",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "Plan D\nVLOG",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     }

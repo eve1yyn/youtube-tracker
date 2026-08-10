@@ -22,6 +22,12 @@ function migrate(db) {
   if (!featureColumns.includes('title_match')) {
     db.exec('ALTER TABLE video_thumbnail_features ADD COLUMN title_match TEXT');
   }
+  if (!featureColumns.includes('overlay_text')) {
+    db.exec('ALTER TABLE video_thumbnail_features ADD COLUMN overlay_text TEXT');
+  }
+  if (!featureColumns.includes('overlay_tone')) {
+    db.exec('ALTER TABLE video_thumbnail_features ADD COLUMN overlay_tone TEXT');
+  }
 }
 
 function withTransaction(db, fn) {
@@ -76,7 +82,9 @@ function getExistingFeatureVideoIds(db, videoIds) {
   if (videoIds.length === 0) return new Set();
   const placeholders = videoIds.map(() => '?').join(',');
   const rows = db
-    .prepare(`SELECT video_id FROM video_thumbnail_features WHERE video_id IN (${placeholders}) AND title_match IS NOT NULL`)
+    .prepare(
+      `SELECT video_id FROM video_thumbnail_features WHERE video_id IN (${placeholders}) AND title_match IS NOT NULL AND overlay_tone IS NOT NULL`
+    )
     .all(...videoIds);
   return new Set(rows.map((r) => r.video_id));
 }
@@ -85,8 +93,8 @@ function getExistingFeatureVideoIds(db, videoIds) {
 // 여기서는 덮어쓰기(DO UPDATE)로 둬도 불필요한 재호출/재과금이 생기지 않는다.
 function upsertThumbnailFeatures(db, rows) {
   const stmt = db.prepare(`
-    INSERT INTO video_thumbnail_features (video_id, thumbnail_url, face_count, text_overlay, dominant_emotion, shot_type, brightness, scene_busyness, dominant_color, title_match, model, analyzed_at)
-    VALUES (@videoId, @thumbnailUrl, @faceCount, @textOverlay, @dominantEmotion, @shotType, @brightness, @sceneBusyness, @dominantColor, @titleMatch, @model, @analyzedAt)
+    INSERT INTO video_thumbnail_features (video_id, thumbnail_url, face_count, text_overlay, dominant_emotion, shot_type, brightness, scene_busyness, dominant_color, title_match, overlay_text, overlay_tone, model, analyzed_at)
+    VALUES (@videoId, @thumbnailUrl, @faceCount, @textOverlay, @dominantEmotion, @shotType, @brightness, @sceneBusyness, @dominantColor, @titleMatch, @overlayText, @overlayTone, @model, @analyzedAt)
     ON CONFLICT (video_id) DO UPDATE SET
       thumbnail_url = excluded.thumbnail_url,
       face_count = excluded.face_count,
@@ -97,6 +105,8 @@ function upsertThumbnailFeatures(db, rows) {
       scene_busyness = excluded.scene_busyness,
       dominant_color = excluded.dominant_color,
       title_match = excluded.title_match,
+      overlay_text = excluded.overlay_text,
+      overlay_tone = excluded.overlay_tone,
       model = excluded.model,
       analyzed_at = excluded.analyzed_at
   `);

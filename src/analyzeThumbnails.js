@@ -42,8 +42,23 @@ const THUMBNAIL_FEATURE_SCHEMA = {
         'consistent=제목과 썸네일이 같은 내용, exaggerated=썸네일이 제목보다 과장되거나 자극적(클릭베이트 느낌), ' +
         'unrelated=썸네일이 제목과 무관해 보임',
     },
+    overlay_text: {
+      type: 'string',
+      description: '텍스트 오버레이에 적힌 실제 문구를 그대로 옮겨 적으세요(여러 줄이면 공백으로 이어붙임). 텍스트 오버레이가 없으면 빈 문자열.',
+    },
+    overlay_tone: {
+      type: 'string',
+      enum: ['none', 'curiosity_hook', 'superlative_hype', 'urgent_warning', 'question', 'plain_info'],
+      description:
+        '텍스트 오버레이의 어조/스타일. none=텍스트 없음, curiosity_hook=궁금증을 유발하는 문구, ' +
+        'superlative_hype=과장된 감탄사/최상급 표현("역대급", "충격적인"), urgent_warning=긴급·경고성 문구, ' +
+        'question=질문형 문구, plain_info=단순 정보 전달(제목을 그대로 옮긴 수준)',
+    },
   },
-  required: ['face_count', 'text_overlay', 'dominant_emotion', 'shot_type', 'brightness', 'scene_busyness', 'dominant_color', 'title_match'],
+  required: [
+    'face_count', 'text_overlay', 'dominant_emotion', 'shot_type', 'brightness', 'scene_busyness',
+    'dominant_color', 'title_match', 'overlay_text', 'overlay_tone',
+  ],
   additionalProperties: false,
 };
 
@@ -86,13 +101,15 @@ async function analyzeOne(client, { videoId, thumbnailUrl, title }, model, maxTo
     sceneBusyness: parsed.scene_busyness,
     dominantColor: parsed.dominant_color,
     titleMatch: parsed.title_match,
+    overlayText: parsed.overlay_text,
+    overlayTone: parsed.overlay_tone,
   };
 }
 
 // items: [{ videoId, thumbnailUrl, title }]. 항목 하나가 실패(거부/네트워크 오류/파싱 실패)해도
 // 나머지는 계속 진행하고, 실패는 errors로 모아 반환한다 (resolveChannels/collectVideos와 동일한 패턴).
 async function analyzeThumbnails(client, items, options = {}) {
-  const { model = 'claude-haiku-4-5', maxTokens = 350, concurrency = 5 } = options;
+  const { model = 'claude-haiku-4-5', maxTokens = 450, concurrency = 5 } = options;
   const features = [];
   const errors = [];
 

@@ -161,12 +161,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "green",
         "titleMatch": "consistent",
+        "overlayText": "북보다 손으로 퍼바르는 데 터틀력\nit hits different when you use your hands",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -270,6 +272,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "red",
         "titleMatch": "exaggerated",
+        "overlayText": "소의도 어려 한 법...",
+        "overlayTone": "curiosity_hook",
         "hasFace": false
       }
     },
@@ -356,15 +360,17 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
-        "shotType": "medium",
+        "dominantEmotion": "none",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "red",
         "titleMatch": "consistent",
-        "hasFace": true
+        "overlayText": "내가 원했던 게 이거잖아",
+        "overlayTone": "plain_info",
+        "hasFace": false
       }
     },
     {
@@ -386,7 +392,19 @@
           "durationSeconds": 1528
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": false,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "yellow",
+        "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
+        "hasFace": true
+      }
     },
     {
       "videoId": "WPG-aYuzwRA",
@@ -488,6 +506,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "orange",
         "titleMatch": "consistent",
+        "overlayText": "이 조합 미쳤으니 꼭 드셔보세요\ntrust me, this combo is insane",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -591,6 +611,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "미끄러져라고요\nit keeps slipping",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -688,12 +710,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
-        "shotType": "medium",
+        "dominantEmotion": "none",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "yellow",
         "titleMatch": "consistent",
+        "overlayText": "대충 오억 팍천만 원어치 마라탕",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -792,11 +816,13 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "yellow",
         "titleMatch": "consistent",
+        "overlayText": "와 진짜 폭렁적이다",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -900,6 +926,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "yellow",
         "titleMatch": "consistent",
+        "overlayText": "자취생 집밥 수준이 이 정도?",
+        "overlayTone": "question",
         "hasFace": true
       }
     },
@@ -937,9 +965,11 @@
         "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "busy",
         "dominantColor": "orange",
         "titleMatch": "consistent",
+        "overlayText": "혹혹 오랜만이죠?",
+        "overlayTone": "question",
         "hasFace": false
       }
     },
@@ -1039,10 +1069,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
-        "dominantColor": "orange",
+        "dominantColor": "yellow",
         "titleMatch": "consistent",
+        "overlayText": "되라고 음말하야 될까\nhow do i even explain it",
+        "overlayTone": "curiosity_hook",
         "hasFace": false
       }
     },
@@ -1144,8 +1176,10 @@
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "moderate",
-        "dominantColor": "orange",
+        "dominantColor": "yellow",
         "titleMatch": "consistent",
+        "overlayText": "더보다 쫄깃한 위콕한 느낌\nit's even chewier than rice cakes",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -1248,7 +1282,9 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "뽀로롱",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -1352,6 +1388,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "비추웨 키카 맛왔다 그냥\nLOOK AT THAT",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -1453,8 +1491,10 @@
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "black_white",
         "titleMatch": "exaggerated",
+        "overlayText": "라이스 긴요 없는 맛\nno explanation needed. SO GOOD!",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     }

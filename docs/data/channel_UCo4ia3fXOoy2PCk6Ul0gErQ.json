@@ -113,6 +113,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "orange",
         "titleMatch": "exaggerated",
+        "overlayText": "P의여정 인생드라마? 옷싸고둘 모유수유관찰 다이어트 집앉일 친구 밤친구 좋콩자는누가?? 둔콩자는누가?? 죽으마오세",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -210,12 +212,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "집에 소금뿌카지?\n남들은 뭐모음?ㅋㅋㅋ\n콩 담아드리기\n소테인리소마 고민?\n커피 안마시는 대신\n이런거 사 모으는 주부ㅋㅋ",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -319,6 +323,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "44kg 칼슬거지 철훈우... 15미로 족칭...? 나도 그뻐 평생 살아쪽 좋 앗았지",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -420,8 +426,10 @@
         "shotType": "wide",
         "brightness": "bright",
         "sceneBusyness": "busy",
-        "dominantColor": "multicolor",
-        "titleMatch": "consistent",
+        "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
+        "overlayText": "미아해.. 이런언 아르고?이야\n미니멀이고 나별이고 같이 쇼핑카심?\n(미니멀은 개통.. 비우다가 자라세일 감)\n26분 2분기\n또 비워본다..",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -465,12 +473,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "negative",
+        "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
-        "dominantColor": "multicolor",
+        "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "주말이..\n쉬는 날 아닌가??\n주말이 끝나고 난듦..\n열요일삶림?",
+        "overlayTone": "question",
         "hasFace": true
       }
     }

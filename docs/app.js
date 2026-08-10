@@ -10,7 +10,16 @@ const TIERS = [
   { key: 'mega', label: '메가 (100만~)', test: (s) => s >= 1000000 },
 ];
 
-const state = { channels: [], sortKey: 'subscriberCount', sortDir: 'desc', search: '', tier: 'all', activeChannelId: null };
+const state = {
+  channels: [],
+  sortKey: 'subscriberCount',
+  sortDir: 'desc',
+  search: '',
+  tier: 'all',
+  activeChannelId: null,
+  thumbnailInsightsByTier: null,
+  thumbnailTier: 'all',
+};
 
 function fmtNum(n) {
   return n === null || n === undefined ? '-' : Math.round(n).toLocaleString('ko-KR');
@@ -159,10 +168,29 @@ function insightNoteHtml(insight) {
   return `<div class="insight-dim-note">'${insight.topValue}'일 때 참여율이 가장 높아요(${fmtPercent(insight.topRate, 2)}) · '${insight.bottomValue}'일 때 가장 낮아요(${fmtPercent(insight.bottomRate, 2)})</div>`;
 }
 
+function examplesHtml(examples) {
+  if (!examples || examples.length === 0) return '';
+  return `<div class="insight-examples">${examples.map((t) => `<span>예: "${t}"</span>`).join('')}</div>`;
+}
+
+function renderThumbnailTierFilter() {
+  const el = document.getElementById('thumbnailTierFilter');
+  el.innerHTML = TIERS.map(
+    (t) => `<button class="tier-btn${t.key === state.thumbnailTier ? ' active' : ''}" data-tier="${t.key}">${t.label}</button>`
+  ).join('');
+  el.querySelectorAll('.tier-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      state.thumbnailTier = btn.dataset.tier;
+      el.querySelectorAll('.tier-btn').forEach((b) => b.classList.toggle('active', b === btn));
+      renderThumbnailInsights(state.thumbnailInsightsByTier?.[state.thumbnailTier]);
+    });
+  });
+}
+
 function renderThumbnailInsights(thumbnailInsights) {
   const el = document.getElementById('thumbnailInsightsGrid');
   if (!thumbnailInsights || thumbnailInsights.stableSampleSize === 0) {
-    el.innerHTML = `<div class="empty-state" style="grid-column: 1 / -1;">아직 분석된 썸네일이 없어요. analyze-thumbnails 스크립트를 실행하면 여기 표시됩니다.</div>`;
+    el.innerHTML = `<div class="empty-state" style="grid-column: 1 / -1;">이 구간에는 아직 분석된 썸네일이 없어요.</div>`;
     return;
   }
 
@@ -188,6 +216,7 @@ function renderThumbnailInsights(thumbnailInsights) {
             <span class="insight-row-value">${fmtPercent(b.avgEngagementRate, 2)}<span class="insight-row-sub"> · 조회수 평균 ${fmtNum(b.avgViews)}회</span></span>
           </div>
           <div class="insight-bar-track"><div class="insight-bar-fill" style="width:${pct}%;"></div></div>
+          ${examplesHtml(b.examples)}
         </div>
       `;
         })
@@ -197,6 +226,83 @@ function renderThumbnailInsights(thumbnailInsights) {
     .join('');
 
   el.innerHTML = callout + dimensionCards;
+}
+
+function renderClickbaitGrowthChart(channels) {
+  const canvas = document.getElementById('clickbaitGrowthChart');
+  const wrap = document.getElementById('clickbaitGrowthChartWrap');
+  const emptyState = document.getElementById('clickbaitGrowthEmptyState');
+  const points = (channels || []).filter((c) => c.clickbaitRate !== null && c.growthRate30d !== null && c.growthRate30d !== undefined);
+
+  if (points.length === 0) {
+    wrap.style.display = 'none';
+    emptyState.style.display = 'block';
+    return;
+  }
+
+  const subs = points.map((c) => c.subscriberCount);
+  const minSub = Math.min(...subs);
+  const maxSub = Math.max(...subs);
+
+  new Chart(canvas.getContext('2d'), {
+    type: 'bubble',
+    data: {
+      datasets: [
+        {
+          label: '채널',
+          data: points.map((c) => ({
+            x: c.clickbaitRate,
+            y: c.growthRate30d,
+            r: scaleRadius(c.subscriberCount, minSub, maxSub, 6, 30),
+            channelId: c.channelId,
+            title: c.title,
+            subscriberCount: c.subscriberCount,
+            analyzedVideoCount: c.analyzedVideoCount,
+          })),
+          backgroundColor: `${seriesColor}66`,
+          borderColor: seriesColor,
+          borderWidth: 1.5,
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: (ctx) => {
+              const p = ctx.raw;
+              return [
+                `${p.title}`,
+                `클릭베이트 비율 ${p.x.toFixed(0)}% · 30일 성장률 ${p.y.toFixed(1)}%`,
+                `구독자 ${p.subscriberCount.toLocaleString('ko-KR')}명 · 분석 영상 ${p.analyzedVideoCount}개`,
+              ];
+            },
+          },
+        },
+      },
+      scales: {
+        x: {
+          title: { display: true, text: '클릭베이트 비율(%)', color: style.getPropertyValue('--text-muted').trim() },
+          grid: { color: style.getPropertyValue('--gridline').trim() },
+        },
+        y: {
+          title: { display: true, text: '30일 구독자 성장률(%)', color: style.getPropertyValue('--text-muted').trim() },
+          grid: { color: style.getPropertyValue('--gridline').trim() },
+        },
+      },
+      onClick: (evt, elements) => {
+        if (!elements.length) return;
+        const point = points[elements[0].index];
+        if (point) selectChannel(point.channelId, { scroll: true });
+      },
+      onHover: (evt, elements) => {
+        evt.native.target.style.cursor = elements.length ? 'pointer' : 'default';
+      },
+    },
+  });
 }
 
 async function main() {
@@ -210,7 +316,10 @@ async function main() {
 
   renderKpiTiles(data);
   renderPositioningChart(data.channels);
-  renderThumbnailInsights(data.thumbnailInsights);
+  state.thumbnailInsightsByTier = data.thumbnailInsightsByTier || null;
+  renderThumbnailTierFilter();
+  renderThumbnailInsights(state.thumbnailInsightsByTier?.[state.thumbnailTier]);
+  renderClickbaitGrowthChart(data.channelClickbaitVsGrowth);
   renderMovers(data.topMoversShorts, data.topMoversLongform);
   renderChannelTabs(data.channels);
   renderTierFilter();

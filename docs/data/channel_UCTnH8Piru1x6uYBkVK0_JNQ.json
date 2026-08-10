@@ -122,6 +122,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "green",
         "titleMatch": "consistent",
+        "overlayText": "가르마를 제충 작게 다서\n아르마 오일을 부리고",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -180,6 +182,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "알밤로그 추천\n백화점 가면\n비싸도 꼭 사야하는\n명품 쿠션\nBEST 3",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -283,6 +287,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "저렴이부터 명품까지!\n화장품에 수 억 쓴\n여자의\n바디워시 추천템\n1탄",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -382,10 +388,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "알밤로그 추천\n헤어케어에\n수 억 쓴 여자의\n헤어 에센스, 오일\n추천",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -467,10 +475,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "알밤로그 추천\n자기관리에\n수 억 쓴\n여자의\n효과 제대로 본\n영양제 추천!!",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -556,6 +566,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "알밤로그 인샷템\n진자 비싸지만\n매일 아주 잘쓰는\n알밤로그 추천\n아이템\nBest 3",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -596,6 +608,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "알밤로그 추천\n알로 가면\n비싸도\n꼭 사야하는\n아이템\nBEST 3",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -632,10 +646,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
-        "brightness": "medium",
+        "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "알밤로구 추천\n헤어케어에\n수 억 쓴 여자의\n머리가 퐁퐁자라는\n두피 앰플 추천🌷",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -737,8 +753,10 @@
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "black_white",
+        "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "얍방로구 추천\n화장품에 수 억 쓴\n여자의\n정수리 냄새\n박멸하는 법!",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -837,11 +855,13 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "알밤로그 추천\n화장품에 수 억 쓴\n여자의\n유스트 찐 추천템\n2탄",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -945,6 +965,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "일반로그 추천\n화장품 수 천개 있어도\n바닥까지 쓰는\n인생 공병템\n추천",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -1048,6 +1070,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "알밤로그 추천\n화장품에 수 억 쓴\n여자의\n유스트 추천템\n1탄",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -1149,8 +1173,10 @@
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "clean",
-        "dominantColor": "black_white",
-        "titleMatch": "exaggerated",
+        "dominantColor": "yellow",
+        "titleMatch": "consistent",
+        "overlayText": "일반로그 꿀팁\n화장품에 수 억 쓴 여자의 등드름, 가드름 없애는 법",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -1254,6 +1280,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "exaggerated",
+        "overlayText": "POV : 고도로 발전한 백수는\n상속녀와 구분할 수 없다.\n\n1. 좆 자고 일어나고 싶을 때\n안 잠 없이 일어남",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -1357,6 +1385,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "알밤로그 추천\n화장품에 수 억 쓴\n여자의\n두피가 시원해지는\n쿨링 아이템 추천\nBEST5",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -1460,6 +1490,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "알밤로그 추천 화장품에 수 억 쓰고 받았던 예쁜 코스메틱 파우치 소개",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     },
@@ -1561,8 +1593,10 @@
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "black_white",
+        "dominantColor": "pink",
         "titleMatch": "exaggerated",
+        "overlayText": "알밤로그 추천\n피부 밝게 만드려고\n수 억 쓴\n여자의\n미백 추천림\nBest 3",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -1666,6 +1700,8 @@
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "화장품에 수 억 쓴\n여자의\n바디워시 추천템\n2탄\n샤넬+추천템",
+        "overlayTone": "superlative_hype",
         "hasFace": false
       }
     }

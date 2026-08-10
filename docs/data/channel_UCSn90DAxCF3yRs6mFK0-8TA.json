@@ -161,12 +161,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
-        "shotType": "closeup",
+        "dominantEmotion": "positive",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "기긴윤미\n등장\nondo vlog",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -226,14 +228,16 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 2,
+        "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
-        "titleMatch": "exaggerated",
+        "titleMatch": "consistent",
+        "overlayText": "어금방락 지대묵다",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     }

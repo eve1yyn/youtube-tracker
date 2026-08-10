@@ -165,8 +165,10 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
-        "titleMatch": "consistent",
+        "dominantColor": "pink",
+        "titleMatch": "exaggerated",
+        "overlayText": "vlog",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -262,15 +264,17 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
-        "shotType": "closeup",
+        "dominantEmotion": "none",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "yellow",
-        "titleMatch": "consistent",
-        "hasFace": true
+        "dominantColor": "orange",
+        "titleMatch": "exaggerated",
+        "overlayText": "vlog",
+        "overlayTone": "plain_info",
+        "hasFace": false
       }
     }
   ]

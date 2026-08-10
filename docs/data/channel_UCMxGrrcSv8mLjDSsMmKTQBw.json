@@ -92,9 +92,11 @@
         "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
-        "sceneBusyness": "clean",
+        "sceneBusyness": "moderate",
         "dominantColor": "black_white",
-        "titleMatch": "unrelated",
+        "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -193,11 +195,13 @@
         "faceCount": 0,
         "textOverlay": false,
         "dominantEmotion": "none",
-        "shotType": "medium",
+        "shotType": "wide",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": false
       }
     },
@@ -301,6 +305,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "yellow",
         "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": false
       }
     },
@@ -359,6 +365,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     }

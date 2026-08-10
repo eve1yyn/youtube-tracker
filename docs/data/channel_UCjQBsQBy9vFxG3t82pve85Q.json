@@ -86,7 +86,19 @@
           "durationSeconds": 764
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "closeup",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "purple",
+        "titleMatch": "consistent",
+        "overlayText": "드디어 나왔다 이것다...! #온장마팩 #이상팩 BLANCDIVA Purple Rice PDRN Hydrogel Mask",
+        "overlayTone": "superlative_hype",
+        "hasFace": true
+      }
     },
     {
       "videoId": "6Je3tzNOTk8",
@@ -137,12 +149,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "red",
-        "titleMatch": "unrelated",
+        "titleMatch": "exaggerated",
+        "overlayText": "우은 중 지방이 혜비왕짓 같고\n둘보다 맛있게 먹고 싶고..\n두마라는까 다 잡는",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -199,8 +213,10 @@
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "moderate",
-        "dominantColor": "black_white",
+        "dominantColor": "multicolor",
         "titleMatch": "exaggerated",
+        "overlayText": "쉑·아냥의 국🍦\n정말 ... 사랑과 정성을\n가득 녹였습니다 ...",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     },
@@ -232,6 +248,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "exaggerated",
+        "overlayText": "롱다강은\n생각보다 훨씬 괜찮았음!!!",
+        "overlayTone": "superlative_hype",
         "hasFace": true
       }
     },
@@ -272,6 +290,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "밝색 굴임 (무신사에서 샀)",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     }

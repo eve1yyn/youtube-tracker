@@ -154,10 +154,12 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
         "titleMatch": "consistent",
+        "overlayText": "Erin's Summer Closet",
+        "overlayTone": "plain_info",
         "hasFace": false
       }
     },
@@ -255,12 +257,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "dark",
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "우리 집\n주방에\n없는 것",
+        "overlayTone": "curiosity_hook",
         "hasFace": true
       }
     }

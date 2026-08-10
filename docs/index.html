@@ -273,6 +273,8 @@
   .insight-bar-track { height: 6px; border-radius: 999px; background: var(--page-plane); overflow: hidden; }
   .insight-bar-fill { height: 100%; border-radius: 999px; background: var(--series-1); }
   .insight-dim-note { font-size: 12px; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.4; }
+  .insight-examples { margin: 4px 0 0; font-size: 11px; color: var(--text-muted); line-height: 1.5; }
+  .insight-examples span { display: block; }
   .insight-callout {
     grid-column: 1 / -1;
     display: flex;
@@ -321,10 +323,26 @@
         <h2>썸네일 요소 분석</h2>
         <div class="section-sub">
           얼굴/텍스트/구성 등 썸네일 요소별 평균 성과 비교 · 표본이 아직 작아 방향성 참고용이에요(통계적으로 유의미하지 않을 수 있음, n = 해당 그룹 영상 수)<br />
-          Claude AI가 각 썸네일 이미지(와 제목)를 보고 8가지 요소를 자동 판단해요. 조회수 등 성과 데이터는 판단 근거로 쓰지 않아요.
+          Claude AI가 각 썸네일 이미지(와 제목)를 보고 10가지 요소를 자동 판단해요. 조회수 등 성과 데이터는 판단 근거로 쓰지 않아요.
         </div>
       </div>
+      <div class="tier-filter" id="thumbnailTierFilter" style="margin-bottom: 12px;"></div>
       <div class="thumbnail-insights-grid" id="thumbnailInsightsGrid"></div>
+    </div>
+
+    <div class="section">
+      <div class="section-head">
+        <h2>클릭베이트와 성장률</h2>
+        <div class="section-sub">가로: 제목-썸네일 클릭베이트 비율(%) · 세로: 30일 구독자 성장률(%) · 원 크기: 구독자 수 — 제목 낚시가 실제 성장에 도움이 되는지 손해인지 보는 용도</div>
+      </div>
+      <div class="card">
+        <div id="clickbaitGrowthChartWrap" style="position:relative; height:340px;">
+          <canvas id="clickbaitGrowthChart"></canvas>
+        </div>
+        <div class="empty-state" id="clickbaitGrowthEmptyState" style="display:none; margin-top: 8px;">
+          그래프를 그릴 만큼 데이터가 쌓인 채널이 아직 없어요(썸네일 분석 + 30일치 성장률 데이터 모두 필요해요).
+        </div>
+      </div>
     </div>
 
     <div class="section">

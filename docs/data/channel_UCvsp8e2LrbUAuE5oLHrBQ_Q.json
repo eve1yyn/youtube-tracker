@@ -159,7 +159,7 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
@@ -167,7 +167,9 @@
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
-        "hasFace": true
+        "overlayText": "밥솥 찹쌀누룽지백숙\nRice Cooker Glutinous Rice Chicken",
+        "overlayTone": "plain_info",
+        "hasFace": false
       }
     },
     {
@@ -262,15 +264,17 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "none",
         "shotType": "medium",
         "brightness": "bright",
-        "sceneBusyness": "busy",
+        "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
-        "hasFace": true
+        "overlayText": "🎨VLOG?",
+        "overlayTone": "plain_info",
+        "hasFace": false
       }
     },
     {
@@ -367,12 +371,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "VLOG",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -462,11 +468,13 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "orange",
-        "titleMatch": "exaggerated",
+        "titleMatch": "consistent",
+        "overlayText": "VLOG ♪",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     }

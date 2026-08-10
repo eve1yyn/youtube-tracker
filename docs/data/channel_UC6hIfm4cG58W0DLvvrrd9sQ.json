@@ -166,7 +166,9 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "대충 살아도 괜찮은가요",
+        "overlayTone": "question",
         "hasFace": true
       }
     }

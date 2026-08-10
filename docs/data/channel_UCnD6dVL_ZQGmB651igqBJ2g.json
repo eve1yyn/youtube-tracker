@@ -167,6 +167,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
         "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -252,6 +254,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "green",
         "titleMatch": "consistent",
+        "overlayText": "7주년 기프트 샀기\n연예인 초청했습니다!",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -328,6 +332,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
         "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -368,6 +374,8 @@
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
         "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -400,15 +408,17 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "positive",
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
-        "titleMatch": "consistent",
-        "hasFace": true
+        "titleMatch": "exaggerated",
+        "overlayText": "가오리미소 남이야♥♥",
+        "overlayTone": "plain_info",
+        "hasFace": false
       }
     },
     {
@@ -465,7 +475,9 @@
         "brightness": "dark",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -563,12 +575,14 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "clean",
         "dominantColor": "blue",
         "titleMatch": "consistent",
+        "overlayText": "파묵칼레 온천극장",
+        "overlayTone": "plain_info",
         "hasFace": true
       }
     },
@@ -668,10 +682,12 @@
         "textOverlay": false,
         "dominantEmotion": "positive",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -767,14 +783,16 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 2,
+        "faceCount": 3,
         "textOverlay": false,
         "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
-        "titleMatch": "exaggerated",
+        "titleMatch": "unrelated",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     },
@@ -849,8 +867,10 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "yellow",
+        "dominantColor": "multicolor",
         "titleMatch": "consistent",
+        "overlayText": "",
+        "overlayTone": "none",
         "hasFace": true
       }
     }
