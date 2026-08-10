@@ -92,8 +92,9 @@
         "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "clean",
         "dominantColor": "black_white",
+        "titleMatch": "unrelated",
         "hasFace": true
       }
     },
@@ -196,6 +197,7 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "unrelated",
         "hasFace": false
       }
     },
@@ -298,6 +300,7 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "yellow",
+        "titleMatch": "unrelated",
         "hasFace": false
       }
     },
@@ -347,7 +350,17 @@
           "durationSeconds": 860
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": false,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "black_white",
+        "titleMatch": "consistent",
+        "hasFace": true
+      }
     }
   ]
 }

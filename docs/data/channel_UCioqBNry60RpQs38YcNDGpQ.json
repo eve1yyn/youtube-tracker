@@ -95,7 +95,17 @@
           "durationSeconds": 1159
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "closeup",
+        "brightness": "medium",
+        "sceneBusyness": "moderate",
+        "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
+        "hasFace": true
+      }
     }
   ]
 }

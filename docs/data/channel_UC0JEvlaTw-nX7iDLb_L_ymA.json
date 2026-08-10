@@ -129,7 +129,8 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "pink",
+        "dominantColor": "orange",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -232,6 +233,7 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -334,6 +336,7 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -374,7 +377,17 @@
           "durationSeconds": 1563
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 2,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "blue",
+        "titleMatch": "exaggerated",
+        "hasFace": true
+      }
     },
     {
       "videoId": "DBNNOHT_A4M",
@@ -470,11 +483,12 @@
       "thumbnailFeatures": {
         "faceCount": 2,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "black_white",
+        "titleMatch": "unrelated",
         "hasFace": true
       }
     },
@@ -572,11 +586,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
-        "brightness": "medium",
+        "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "blue",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -675,10 +690,11 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "positive",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "busy",
+        "sceneBusyness": "moderate",
         "dominantColor": "green",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -777,10 +793,11 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "dark",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -883,6 +900,7 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -985,6 +1003,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -1076,8 +1095,9 @@
         "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "bright",
-        "sceneBusyness": "busy",
-        "dominantColor": "pink",
+        "sceneBusyness": "moderate",
+        "dominantColor": "red",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -1179,7 +1199,8 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "green",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -1279,9 +1300,10 @@
         "textOverlay": true,
         "dominantEmotion": "positive",
         "shotType": "closeup",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "green",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -1377,13 +1399,14 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 2,
+        "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "black_white",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     }

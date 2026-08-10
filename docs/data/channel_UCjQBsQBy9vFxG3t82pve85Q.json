@@ -137,11 +137,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "negative",
+        "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "red",
+        "titleMatch": "unrelated",
         "hasFace": true
       }
     },
@@ -199,6 +200,7 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -224,11 +226,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -260,7 +263,17 @@
           "durationSeconds": 54
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "closeup",
+        "brightness": "dark",
+        "sceneBusyness": "moderate",
+        "dominantColor": "black_white",
+        "titleMatch": "consistent",
+        "hasFace": true
+      }
     }
   ]
 }

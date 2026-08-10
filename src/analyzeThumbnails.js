@@ -34,15 +34,24 @@ const THUMBNAIL_FEATURE_SCHEMA = {
       enum: ['red', 'orange', 'yellow', 'green', 'blue', 'purple', 'pink', 'black_white', 'multicolor'],
       description: '썸네일의 지배적 색 계열',
     },
+    title_match: {
+      type: 'string',
+      enum: ['consistent', 'exaggerated', 'unrelated'],
+      description:
+        '영상 제목이 약속하는 내용과 썸네일이 실제로 보여주는 내용의 일치 정도. ' +
+        'consistent=제목과 썸네일이 같은 내용, exaggerated=썸네일이 제목보다 과장되거나 자극적(클릭베이트 느낌), ' +
+        'unrelated=썸네일이 제목과 무관해 보임',
+    },
   },
-  required: ['face_count', 'text_overlay', 'dominant_emotion', 'shot_type', 'brightness', 'scene_busyness', 'dominant_color'],
+  required: ['face_count', 'text_overlay', 'dominant_emotion', 'shot_type', 'brightness', 'scene_busyness', 'dominant_color', 'title_match'],
   additionalProperties: false,
 };
 
-const PROMPT_TEXT =
-  '이 유튜브 영상 썸네일 이미지를 분석해서 지정된 구조로 시각적 특징만 추출하세요. 이미지에 실제로 보이는 것만 근거로 판단하세요.';
+function buildPromptText(title) {
+  return `이 유튜브 영상의 썸네일 이미지와 제목을 비교해서 지정된 구조로 시각적 특징과 제목-썸네일 일치도를 추출하세요. 이미지에 실제로 보이는 것과 아래 제목만 근거로 판단하세요.\n\n영상 제목: "${title}"`;
+}
 
-async function analyzeOne(client, { videoId, thumbnailUrl }, model, maxTokens) {
+async function analyzeOne(client, { videoId, thumbnailUrl, title }, model, maxTokens) {
   const response = await client.messages.create({
     model,
     max_tokens: maxTokens,
@@ -52,7 +61,7 @@ async function analyzeOne(client, { videoId, thumbnailUrl }, model, maxTokens) {
         role: 'user',
         content: [
           { type: 'image', source: { type: 'url', url: thumbnailUrl } },
-          { type: 'text', text: PROMPT_TEXT },
+          { type: 'text', text: buildPromptText(title) },
         ],
       },
     ],
@@ -76,13 +85,14 @@ async function analyzeOne(client, { videoId, thumbnailUrl }, model, maxTokens) {
     brightness: parsed.brightness,
     sceneBusyness: parsed.scene_busyness,
     dominantColor: parsed.dominant_color,
+    titleMatch: parsed.title_match,
   };
 }
 
-// items: [{ videoId, thumbnailUrl }]. 항목 하나가 실패(거부/네트워크 오류/파싱 실패)해도
+// items: [{ videoId, thumbnailUrl, title }]. 항목 하나가 실패(거부/네트워크 오류/파싱 실패)해도
 // 나머지는 계속 진행하고, 실패는 errors로 모아 반환한다 (resolveChannels/collectVideos와 동일한 패턴).
 async function analyzeThumbnails(client, items, options = {}) {
-  const { model = 'claude-haiku-4-5', maxTokens = 300, concurrency = 5 } = options;
+  const { model = 'claude-haiku-4-5', maxTokens = 350, concurrency = 5 } = options;
   const features = [];
   const errors = [];
 

@@ -159,14 +159,15 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 0,
+        "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "clean",
         "dominantColor": "green",
-        "hasFace": false
+        "titleMatch": "unrelated",
+        "hasFace": true
       }
     },
     {
@@ -236,11 +237,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -281,7 +283,17 @@
           "durationSeconds": 14
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "multicolor",
+        "titleMatch": "unrelated",
+        "hasFace": true
+      }
     },
     {
       "videoId": "1B_gC42DCO8",
@@ -377,11 +389,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "bright",
-        "sceneBusyness": "busy",
+        "sceneBusyness": "moderate",
         "dominantColor": "pink",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -480,10 +493,11 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "busy",
-        "dominantColor": "pink",
+        "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
         "hasFace": false
       }
     },
@@ -581,11 +595,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "positive",
+        "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "medium",
-        "sceneBusyness": "busy",
+        "sceneBusyness": "moderate",
         "dominantColor": "pink",
+        "titleMatch": "unrelated",
         "hasFace": true
       }
     },
@@ -688,6 +703,7 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -755,7 +771,17 @@
           "durationSeconds": 44
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "closeup",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "multicolor",
+        "titleMatch": "consistent",
+        "hasFace": true
+      }
     },
     {
       "videoId": "F-9XU5C4seg",
@@ -849,14 +875,15 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "clean",
         "dominantColor": "black_white",
-        "hasFace": true
+        "titleMatch": "consistent",
+        "hasFace": false
       }
     },
     {
@@ -887,7 +914,17 @@
           "durationSeconds": 38
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
+        "hasFace": true
+      }
     },
     {
       "videoId": "I9t4YAfk0c4",
@@ -926,7 +963,17 @@
           "durationSeconds": 38
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": false,
+        "dominantEmotion": "positive",
+        "shotType": "closeup",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "pink",
+        "titleMatch": "exaggerated",
+        "hasFace": true
+      }
     },
     {
       "videoId": "IVxGzPfqY_g",
@@ -1025,8 +1072,9 @@
         "dominantEmotion": "negative",
         "shotType": "medium",
         "brightness": "bright",
-        "sceneBusyness": "busy",
-        "dominantColor": "multicolor",
+        "sceneBusyness": "moderate",
+        "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -1086,14 +1134,15 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 0,
+        "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "neutral",
         "shotType": "wide",
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
-        "hasFace": false
+        "titleMatch": "unrelated",
+        "hasFace": true
       }
     },
     {
@@ -1195,6 +1244,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "pink",
+        "titleMatch": "exaggerated",
         "hasFace": false
       }
     },
@@ -1234,6 +1284,7 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "unrelated",
         "hasFace": false
       }
     },
@@ -1336,6 +1387,7 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
+        "titleMatch": "unrelated",
         "hasFace": true
       }
     },
@@ -1431,14 +1483,15 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 0,
+        "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
-        "hasFace": false
+        "titleMatch": "consistent",
+        "hasFace": true
       }
     },
     {
@@ -1540,6 +1593,7 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "unrelated",
         "hasFace": false
       }
     },
@@ -1639,9 +1693,10 @@
         "textOverlay": true,
         "dominantEmotion": "neutral",
         "shotType": "medium",
-        "brightness": "bright",
+        "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -1743,7 +1798,8 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "black_white",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -1846,6 +1902,7 @@
         "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -1943,11 +2000,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "clean",
         "dominantColor": "yellow",
+        "titleMatch": "unrelated",
         "hasFace": true
       }
     },
@@ -2049,7 +2107,8 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "black_white",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -2152,6 +2211,7 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -2250,10 +2310,11 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "yellow",
+        "titleMatch": "unrelated",
         "hasFace": false
       }
     },
@@ -2284,6 +2345,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
         "hasFace": false
       }
     },
@@ -2381,11 +2443,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -2483,11 +2546,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "busy",
+        "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -2590,6 +2654,7 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -2648,7 +2713,17 @@
           "durationSeconds": 7
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "multicolor",
+        "titleMatch": "consistent",
+        "hasFace": true
+      }
     },
     {
       "videoId": "bfXHdPE9VRQ",
@@ -2749,6 +2824,7 @@
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
+        "titleMatch": "exaggerated",
         "hasFace": false
       }
     },
@@ -2780,7 +2856,17 @@
           "durationSeconds": 31
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "multicolor",
+        "titleMatch": "consistent",
+        "hasFace": true
+      }
     },
     {
       "videoId": "csufe-EgfM4",
@@ -2874,14 +2960,15 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 0,
+        "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "neutral",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
-        "hasFace": false
+        "titleMatch": "unrelated",
+        "hasFace": true
       }
     },
     {
@@ -2948,7 +3035,17 @@
           "durationSeconds": 49
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 0,
+        "textOverlay": true,
+        "dominantEmotion": "none",
+        "shotType": "closeup",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "pink",
+        "titleMatch": "consistent",
+        "hasFace": false
+      }
     },
     {
       "videoId": "gU3s1oCZpfE",
@@ -3045,10 +3142,11 @@
         "faceCount": 0,
         "textOverlay": true,
         "dominantEmotion": "none",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
-        "dominantColor": "red",
+        "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
         "hasFace": false
       }
     },
@@ -3151,6 +3249,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "pink",
+        "titleMatch": "exaggerated",
         "hasFace": false
       }
     },
@@ -3200,7 +3299,17 @@
           "durationSeconds": 45
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 1,
+        "textOverlay": true,
+        "dominantEmotion": "neutral",
+        "shotType": "medium",
+        "brightness": "bright",
+        "sceneBusyness": "busy",
+        "dominantColor": "multicolor",
+        "titleMatch": "consistent",
+        "hasFace": true
+      }
     },
     {
       "videoId": "hKq4gf2NccQ",
@@ -3285,14 +3394,15 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
-        "dominantEmotion": "positive",
+        "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
-        "hasFace": true
+        "titleMatch": "consistent",
+        "hasFace": false
       }
     },
     {
@@ -3389,7 +3499,17 @@
           "durationSeconds": 20
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 2,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "closeup",
+        "brightness": "bright",
+        "sceneBusyness": "moderate",
+        "dominantColor": "pink",
+        "titleMatch": "consistent",
+        "hasFace": true
+      }
     },
     {
       "videoId": "k0m8Kc_iz7Y",
@@ -3472,6 +3592,7 @@
         "brightness": "bright",
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
+        "titleMatch": "unrelated",
         "hasFace": false
       }
     },
@@ -3549,14 +3670,15 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 1,
+        "faceCount": 0,
         "textOverlay": true,
-        "dominantEmotion": "positive",
+        "dominantEmotion": "none",
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "blue",
-        "hasFace": true
+        "titleMatch": "consistent",
+        "hasFace": false
       }
     },
     {
@@ -3658,6 +3780,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": false
       }
     },
@@ -3760,6 +3883,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -3808,6 +3932,7 @@
         "brightness": "medium",
         "sceneBusyness": "busy",
         "dominantColor": "black_white",
+        "titleMatch": "consistent",
         "hasFace": false
       }
     },
@@ -3903,14 +4028,15 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 0,
+        "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "none",
+        "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
-        "hasFace": false
+        "dominantColor": "black_white",
+        "titleMatch": "unrelated",
+        "hasFace": true
       }
     },
     {
@@ -4005,13 +4131,14 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 2,
+        "faceCount": 3,
         "textOverlay": true,
         "dominantEmotion": "positive",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -4114,6 +4241,7 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "red",
+        "titleMatch": "consistent",
         "hasFace": false
       }
     },
@@ -4216,6 +4344,7 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "black_white",
+        "titleMatch": "unrelated",
         "hasFace": false
       }
     },
@@ -4315,9 +4444,10 @@
         "textOverlay": true,
         "dominantEmotion": "none",
         "shotType": "closeup",
-        "brightness": "medium",
+        "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "blue",
+        "titleMatch": "unrelated",
         "hasFace": false
       }
     },
@@ -4370,11 +4500,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "neutral",
+        "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -4476,7 +4607,8 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "orange",
+        "dominantColor": "black_white",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -4578,7 +4710,8 @@
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "red",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -4672,6 +4805,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": false
       }
     }

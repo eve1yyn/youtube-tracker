@@ -165,7 +165,8 @@
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "red",
+        "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -268,6 +269,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -370,6 +372,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -458,11 +461,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "positive",
-        "shotType": "medium",
+        "dominantEmotion": "neutral",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "orange",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     }

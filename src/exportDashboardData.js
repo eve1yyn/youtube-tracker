@@ -56,6 +56,17 @@ function bucketFaceCount(n) {
   return '2명 이상';
 }
 
+// Claude가 반환하는 값은 영어 enum이라 그대로 노출하면 대시보드에서 읽기 어렵다.
+const DOMINANT_EMOTION_LABELS = { positive: '긍정', neutral: '중립', negative: '부정', none: '없음' };
+const SHOT_TYPE_LABELS = { closeup: '클로즈업', medium: '중간거리', wide: '넓은 화면' };
+const BRIGHTNESS_LABELS = { bright: '밝음', medium: '보통', dark: '어두움' };
+const SCENE_BUSYNESS_LABELS = { clean: '깔끔함', moderate: '보통', busy: '복잡함' };
+const DOMINANT_COLOR_LABELS = {
+  red: '빨강', orange: '주황', yellow: '노랑', green: '초록', blue: '파랑',
+  purple: '보라', pink: '분홍', black_white: '흑백', multicolor: '다채로움',
+};
+const TITLE_MATCH_LABELS = { consistent: '일치', exaggerated: '과장(클릭베이트)', unrelated: '무관' };
+
 function groupBy(rows, keyFn, label) {
   const groups = new Map();
   for (const row of rows) {
@@ -72,26 +83,53 @@ function groupBy(rows, keyFn, label) {
     avgEngagementRate: average(rs.map((r) => r.engagementRate).filter((v) => v !== null)),
   }));
   buckets.sort((a, b) => (b.avgEngagementRate ?? -Infinity) - (a.avgEngagementRate ?? -Infinity));
-  return { label, buckets };
+  return { label, buckets, insight: dimensionInsight(buckets) };
+}
+
+// buckets는 이미 avgEngagementRate 내림차순 정렬돼 있으니, 양 끝(최고/최저)을 뽑아
+// "이 요소는 참여율 차이가 이만큼 난다"를 한 줄로 요약할 수 있게 한다.
+function dimensionInsight(buckets) {
+  const withRate = buckets.filter((b) => b.avgEngagementRate !== null);
+  if (withRate.length < 2) return null;
+  const top = withRate[0];
+  const bottom = withRate[withRate.length - 1];
+  return {
+    topValue: top.value,
+    topRate: top.avgEngagementRate,
+    bottomValue: bottom.value,
+    bottomRate: bottom.avgEngagementRate,
+    deltaPct: top.avgEngagementRate - bottom.avgEngagementRate,
+  };
 }
 
 // 채널 하나당 영상이 몇 개 안 되므로 채널별로는 상관관계가 무의미하다. 전체 채널의
 // 안정화된 영상을 모두 합쳐야 버킷당 표본이 확보된다(그래서 채널 루프 밖에서 호출).
 function buildThumbnailInsights(rows, totalAnalyzedCount) {
   if (rows.length === 0) return null;
+  const dimensions = {
+    faceCount: groupBy(rows, (r) => bucketFaceCount(r.faceCount), '얼굴 수'),
+    textOverlay: groupBy(rows, (r) => (r.textOverlay ? '있음' : '없음'), '텍스트 오버레이'),
+    dominantEmotion: groupBy(rows, (r) => DOMINANT_EMOTION_LABELS[r.dominantEmotion] ?? r.dominantEmotion, '표정'),
+    shotType: groupBy(rows, (r) => SHOT_TYPE_LABELS[r.shotType] ?? r.shotType, '샷 타입'),
+    brightness: groupBy(rows, (r) => BRIGHTNESS_LABELS[r.brightness] ?? r.brightness, '밝기'),
+    sceneBusyness: groupBy(rows, (r) => SCENE_BUSYNESS_LABELS[r.sceneBusyness] ?? r.sceneBusyness, '구성 복잡도'),
+    dominantColor: groupBy(rows, (r) => DOMINANT_COLOR_LABELS[r.dominantColor] ?? r.dominantColor, '주조색'),
+    titleMatch: groupBy(rows, (r) => TITLE_MATCH_LABELS[r.titleMatch] ?? r.titleMatch, '제목-썸네일 일치도'),
+  };
+
+  let topSignal = null;
+  for (const [key, dim] of Object.entries(dimensions)) {
+    if (dim.insight && (!topSignal || dim.insight.deltaPct > topSignal.deltaPct)) {
+      topSignal = { dimensionKey: key, dimensionLabel: dim.label, ...dim.insight };
+    }
+  }
+
   return {
     sampleSize: totalAnalyzedCount,
     stableSampleSize: rows.length,
     generatedAt: new Date().toISOString(),
-    dimensions: {
-      faceCount: groupBy(rows, (r) => bucketFaceCount(r.faceCount), '얼굴 수'),
-      textOverlay: groupBy(rows, (r) => (r.textOverlay ? '있음' : '없음'), '텍스트 오버레이'),
-      dominantEmotion: groupBy(rows, (r) => r.dominantEmotion, '표정'),
-      shotType: groupBy(rows, (r) => r.shotType, '샷 타입'),
-      brightness: groupBy(rows, (r) => r.brightness, '밝기'),
-      sceneBusyness: groupBy(rows, (r) => r.sceneBusyness, '구성 복잡도'),
-      dominantColor: groupBy(rows, (r) => r.dominantColor, '주조색'),
-    },
+    dimensions,
+    topSignal,
   };
 }
 
@@ -114,7 +152,8 @@ function exportDashboardData(dbPath, outDir) {
   const featureStmt = hasThumbnailFeatures
     ? db.prepare(
         `SELECT face_count AS faceCount, text_overlay AS textOverlay, dominant_emotion AS dominantEmotion,
-                shot_type AS shotType, brightness, scene_busyness AS sceneBusyness, dominant_color AS dominantColor
+                shot_type AS shotType, brightness, scene_busyness AS sceneBusyness, dominant_color AS dominantColor,
+                title_match AS titleMatch
          FROM video_thumbnail_features WHERE video_id = ?`
       )
     : null;

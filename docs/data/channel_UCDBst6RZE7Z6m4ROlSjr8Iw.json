@@ -157,6 +157,7 @@
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
+        "titleMatch": "consistent",
         "hasFace": false
       }
     },
@@ -259,6 +260,7 @@
         "brightness": "dark",
         "sceneBusyness": "clean",
         "dominantColor": "black_white",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     }

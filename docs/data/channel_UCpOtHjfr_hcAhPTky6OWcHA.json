@@ -187,6 +187,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -252,7 +253,8 @@
         "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "dominantColor": "black_white",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -353,8 +355,9 @@
         "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
-        "dominantColor": "multicolor",
+        "sceneBusyness": "clean",
+        "dominantColor": "black_white",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -444,10 +447,11 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "positive",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "pink",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -550,6 +554,7 @@
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -645,13 +650,14 @@
         }
       ],
       "thumbnailFeatures": {
-        "faceCount": 4,
+        "faceCount": 3,
         "textOverlay": true,
         "dominantEmotion": "positive",
         "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     },
@@ -750,10 +756,11 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "neutral",
-        "shotType": "medium",
+        "shotType": "closeup",
         "brightness": "medium",
         "sceneBusyness": "moderate",
         "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -855,7 +862,8 @@
         "shotType": "medium",
         "brightness": "medium",
         "sceneBusyness": "moderate",
-        "dominantColor": "black_white",
+        "dominantColor": "multicolor",
+        "titleMatch": "consistent",
         "hasFace": true
       }
     }

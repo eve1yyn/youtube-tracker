@@ -54,7 +54,7 @@ async function main() {
       const res = await youtubeClient.getVideosByIds(batch);
       for (const item of res.items || []) {
         const thumbnailUrl = extractThumbnailUrl(item.snippet);
-        if (thumbnailUrl) items.push({ videoId: item.id, thumbnailUrl });
+        if (thumbnailUrl) items.push({ videoId: item.id, thumbnailUrl, title: item.snippet.title });
       }
     } catch (err) {
       console.warn(`  썸네일 URL 조회 실패(영상 ${batch.length}개): ${err.message}`);

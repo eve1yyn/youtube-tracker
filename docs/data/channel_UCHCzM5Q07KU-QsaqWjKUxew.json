@@ -162,10 +162,11 @@
         "faceCount": 1,
         "textOverlay": true,
         "dominantEmotion": "positive",
-        "shotType": "closeup",
+        "shotType": "medium",
         "brightness": "bright",
         "sceneBusyness": "moderate",
         "dominantColor": "red",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     }

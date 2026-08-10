@@ -37,6 +37,7 @@ CREATE TABLE IF NOT EXISTS video_thumbnail_features (
   brightness        TEXT,
   scene_busyness    TEXT,
   dominant_color    TEXT,
+  title_match       TEXT,
   model             TEXT NOT NULL,
   analyzed_at       TEXT NOT NULL
 );

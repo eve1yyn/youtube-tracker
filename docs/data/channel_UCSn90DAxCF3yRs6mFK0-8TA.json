@@ -161,11 +161,12 @@
       "thumbnailFeatures": {
         "faceCount": 1,
         "textOverlay": true,
-        "dominantEmotion": "positive",
+        "dominantEmotion": "neutral",
         "shotType": "closeup",
         "brightness": "bright",
-        "sceneBusyness": "moderate",
+        "sceneBusyness": "busy",
         "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
         "hasFace": true
       }
     },
@@ -224,7 +225,17 @@
           "durationSeconds": 1419
         }
       ],
-      "thumbnailFeatures": null
+      "thumbnailFeatures": {
+        "faceCount": 2,
+        "textOverlay": true,
+        "dominantEmotion": "positive",
+        "shotType": "medium",
+        "brightness": "medium",
+        "sceneBusyness": "busy",
+        "dominantColor": "multicolor",
+        "titleMatch": "exaggerated",
+        "hasFace": true
+      }
     }
   ]
 }

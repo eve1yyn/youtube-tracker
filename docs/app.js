@@ -154,6 +154,11 @@ function renderPositioningChart(channels) {
   });
 }
 
+function insightNoteHtml(insight) {
+  if (!insight) return '';
+  return `<div class="insight-dim-note">'${insight.topValue}'일 때 참여율이 가장 높아요(${fmtPercent(insight.topRate, 2)}) · '${insight.bottomValue}'일 때 가장 낮아요(${fmtPercent(insight.bottomRate, 2)})</div>`;
+}
+
 function renderThumbnailInsights(thumbnailInsights) {
   const el = document.getElementById('thumbnailInsightsGrid');
   if (!thumbnailInsights || thumbnailInsights.stableSampleSize === 0) {
@@ -161,7 +166,16 @@ function renderThumbnailInsights(thumbnailInsights) {
     return;
   }
 
-  el.innerHTML = Object.values(thumbnailInsights.dimensions)
+  const callout = thumbnailInsights.topSignal
+    ? `
+    <div class="card insight-callout">
+      <span class="insight-callout-label">가장 뚜렷한 차이</span>
+      <span class="insight-callout-text">${thumbnailInsights.topSignal.dimensionLabel} — '${thumbnailInsights.topSignal.topValue}' 참여율 ${fmtPercent(thumbnailInsights.topSignal.topRate, 2)} vs '${thumbnailInsights.topSignal.bottomValue}' ${fmtPercent(thumbnailInsights.topSignal.bottomRate, 2)} (차이 ${thumbnailInsights.topSignal.deltaPct.toFixed(2)}%p)</span>
+    </div>
+  `
+    : '';
+
+  const dimensionCards = Object.values(thumbnailInsights.dimensions)
     .map((dim) => {
       const maxRate = Math.max(...dim.buckets.map((b) => b.avgEngagementRate ?? 0), 0.0001);
       const rows = dim.buckets
@@ -178,9 +192,11 @@ function renderThumbnailInsights(thumbnailInsights) {
       `;
         })
         .join('');
-      return `<div class="card"><div class="insight-dim-title">${dim.label}</div>${rows}</div>`;
+      return `<div class="card"><div class="insight-dim-title">${dim.label}</div>${insightNoteHtml(dim.insight)}${rows}</div>`;
     })
     .join('');
+
+  el.innerHTML = callout + dimensionCards;
 }
 
 async function main() {
