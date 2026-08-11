@@ -64,6 +64,13 @@
       "subscriberCount": 730000,
       "totalViewCount": 125335542,
       "videoCount": 334
+    },
+    {
+      "date": "2026-08-11",
+      "title": "효뎡 Dyeong",
+      "subscriberCount": 730000,
+      "totalViewCount": 125345775,
+      "videoCount": 334
     }
   ],
   "videos": [
@@ -73,8 +80,8 @@
       "publishedAt": "2026-07-25T02:09:06Z",
       "durationSeconds": 34,
       "isShort": true,
-      "likeRate": 1.5395153136110113,
-      "commentRate": 0.03261684986464008,
+      "likeRate": 1.5393126789898464,
+      "commentRate": 0.0325436084353033,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -156,6 +163,15 @@
           "likeCount": 472,
           "commentCount": 10,
           "durationSeconds": 34
+        },
+        {
+          "date": "2026-08-11",
+          "title": "밥솥 찹쌀누룽지백숙 | Rice Cooker Glutinous Rice Chicken 🍗",
+          "publishedAt": "2026-07-25T02:09:06Z",
+          "viewCount": 30728,
+          "likeCount": 473,
+          "commentCount": 10,
+          "durationSeconds": 34
         }
       ],
       "thumbnailFeatures": {
@@ -178,8 +194,8 @@
       "publishedAt": "2026-08-01T13:58:58Z",
       "durationSeconds": 1004,
       "isShort": false,
-      "likeRate": 2.2373992084719165,
-      "commentRate": 0.08290319078590251,
+      "likeRate": 2.2112173212023496,
+      "commentRate": 0.08061729816883566,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -261,6 +277,15 @@
           "likeCount": 2267,
           "commentCount": 84,
           "durationSeconds": 1004
+        },
+        {
+          "date": "2026-08-11",
+          "title": "퇴근 후 홈이자카야 차려 먹는 자취 일상🍣 | 우니 단새우 감태·안키모김밥·콩국수·오리불고기 도시락 밀키트",
+          "publishedAt": "2026-08-01T13:58:58Z",
+          "viewCount": 104196,
+          "likeCount": 2304,
+          "commentCount": 84,
+          "durationSeconds": 1004
         }
       ],
       "thumbnailFeatures": {
@@ -283,8 +308,8 @@
       "publishedAt": "2026-07-20T10:30:07Z",
       "durationSeconds": 1064,
       "isShort": false,
-      "likeRate": 2.1437726539781417,
-      "commentRate": 0.0806240438815309,
+      "likeRate": 2.1330106854454987,
+      "commentRate": 0.08020881481280079,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -365,6 +390,15 @@
           "viewCount": 145118,
           "likeCount": 3111,
           "commentCount": 117,
+          "durationSeconds": 1064
+        },
+        {
+          "date": "2026-08-11",
+          "title": "더운 여름에도 야무지게 해먹는 자취 일상🦐 | 생새우회 한상·밥솥 누룽지백숙·도시락 밀키트 만들기",
+          "publishedAt": "2026-07-20T10:30:07Z",
+          "viewCount": 147116,
+          "likeCount": 3138,
+          "commentCount": 118,
           "durationSeconds": 1064
         }
       ],
