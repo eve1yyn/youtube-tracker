@@ -71,6 +71,13 @@
       "subscriberCount": 16300,
       "totalViewCount": 4363531,
       "videoCount": 212
+    },
+    {
+      "date": "2026-08-12",
+      "title": "오리지널 레미 ORIGINAL REMY",
+      "subscriberCount": 16300,
+      "totalViewCount": 4367771,
+      "videoCount": 213
     }
   ],
   "videos": [
@@ -131,8 +138,8 @@
       "publishedAt": "2026-07-29T02:20:10Z",
       "durationSeconds": 1619,
       "isShort": false,
-      "likeRate": 2.7503468538317146,
-      "commentRate": 0.4407083979433608,
+      "likeRate": 2.725655127790359,
+      "commentRate": 0.4367518602394047,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -223,6 +230,15 @@
           "likeCount": 337,
           "commentCount": 54,
           "durationSeconds": 1619
+        },
+        {
+          "date": "2026-08-12",
+          "title": "스텐도마 장단점 리얼 후기, 명품 안(못)사고, 커피도 못마시는 주부가 돈 쓰고 사모으는것 ㅋㅋ ",
+          "publishedAt": "2026-07-29T02:20:10Z",
+          "viewCount": 12364,
+          "likeCount": 337,
+          "commentCount": 54,
+          "durationSeconds": 1619
         }
       ],
       "thumbnailFeatures": {
@@ -245,8 +261,8 @@
       "publishedAt": "2026-07-21T01:25:30Z",
       "durationSeconds": 1396,
       "isShort": false,
-      "likeRate": 2.5747389500786726,
-      "commentRate": 0.6651408954369904,
+      "likeRate": 2.5668449197860963,
+      "commentRate": 0.6631016042780749,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -337,6 +353,15 @@
           "likeCount": 360,
           "commentCount": 93,
           "durationSeconds": 1396
+        },
+        {
+          "date": "2026-08-12",
+          "title": "매년 최고체중 갱신🫠 결혼 후 체중변화와 다이어트| 2주 3키로 감량.  목표는 10키로감량? 하...예전같지 않다ㅜ",
+          "publishedAt": "2026-07-21T01:25:30Z",
+          "viewCount": 14025,
+          "likeCount": 360,
+          "commentCount": 93,
+          "durationSeconds": 1396
         }
       ],
       "thumbnailFeatures": {
@@ -359,8 +384,8 @@
       "publishedAt": "2026-07-14T00:32:03Z",
       "durationSeconds": 1198,
       "isShort": false,
-      "likeRate": 2.3850359095294245,
-      "commentRate": 0.45020902561903736,
+      "likeRate": 2.3772637427212993,
+      "commentRate": 0.44874191997435764,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -451,6 +476,15 @@
           "likeCount": 445,
           "commentCount": 84,
           "durationSeconds": 1198
+        },
+        {
+          "date": "2026-08-12",
+          "title": "[2분기비움] 물건비우다.. 옷 쇼핑갔다가 다이어트 하는 흐름 이해함? 미니멀의 종착지는 결국..",
+          "publishedAt": "2026-07-14T00:32:03Z",
+          "viewCount": 18719,
+          "likeCount": 445,
+          "commentCount": 84,
+          "durationSeconds": 1198
         }
       ],
       "thumbnailFeatures": {
@@ -517,6 +551,27 @@
         "overlayTone": "question",
         "hasFace": true
       }
+    },
+    {
+      "videoId": "qd5ErsjDr2k",
+      "title": "폭염속 휴가vlog |지리산 산청계곡, 부산바다 그리고 병원? 내일을 모르는게 인생..어쩌다 10일간의 여름휴가",
+      "publishedAt": "2026-08-11T07:48:27Z",
+      "durationSeconds": 997,
+      "isShort": false,
+      "likeRate": 4.914004914004914,
+      "commentRate": 0.36855036855036855,
+      "dailyStats": [
+        {
+          "date": "2026-08-12",
+          "title": "폭염속 휴가vlog |지리산 산청계곡, 부산바다 그리고 병원? 내일을 모르는게 인생..어쩌다 10일간의 여름휴가",
+          "publishedAt": "2026-08-11T07:48:27Z",
+          "viewCount": 4070,
+          "likeCount": 200,
+          "commentCount": 15,
+          "durationSeconds": 997
+        }
+      ],
+      "thumbnailFeatures": null
     }
   ]
 }
