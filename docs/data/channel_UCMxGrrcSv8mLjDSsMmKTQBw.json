@@ -78,6 +78,13 @@
       "subscriberCount": 7970,
       "totalViewCount": 2564578,
       "videoCount": 269
+    },
+    {
+      "date": "2026-08-13",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 7970,
+      "totalViewCount": 2564873,
+      "videoCount": 269
     }
   ],
   "videos": [
@@ -120,8 +127,8 @@
       "publishedAt": "2026-07-29T01:30:09Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 5.253940455341506,
-      "commentRate": 4.203152364273205,
+      "likeRate": 5.391304347826087,
+      "commentRate": 4.173913043478262,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -221,6 +228,15 @@
           "likeCount": 30,
           "commentCount": 24,
           "durationSeconds": 42
+        },
+        {
+          "date": "2026-08-13",
+          "title": "정리마켓 유튜브 채널에 출연했어요.",
+          "publishedAt": "2026-07-29T01:30:09Z",
+          "viewCount": 575,
+          "likeCount": 31,
+          "commentCount": 24,
+          "durationSeconds": 42
         }
       ],
       "thumbnailFeatures": {
@@ -243,8 +259,8 @@
       "publishedAt": "2026-07-19T12:45:37Z",
       "durationSeconds": 638,
       "isShort": false,
-      "likeRate": 3.081510934393638,
-      "commentRate": 0.6461232604373758,
+      "likeRate": 3.0784508440913605,
+      "commentRate": 0.6454816285998014,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -344,6 +360,15 @@
           "likeCount": 62,
           "commentCount": 13,
           "durationSeconds": 638
+        },
+        {
+          "date": "2026-08-13",
+          "title": "여름에 더 단순해야 하는 이유",
+          "publishedAt": "2026-07-19T12:45:37Z",
+          "viewCount": 2014,
+          "likeCount": 62,
+          "commentCount": 13,
+          "durationSeconds": 638
         }
       ],
       "thumbnailFeatures": {
@@ -366,8 +391,8 @@
       "publishedAt": "2026-08-07T01:47:29Z",
       "durationSeconds": 860,
       "isShort": false,
-      "likeRate": 2.1105527638190953,
-      "commentRate": 0.5226130653266331,
+      "likeRate": 2.1162974683544302,
+      "commentRate": 0.5142405063291139,
       "dailyStats": [
         {
           "date": "2026-08-07",
@@ -420,6 +445,15 @@
           "publishedAt": "2026-08-07T01:47:29Z",
           "viewCount": 4975,
           "likeCount": 105,
+          "commentCount": 26,
+          "durationSeconds": 860
+        },
+        {
+          "date": "2026-08-13",
+          "title": "정리마켓 출연/3년간 만들어 쓴 살뜨물 발효액 사용법/집밥이야기",
+          "publishedAt": "2026-08-07T01:47:29Z",
+          "viewCount": 5056,
+          "likeCount": 107,
           "commentCount": 26,
           "durationSeconds": 860
         }
