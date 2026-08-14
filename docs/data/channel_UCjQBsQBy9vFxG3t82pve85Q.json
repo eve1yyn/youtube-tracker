@@ -85,6 +85,13 @@
       "subscriberCount": 34300,
       "totalViewCount": 3470276,
       "videoCount": 101
+    },
+    {
+      "date": "2026-08-14",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34300,
+      "totalViewCount": 3473434,
+      "videoCount": 101
     }
   ],
   "videos": [
@@ -94,8 +101,8 @@
       "publishedAt": "2026-08-09T12:27:52Z",
       "durationSeconds": 764,
       "isShort": false,
-      "likeRate": 2.65748031496063,
-      "commentRate": 0.7381889763779528,
+      "likeRate": 2.533333333333333,
+      "commentRate": 0.8,
       "dailyStats": [
         {
           "date": "2026-08-10",
@@ -131,6 +138,15 @@
           "viewCount": 2032,
           "likeCount": 54,
           "commentCount": 15,
+          "durationSeconds": 764
+        },
+        {
+          "date": "2026-08-14",
+          "title": "드디어 세상에 나온 레전드 화잘먹 흑미 PDRN 마스크 겔 팩......(코덕 필수 시청🌾+인플루언서 제작템💜)",
+          "publishedAt": "2026-08-09T12:27:52Z",
+          "viewCount": 2250,
+          "likeCount": 57,
+          "commentCount": 18,
           "durationSeconds": 764
         }
       ],
@@ -307,8 +323,8 @@
       "publishedAt": "2026-08-08T09:52:09Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.4406585867825292,
-      "commentRate": 0.0228675966155957,
+      "likeRate": 1.4162425315335252,
+      "commentRate": 0.02212878955521133,
       "dailyStats": [
         {
           "date": "2026-08-09",
@@ -354,6 +370,15 @@
           "likeCount": 63,
           "commentCount": 1,
           "durationSeconds": 54
+        },
+        {
+          "date": "2026-08-14",
+          "title": "조수석 1열 메이크업쇼💄 #makeuptutorial",
+          "publishedAt": "2026-08-08T09:52:09Z",
+          "viewCount": 4519,
+          "likeCount": 64,
+          "commentCount": 1,
+          "durationSeconds": 54
         }
       ],
       "thumbnailFeatures": {
@@ -376,7 +401,7 @@
       "publishedAt": "2026-08-10T15:16:25Z",
       "durationSeconds": 74,
       "isShort": true,
-      "likeRate": 1.0919540229885056,
+      "likeRate": 1.084010840108401,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -405,6 +430,15 @@
           "likeCount": 19,
           "commentCount": 0,
           "durationSeconds": 74
+        },
+        {
+          "date": "2026-08-14",
+          "title": "화잘먹 겔팩 다들 뭐써?!?💜🌾👸 #gelpack",
+          "publishedAt": "2026-08-10T15:16:25Z",
+          "viewCount": 1845,
+          "likeCount": 20,
+          "commentCount": 0,
+          "durationSeconds": 74
         }
       ],
       "thumbnailFeatures": null
@@ -415,8 +449,8 @@
       "publishedAt": "2026-08-11T06:23:46Z",
       "durationSeconds": 28,
       "isShort": true,
-      "likeRate": 0.6266318537859008,
-      "commentRate": 0.05221932114882506,
+      "likeRate": 0.7951356407857811,
+      "commentRate": 0.04677268475210477,
       "dailyStats": [
         {
           "date": "2026-08-12",
@@ -435,6 +469,15 @@
           "likeCount": 12,
           "commentCount": 1,
           "durationSeconds": 28
+        },
+        {
+          "date": "2026-08-14",
+          "title": "피부 개복치들 모이세요.... #화잘먹",
+          "publishedAt": "2026-08-11T06:23:46Z",
+          "viewCount": 2138,
+          "likeCount": 17,
+          "commentCount": 1,
+          "durationSeconds": 28
         }
       ],
       "thumbnailFeatures": null
@@ -445,8 +488,8 @@
       "publishedAt": "2026-08-10T03:53:04Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 1.2080536912751678,
-      "commentRate": 0.0894854586129754,
+      "likeRate": 1.288445552784705,
+      "commentRate": 0.0831255195344971,
       "dailyStats": [
         {
           "date": "2026-08-11",
@@ -472,6 +515,15 @@
           "publishedAt": "2026-08-10T03:53:04Z",
           "viewCount": 2235,
           "likeCount": 27,
+          "commentCount": 2,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-08-14",
+          "title": "화잘먹 흑미 PDRN 겔 팩 런칭 완💜 #gelpack",
+          "publishedAt": "2026-08-10T03:53:04Z",
+          "viewCount": 2406,
+          "likeCount": 31,
           "commentCount": 2,
           "durationSeconds": 56
         }
