@@ -99,6 +99,13 @@
       "subscriberCount": 46800,
       "totalViewCount": 6583620,
       "videoCount": 134
+    },
+    {
+      "date": "2026-08-16",
+      "title": "에린남 Erinnam",
+      "subscriberCount": 46800,
+      "totalViewCount": 6584631,
+      "videoCount": 134
     }
   ],
   "videos": [
@@ -204,8 +211,8 @@
       "publishedAt": "2026-07-20T10:00:37Z",
       "durationSeconds": 334,
       "isShort": false,
-      "likeRate": 3.9283874291602268,
-      "commentRate": 0.5151983513652756,
+      "likeRate": 3.9172874389930645,
+      "commentRate": 0.5137426149499101,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -329,6 +336,15 @@
           "title": "우리집 주방에 없는 것 | 미니멀 주방",
           "publishedAt": "2026-07-20T10:00:37Z",
           "viewCount": 7764,
+          "likeCount": 305,
+          "commentCount": 40,
+          "durationSeconds": 334
+        },
+        {
+          "date": "2026-08-16",
+          "title": "우리집 주방에 없는 것 | 미니멀 주방",
+          "publishedAt": "2026-07-20T10:00:37Z",
+          "viewCount": 7786,
           "likeCount": 305,
           "commentCount": 40,
           "durationSeconds": 334

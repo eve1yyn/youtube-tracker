@@ -99,6 +99,13 @@
       "subscriberCount": 10500,
       "totalViewCount": 1562697,
       "videoCount": 66
+    },
+    {
+      "date": "2026-08-16",
+      "title": "자취하는 해달이",
+      "subscriberCount": 10500,
+      "totalViewCount": 1562784,
+      "videoCount": 66
     }
   ],
   "videos": [
@@ -108,8 +115,8 @@
       "publishedAt": "2026-07-22T01:19:42Z",
       "durationSeconds": 32,
       "isShort": true,
-      "likeRate": 0.6688963210702341,
-      "commentRate": 0.33444816053511706,
+      "likeRate": 0.6644518272425249,
+      "commentRate": 0.4983388704318937,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -235,6 +242,15 @@
           "viewCount": 598,
           "likeCount": 4,
           "commentCount": 2,
+          "durationSeconds": 32
+        },
+        {
+          "date": "2026-08-16",
+          "title": "가을 웜톤의 흔치 않은 색감 여름코디 🌿 | summer lookbook | #데일리룩 #shorts #ootd",
+          "publishedAt": "2026-07-22T01:19:42Z",
+          "viewCount": 602,
+          "likeCount": 4,
+          "commentCount": 3,
           "durationSeconds": 32
         }
       ],

@@ -99,6 +99,13 @@
       "subscriberCount": 2360000,
       "totalViewCount": 420399144,
       "videoCount": 319
+    },
+    {
+      "date": "2026-08-16",
+      "title": "planD플랜디",
+      "subscriberCount": 2360000,
+      "totalViewCount": 420571586,
+      "videoCount": 319
     }
   ],
   "videos": [
@@ -108,8 +115,8 @@
       "publishedAt": "2026-08-05T11:00:09Z",
       "durationSeconds": 2210,
       "isShort": false,
-      "likeRate": 3.1673315263462816,
-      "commentRate": 0.2437380321311134,
+      "likeRate": 3.1348616395550457,
+      "commentRate": 0.2390747328760984,
       "dailyStats": [
         {
           "date": "2026-08-06",
@@ -200,6 +207,15 @@
           "likeCount": 20064,
           "commentCount": 1544,
           "durationSeconds": 2210
+        },
+        {
+          "date": "2026-08-16",
+          "title": "퇴원한 집순이의 집정리🏠 대차게 망한 요리와 바삭한 오징어링, 김신영 열쫄냉, 구독자님 파우치 만들기",
+          "publishedAt": "2026-08-05T11:00:09Z",
+          "viewCount": 647078,
+          "likeCount": 20285,
+          "commentCount": 1547,
+          "durationSeconds": 2210
         }
       ],
       "thumbnailFeatures": {
@@ -222,8 +238,8 @@
       "publishedAt": "2026-08-12T11:00:22Z",
       "durationSeconds": 1990,
       "isShort": false,
-      "likeRate": 3.6202773090749027,
-      "commentRate": 0.08686083192722471,
+      "likeRate": 3.458259065845294,
+      "commentRate": 0.08130335532693331,
       "dailyStats": [
         {
           "date": "2026-08-13",
@@ -250,6 +266,15 @@
           "viewCount": 340775,
           "likeCount": 12337,
           "commentCount": 296,
+          "durationSeconds": 1990
+        },
+        {
+          "date": "2026-08-16",
+          "title": "다친 엄마 보양식 만들기, 늦은 여름옷 언박싱. 단호박 콩국수, 벚꽃 모나카,콘칩빙수",
+          "publishedAt": "2026-08-12T11:00:22Z",
+          "viewCount": 383748,
+          "likeCount": 13271,
+          "commentCount": 312,
           "durationSeconds": 1990
         }
       ],
@@ -411,8 +436,8 @@
       "publishedAt": "2026-07-24T09:00:24Z",
       "durationSeconds": 66,
       "isShort": true,
-      "likeRate": 1.2885489617889176,
-      "commentRate": 0.02841258139820617,
+      "likeRate": 1.2893390126559003,
+      "commentRate": 0.0283455397910091,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -539,6 +564,15 @@
           "likeCount": 1678,
           "commentCount": 37,
           "durationSeconds": 66
+        },
+        {
+          "date": "2026-08-16",
+          "title": "음식얼룩도 강력 세탁해주는 세탁 꿀템 소개",
+          "publishedAt": "2026-07-24T09:00:24Z",
+          "viewCount": 130532,
+          "likeCount": 1683,
+          "commentCount": 37,
+          "durationSeconds": 66
         }
       ],
       "thumbnailFeatures": {
@@ -561,8 +595,8 @@
       "publishedAt": "2026-07-23T07:47:15Z",
       "durationSeconds": 71,
       "isShort": true,
-      "likeRate": 3.5849222388190847,
-      "commentRate": 0.07907916703277391,
+      "likeRate": 3.585511903023222,
+      "commentRate": 0.07886665693004236,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -687,6 +721,15 @@
           "publishedAt": "2026-07-23T07:47:15Z",
           "viewCount": 68286,
           "likeCount": 2448,
+          "commentCount": 54,
+          "durationSeconds": 71
+        },
+        {
+          "date": "2026-08-16",
+          "title": "꿀조합 골뱅이 5가지 레시피 🐚",
+          "publishedAt": "2026-07-23T07:47:15Z",
+          "viewCount": 68470,
+          "likeCount": 2455,
           "commentCount": 54,
           "durationSeconds": 71
         }
