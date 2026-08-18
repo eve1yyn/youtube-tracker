@@ -113,6 +113,13 @@
       "subscriberCount": 34300,
       "totalViewCount": 3483331,
       "videoCount": 101
+    },
+    {
+      "date": "2026-08-18",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34300,
+      "totalViewCount": 3486580,
+      "videoCount": 101
     }
   ],
   "videos": [
@@ -122,8 +129,8 @@
       "publishedAt": "2026-08-09T12:27:52Z",
       "durationSeconds": 764,
       "isShort": false,
-      "likeRate": 2.141623488773748,
-      "commentRate": 0.6563039723661486,
+      "likeRate": 2.109139604954804,
+      "commentRate": 0.6360897221292267,
       "dailyStats": [
         {
           "date": "2026-08-10",
@@ -194,6 +201,15 @@
           "publishedAt": "2026-08-09T12:27:52Z",
           "viewCount": 2895,
           "likeCount": 62,
+          "commentCount": 19,
+          "durationSeconds": 764
+        },
+        {
+          "date": "2026-08-18",
+          "title": "드디어 세상에 나온 레전드 화잘먹 흑미 PDRN 마스크 겔 팩......(코덕 필수 시청🌾+인플루언서 제작템💜)",
+          "publishedAt": "2026-08-09T12:27:52Z",
+          "viewCount": 2987,
+          "likeCount": 63,
           "commentCount": 19,
           "durationSeconds": 764
         }
@@ -371,8 +387,8 @@
       "publishedAt": "2026-08-08T09:52:09Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.360117179326219,
-      "commentRate": 0.02092487968194183,
+      "likeRate": 1.3413124226165911,
+      "commentRate": 0.02063557573256294,
       "dailyStats": [
         {
           "date": "2026-08-09",
@@ -454,6 +470,15 @@
           "likeCount": 65,
           "commentCount": 1,
           "durationSeconds": 54
+        },
+        {
+          "date": "2026-08-18",
+          "title": "조수석 1열 메이크업쇼💄 #makeuptutorial",
+          "publishedAt": "2026-08-08T09:52:09Z",
+          "viewCount": 4846,
+          "likeCount": 65,
+          "commentCount": 1,
+          "durationSeconds": 54
         }
       ],
       "thumbnailFeatures": {
@@ -476,7 +501,7 @@
       "publishedAt": "2026-08-10T15:16:25Z",
       "durationSeconds": 74,
       "isShort": true,
-      "likeRate": 1.0541447053186392,
+      "likeRate": 1.0189902732746643,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -541,6 +566,15 @@
           "likeCount": 22,
           "commentCount": 0,
           "durationSeconds": 74
+        },
+        {
+          "date": "2026-08-18",
+          "title": "화잘먹 겔팩 다들 뭐써?!?💜🌾👸 #gelpack",
+          "publishedAt": "2026-08-10T15:16:25Z",
+          "viewCount": 2159,
+          "likeCount": 22,
+          "commentCount": 0,
+          "durationSeconds": 74
         }
       ],
       "thumbnailFeatures": null
@@ -551,8 +585,8 @@
       "publishedAt": "2026-08-11T06:23:46Z",
       "durationSeconds": 28,
       "isShort": true,
-      "likeRate": 0.6422364941443143,
-      "commentRate": 0.037778617302606725,
+      "likeRate": 0.6088825214899714,
+      "commentRate": 0.03581661891117478,
       "dailyStats": [
         {
           "date": "2026-08-12",
@@ -607,6 +641,15 @@
           "likeCount": 17,
           "commentCount": 1,
           "durationSeconds": 28
+        },
+        {
+          "date": "2026-08-18",
+          "title": "피부 개복치들 모이세요.... #화잘먹",
+          "publishedAt": "2026-08-11T06:23:46Z",
+          "viewCount": 2792,
+          "likeCount": 17,
+          "commentCount": 1,
+          "durationSeconds": 28
         }
       ],
       "thumbnailFeatures": null
@@ -617,8 +660,8 @@
       "publishedAt": "2026-08-10T03:53:04Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 1.1507052709725316,
-      "commentRate": 0.07423904974016332,
+      "likeRate": 1.117519826964672,
+      "commentRate": 0.07209805335255948,
       "dailyStats": [
         {
           "date": "2026-08-11",
@@ -679,6 +722,15 @@
           "title": "화잘먹 흑미 PDRN 겔 팩 런칭 완💜 #gelpack",
           "publishedAt": "2026-08-10T03:53:04Z",
           "viewCount": 2694,
+          "likeCount": 31,
+          "commentCount": 2,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-08-18",
+          "title": "화잘먹 흑미 PDRN 겔 팩 런칭 완💜 #gelpack",
+          "publishedAt": "2026-08-10T03:53:04Z",
+          "viewCount": 2774,
           "likeCount": 31,
           "commentCount": 2,
           "durationSeconds": 56

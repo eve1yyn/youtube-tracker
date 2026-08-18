@@ -113,6 +113,13 @@
       "subscriberCount": 41100,
       "totalViewCount": 1458626,
       "videoCount": 37
+    },
+    {
+      "date": "2026-08-18",
+      "title": "설아의날들 (Seola's Moments)",
+      "subscriberCount": 41200,
+      "totalViewCount": 1462344,
+      "videoCount": 37
     }
   ],
   "videos": [
@@ -227,8 +234,8 @@
       "publishedAt": "2026-08-13T10:00:28Z",
       "durationSeconds": 1155,
       "isShort": false,
-      "likeRate": 5.146410733522671,
-      "commentRate": 0.6659484869258643,
+      "likeRate": 4.788732394366197,
+      "commentRate": 0.6117957746478873,
       "dailyStats": [
         {
           "date": "2026-08-14",
@@ -264,6 +271,15 @@
           "viewCount": 20422,
           "likeCount": 1051,
           "commentCount": 136,
+          "durationSeconds": 1155
+        },
+        {
+          "date": "2026-08-18",
+          "title": "SUB) 김설아 첫 집들이",
+          "publishedAt": "2026-08-13T10:00:28Z",
+          "viewCount": 22720,
+          "likeCount": 1088,
+          "commentCount": 139,
           "durationSeconds": 1155
         }
       ],
