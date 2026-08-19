@@ -120,6 +120,13 @@
       "subscriberCount": 3000000,
       "totalViewCount": 360116609,
       "videoCount": 230
+    },
+    {
+      "date": "2026-08-19",
+      "title": "지현꿍",
+      "subscriberCount": 3000000,
+      "totalViewCount": 360150689,
+      "videoCount": 231
     }
   ],
   "videos": [
@@ -238,13 +245,34 @@
       }
     },
     {
+      "videoId": "fnhfkxoV-IA",
+      "title": "집순이 자취생 아침메뉴 🎐🤍",
+      "publishedAt": "2026-08-18T12:18:06Z",
+      "durationSeconds": 57,
+      "isShort": true,
+      "likeRate": 4.142962318452581,
+      "commentRate": 0.06692992436918546,
+      "dailyStats": [
+        {
+          "date": "2026-08-19",
+          "title": "집순이 자취생 아침메뉴 🎐🤍",
+          "publishedAt": "2026-08-18T12:18:06Z",
+          "viewCount": 14941,
+          "likeCount": 619,
+          "commentCount": 10,
+          "durationSeconds": 57
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "hmm2j1hNcYY",
       "title": "집순이 자취생 출근전 점심도시락 🍱",
       "publishedAt": "2026-08-15T13:50:44Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 3.0723444579347925,
-      "commentRate": 0.026651662767627114,
+      "likeRate": 3.0808163470860035,
+      "commentRate": 0.025180354287584826,
       "dailyStats": [
         {
           "date": "2026-08-16",
@@ -272,6 +300,15 @@
           "likeCount": 2075,
           "commentCount": 18,
           "durationSeconds": 82
+        },
+        {
+          "date": "2026-08-19",
+          "title": "집순이 자취생 출근전 점심도시락 🍱",
+          "publishedAt": "2026-08-15T13:50:44Z",
+          "viewCount": 79427,
+          "likeCount": 2447,
+          "commentCount": 20,
+          "durationSeconds": 82
         }
       ],
       "thumbnailFeatures": null
@@ -282,8 +319,8 @@
       "publishedAt": "2026-07-24T12:33:32Z",
       "durationSeconds": 1501,
       "isShort": false,
-      "likeRate": 2.2295112260925807,
-      "commentRate": 0.1501432135267486,
+      "likeRate": 2.218977969400935,
+      "commentRate": 0.14781058414742856,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -435,6 +472,15 @@
           "publishedAt": "2026-07-24T12:33:32Z",
           "viewCount": 216460,
           "likeCount": 4826,
+          "commentCount": 325,
+          "durationSeconds": 1501
+        },
+        {
+          "date": "2026-08-19",
+          "title": "vlog | 마트에서 장보고 가스파초 냉스프 🍟 도시락으로 시오콘부 주먹밥 만들고 출근하는 일상",
+          "publishedAt": "2026-07-24T12:33:32Z",
+          "viewCount": 219876,
+          "likeCount": 4879,
           "commentCount": 325,
           "durationSeconds": 1501
         }
