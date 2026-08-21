@@ -134,9 +134,37 @@
       "subscriberCount": 41300,
       "totalViewCount": 1467744,
       "videoCount": 37
+    },
+    {
+      "date": "2026-08-21",
+      "title": "설아의날들 (Seola's Moments)",
+      "subscriberCount": 41400,
+      "totalViewCount": 1470008,
+      "videoCount": 38
     }
   ],
   "videos": [
+    {
+      "videoId": "-BZQVWtEfTA",
+      "title": "With까사미아❤️",
+      "publishedAt": "2026-08-20T02:56:22Z",
+      "durationSeconds": 76,
+      "isShort": true,
+      "likeRate": 5.741935483870968,
+      "commentRate": 0.5161290322580645,
+      "dailyStats": [
+        {
+          "date": "2026-08-21",
+          "title": "With까사미아❤️",
+          "publishedAt": "2026-08-20T02:56:22Z",
+          "viewCount": 1550,
+          "likeCount": 89,
+          "commentCount": 8,
+          "durationSeconds": 76
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "8PvmtGR1I5k",
       "title": "대충 살아도 괜찮은가요 02.JINLI(Kpop 작곡,작사가) (인맥관리는 필수인걸까? / 30대라는 전성기 우주소녀 보컬 순위 물어봐도 될까요?)",
@@ -248,8 +276,8 @@
       "publishedAt": "2026-08-13T10:00:28Z",
       "durationSeconds": 1155,
       "isShort": false,
-      "likeRate": 4.4846916774471755,
-      "commentRate": 0.5409855345172293,
+      "likeRate": 4.404106531766106,
+      "commentRate": 0.5170361553340277,
       "dailyStats": [
         {
           "date": "2026-08-14",
@@ -312,6 +340,15 @@
           "viewCount": 25509,
           "likeCount": 1144,
           "commentCount": 138,
+          "durationSeconds": 1155
+        },
+        {
+          "date": "2026-08-21",
+          "title": "SUB) 김설아 첫 집들이",
+          "publishedAt": "2026-08-13T10:00:28Z",
+          "viewCount": 26884,
+          "likeCount": 1184,
+          "commentCount": 139,
           "durationSeconds": 1155
         }
       ],
