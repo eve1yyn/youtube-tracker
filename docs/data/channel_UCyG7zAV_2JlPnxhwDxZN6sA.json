@@ -148,6 +148,13 @@
       "subscriberCount": 3000000,
       "totalViewCount": 360286197,
       "videoCount": 232
+    },
+    {
+      "date": "2026-08-23",
+      "title": "지현꿍",
+      "subscriberCount": 3000000,
+      "totalViewCount": 360375452,
+      "videoCount": 232
     }
   ],
   "videos": [
@@ -271,8 +278,8 @@
       "publishedAt": "2026-08-21T12:26:43Z",
       "durationSeconds": 1654,
       "isShort": false,
-      "likeRate": 3.3694103531881923,
-      "commentRate": 0.05499037668408029,
+      "likeRate": 2.6187105141048677,
+      "commentRate": 0.103511047127271,
       "dailyStats": [
         {
           "date": "2026-08-22",
@@ -281,6 +288,15 @@
           "viewCount": 40007,
           "likeCount": 1348,
           "commentCount": 22,
+          "durationSeconds": 1654
+        },
+        {
+          "date": "2026-08-23",
+          "title": "vlog | 이사 준비하는 냉털 주간 💸 여름 집밥으로 초계국수, 감자 호떡 만들고 낭만 한도 초과 여름 축제 🎏 🏮 다녀온 집순이 일상",
+          "publishedAt": "2026-08-21T12:26:43Z",
+          "viewCount": 84049,
+          "likeCount": 2201,
+          "commentCount": 87,
           "durationSeconds": 1654
         }
       ],
@@ -292,8 +308,8 @@
       "publishedAt": "2026-08-18T12:18:06Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 3.0362711308058428,
-      "commentRate": 0.0422029964127453,
+      "likeRate": 3.0130470829515206,
+      "commentRate": 0.04145394248810926,
       "dailyStats": [
         {
           "date": "2026-08-19",
@@ -330,6 +346,15 @@
           "likeCount": 1295,
           "commentCount": 18,
           "durationSeconds": 57
+        },
+        {
+          "date": "2026-08-23",
+          "title": "집순이 자취생 아침메뉴 🎐🤍",
+          "publishedAt": "2026-08-18T12:18:06Z",
+          "viewCount": 45834,
+          "likeCount": 1381,
+          "commentCount": 19,
+          "durationSeconds": 57
         }
       ],
       "thumbnailFeatures": null
@@ -340,8 +365,8 @@
       "publishedAt": "2026-08-15T13:50:44Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 2.9602203293997484,
-      "commentRate": 0.023710945337151405,
+      "likeRate": 2.9174105443069034,
+      "commentRate": 0.021999035426908203,
       "dailyStats": [
         {
           "date": "2026-08-16",
@@ -405,6 +430,15 @@
           "likeCount": 3246,
           "commentCount": 26,
           "durationSeconds": 82
+        },
+        {
+          "date": "2026-08-23",
+          "title": "집순이 자취생 출근전 점심도시락 🍱",
+          "publishedAt": "2026-08-15T13:50:44Z",
+          "viewCount": 118187,
+          "likeCount": 3448,
+          "commentCount": 26,
+          "durationSeconds": 82
         }
       ],
       "thumbnailFeatures": null
@@ -415,8 +449,8 @@
       "publishedAt": "2026-07-24T12:33:32Z",
       "durationSeconds": 1501,
       "isShort": false,
-      "likeRate": 2.1880121648743636,
-      "commentRate": 0.14548769051437788,
+      "likeRate": 2.1783449436545186,
+      "commentRate": 0.14357470656106047,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -605,6 +639,15 @@
           "viewCount": 228198,
           "likeCount": 4993,
           "commentCount": 332,
+          "durationSeconds": 1501
+        },
+        {
+          "date": "2026-08-23",
+          "title": "vlog | 마트에서 장보고 가스파초 냉스프 🍟 도시락으로 시오콘부 주먹밥 만들고 출근하는 일상",
+          "publishedAt": "2026-07-24T12:33:32Z",
+          "viewCount": 230542,
+          "likeCount": 5022,
+          "commentCount": 331,
           "durationSeconds": 1501
         }
       ],
