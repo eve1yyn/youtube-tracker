@@ -155,6 +155,13 @@
       "subscriberCount": 8060,
       "totalViewCount": 2580702,
       "videoCount": 270
+    },
+    {
+      "date": "2026-08-24",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8060,
+      "totalViewCount": 2581575,
+      "videoCount": 270
     }
   ],
   "videos": [
@@ -397,6 +404,15 @@
           "likeCount": 32,
           "commentCount": 24,
           "durationSeconds": 42
+        },
+        {
+          "date": "2026-08-24",
+          "title": "정리마켓 유튜브 채널에 출연했어요.",
+          "publishedAt": "2026-07-29T01:30:09Z",
+          "viewCount": 610,
+          "likeCount": 32,
+          "commentCount": 24,
+          "durationSeconds": 42
         }
       ],
       "thumbnailFeatures": {
@@ -419,8 +435,8 @@
       "publishedAt": "2026-08-14T08:10:19Z",
       "durationSeconds": 774,
       "isShort": false,
-      "likeRate": 1.7598612917208496,
-      "commentRate": 0.07802340702210664,
+      "likeRate": 1.7429938482570062,
+      "commentRate": 0.07689678742310321,
       "dailyStats": [
         {
           "date": "2026-08-15",
@@ -500,6 +516,15 @@
           "publishedAt": "2026-08-14T08:10:19Z",
           "viewCount": 11535,
           "likeCount": 203,
+          "commentCount": 9,
+          "durationSeconds": 774
+        },
+        {
+          "date": "2026-08-24",
+          "title": "미니멀라이프 8년 더이상 사지 않는 물건 10가지",
+          "publishedAt": "2026-08-14T08:10:19Z",
+          "viewCount": 11704,
+          "likeCount": 204,
           "commentCount": 9,
           "durationSeconds": 774
         }
@@ -689,8 +714,8 @@
       "publishedAt": "2026-08-07T01:47:29Z",
       "durationSeconds": 860,
       "isShort": false,
-      "likeRate": 2.0848056537102475,
-      "commentRate": 0.5123674911660777,
+      "likeRate": 2.0855240098142307,
+      "commentRate": 0.5082369435681738,
       "dailyStats": [
         {
           "date": "2026-08-07",
@@ -842,6 +867,15 @@
           "publishedAt": "2026-08-07T01:47:29Z",
           "viewCount": 5660,
           "likeCount": 118,
+          "commentCount": 29,
+          "durationSeconds": 860
+        },
+        {
+          "date": "2026-08-24",
+          "title": "정리마켓 출연/3년간 만들어 쓴 살뜨물 발효액 사용법/집밥이야기",
+          "publishedAt": "2026-08-07T01:47:29Z",
+          "viewCount": 5706,
+          "likeCount": 119,
           "commentCount": 29,
           "durationSeconds": 860
         }

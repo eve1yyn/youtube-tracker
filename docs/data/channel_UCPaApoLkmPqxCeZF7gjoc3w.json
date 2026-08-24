@@ -155,6 +155,13 @@
       "subscriberCount": 2360000,
       "totalViewCount": 421693205,
       "videoCount": 320
+    },
+    {
+      "date": "2026-08-24",
+      "title": "planD플랜디",
+      "subscriberCount": 2360000,
+      "totalViewCount": 421804721,
+      "videoCount": 320
     }
   ],
   "videos": [
@@ -164,8 +171,8 @@
       "publishedAt": "2026-08-05T11:00:09Z",
       "durationSeconds": 2210,
       "isShort": false,
-      "likeRate": 3.0082542442736884,
-      "commentRate": 0.22216450900796628,
+      "likeRate": 2.9979162089276943,
+      "commentRate": 0.22055438078937756,
       "dailyStats": [
         {
           "date": "2026-08-06",
@@ -328,6 +335,15 @@
           "likeCount": 21313,
           "commentCount": 1574,
           "durationSeconds": 2210
+        },
+        {
+          "date": "2026-08-24",
+          "title": "퇴원한 집순이의 집정리🏠 대차게 망한 요리와 바삭한 오징어링, 김신영 열쫄냉, 구독자님 파우치 만들기",
+          "publishedAt": "2026-08-05T11:00:09Z",
+          "viewCount": 714563,
+          "likeCount": 21422,
+          "commentCount": 1576,
+          "durationSeconds": 2210
         }
       ],
       "thumbnailFeatures": {
@@ -350,8 +366,8 @@
       "publishedAt": "2026-08-12T11:00:22Z",
       "durationSeconds": 1990,
       "isShort": false,
-      "likeRate": 3.1737150239242324,
-      "commentRate": 0.06788475226179652,
+      "likeRate": 3.1485113643954064,
+      "commentRate": 0.06780786287833244,
       "dailyStats": [
         {
           "date": "2026-08-13",
@@ -450,6 +466,15 @@
           "viewCount": 486118,
           "likeCount": 15428,
           "commentCount": 330,
+          "durationSeconds": 1990
+        },
+        {
+          "date": "2026-08-24",
+          "title": "다친 엄마 보양식 만들기, 늦은 여름옷 언박싱. 단호박 콩국수, 벚꽃 모나카,콘칩빙수",
+          "publishedAt": "2026-08-12T11:00:22Z",
+          "viewCount": 494043,
+          "likeCount": 15555,
+          "commentCount": 335,
           "durationSeconds": 1990
         }
       ],
@@ -611,8 +636,8 @@
       "publishedAt": "2026-08-17T11:00:29Z",
       "durationSeconds": 1917,
       "isShort": false,
-      "likeRate": 3.1223998442119427,
-      "commentRate": 0.08674562288668189,
+      "likeRate": 3.047023404551914,
+      "commentRate": 0.08509611283453279,
       "dailyStats": [
         {
           "date": "2026-08-18",
@@ -666,6 +691,15 @@
           "viewCount": 451896,
           "likeCount": 14110,
           "commentCount": 392,
+          "durationSeconds": 1917
+        },
+        {
+          "date": "2026-08-24",
+          "title": "못나가는 집순이의 격리생활🏠 KFC치킨 만들기🍗  5가지 초간단 홈카페 메뉴",
+          "publishedAt": "2026-08-17T11:00:29Z",
+          "viewCount": 480633,
+          "likeCount": 14645,
+          "commentCount": 409,
           "durationSeconds": 1917
         }
       ],

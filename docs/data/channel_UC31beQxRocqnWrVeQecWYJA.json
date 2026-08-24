@@ -155,7 +155,36 @@
       "subscriberCount": 60300,
       "totalViewCount": 28384765,
       "videoCount": 738
+    },
+    {
+      "date": "2026-08-24",
+      "title": "상큼한 뿌미맘_MinimalTV",
+      "subscriberCount": 60300,
+      "totalViewCount": 28392067,
+      "videoCount": 739
     }
   ],
-  "videos": []
+  "videos": [
+    {
+      "videoId": "QQthibcTiMM",
+      "title": "9,500원에 파스타 먹을 수 있을까요? (가성비 좋은 롤링 파스타)💛새 인스타💛 http://instagram.com/freshcha1023",
+      "publishedAt": "2026-08-23T12:16:13Z",
+      "durationSeconds": 19,
+      "isShort": true,
+      "likeRate": 1.8983807928531544,
+      "commentRate": 0.16750418760469013,
+      "dailyStats": [
+        {
+          "date": "2026-08-24",
+          "title": "9,500원에 파스타 먹을 수 있을까요? (가성비 좋은 롤링 파스타)💛새 인스타💛 http://instagram.com/freshcha1023",
+          "publishedAt": "2026-08-23T12:16:13Z",
+          "viewCount": 3582,
+          "likeCount": 68,
+          "commentCount": 6,
+          "durationSeconds": 19
+        }
+      ],
+      "thumbnailFeatures": null
+    }
+  ]
 }
