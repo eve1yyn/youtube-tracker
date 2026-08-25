@@ -162,6 +162,13 @@
       "subscriberCount": 120000,
       "totalViewCount": 7237880,
       "videoCount": 104
+    },
+    {
+      "date": "2026-08-25",
+      "title": "némo 김네모",
+      "subscriberCount": 120000,
+      "totalViewCount": 7240858,
+      "videoCount": 105
     }
   ],
   "videos": [
@@ -484,13 +491,34 @@
       }
     },
     {
+      "videoId": "5LW5HmmzWYY",
+      "title": "먹는 게 낙, 집순이 집콕 자취 집밥 기록 🍖 커링클, 카이막 치즈볼, 스테이크 솥밥, 청무화과 토스트,연어 파피요트, 불닭 등",
+      "publishedAt": "2026-08-24T13:17:10Z",
+      "durationSeconds": 1242,
+      "isShort": false,
+      "likeRate": 5.981775426219871,
+      "commentRate": 0.2792475014697237,
+      "dailyStats": [
+        {
+          "date": "2026-08-25",
+          "title": "먹는 게 낙, 집순이 집콕 자취 집밥 기록 🍖 커링클, 카이막 치즈볼, 스테이크 솥밥, 청무화과 토스트,연어 파피요트, 불닭 등",
+          "publishedAt": "2026-08-24T13:17:10Z",
+          "viewCount": 6804,
+          "likeCount": 407,
+          "commentCount": 19,
+          "durationSeconds": 1242
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "RD0z5fmw4M8",
       "title": "사람이 지쳤잖아 힘들잖아 집밥 먹어야 하잖아 💦 가래떡 떡볶이, 날치알밥, 쓰레드 태국식 비빔면, 오므라이스 등",
       "publishedAt": "2026-08-02T14:11:15Z",
       "durationSeconds": 1376,
       "isShort": false,
-      "likeRate": 3.5538612887358587,
-      "commentRate": 0.13526807673389082,
+      "likeRate": 3.5455129971525676,
+      "commentRate": 0.13471724686935488,
       "dailyStats": [
         {
           "date": "2026-08-03",
@@ -689,6 +717,15 @@
           "likeCount": 1156,
           "commentCount": 44,
           "durationSeconds": 1376
+        },
+        {
+          "date": "2026-08-25",
+          "title": "사람이 지쳤잖아 힘들잖아 집밥 먹어야 하잖아 💦 가래떡 떡볶이, 날치알밥, 쓰레드 태국식 비빔면, 오므라이스 등",
+          "publishedAt": "2026-08-02T14:11:15Z",
+          "viewCount": 32661,
+          "likeCount": 1158,
+          "commentCount": 44,
+          "durationSeconds": 1376
         }
       ],
       "thumbnailFeatures": {
@@ -711,8 +748,8 @@
       "publishedAt": "2026-08-09T14:19:21Z",
       "durationSeconds": 1528,
       "isShort": false,
-      "likeRate": 3.6559061163309328,
-      "commentRate": 0.20838664863086315,
+      "likeRate": 3.643739360353508,
+      "commentRate": 0.20645441703792244,
       "dailyStats": [
         {
           "date": "2026-08-10",
@@ -846,6 +883,15 @@
           "publishedAt": "2026-08-09T14:19:21Z",
           "viewCount": 27353,
           "likeCount": 1000,
+          "commentCount": 57,
+          "durationSeconds": 1528
+        },
+        {
+          "date": "2026-08-25",
+          "title": "자취생 여름 집밥 그립감이 좋다. . 🧊🫜 마르쉐 채소시장, 냉제육, 불닭 냉면, 병어조림, 오색 콩국수 등 / 약간의 내면 토크",
+          "publishedAt": "2026-08-09T14:19:21Z",
+          "viewCount": 27609,
+          "likeCount": 1006,
           "commentCount": 57,
           "durationSeconds": 1528
         }
@@ -1065,8 +1111,8 @@
       "publishedAt": "2026-08-17T13:32:58Z",
       "durationSeconds": 1310,
       "isShort": false,
-      "likeRate": 3.740740740740741,
-      "commentRate": 0.24444444444444444,
+      "likeRate": 3.6608382892347135,
+      "commentRate": 0.22791211139204445,
       "dailyStats": [
         {
           "date": "2026-08-18",
@@ -1129,6 +1175,15 @@
           "viewCount": 27000,
           "likeCount": 1010,
           "commentCount": 66,
+          "durationSeconds": 1310
+        },
+        {
+          "date": "2026-08-25",
+          "title": "자취생 긴축재정 주간 집밥 브이로그..인데 뭔가 좀 이상한  💸 ",
+          "publishedAt": "2026-08-17T13:32:58Z",
+          "viewCount": 28081,
+          "likeCount": 1028,
+          "commentCount": 64,
           "durationSeconds": 1310
         }
       ],
@@ -1282,7 +1337,7 @@
       "durationSeconds": 60,
       "isShort": true,
       "likeRate": null,
-      "commentRate": 0.054239739649249684,
+      "commentRate": 0.05402485143165856,
       "dailyStats": [
         {
           "date": "2026-08-12",
@@ -1397,6 +1452,15 @@
           "title": "여름이 가기 전에 먹어야 할 것 = 🦑🍜🧊",
           "publishedAt": "2026-08-11T06:55:49Z",
           "viewCount": 5531,
+          "likeCount": null,
+          "commentCount": 3,
+          "durationSeconds": 60
+        },
+        {
+          "date": "2026-08-25",
+          "title": "여름이 가기 전에 먹어야 할 것 = 🦑🍜🧊",
+          "publishedAt": "2026-08-11T06:55:49Z",
+          "viewCount": 5553,
           "likeCount": null,
           "commentCount": 3,
           "durationSeconds": 60
@@ -1683,8 +1747,8 @@
       "publishedAt": "2026-07-26T13:46:23Z",
       "durationSeconds": 1479,
       "isShort": false,
-      "likeRate": 3.3589677660643744,
-      "commentRate": 0.21271125032140437,
+      "likeRate": 3.35208517364824,
+      "commentRate": 0.21153935561857828,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1892,6 +1956,15 @@
           "likeCount": 1437,
           "commentCount": 91,
           "durationSeconds": 1479
+        },
+        {
+          "date": "2026-08-25",
+          "title": "뭐든 다 만들어 먹는 집순이 집밥 브이로그 🦑 초간단 밥솥 누룽지 백숙, 오징어 순대와 냉라면, 열무비빔밥, 라따뚜이 등",
+          "publishedAt": "2026-07-26T13:46:23Z",
+          "viewCount": 43018,
+          "likeCount": 1442,
+          "commentCount": 91,
+          "durationSeconds": 1479
         }
       ],
       "thumbnailFeatures": {
@@ -1957,7 +2030,7 @@
       "durationSeconds": 48,
       "isShort": true,
       "likeRate": null,
-      "commentRate": 0.06891798759476223,
+      "commentRate": 0.06855184233076264,
       "dailyStats": [
         {
           "date": "2026-08-14",
@@ -2054,6 +2127,15 @@
           "title": "떡집에서 사 온 가래떡으로 통가래떡 떡볶이 만들기👩🏻‍🍳",
           "publishedAt": "2026-08-13T07:15:29Z",
           "viewCount": 5804,
+          "likeCount": null,
+          "commentCount": 4,
+          "durationSeconds": 48
+        },
+        {
+          "date": "2026-08-25",
+          "title": "떡집에서 사 온 가래떡으로 통가래떡 떡볶이 만들기👩🏻‍🍳",
+          "publishedAt": "2026-08-13T07:15:29Z",
+          "viewCount": 5835,
           "likeCount": null,
           "commentCount": 4,
           "durationSeconds": 48
@@ -2290,7 +2372,7 @@
       "durationSeconds": 56,
       "isShort": true,
       "likeRate": null,
-      "commentRate": 0.018615040953090096,
+      "commentRate": 0.01855287569573284,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -2495,6 +2577,15 @@
           "title": "초간단 섹시 밥솥 누룽지 백숙 만들기",
           "publishedAt": "2026-07-29T13:53:41Z",
           "viewCount": 5372,
+          "likeCount": null,
+          "commentCount": 1,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-08-25",
+          "title": "초간단 섹시 밥솥 누룽지 백숙 만들기",
+          "publishedAt": "2026-07-29T13:53:41Z",
+          "viewCount": 5390,
           "likeCount": null,
           "commentCount": 1,
           "durationSeconds": 56

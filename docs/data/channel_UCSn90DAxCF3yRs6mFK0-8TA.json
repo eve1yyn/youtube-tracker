@@ -162,6 +162,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 148869935,
       "videoCount": 396
+    },
+    {
+      "date": "2026-08-25",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 148871875,
+      "videoCount": 396
     }
   ],
   "videos": [
@@ -357,8 +364,8 @@
       "publishedAt": "2026-08-05T08:00:04Z",
       "durationSeconds": 1419,
       "isShort": false,
-      "likeRate": 2.9660295069678693,
-      "commentRate": 0.1856962758526696,
+      "likeRate": 2.960604315571966,
+      "commentRate": 0.18461434233257681,
       "dailyStats": [
         {
           "date": "2026-08-06",
@@ -528,6 +535,15 @@
           "publishedAt": "2026-08-05T08:00:04Z",
           "viewCount": 58698,
           "likeCount": 1741,
+          "commentCount": 109,
+          "durationSeconds": 1419
+        },
+        {
+          "date": "2026-08-25",
+          "title": "육묘에 지친 나..🐱카페 대청소,동묘 빈티지 쇼핑,혼자 파스타 먹으러 간 일상",
+          "publishedAt": "2026-08-05T08:00:04Z",
+          "viewCount": 59042,
+          "likeCount": 1748,
           "commentCount": 109,
           "durationSeconds": 1419
         }

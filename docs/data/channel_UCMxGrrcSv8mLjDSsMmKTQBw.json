@@ -162,6 +162,13 @@
       "subscriberCount": 8060,
       "totalViewCount": 2581575,
       "videoCount": 270
+    },
+    {
+      "date": "2026-08-25",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8060,
+      "totalViewCount": 2582012,
+      "videoCount": 271
     }
   ],
   "videos": [
@@ -204,8 +211,8 @@
       "publishedAt": "2026-07-29T01:30:09Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 5.245901639344262,
-      "commentRate": 3.934426229508197,
+      "likeRate": 5.228758169934641,
+      "commentRate": 3.9215686274509802,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -413,6 +420,15 @@
           "likeCount": 32,
           "commentCount": 24,
           "durationSeconds": 42
+        },
+        {
+          "date": "2026-08-25",
+          "title": "정리마켓 유튜브 채널에 출연했어요.",
+          "publishedAt": "2026-07-29T01:30:09Z",
+          "viewCount": 612,
+          "likeCount": 32,
+          "commentCount": 24,
+          "durationSeconds": 42
         }
       ],
       "thumbnailFeatures": {
@@ -435,8 +451,8 @@
       "publishedAt": "2026-08-14T08:10:19Z",
       "durationSeconds": 774,
       "isShort": false,
-      "likeRate": 1.7429938482570062,
-      "commentRate": 0.07689678742310321,
+      "likeRate": 1.7199632629205979,
+      "commentRate": 0.07514402604992904,
       "dailyStats": [
         {
           "date": "2026-08-15",
@@ -527,6 +543,36 @@
           "likeCount": 204,
           "commentCount": 9,
           "durationSeconds": 774
+        },
+        {
+          "date": "2026-08-25",
+          "title": "미니멀라이프 8년 더이상 사지 않는 물건 10가지",
+          "publishedAt": "2026-08-14T08:10:19Z",
+          "viewCount": 11977,
+          "likeCount": 206,
+          "commentCount": 9,
+          "durationSeconds": 774
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "Z10BIFQ7n20",
+      "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
+      "publishedAt": "2026-08-24T10:22:50Z",
+      "durationSeconds": 1270,
+      "isShort": false,
+      "likeRate": 2.5745257452574526,
+      "commentRate": 0.06775067750677506,
+      "dailyStats": [
+        {
+          "date": "2026-08-25",
+          "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
+          "publishedAt": "2026-08-24T10:22:50Z",
+          "viewCount": 1476,
+          "likeCount": 38,
+          "commentCount": 1,
+          "durationSeconds": 1270
         }
       ],
       "thumbnailFeatures": null
@@ -710,12 +756,12 @@
     },
     {
       "videoId": "x1u0nfVRX78",
-      "title": "정리마켓 출연/3년간 만들어 쓴 살뜨물 발효액 사용법/집밥이야기",
+      "title": "V정리마켓 출연/3년간 만들어 쓴 살뜨물 발효액 사용법/집밥이야기",
       "publishedAt": "2026-08-07T01:47:29Z",
       "durationSeconds": 860,
       "isShort": false,
-      "likeRate": 2.0855240098142307,
-      "commentRate": 0.5082369435681738,
+      "likeRate": 2.0478403028738597,
+      "commentRate": 0.4990535191877474,
       "dailyStats": [
         {
           "date": "2026-08-07",
@@ -875,6 +921,15 @@
           "title": "정리마켓 출연/3년간 만들어 쓴 살뜨물 발효액 사용법/집밥이야기",
           "publishedAt": "2026-08-07T01:47:29Z",
           "viewCount": 5706,
+          "likeCount": 119,
+          "commentCount": 29,
+          "durationSeconds": 860
+        },
+        {
+          "date": "2026-08-25",
+          "title": "V정리마켓 출연/3년간 만들어 쓴 살뜨물 발효액 사용법/집밥이야기",
+          "publishedAt": "2026-08-07T01:47:29Z",
+          "viewCount": 5811,
           "likeCount": 119,
           "commentCount": 29,
           "durationSeconds": 860
