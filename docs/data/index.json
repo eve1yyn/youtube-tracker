@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-08-25T01:25:28.532Z",
+  "generatedAt": "2026-08-26T01:35:29.200Z",
   "channels": [
     {
       "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
       "title": "아임지현 Jihyun",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "아임지현 Jihyun",
         "subscriberCount": 105000,
-        "totalViewCount": 17075756,
-        "videoCount": 71
+        "totalViewCount": 17176678,
+        "videoCount": 73
       },
       "delta7d": 1000,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 829377,
+      "viewDelta7d": 756261,
       "viewDelta30d": null,
-      "videosLast30d": 14,
-      "uploadsPerWeek": 3.2666666666666666,
-      "avgViewsPerVideo": 105087.04545454546,
-      "reachRate": 100.08290043290043,
-      "reachRateMedian": 90.8204761904762,
-      "engagementRate": 1.0945697880654803,
+      "videosLast30d": 16,
+      "uploadsPerWeek": 3.7333333333333334,
+      "avgViewsPerVideo": 117190.60869565218,
+      "reachRate": 111.61010351966874,
+      "reachRateMedian": 98.52190476190476,
+      "engagementRate": 1.0874845893338374,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -190,6 +190,13 @@
           "subscriberCount": 105000,
           "totalViewCount": 17075756,
           "videoCount": 71
+        },
+        {
+          "date": "2026-08-26",
+          "title": "아임지현 Jihyun",
+          "subscriberCount": 105000,
+          "totalViewCount": 17176678,
+          "videoCount": 73
         }
       ]
     },
@@ -197,16 +204,16 @@
       "channelId": "UC31beQxRocqnWrVeQecWYJA",
       "title": "상큼한 뿌미맘_MinimalTV",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "상큼한 뿌미맘_MinimalTV",
         "subscriberCount": 60300,
-        "totalViewCount": 28399195,
+        "totalViewCount": 28407000,
         "videoCount": 739
       },
-      "delta7d": -100,
+      "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 40463,
+      "viewDelta7d": 39555,
       "viewDelta30d": null,
       "videosLast30d": 1,
       "uploadsPerWeek": 0.23333333333333334,
@@ -382,6 +389,13 @@
           "subscriberCount": 60300,
           "totalViewCount": 28399195,
           "videoCount": 739
+        },
+        {
+          "date": "2026-08-26",
+          "title": "상큼한 뿌미맘_MinimalTV",
+          "subscriberCount": 60300,
+          "totalViewCount": 28407000,
+          "videoCount": 739
         }
       ]
     },
@@ -389,23 +403,23 @@
       "channelId": "UC6hIfm4cG58W0DLvvrrd9sQ",
       "title": "설아의날들 (Seola's Moments)",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "설아의날들 (Seola's Moments)",
-        "subscriberCount": 41700,
-        "totalViewCount": 1479938,
+        "subscriberCount": 41800,
+        "totalViewCount": 1481949,
         "videoCount": 38
       },
-      "delta7d": 500,
+      "delta7d": 600,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 17594,
+      "viewDelta7d": 16463,
       "viewDelta30d": null,
       "videosLast30d": 2,
       "uploadsPerWeek": 0.4666666666666667,
-      "avgViewsPerVideo": 13323,
-      "reachRate": 31.949640287769782,
-      "reachRateMedian": 16.093525179856115,
-      "engagementRate": 6.298625484535777,
+      "avgViewsPerVideo": 13518.666666666666,
+      "reachRate": 32.34130781499203,
+      "reachRateMedian": 16.055023923444974,
+      "engagementRate": 6.314906561267716,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -574,6 +588,13 @@
           "subscriberCount": 41700,
           "totalViewCount": 1479938,
           "videoCount": 38
+        },
+        {
+          "date": "2026-08-26",
+          "title": "설아의날들 (Seola's Moments)",
+          "subscriberCount": 41800,
+          "totalViewCount": 1481949,
+          "videoCount": 38
         }
       ]
     },
@@ -581,16 +602,16 @@
       "channelId": "UCC4lLxNewZaghdrxcvZe1SA",
       "title": "자취반장",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "자취반장",
         "subscriberCount": 6710,
-        "totalViewCount": 1036833,
+        "totalViewCount": 1037011,
         "videoCount": 10
       },
-      "delta7d": 40,
+      "delta7d": 30,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 624,
+      "viewDelta7d": 692,
       "viewDelta30d": null,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
@@ -766,6 +787,13 @@
           "subscriberCount": 6710,
           "totalViewCount": 1036833,
           "videoCount": 10
+        },
+        {
+          "date": "2026-08-26",
+          "title": "자취반장",
+          "subscriberCount": 6710,
+          "totalViewCount": 1037011,
+          "videoCount": 10
         }
       ]
     },
@@ -773,16 +801,16 @@
       "channelId": "UCDBst6RZE7Z6m4ROlSjr8Iw",
       "title": "에린남 Erinnam",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "에린남 Erinnam",
         "subscriberCount": 46800,
-        "totalViewCount": 6592937,
+        "totalViewCount": 6594029,
         "videoCount": 134
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 6309,
+      "viewDelta7d": 6281,
       "viewDelta30d": null,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
@@ -958,6 +986,13 @@
           "subscriberCount": 46800,
           "totalViewCount": 6592937,
           "videoCount": 134
+        },
+        {
+          "date": "2026-08-26",
+          "title": "에린남 Erinnam",
+          "subscriberCount": 46800,
+          "totalViewCount": 6594029,
+          "videoCount": 134
         }
       ]
     },
@@ -965,16 +1000,16 @@
       "channelId": "UCHCzM5Q07KU-QsaqWjKUxew",
       "title": "자취하는 해달이",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "자취하는 해달이",
         "subscriberCount": 10500,
-        "totalViewCount": 1563700,
+        "totalViewCount": 1563844,
         "videoCount": 66
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 691,
+      "viewDelta7d": 709,
       "viewDelta30d": null,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
@@ -1150,6 +1185,13 @@
           "subscriberCount": 10500,
           "totalViewCount": 1563700,
           "videoCount": 66
+        },
+        {
+          "date": "2026-08-26",
+          "title": "자취하는 해달이",
+          "subscriberCount": 10500,
+          "totalViewCount": 1563844,
+          "videoCount": 66
         }
       ]
     },
@@ -1157,23 +1199,23 @@
       "channelId": "UCJcsfpxHdQ5PKIF5mOSRbUQ",
       "title": "데일리지현[Daily JiHyun]",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "데일리지현[Daily JiHyun]",
         "subscriberCount": 67100,
-        "totalViewCount": 52429828,
+        "totalViewCount": 52460926,
         "videoCount": 360
       },
       "delta7d": 200,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 160962,
+      "viewDelta7d": 173096,
       "viewDelta30d": null,
-      "videosLast30d": 13,
-      "uploadsPerWeek": 3.033333333333333,
-      "avgViewsPerVideo": 78178.22727272728,
-      "reachRate": 116.51002574176941,
-      "reachRateMedian": 54.45007451564828,
-      "engagementRate": 2.2206069604719816,
+      "videosLast30d": 12,
+      "uploadsPerWeek": 2.8000000000000003,
+      "avgViewsPerVideo": 78352.27272727272,
+      "reachRate": 116.76940793930362,
+      "reachRateMedian": 54.632637853949326,
+      "engagementRate": 2.204681149420854,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1342,6 +1384,13 @@
           "subscriberCount": 67100,
           "totalViewCount": 52429828,
           "videoCount": 360
+        },
+        {
+          "date": "2026-08-26",
+          "title": "데일리지현[Daily JiHyun]",
+          "subscriberCount": 67100,
+          "totalViewCount": 52460926,
+          "videoCount": 360
         }
       ]
     },
@@ -1349,23 +1398,23 @@
       "channelId": "UCMxGrrcSv8mLjDSsMmKTQBw",
       "title": "소소한 나의 미니멀라이프",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "소소한 나의 미니멀라이프",
-        "subscriberCount": 8060,
-        "totalViewCount": 2582012,
+        "subscriberCount": 8070,
+        "totalViewCount": 2584805,
         "videoCount": 271
       },
-      "delta7d": 40,
+      "delta7d": 30,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 8578,
+      "viewDelta7d": 9739,
       "viewDelta30d": null,
       "videosLast30d": 4,
       "uploadsPerWeek": 0.9333333333333333,
-      "avgViewsPerVideo": 4302.2,
-      "reachRate": 53.37717121588089,
-      "reachRateMedian": 25.34739454094293,
-      "engagementRate": 4.763120445922636,
+      "avgViewsPerVideo": 4367.4,
+      "reachRate": 54.11895910780669,
+      "reachRateMedian": 25.315985130111525,
+      "engagementRate": 4.736984564415159,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1534,6 +1583,13 @@
           "subscriberCount": 8060,
           "totalViewCount": 2582012,
           "videoCount": 271
+        },
+        {
+          "date": "2026-08-26",
+          "title": "소소한 나의 미니멀라이프",
+          "subscriberCount": 8070,
+          "totalViewCount": 2584805,
+          "videoCount": 271
         }
       ]
     },
@@ -1541,23 +1597,23 @@
       "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
       "title": "planD플랜디",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "planD플랜디",
         "subscriberCount": 2360000,
-        "totalViewCount": 421870355,
+        "totalViewCount": 421999134,
         "videoCount": 320
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 1092835,
+      "viewDelta7d": 918964,
       "viewDelta30d": null,
       "videosLast30d": 3,
       "uploadsPerWeek": 0.7000000000000001,
-      "avgViewsPerVideo": 390520.4285714286,
-      "reachRate": 16.547475786924938,
-      "reachRateMedian": 21.19652542372881,
-      "engagementRate": 2.975336902172328,
+      "avgViewsPerVideo": 394741.5714285714,
+      "reachRate": 16.726337772397095,
+      "reachRateMedian": 21.480762711864408,
+      "engagementRate": 2.963248887526807,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1726,6 +1782,13 @@
           "subscriberCount": 2360000,
           "totalViewCount": 421870355,
           "videoCount": 320
+        },
+        {
+          "date": "2026-08-26",
+          "title": "planD플랜디",
+          "subscriberCount": 2360000,
+          "totalViewCount": 421999134,
+          "videoCount": 320
         }
       ]
     },
@@ -1733,23 +1796,23 @@
       "channelId": "UCSn90DAxCF3yRs6mFK0-8TA",
       "title": "ondo온도",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "ondo온도",
         "subscriberCount": 1220000,
-        "totalViewCount": 148871875,
-        "videoCount": 396
+        "totalViewCount": 148875670,
+        "videoCount": 397
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 22858,
+      "viewDelta7d": 22579,
       "viewDelta30d": null,
-      "videosLast30d": 1,
-      "uploadsPerWeek": 0.23333333333333334,
-      "avgViewsPerVideo": 62516,
-      "reachRate": 5.124262295081968,
-      "reachRateMedian": 5.124262295081968,
-      "engagementRate": 3.367578263639345,
+      "videosLast30d": 2,
+      "uploadsPerWeek": 0.4666666666666667,
+      "avgViewsPerVideo": 62751.5,
+      "reachRate": 5.143565573770491,
+      "reachRateMedian": 5.143565573770491,
+      "engagementRate": 3.366054243779205,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1918,6 +1981,13 @@
           "subscriberCount": 1220000,
           "totalViewCount": 148871875,
           "videoCount": 396
+        },
+        {
+          "date": "2026-08-26",
+          "title": "ondo온도",
+          "subscriberCount": 1220000,
+          "totalViewCount": 148875670,
+          "videoCount": 397
         }
       ]
     },
@@ -1925,23 +1995,23 @@
       "channelId": "UCTnH8Piru1x6uYBkVK0_JNQ",
       "title": "알밤로그",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "알밤로그",
-        "subscriberCount": 7560,
-        "totalViewCount": 6110670,
+        "subscriberCount": 7570,
+        "totalViewCount": 6117590,
         "videoCount": 167
       },
       "delta7d": 60,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 38808,
+      "viewDelta7d": 39753,
       "viewDelta30d": null,
       "videosLast30d": 13,
       "uploadsPerWeek": 3.033333333333333,
-      "avgViewsPerVideo": 4542.318181818182,
-      "reachRate": 60.08357383357384,
-      "reachRateMedian": 48.08201058201058,
-      "engagementRate": 2.0616841869445426,
+      "avgViewsPerVideo": 4430.304347826087,
+      "reachRate": 58.52449600827063,
+      "reachRateMedian": 46.31439894319683,
+      "engagementRate": 2.049190671754032,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -2110,6 +2180,13 @@
           "subscriberCount": 7560,
           "totalViewCount": 6110670,
           "videoCount": 167
+        },
+        {
+          "date": "2026-08-26",
+          "title": "알밤로그",
+          "subscriberCount": 7570,
+          "totalViewCount": 6117590,
+          "videoCount": 167
         }
       ]
     },
@@ -2117,23 +2194,23 @@
       "channelId": "UCabsEts6Lw1lrvCtA39dvYQ",
       "title": "소수콩",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "소수콩",
         "subscriberCount": 89200,
-        "totalViewCount": 10310750,
-        "videoCount": 119
+        "totalViewCount": 10325865,
+        "videoCount": 120
       },
       "delta7d": -100,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 68409,
+      "viewDelta7d": 73077,
       "viewDelta30d": null,
-      "videosLast30d": 22,
-      "uploadsPerWeek": 5.133333333333334,
-      "avgViewsPerVideo": 13902.78947368421,
-      "reachRate": 15.586086853906064,
-      "reachRateMedian": 9.893497757847532,
-      "engagementRate": 2.4076802940032875,
+      "videosLast30d": 23,
+      "uploadsPerWeek": 5.366666666666667,
+      "avgViewsPerVideo": 13613.45,
+      "reachRate": 15.261715246636772,
+      "reachRateMedian": 9.921524663677129,
+      "engagementRate": 2.4050301788270074,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -2302,6 +2379,13 @@
           "subscriberCount": 89200,
           "totalViewCount": 10310750,
           "videoCount": 119
+        },
+        {
+          "date": "2026-08-26",
+          "title": "소수콩",
+          "subscriberCount": 89200,
+          "totalViewCount": 10325865,
+          "videoCount": 120
         }
       ]
     },
@@ -2309,16 +2393,16 @@
       "channelId": "UCf1XpmvM9dzX-S-y7azW9tg",
       "title": "김곰돌자취일기",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "김곰돌자취일기",
-        "subscriberCount": 8430,
-        "totalViewCount": 1382302,
+        "subscriberCount": 8440,
+        "totalViewCount": 1386856,
         "videoCount": 43
       },
       "delta7d": 30,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 27582,
+      "viewDelta7d": 27437,
       "viewDelta30d": null,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
@@ -2494,6 +2578,13 @@
           "subscriberCount": 8430,
           "totalViewCount": 1382302,
           "videoCount": 43
+        },
+        {
+          "date": "2026-08-26",
+          "title": "김곰돌자취일기",
+          "subscriberCount": 8440,
+          "totalViewCount": 1386856,
+          "videoCount": 43
         }
       ]
     },
@@ -2501,23 +2592,23 @@
       "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
       "title": "에바EVA",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "에바EVA",
         "subscriberCount": 779000,
-        "totalViewCount": 220280486,
-        "videoCount": 737
+        "totalViewCount": 220590316,
+        "videoCount": 738
       },
       "delta7d": 3000,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 1712528,
+      "viewDelta7d": 1820418,
       "viewDelta30d": null,
-      "videosLast30d": 7,
-      "uploadsPerWeek": 1.6333333333333333,
-      "avgViewsPerVideo": 216694.63636363635,
-      "reachRate": 27.81702649083907,
+      "videosLast30d": 8,
+      "uploadsPerWeek": 1.8666666666666667,
+      "avgViewsPerVideo": 221143.81818181818,
+      "reachRate": 28.38816664721671,
       "reachRateMedian": 19.45173299101412,
-      "engagementRate": 1.8192615345470713,
+      "engagementRate": 1.8144314402461121,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -2686,6 +2777,13 @@
           "subscriberCount": 779000,
           "totalViewCount": 220280486,
           "videoCount": 737
+        },
+        {
+          "date": "2026-08-26",
+          "title": "에바EVA",
+          "subscriberCount": 779000,
+          "totalViewCount": 220590316,
+          "videoCount": 738
         }
       ]
     },
@@ -2693,23 +2791,23 @@
       "channelId": "UCioqBNry60RpQs38YcNDGpQ",
       "title": "절약의 달인 곽지현 (舊 자취린이)",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "절약의 달인 곽지현 (舊 자취린이)",
-        "subscriberCount": 61100,
-        "totalViewCount": 2421904,
+        "subscriberCount": 61200,
+        "totalViewCount": 2424317,
         "videoCount": 93
       },
-      "delta7d": 1400,
+      "delta7d": 1300,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 14081,
+      "viewDelta7d": 14450,
       "viewDelta30d": null,
       "videosLast30d": 1,
       "uploadsPerWeek": 0.23333333333333334,
-      "avgViewsPerVideo": 12847,
-      "reachRate": 21.02618657937807,
-      "reachRateMedian": 21.02618657937807,
-      "engagementRate": 3.674009496380478,
+      "avgViewsPerVideo": 13240,
+      "reachRate": 21.633986928104576,
+      "reachRateMedian": 21.633986928104576,
+      "engagementRate": 3.625377643504532,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -2878,6 +2976,13 @@
           "subscriberCount": 61100,
           "totalViewCount": 2421904,
           "videoCount": 93
+        },
+        {
+          "date": "2026-08-26",
+          "title": "절약의 달인 곽지현 (舊 자취린이)",
+          "subscriberCount": 61200,
+          "totalViewCount": 2424317,
+          "videoCount": 93
         }
       ]
     },
@@ -2885,23 +2990,23 @@
       "channelId": "UCjQBsQBy9vFxG3t82pve85Q",
       "title": "준희 JUNEHEE",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "준희 JUNEHEE",
         "subscriberCount": 34400,
-        "totalViewCount": 3506470,
+        "totalViewCount": 3510413,
         "videoCount": 101
       },
       "delta7d": 100,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 19890,
+      "viewDelta7d": 21039,
       "viewDelta30d": null,
       "videosLast30d": 5,
       "uploadsPerWeek": 1.1666666666666667,
-      "avgViewsPerVideo": 4544.25,
-      "reachRate": 13.210029069767442,
-      "reachRateMedian": 12.988372093023257,
-      "engagementRate": 1.1645462147123875,
+      "avgViewsPerVideo": 4577.375,
+      "reachRate": 13.306322674418606,
+      "reachRateMedian": 13.08575581395349,
+      "engagementRate": 1.1670078361360385,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -3070,6 +3175,13 @@
           "subscriberCount": 34400,
           "totalViewCount": 3506470,
           "videoCount": 101
+        },
+        {
+          "date": "2026-08-26",
+          "title": "준희 JUNEHEE",
+          "subscriberCount": 34400,
+          "totalViewCount": 3510413,
+          "videoCount": 101
         }
       ]
     },
@@ -3077,23 +3189,23 @@
       "channelId": "UCnD6dVL_ZQGmB651igqBJ2g",
       "title": "형은순 청담헤어  라이프",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "형은순 청담헤어  라이프",
         "subscriberCount": 25700,
-        "totalViewCount": 3989827,
+        "totalViewCount": 3990030,
         "videoCount": 122
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 1095,
+      "viewDelta7d": 1126,
       "viewDelta30d": null,
       "videosLast30d": 2,
       "uploadsPerWeek": 0.4666666666666667,
-      "avgViewsPerVideo": 644.8,
-      "reachRate": 2.508949416342412,
-      "reachRateMedian": 0.5992217898832685,
-      "engagementRate": 9.082707471490497,
+      "avgViewsPerVideo": 644.9,
+      "reachRate": 2.509338521400778,
+      "reachRateMedian": 0.6011673151750972,
+      "engagementRate": 9.080534030934096,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -3262,6 +3374,13 @@
           "subscriberCount": 25700,
           "totalViewCount": 3989827,
           "videoCount": 122
+        },
+        {
+          "date": "2026-08-26",
+          "title": "형은순 청담헤어  라이프",
+          "subscriberCount": 25700,
+          "totalViewCount": 3990030,
+          "videoCount": 122
         }
       ]
     },
@@ -3269,23 +3388,23 @@
       "channelId": "UCo4ia3fXOoy2PCk6Ul0gErQ",
       "title": "오리지널 레미 ORIGINAL REMY",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "오리지널 레미 ORIGINAL REMY",
         "subscriberCount": 16300,
-        "totalViewCount": 4416199,
+        "totalViewCount": 4419372,
         "videoCount": 214
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 27313,
+      "viewDelta7d": 27455,
       "viewDelta30d": null,
       "videosLast30d": 3,
       "uploadsPerWeek": 0.7000000000000001,
-      "avgViewsPerVideo": 11660.714285714286,
-      "reachRate": 71.53812445223488,
-      "reachRateMedian": 80.0920245398773,
-      "engagementRate": 3.770967673965901,
+      "avgViewsPerVideo": 11703.285714285714,
+      "reachRate": 71.79929886064855,
+      "reachRateMedian": 80.41717791411043,
+      "engagementRate": 3.7635894470823934,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -3454,6 +3573,13 @@
           "subscriberCount": 16300,
           "totalViewCount": 4416199,
           "videoCount": 214
+        },
+        {
+          "date": "2026-08-26",
+          "title": "오리지널 레미 ORIGINAL REMY",
+          "subscriberCount": 16300,
+          "totalViewCount": 4419372,
+          "videoCount": 214
         }
       ]
     },
@@ -3461,23 +3587,23 @@
       "channelId": "UCpOtHjfr_hcAhPTky6OWcHA",
       "title": "세빈 SEBIN",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "세빈 SEBIN",
         "subscriberCount": 1010000,
-        "totalViewCount": 14802812,
+        "totalViewCount": 14834046,
         "videoCount": 192
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 127985,
+      "viewDelta7d": 133125,
       "viewDelta30d": null,
-      "videosLast30d": 6,
-      "uploadsPerWeek": 1.4000000000000001,
-      "avgViewsPerVideo": 57386,
-      "reachRate": 5.681782178217822,
-      "reachRateMedian": 4.671980198019802,
-      "engagementRate": 3.9710951356323334,
+      "videosLast30d": 5,
+      "uploadsPerWeek": 1.1666666666666667,
+      "avgViewsPerVideo": 57593.181818181816,
+      "reachRate": 5.702295229522952,
+      "reachRateMedian": 4.7562376237623765,
+      "engagementRate": 3.9673667524057468,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -3646,6 +3772,13 @@
           "subscriberCount": 1010000,
           "totalViewCount": 14802812,
           "videoCount": 192
+        },
+        {
+          "date": "2026-08-26",
+          "title": "세빈 SEBIN",
+          "subscriberCount": 1010000,
+          "totalViewCount": 14834046,
+          "videoCount": 192
         }
       ]
     },
@@ -3653,16 +3786,16 @@
       "channelId": "UCpXj65Icu4FzbgMTpe6yYYw",
       "title": "호주패밀리 Hojufamily",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "호주패밀리 Hojufamily",
         "subscriberCount": 5450,
-        "totalViewCount": 545927,
+        "totalViewCount": 546150,
         "videoCount": 23
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 1471,
+      "viewDelta7d": 1421,
       "viewDelta30d": null,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
@@ -3838,6 +3971,13 @@
           "subscriberCount": 5450,
           "totalViewCount": 545927,
           "videoCount": 23
+        },
+        {
+          "date": "2026-08-26",
+          "title": "호주패밀리 Hojufamily",
+          "subscriberCount": 5450,
+          "totalViewCount": 546150,
+          "videoCount": 23
         }
       ]
     },
@@ -3845,23 +3985,23 @@
       "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
       "title": "Daily소현",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "Daily소현",
         "subscriberCount": 151000,
-        "totalViewCount": 233527656,
-        "videoCount": 1181
+        "totalViewCount": 234059998,
+        "videoCount": 1182
       },
       "delta7d": 2000,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 3792816,
+      "viewDelta7d": 3674583,
       "viewDelta30d": null,
       "videosLast30d": 44,
       "uploadsPerWeek": 10.266666666666667,
-      "avgViewsPerVideo": 218255.86111111112,
-      "reachRate": 144.54030537159676,
-      "reachRateMedian": 132.37019867549668,
-      "engagementRate": 2.2713647843504807,
+      "avgViewsPerVideo": 216311.94594594595,
+      "reachRate": 143.25294433506355,
+      "reachRateMedian": 131.77615894039735,
+      "engagementRate": 2.2772880923924355,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -4030,6 +4170,13 @@
           "subscriberCount": 151000,
           "totalViewCount": 233527656,
           "videoCount": 1181
+        },
+        {
+          "date": "2026-08-26",
+          "title": "Daily소현",
+          "subscriberCount": 151000,
+          "totalViewCount": 234059998,
+          "videoCount": 1182
         }
       ]
     },
@@ -4037,23 +4184,23 @@
       "channelId": "UCvsp8e2LrbUAuE5oLHrBQ_Q",
       "title": "효뎡 Dyeong",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "효뎡 Dyeong",
         "subscriberCount": 730000,
-        "totalViewCount": 125561546,
+        "totalViewCount": 125573395,
         "videoCount": 336
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 160840,
+      "viewDelta7d": 143278,
       "viewDelta30d": null,
       "videosLast30d": 3,
       "uploadsPerWeek": 0.7000000000000001,
-      "avgViewsPerVideo": 91160,
-      "reachRate": 12.487671232876712,
-      "reachRateMedian": 11.631164383561645,
-      "engagementRate": 2.397546575056043,
+      "avgViewsPerVideo": 91954,
+      "reachRate": 12.596438356164382,
+      "reachRateMedian": 11.737602739726027,
+      "engagementRate": 2.3860637527711535,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -4222,6 +4369,13 @@
           "subscriberCount": 730000,
           "totalViewCount": 125561546,
           "videoCount": 336
+        },
+        {
+          "date": "2026-08-26",
+          "title": "효뎡 Dyeong",
+          "subscriberCount": 730000,
+          "totalViewCount": 125573395,
+          "videoCount": 336
         }
       ]
     },
@@ -4229,23 +4383,23 @@
       "channelId": "UCxOUr6CvZkcOZ8H2IRAYK-Q",
       "title": "némo 김네모",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "némo 김네모",
         "subscriberCount": 120000,
-        "totalViewCount": 7240858,
+        "totalViewCount": 7255994,
         "videoCount": 105
       },
       "delta7d": 1000,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 51576,
+      "viewDelta7d": 53133,
       "viewDelta30d": null,
-      "videosLast30d": 8,
-      "uploadsPerWeek": 1.8666666666666667,
-      "avgViewsPerVideo": 16198.722222222223,
-      "reachRate": 13.498935185185184,
-      "reachRateMedian": 4.845833333333333,
-      "engagementRate": 1.9638680493427987,
+      "videosLast30d": 7,
+      "uploadsPerWeek": 1.6333333333333333,
+      "avgViewsPerVideo": 16275.777777777777,
+      "reachRate": 13.56314814814815,
+      "reachRateMedian": 4.859999999999999,
+      "engagementRate": 1.9611135665687476,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -4414,6 +4568,13 @@
           "subscriberCount": 120000,
           "totalViewCount": 7240858,
           "videoCount": 105
+        },
+        {
+          "date": "2026-08-26",
+          "title": "némo 김네모",
+          "subscriberCount": 120000,
+          "totalViewCount": 7255994,
+          "videoCount": 105
         }
       ]
     },
@@ -4421,23 +4582,23 @@
       "channelId": "UCyG7zAV_2JlPnxhwDxZN6sA",
       "title": "지현꿍",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "지현꿍",
         "subscriberCount": 3000000,
-        "totalViewCount": 360477666,
+        "totalViewCount": 360531320,
         "videoCount": 232
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 361057,
+      "viewDelta7d": 380631,
       "viewDelta30d": null,
       "videosLast30d": 3,
       "uploadsPerWeek": 0.7000000000000001,
-      "avgViewsPerVideo": 157414,
-      "reachRate": 5.247133333333333,
-      "reachRateMedian": 4.1390666666666664,
-      "engagementRate": 2.578144583600417,
+      "avgViewsPerVideo": 160888.6,
+      "reachRate": 5.3629533333333335,
+      "reachRateMedian": 4.5959666666666665,
+      "engagementRate": 2.567241792069213,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -4606,6 +4767,13 @@
           "subscriberCount": 3000000,
           "totalViewCount": 360477666,
           "videoCount": 232
+        },
+        {
+          "date": "2026-08-26",
+          "title": "지현꿍",
+          "subscriberCount": 3000000,
+          "totalViewCount": 360531320,
+          "videoCount": 232
         }
       ]
     },
@@ -4613,16 +4781,16 @@
       "channelId": "UCyU9SS7OSXHox_ZRGBIVcCg",
       "title": "고초희 Daily Chohees",
       "latest": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "title": "고초희 Daily Chohees",
         "subscriberCount": 17500,
-        "totalViewCount": 2660695,
+        "totalViewCount": 2661365,
         "videoCount": 81
       },
       "delta7d": 0,
       "delta30d": null,
       "growthRate30d": null,
-      "viewDelta7d": 4004,
+      "viewDelta7d": 3919,
       "viewDelta30d": null,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
@@ -4798,17 +4966,24 @@
           "subscriberCount": 17500,
           "totalViewCount": 2660695,
           "videoCount": 81
+        },
+        {
+          "date": "2026-08-26",
+          "title": "고초희 Daily Chohees",
+          "subscriberCount": 17500,
+          "totalViewCount": 2661365,
+          "videoCount": 81
         }
       ]
     }
   ],
   "topMoversShorts": [
     {
-      "videoId": "m6dg7ryDw9I",
+      "videoId": "UNEwoCS9j7Y",
       "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
       "channelTitle": "에바EVA",
-      "title": "서울에서 혼자 자취하면 주말에 얼마 쓸까?",
-      "viewDelta": 45800,
+      "title": "썸붕썰 푼다..",
+      "viewDelta": 77666,
       "isShort": true
     },
     {
@@ -4816,23 +4991,23 @@
       "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
       "channelTitle": "아임지현 Jihyun",
       "title": "치욕스러운 SNL 오디션 썰 ㅋ 😹 #shorts",
-      "viewDelta": 37217,
+      "viewDelta": 38321,
       "isShort": true
     },
     {
-      "videoId": "m5qipvXmtxg",
-      "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
-      "channelTitle": "Daily소현",
-      "title": "8/23(SUN) 스테이크 썰고 온 일욜 미니 vlog 레츠고๋࣭ ⭑ ˖•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
-      "viewDelta": 26724,
+      "videoId": "m6dg7ryDw9I",
+      "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
+      "channelTitle": "에바EVA",
+      "title": "서울에서 혼자 자취하면 주말에 얼마 쓸까?",
+      "viewDelta": 28539,
       "isShort": true
     },
     {
-      "videoId": "7thXqMQvzKE",
+      "videoId": "iYVjw1Ynzuc",
       "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
       "channelTitle": "Daily소현",
-      "title": "비다즐링(bedazzling)이 유행이라구?! 근데 이거 맞아요?💎•Daily소현 #16년생 #학생브이로그 #fyp",
-      "viewDelta": 16911,
+      "title": "엄마아빠가 평생 나를 잊고 살기 VS 내가 평생 엄마아빠를 잊고 살기•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+      "viewDelta": 21372,
       "isShort": true
     },
     {
@@ -4840,31 +5015,23 @@
       "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
       "channelTitle": "에바EVA",
       "title": "혼자 사는 여성의 평일 하루 동안 먹은 것들",
-      "viewDelta": 16385,
+      "viewDelta": 15259,
       "isShort": true
     },
     {
-      "videoId": "wAdyTkYMYao",
-      "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
-      "channelTitle": "Daily소현",
-      "title": "더빙 들어간 11살 미니 vlog 레츠고⭐️•Daily소현 #16년생 #학생브이로그 #minivlog #ootd #fyp",
-      "viewDelta": 11046,
+      "videoId": "BUudM6zw01s",
+      "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
+      "channelTitle": "아임지현 Jihyun",
+      "title": "부모님 울리는 법 #shorts",
+      "viewDelta": 11682,
       "isShort": true
     },
     {
-      "videoId": "2ZRLx17vqq8",
+      "videoId": "m5qipvXmtxg",
       "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
       "channelTitle": "Daily소현",
-      "title": "8/22(SAT) 토욜 모닝 GRWM✌🏻•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
-      "viewDelta": 9070,
-      "isShort": true
-    },
-    {
-      "videoId": "z6M8pbYNVgE",
-      "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
-      "channelTitle": "Daily소현",
-      "title": "8/20(THU) 개학날 등교 vlog 레츠고⚡️•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
-      "viewDelta": 7747,
+      "title": "8/23(SUN) 스테이크 썰고 온 일욜 미니 vlog 레츠고๋࣭ ⭑ ˖•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+      "viewDelta": 10565,
       "isShort": true
     },
     {
@@ -4872,15 +5039,23 @@
       "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
       "channelTitle": "아임지현 Jihyun",
       "title": "연애프로에서 제대로 뜨는 방법..?😈 #short",
-      "viewDelta": 7732,
+      "viewDelta": 8762,
       "isShort": true
     },
     {
-      "videoId": "bri2DC0eDJU",
+      "videoId": "7thXqMQvzKE",
       "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
       "channelTitle": "Daily소현",
-      "title": "8/8(SAT) 간식 사러 나가는 vlog 레츠고•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
-      "viewDelta": 7148,
+      "title": "비다즐링(bedazzling)이 유행이라구?! 근데 이거 맞아요?💎•Daily소현 #16년생 #학생브이로그 #fyp",
+      "viewDelta": 8758,
+      "isShort": true
+    },
+    {
+      "videoId": "wAdyTkYMYao",
+      "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
+      "channelTitle": "Daily소현",
+      "title": "더빙 들어간 11살 미니 vlog 레츠고⭐️•Daily소현 #16년생 #학생브이로그 #minivlog #ootd #fyp",
+      "viewDelta": 8198,
       "isShort": true
     }
   ],
@@ -4890,7 +5065,7 @@
       "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
       "channelTitle": "planD플랜디",
       "title": "못나가는 집순이의 격리생활🏠 KFC치킨 만들기🍗  5가지 초간단 홈카페 메뉴",
-      "viewDelta": 19605,
+      "viewDelta": 17494,
       "isShort": false
     },
     {
@@ -4898,7 +5073,15 @@
       "channelId": "UCyG7zAV_2JlPnxhwDxZN6sA",
       "channelTitle": "지현꿍",
       "title": "vlog | 이사 준비하는 냉털 주간 💸 여름 집밥으로 초계국수, 감자 호떡 만들고 낭만 한도 초과 여름 축제 🎏 🏮 다녀온 집순이 일상",
-      "viewDelta": 16625,
+      "viewDelta": 13707,
+      "isShort": false
+    },
+    {
+      "videoId": "5LW5HmmzWYY",
+      "channelId": "UCxOUr6CvZkcOZ8H2IRAYK-Q",
+      "channelTitle": "némo 김네모",
+      "title": "먹는 게 낙, 집순이 집콕 자취 집밥 기록 🍖 커링클, 카이막 치즈볼, 스테이크 솥밥, 청무화과 토스트,연어 파피요트, 불닭 등",
+      "viewDelta": 8207,
       "isShort": false
     },
     {
@@ -4906,7 +5089,7 @@
       "channelId": "UCpOtHjfr_hcAhPTky6OWcHA",
       "channelTitle": "세빈 SEBIN",
       "title": "왓츠인마이카🩷 첫 붕붕이를 공개합니다! Bmw 320i 후기",
-      "viewDelta": 9637,
+      "viewDelta": 7595,
       "isShort": false
     },
     {
@@ -4914,7 +5097,15 @@
       "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
       "channelTitle": "planD플랜디",
       "title": "다친 엄마 보양식 만들기, 늦은 여름옷 언박싱. 단호박 콩국수, 벚꽃 모나카,콘칩빙수",
-      "viewDelta": 6334,
+      "viewDelta": 6569,
+      "isShort": false
+    },
+    {
+      "videoId": "L4jRgmTsTSI",
+      "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
+      "channelTitle": "planD플랜디",
+      "title": "퇴원한 집순이의 집정리🏠 대차게 망한 요리와 바삭한 오징어링, 김신영 열쫄냉, 구독자님 파우치 만들기",
+      "viewDelta": 5485,
       "isShort": false
     },
     {
@@ -4926,19 +5117,11 @@
       "isShort": false
     },
     {
-      "videoId": "L4jRgmTsTSI",
-      "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
-      "channelTitle": "planD플랜디",
-      "title": "퇴원한 집순이의 집정리🏠 대차게 망한 요리와 바삭한 오징어링, 김신영 열쫄냉, 구독자님 파우치 만들기",
-      "viewDelta": 4880,
-      "isShort": false
-    },
-    {
       "videoId": "QqNe4eSjEm8",
       "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
       "channelTitle": "에바EVA",
       "title": "그렇게 됐다..",
-      "viewDelta": 2571,
+      "viewDelta": 2652,
       "isShort": false
     },
     {
@@ -4954,15 +5137,7 @@
       "channelId": "UCvsp8e2LrbUAuE5oLHrBQ_Q",
       "channelTitle": "효뎡 Dyeong",
       "title": "키위 샌드위치 도시락 싸서 출근하고🥝 퇴근 후 연어 납작우동 만들어 먹으며 영양 챙기는 직장인 일상 | 고등어솥밥·키위케이크·치즈김치전·키위찹쌀떡",
-      "viewDelta": 2234,
-      "isShort": false
-    },
-    {
-      "videoId": "HJltH57vA6w",
-      "channelId": "UCabsEts6Lw1lrvCtA39dvYQ",
-      "channelTitle": "소수콩",
-      "title": "성균관대 3학년, 교환학생 와쓰요😆 그 전에 체코여행!",
-      "viewDelta": 2077,
+      "viewDelta": 2299,
       "isShort": false
     }
   ],
@@ -4970,7 +5145,7 @@
     "all": {
       "sampleSize": 184,
       "stableSampleSize": 184,
-      "generatedAt": "2026-08-25T01:25:28.531Z",
+      "generatedAt": "2026-08-26T01:35:29.198Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -4978,31 +5153,31 @@
             {
               "value": "2명 이상",
               "count": 23,
-              "avgViews": 85129.21739130435,
-              "medianViews": 43767,
-              "avgEngagementRate": 3.5557885733230736
+              "avgViews": 85398.30434782608,
+              "medianViews": 43994,
+              "avgEngagementRate": 3.5519355899214196
             },
             {
               "value": "1명",
               "count": 108,
-              "avgViews": 124340.51851851853,
-              "medianViews": 62516,
-              "avgEngagementRate": 2.629160465930365
+              "avgViews": 124634.62962962964,
+              "medianViews": 62751.5,
+              "avgEngagementRate": 2.625852186454177
             },
             {
               "value": "없음",
               "count": 53,
-              "avgViews": 94433.41509433962,
+              "avgViews": 94549.05660377358,
               "medianViews": 26541,
-              "avgEngagementRate": 2.4026283405868782
+              "avgEngagementRate": 2.397690236309722
             }
           ],
           "insight": {
             "topValue": "2명 이상",
-            "topRate": 3.5557885733230736,
+            "topRate": 3.5519355899214196,
             "bottomValue": "없음",
-            "bottomRate": 2.4026283405868782,
-            "deltaPct": 1.1531602327361954
+            "bottomRate": 2.397690236309722,
+            "deltaPct": 1.1542453536116977
           }
         },
         "textOverlay": {
@@ -5011,24 +5186,24 @@
             {
               "value": "없음",
               "count": 18,
-              "avgViews": 58284.944444444445,
+              "avgViews": 58307.27777777778,
               "medianViews": 1555.5,
-              "avgEngagementRate": 6.98823288679905
+              "avgEngagementRate": 6.979473508678868
             },
             {
               "value": "있음",
               "count": 166,
-              "avgViews": 116521.6265060241,
-              "medianViews": 63150,
-              "avgEngagementRate": 2.2125516722628413
+              "avgViews": 116784.75903614458,
+              "medianViews": 63386,
+              "avgEngagementRate": 2.2092386389966236
             }
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 6.98823288679905,
+            "topRate": 6.979473508678868,
             "bottomValue": "있음",
-            "bottomRate": 2.2125516722628413,
-            "deltaPct": 4.775681214536209
+            "bottomRate": 2.2092386389966236,
+            "deltaPct": 4.770234869682245
           }
         },
         "dominantEmotion": {
@@ -5037,9 +5212,9 @@
             {
               "value": "긍정",
               "count": 54,
-              "avgViews": 133942.8148148148,
-              "medianViews": 70506.5,
-              "avgEngagementRate": 2.8703621478599595
+              "avgViews": 134315.92592592593,
+              "medianViews": 70833.5,
+              "avgEngagementRate": 2.867237485395273
             },
             {
               "value": "부정",
@@ -5051,24 +5226,24 @@
             {
               "value": "중립",
               "count": 73,
-              "avgViews": 107847.30136986301,
+              "avgViews": 108063.50684931508,
               "medianViews": 56846,
-              "avgEngagementRate": 2.691243888204119
+              "avgEngagementRate": 2.6875414641684867
             },
             {
               "value": "없음",
               "count": 55,
-              "avgViews": 95352.45454545454,
+              "avgViews": 95500.65454545454,
               "medianViews": 26541,
-              "avgEngagementRate": 2.4715715568433163
+              "avgEngagementRate": 2.466687491376747
             }
           ],
           "insight": {
             "topValue": "긍정",
-            "topRate": 2.8703621478599595,
+            "topRate": 2.867237485395273,
             "bottomValue": "없음",
-            "bottomRate": 2.4715715568433163,
-            "deltaPct": 0.39879059101664316
+            "bottomRate": 2.466687491376747,
+            "deltaPct": 0.400549994018526
           }
         },
         "shotType": {
@@ -5077,31 +5252,31 @@
             {
               "value": "넓은 화면",
               "count": 9,
-              "avgViews": 87772,
+              "avgViews": 87901.22222222222,
               "medianViews": 18719,
-              "avgEngagementRate": 4.040309663434024
+              "avgEngagementRate": 4.0292417582079905
             },
             {
               "value": "중간거리",
               "count": 95,
-              "avgViews": 126763.0947368421,
+              "avgViews": 127066.33684210526,
               "medianViews": 65990,
-              "avgEngagementRate": 3.0138392308386335
+              "avgEngagementRate": 3.0096141140068724
             },
             {
               "value": "클로즈업",
               "count": 80,
-              "avgViews": 94490.9625,
+              "avgViews": 94667.35,
               "medianViews": 42002.5,
-              "avgEngagementRate": 2.129928195717979
+              "avgEngagementRate": 2.12734525718918
             }
           ],
           "insight": {
             "topValue": "넓은 화면",
-            "topRate": 4.040309663434024,
+            "topRate": 4.0292417582079905,
             "bottomValue": "클로즈업",
-            "bottomRate": 2.129928195717979,
-            "deltaPct": 1.9103814677160447
+            "bottomRate": 2.12734525718918,
+            "deltaPct": 1.9018965010188102
           }
         },
         "brightness": {
@@ -5110,31 +5285,31 @@
             {
               "value": "밝음",
               "count": 126,
-              "avgViews": 125585.14285714286,
+              "avgViews": 125864.96031746031,
               "medianViews": 75872,
-              "avgEngagementRate": 2.969983138401081
+              "avgEngagementRate": 2.9663496503970883
             },
             {
               "value": "보통",
               "count": 53,
-              "avgViews": 84608.64150943396,
+              "avgViews": 84768.58490566038,
               "medianViews": 24236,
-              "avgEngagementRate": 2.0690930413775703
+              "avgEngagementRate": 2.064624926814744
             },
             {
               "value": "어두움",
               "count": 5,
-              "avgViews": 16746.6,
+              "avgViews": 16816.2,
               "medianViews": 7857,
-              "avgEngagementRate": 1.8383925852934344
+              "avgEngagementRate": 1.8357920316889065
             }
           ],
           "insight": {
             "topValue": "밝음",
-            "topRate": 2.969983138401081,
+            "topRate": 2.9663496503970883,
             "bottomValue": "어두움",
-            "bottomRate": 1.8383925852934344,
-            "deltaPct": 1.1315905531076464
+            "bottomRate": 1.8357920316889065,
+            "deltaPct": 1.1305576187081818
           }
         },
         "sceneBusyness": {
@@ -5143,31 +5318,31 @@
             {
               "value": "복잡함",
               "count": 61,
-              "avgViews": 115713.45901639345,
+              "avgViews": 115928.75409836066,
               "medianViews": 43018,
-              "avgEngagementRate": 2.9732921965435577
+              "avgEngagementRate": 2.9693430539983168
             },
             {
               "value": "보통",
               "count": 109,
-              "avgViews": 109749.66972477065,
+              "avgViews": 110013.80733944954,
               "medianViews": 69385,
-              "avgEngagementRate": 2.5450607995427306
+              "avgEngagementRate": 2.5410140287619734
             },
             {
               "value": "깔끔함",
               "count": 14,
-              "avgViews": 97891.71428571429,
+              "avgViews": 98045.85714285714,
               "medianViews": 35947.5,
-              "avgEngagementRate": 2.4492370299071275
+              "avgEngagementRate": 2.44740584290762
             }
           ],
           "insight": {
             "topValue": "복잡함",
-            "topRate": 2.9732921965435577,
+            "topRate": 2.9693430539983168,
             "bottomValue": "깔끔함",
-            "bottomRate": 2.4492370299071275,
-            "deltaPct": 0.5240551666364301
+            "bottomRate": 2.44740584290762,
+            "deltaPct": 0.5219372110906968
           }
         },
         "dominantColor": {
@@ -5176,30 +5351,30 @@
             {
               "value": "파랑",
               "count": 15,
-              "avgViews": 92857.66666666667,
-              "medianViews": 60310,
-              "avgEngagementRate": 3.29233180525909
+              "avgViews": 93021.13333333333,
+              "medianViews": 60782,
+              "avgEngagementRate": 3.2907835632360536
             },
             {
               "value": "다채로움",
               "count": 68,
-              "avgViews": 101462.48529411765,
+              "avgViews": 101800.98529411765,
               "medianViews": 30715,
-              "avgEngagementRate": 3.147313811744432
+              "avgEngagementRate": 3.1417471133316677
             },
             {
               "value": "노랑",
               "count": 11,
-              "avgViews": 118549.45454545454,
+              "avgViews": 118577.45454545454,
               "medianViews": 32492,
-              "avgEngagementRate": 2.757240806333679
+              "avgEngagementRate": 2.756757654333995
             },
             {
               "value": "흑백",
               "count": 45,
-              "avgViews": 105050.91111111111,
+              "avgViews": 105243.15555555555,
               "medianViews": 42634,
-              "avgEngagementRate": 2.4436362982511044
+              "avgEngagementRate": 2.438174845522659
             },
             {
               "value": "주황",
@@ -5211,38 +5386,38 @@
             {
               "value": "보라",
               "count": 1,
-              "avgViews": 3788,
-              "medianViews": 3788,
-              "avgEngagementRate": 2.2703273495248153
+              "avgViews": 3855,
+              "medianViews": 3855,
+              "avgEngagementRate": 2.2827496757457846
             },
             {
               "value": "빨강",
               "count": 10,
-              "avgViews": 94696.4,
+              "avgViews": 94709.3,
               "medianViews": 81310.5,
-              "avgEngagementRate": 2.2118934069379192
+              "avgEngagementRate": 2.21197041303283
             },
             {
               "value": "분홍",
               "count": 19,
-              "avgViews": 186892.57894736843,
+              "avgViews": 187389.42105263157,
               "medianViews": 208905,
-              "avgEngagementRate": 1.948718556322394
+              "avgEngagementRate": 1.9452850475138113
             },
             {
               "value": "초록",
               "count": 7,
-              "avgViews": 84444.42857142857,
+              "avgViews": 84446.85714285714,
               "medianViews": 46860,
-              "avgEngagementRate": 1.3471203224465336
+              "avgEngagementRate": 1.3467276251647609
             }
           ],
           "insight": {
             "topValue": "파랑",
-            "topRate": 3.29233180525909,
+            "topRate": 3.2907835632360536,
             "bottomValue": "초록",
-            "bottomRate": 1.3471203224465336,
-            "deltaPct": 1.9452114828125564
+            "bottomRate": 1.3467276251647609,
+            "deltaPct": 1.9440559380712927
           }
         },
         "titleMatch": {
@@ -5251,31 +5426,31 @@
             {
               "value": "무관",
               "count": 38,
-              "avgViews": 154715.05263157896,
+              "avgViews": 154936.57894736843,
               "medianViews": 149162,
-              "avgEngagementRate": 3.2541945147825246
+              "avgEngagementRate": 3.250085032894313
             },
             {
               "value": "일치",
               "count": 87,
-              "avgViews": 89311.66666666667,
+              "avgViews": 89556.89655172414,
               "medianViews": 35240,
-              "avgEngagementRate": 2.970439315072648
+              "avgEngagementRate": 2.9661107267670874
             },
             {
               "value": "과장(클릭베이트)",
               "count": 59,
-              "avgViews": 114278.50847457627,
-              "medianViews": 39014,
-              "avgEngagementRate": 1.8810874166942089
+              "avgViews": 114521.37288135593,
+              "medianViews": 39165,
+              "avgEngagementRate": 1.8781232669650612
             }
           ],
           "insight": {
             "topValue": "무관",
-            "topRate": 3.2541945147825246,
+            "topRate": 3.250085032894313,
             "bottomValue": "과장(클릭베이트)",
-            "bottomRate": 1.8810874166942089,
-            "deltaPct": 1.3731070980883158
+            "bottomRate": 1.8781232669650612,
+            "deltaPct": 1.3719617659292518
           }
         },
         "overlayTone": {
@@ -5284,16 +5459,16 @@
             {
               "value": "없음",
               "count": 19,
-              "avgViews": 65214.21052631579,
+              "avgViews": 65265.52631578947,
               "medianViews": 2043,
-              "avgEngagementRate": 6.7536581219616885
+              "avgEngagementRate": 6.745069567641672
             },
             {
               "value": "질문형",
               "count": 10,
-              "avgViews": 132394,
-              "medianViews": 41016,
-              "avgEngagementRate": 3.144013527261632,
+              "avgViews": 132418.4,
+              "medianViews": 41091.5,
+              "avgEngagementRate": 3.14288624133526,
               "examples": [
                 "대충 살아도 괜찮은가요",
                 "여행중\n어떤게 설레?\n가기전 vs갔 후",
@@ -5313,9 +5488,9 @@
             {
               "value": "단순 정보",
               "count": 78,
-              "avgViews": 158160.76923076922,
-              "medianViews": 149529,
-              "avgEngagementRate": 2.2918024645574744,
+              "avgViews": 158583.1794871795,
+              "medianViews": 149918,
+              "avgEngagementRate": 2.2880736204593433,
               "examples": [
                 "밤음 좋아지는 법\n희곡 추천\n내신성적\n연극영화과 AtoZ\n한예종 연기과\n(및 칠판에 쓰인 질문형 텍스트)",
                 "연프 선배의\n과묵임 나솔 리액션 모음zip.",
@@ -5325,9 +5500,9 @@
             {
               "value": "궁금증 유발",
               "count": 40,
-              "avgViews": 85355.875,
+              "avgViews": 85541.75,
               "medianViews": 51853,
-              "avgEngagementRate": 2.026089368043287,
+              "avgEngagementRate": 2.023329609928804,
               "examples": [
                 "혼자 떠나야\n했던 이유\n- 강원도 교성 편 -",
                 "매일 커피 2잔 이상 마시는 사람 손 !!! 크롬스 커피 크러쉬 = ❤ P등 애용중O",
@@ -5337,9 +5512,9 @@
             {
               "value": "과장·최상급",
               "count": 36,
-              "avgViews": 56961.36111111111,
-              "medianViews": 6275.5,
-              "avgEngagementRate": 1.9733710371791804,
+              "avgViews": 57030.25,
+              "medianViews": 6283.5,
+              "avgEngagementRate": 1.9697061268242375,
               "examples": [
                 "황인4 레전드 컨텐츠 최대쇼\n다시찍기(O Ver.)",
                 "강원도 바다에서\n소리 지르는 여자 !\n다양한 자극적 문구들",
@@ -5349,10 +5524,10 @@
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 6.7536581219616885,
+            "topRate": 6.745069567641672,
             "bottomValue": "과장·최상급",
-            "bottomRate": 1.9733710371791804,
-            "deltaPct": 4.780287084782508
+            "bottomRate": 1.9697061268242375,
+            "deltaPct": 4.775363440817435
           }
         }
       },
@@ -5360,16 +5535,16 @@
         "dimensionKey": "overlayTone",
         "dimensionLabel": "오버레이 문구 톤",
         "topValue": "없음",
-        "topRate": 6.7536581219616885,
+        "topRate": 6.745069567641672,
         "bottomValue": "과장·최상급",
-        "bottomRate": 1.9733710371791804,
-        "deltaPct": 4.780287084782508
+        "bottomRate": 1.9697061268242375,
+        "deltaPct": 4.775363440817435
       }
     },
     "nano": {
       "sampleSize": 22,
       "stableSampleSize": 22,
-      "generatedAt": "2026-08-25T01:25:28.531Z",
+      "generatedAt": "2026-08-26T01:35:29.199Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -5377,16 +5552,16 @@
             {
               "value": "없음",
               "count": 15,
-              "avgViews": 4867.533333333334,
-              "medianViews": 4855,
-              "avgEngagementRate": 3.102899575236522
+              "avgViews": 4874.266666666666,
+              "medianViews": 4875,
+              "avgEngagementRate": 3.089397398382218
             },
             {
               "value": "1명",
               "count": 6,
-              "avgViews": 3466.6666666666665,
-              "medianViews": 3336.5,
-              "avgEngagementRate": 2.438089670703546
+              "avgViews": 3488,
+              "medianViews": 3343.5,
+              "avgEngagementRate": 2.4292832811743374
             },
             {
               "value": "2명 이상",
@@ -5398,10 +5573,10 @@
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 3.102899575236522,
+            "topRate": 3.089397398382218,
             "bottomValue": "2명 이상",
             "bottomRate": 0.712204596956944,
-            "deltaPct": 2.3906949782795777
+            "deltaPct": 2.3771928014252737
           }
         },
         "textOverlay": {
@@ -5410,24 +5585,24 @@
             {
               "value": "없음",
               "count": 4,
-              "avgViews": 2383.5,
+              "avgViews": 2409.25,
               "medianViews": 1555.5,
-              "avgEngagementRate": 5.505123735160663
+              "avgEngagementRate": 5.47246021371567
             },
             {
               "value": "있음",
               "count": 18,
-              "avgViews": 4853.777777777777,
-              "medianViews": 4041.5,
-              "avgEngagementRate": 2.2146522949490777
+              "avgViews": 4860.777777777777,
+              "medianViews": 4050,
+              "avgEngagementRate": 2.2077235780485314
             }
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 5.505123735160663,
+            "topRate": 5.47246021371567,
             "bottomValue": "있음",
-            "bottomRate": 2.2146522949490777,
-            "deltaPct": 3.2904714402115856
+            "bottomRate": 2.2077235780485314,
+            "deltaPct": 3.2647366356671386
           }
         },
         "dominantEmotion": {
@@ -5436,24 +5611,24 @@
             {
               "value": "없음",
               "count": 15,
-              "avgViews": 4867.533333333334,
-              "medianViews": 4855,
-              "avgEngagementRate": 3.102899575236522
+              "avgViews": 4874.266666666666,
+              "medianViews": 4875,
+              "avgEngagementRate": 3.089397398382218
             },
             {
               "value": "중립",
               "count": 7,
-              "avgViews": 3412.714285714286,
+              "avgViews": 3431,
               "medianViews": 3263,
-              "avgEngagementRate": 2.191534660168317
+              "avgEngagementRate": 2.183986326286138
             }
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 3.102899575236522,
+            "topRate": 3.089397398382218,
             "bottomValue": "중립",
-            "bottomRate": 2.191534660168317,
-            "deltaPct": 0.9113649150682046
+            "bottomRate": 2.183986326286138,
+            "deltaPct": 0.9054110720960797
           }
         },
         "shotType": {
@@ -5462,31 +5637,31 @@
             {
               "value": "넓은 화면",
               "count": 2,
-              "avgViews": 3706.5,
-              "medianViews": 3706.5,
-              "avgEngagementRate": 5.258886380607234
+              "avgViews": 3709.5,
+              "medianViews": 3709.5,
+              "avgEngagementRate": 5.214467318484004
             },
             {
               "value": "중간거리",
               "count": 11,
-              "avgViews": 5163.818181818182,
-              "medianViews": 5430,
-              "avgEngagementRate": 3.10661161853393
+              "avgViews": 5179.454545454545,
+              "medianViews": 5444,
+              "avgEngagementRate": 3.093772556721179
             },
             {
               "value": "클로즈업",
               "count": 9,
-              "avgViews": 3631.8888888888887,
+              "avgViews": 3637.5555555555557,
               "medianViews": 3485,
-              "avgEngagementRate": 1.9104150760709275
+              "avgEngagementRate": 1.9076036109816954
             }
           ],
           "insight": {
             "topValue": "넓은 화면",
-            "topRate": 5.258886380607234,
+            "topRate": 5.214467318484004,
             "bottomValue": "클로즈업",
-            "bottomRate": 1.9104150760709275,
-            "deltaPct": 3.3484713045363064
+            "bottomRate": 1.9076036109816954,
+            "deltaPct": 3.306863707502308
           }
         },
         "brightness": {
@@ -5495,24 +5670,24 @@
             {
               "value": "밝음",
               "count": 13,
-              "avgViews": 4323.461538461538,
-              "medianViews": 3410,
-              "avgEngagementRate": 3.195604947348963
+              "avgViews": 4336.538461538462,
+              "medianViews": 3424,
+              "avgEngagementRate": 3.1835119702785812
             },
             {
               "value": "보통",
               "count": 9,
-              "avgViews": 4521.888888888889,
-              "medianViews": 4577,
-              "avgEngagementRate": 2.260152437132171
+              "avgViews": 4528.444444444444,
+              "medianViews": 4594,
+              "avgEngagementRate": 2.2492455162349647
             }
           ],
           "insight": {
             "topValue": "밝음",
-            "topRate": 3.195604947348963,
+            "topRate": 3.1835119702785812,
             "bottomValue": "보통",
-            "bottomRate": 2.260152437132171,
-            "deltaPct": 0.9354525102167921
+            "bottomRate": 2.2492455162349647,
+            "deltaPct": 0.9342664540436165
           }
         },
         "sceneBusyness": {
@@ -5521,16 +5696,16 @@
             {
               "value": "보통",
               "count": 8,
-              "avgViews": 2984.125,
+              "avgViews": 3000.875,
               "medianViews": 3176,
-              "avgEngagementRate": 3.3827479325056578
+              "avgEngagementRate": 3.3650383748279435
             },
             {
               "value": "복잡함",
               "count": 13,
-              "avgViews": 5347.923076923077,
+              "avgViews": 5355.2307692307695,
               "medianViews": 5326,
-              "avgEngagementRate": 2.549186411878995
+              "avgEngagementRate": 2.5404406789122187
             },
             {
               "value": "깔끔함",
@@ -5542,10 +5717,10 @@
           ],
           "insight": {
             "topValue": "보통",
-            "topRate": 3.3827479325056578,
+            "topRate": 3.3650383748279435,
             "bottomValue": "깔끔함",
             "bottomRate": 1.6828294352538506,
-            "deltaPct": 1.699918497251807
+            "deltaPct": 1.682208939574093
           }
         },
         "dominantColor": {
@@ -5554,9 +5729,9 @@
             {
               "value": "흑백",
               "count": 4,
-              "avgViews": 2645,
+              "avgViews": 2670.75,
               "medianViews": 2078.5,
-              "avgEngagementRate": 4.740933083127261
+              "avgEngagementRate": 4.708269561682267
             },
             {
               "value": "노랑",
@@ -5568,31 +5743,31 @@
             {
               "value": "다채로움",
               "count": 14,
-              "avgViews": 5199,
-              "medianViews": 5090.5,
-              "avgEngagementRate": 2.4787430148744605
+              "avgViews": 5205.785714285715,
+              "medianViews": 5100.5,
+              "avgEngagementRate": 2.4706219771195963
             },
             {
               "value": "분홍",
               "count": 1,
-              "avgViews": 3410,
-              "medianViews": 3410,
-              "avgEngagementRate": 2.0234604105571847
+              "avgViews": 3424,
+              "medianViews": 3424,
+              "avgEngagementRate": 2.0151869158878504
             },
             {
               "value": "초록",
               "count": 1,
-              "avgViews": 4577,
-              "medianViews": 4577,
-              "avgEngagementRate": 0.7428446580729736
+              "avgViews": 4594,
+              "medianViews": 4594,
+              "avgEngagementRate": 0.740095777100566
             }
           ],
           "insight": {
             "topValue": "흑백",
-            "topRate": 4.740933083127261,
+            "topRate": 4.708269561682267,
             "bottomValue": "초록",
-            "bottomRate": 0.7428446580729736,
-            "deltaPct": 3.998088425054287
+            "bottomRate": 0.740095777100566,
+            "deltaPct": 3.9681737845817016
           }
         },
         "titleMatch": {
@@ -5601,31 +5776,31 @@
             {
               "value": "무관",
               "count": 2,
-              "avgViews": 1327.5,
-              "medianViews": 1327.5,
-              "avgEngagementRate": 6.459647001238086
+              "avgViews": 1330.5,
+              "medianViews": 1330.5,
+              "avgEngagementRate": 6.415227939114856
             },
             {
               "value": "일치",
               "count": 14,
-              "avgViews": 4975.142857142857,
-              "medianViews": 4716,
-              "avgEngagementRate": 2.9283508265674967
+              "avgViews": 4989.071428571428,
+              "medianViews": 4734.5,
+              "avgEngagementRate": 2.9171446882712755
             },
             {
               "value": "과장(클릭베이트)",
               "count": 6,
-              "avgViews": 4099.166666666667,
-              "medianViews": 3336.5,
-              "avgEngagementRate": 1.3280051125508205
+              "avgViews": 4103.833333333333,
+              "medianViews": 3343.5,
+              "avgEngagementRate": 1.326397290951444
             }
           ],
           "insight": {
             "topValue": "무관",
-            "topRate": 6.459647001238086,
+            "topRate": 6.415227939114856,
             "bottomValue": "과장(클릭베이트)",
-            "bottomRate": 1.3280051125508205,
-            "deltaPct": 5.131641888687266
+            "bottomRate": 1.326397290951444,
+            "deltaPct": 5.088830648163412
           }
         },
         "overlayTone": {
@@ -5634,16 +5809,16 @@
             {
               "value": "없음",
               "count": 4,
-              "avgViews": 2383.5,
+              "avgViews": 2409.25,
               "medianViews": 1555.5,
-              "avgEngagementRate": 5.505123735160663
+              "avgEngagementRate": 5.47246021371567
             },
             {
               "value": "과장·최상급",
               "count": 15,
-              "avgViews": 4842.066666666667,
+              "avgViews": 4849.333333333333,
               "medianViews": 3506,
-              "avgEngagementRate": 2.4134998492831015,
+              "avgEngagementRate": 2.405368647733939,
               "examples": [
                 "알밤로그 추천\n백화점 가면\n비싸도 꼭 사야하는\n명품 쿠션\nBEST 3",
                 "저렴이부터 명품까지!\n화장품에 수 억 쓴\n여자의\n바디워시 추천템\n1탄",
@@ -5653,9 +5828,9 @@
             {
               "value": "단순 정보",
               "count": 2,
-              "avgViews": 5824,
-              "medianViews": 5824,
-              "avgEngagementRate": 1.474519486439966,
+              "avgViews": 5832.5,
+              "medianViews": 5832.5,
+              "avgEngagementRate": 1.473145045953762,
               "examples": [
                 "가르마를 제충 작게 다서\n아르마 오일을 부리고",
                 "알밤로그 추천\n화장품에 수 억 쓴\n여자의\n유스트 추천템\n1탄"
@@ -5674,10 +5849,10 @@
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 5.505123735160663,
+            "topRate": 5.47246021371567,
             "bottomValue": "궁금증 유발",
             "bottomRate": 0.712204596956944,
-            "deltaPct": 4.792919138203719
+            "deltaPct": 4.760255616758726
           }
         }
       },
@@ -5685,16 +5860,16 @@
         "dimensionKey": "titleMatch",
         "dimensionLabel": "제목-썸네일 일치도",
         "topValue": "무관",
-        "topRate": 6.459647001238086,
+        "topRate": 6.415227939114856,
         "bottomValue": "과장(클릭베이트)",
-        "bottomRate": 1.3280051125508205,
-        "deltaPct": 5.131641888687266
+        "bottomRate": 1.326397290951444,
+        "deltaPct": 5.088830648163412
       }
     },
     "micro": {
       "sampleSize": 49,
       "stableSampleSize": 49,
-      "generatedAt": "2026-08-25T01:25:28.532Z",
+      "generatedAt": "2026-08-26T01:35:29.199Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -5702,16 +5877,16 @@
             {
               "value": "2명 이상",
               "count": 11,
-              "avgViews": 47187.63636363636,
+              "avgViews": 47215,
               "medianViews": 6711,
-              "avgEngagementRate": 5.368853704845896
+              "avgEngagementRate": 5.364934175583647
             },
             {
               "value": "1명",
               "count": 36,
-              "avgViews": 39021.833333333336,
-              "medianViews": 16014,
-              "avgEngagementRate": 3.2469105991696505
+              "avgViews": 39070.02777777778,
+              "medianViews": 16099.5,
+              "avgEngagementRate": 3.2432696068794926
             },
             {
               "value": "없음",
@@ -5723,10 +5898,10 @@
           ],
           "insight": {
             "topValue": "2명 이상",
-            "topRate": 5.368853704845896,
+            "topRate": 5.364934175583647,
             "bottomValue": "없음",
             "bottomRate": 2.1052288717102408,
-            "deltaPct": 3.263624833135655
+            "deltaPct": 3.2597053038734063
           }
         },
         "textOverlay": {
@@ -5735,24 +5910,24 @@
             {
               "value": "없음",
               "count": 10,
-              "avgViews": 38565.7,
-              "medianViews": 154,
-              "avgEngagementRate": 9.388436661890577
+              "avgViews": 38565.8,
+              "medianViews": 154.5,
+              "avgEngagementRate": 9.386263221334177
             },
             {
               "value": "있음",
               "count": 39,
-              "avgViews": 39615.61538461538,
-              "medianViews": 14310,
-              "avgEngagementRate": 2.2121093191776153
+              "avgViews": 39667.794871794875,
+              "medianViews": 14345,
+              "avgEngagementRate": 2.2082001874143735
             }
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 9.388436661890577,
+            "topRate": 9.386263221334177,
             "bottomValue": "있음",
-            "bottomRate": 2.2121093191776153,
-            "deltaPct": 7.176327342712961
+            "bottomRate": 2.2082001874143735,
+            "deltaPct": 7.178063033919804
           }
         },
         "dominantEmotion": {
@@ -5761,9 +5936,9 @@
             {
               "value": "긍정",
               "count": 22,
-              "avgViews": 37139.27272727273,
-              "medianViews": 4468,
-              "avgEngagementRate": 3.967638218256568
+              "avgViews": 37156.181818181816,
+              "medianViews": 4501.5,
+              "avgEngagementRate": 3.965434068382775
             },
             {
               "value": "없음",
@@ -5775,9 +5950,9 @@
             {
               "value": "중립",
               "count": 24,
-              "avgViews": 45214.541666666664,
-              "medianViews": 23829,
-              "avgEngagementRate": 3.4207574105562912
+              "avgViews": 45283.875,
+              "medianViews": 23842.5,
+              "avgEngagementRate": 3.4155199419268336
             },
             {
               "value": "부정",
@@ -5789,10 +5964,10 @@
           ],
           "insight": {
             "topValue": "긍정",
-            "topRate": 3.967638218256568,
+            "topRate": 3.965434068382775,
             "bottomValue": "부정",
             "bottomRate": 3.2083684358326314,
-            "deltaPct": 0.7592697824239365
+            "deltaPct": 0.7570656325501437
           }
         },
         "shotType": {
@@ -5808,24 +5983,24 @@
             {
               "value": "중간거리",
               "count": 29,
-              "avgViews": 51042.206896551725,
-              "medianViews": 13085,
-              "avgEngagementRate": 4.538821687337931
+              "avgViews": 51079.8275862069,
+              "medianViews": 13108,
+              "avgEngagementRate": 4.535497093594983
             },
             {
               "value": "클로즈업",
               "count": 18,
-              "avgViews": 23979.38888888889,
-              "medianViews": 20425,
-              "avgEngagementRate": 2.066342065192487
+              "avgViews": 24031.88888888889,
+              "medianViews": 20504,
+              "avgEngagementRate": 2.06202110264888
             }
           ],
           "insight": {
             "topValue": "넓은 화면",
             "topRate": 5.668321980283999,
             "bottomValue": "클로즈업",
-            "bottomRate": 2.066342065192487,
-            "deltaPct": 3.6019799150915115
+            "bottomRate": 2.06202110264888,
+            "deltaPct": 3.6063008776351184
           }
         },
         "brightness": {
@@ -5834,31 +6009,31 @@
             {
               "value": "밝음",
               "count": 32,
-              "avgViews": 49865.21875,
+              "avgViews": 49895.25,
               "medianViews": 13757.5,
-              "avgEngagementRate": 4.305672589291373
+              "avgEngagementRate": 4.303424704689354
             },
             {
               "value": "보통",
               "count": 13,
-              "avgViews": 22056.615384615383,
-              "medianViews": 17718,
-              "avgEngagementRate": 2.631878515302571
+              "avgViews": 22128.846153846152,
+              "medianViews": 17854,
+              "avgEngagementRate": 2.62497256873645
             },
             {
               "value": "어두움",
               "count": 4,
-              "avgViews": 12060.75,
-              "medianViews": 6576.5,
-              "avgEngagementRate": 2.040171627643843
+              "avgViews": 12094.75,
+              "medianViews": 6597.5,
+              "avgEngagementRate": 2.03705139471729
             }
           ],
           "insight": {
             "topValue": "밝음",
-            "topRate": 4.305672589291373,
+            "topRate": 4.303424704689354,
             "bottomValue": "어두움",
-            "bottomRate": 2.040171627643843,
-            "deltaPct": 2.2655009616475303
+            "bottomRate": 2.03705139471729,
+            "deltaPct": 2.2663733099720638
           }
         },
         "sceneBusyness": {
@@ -5867,31 +6042,31 @@
             {
               "value": "복잡함",
               "count": 11,
-              "avgViews": 39590.36363636364,
-              "medianViews": 13085,
-              "avgEngagementRate": 4.824469441084241
+              "avgViews": 39608.72727272727,
+              "medianViews": 13108,
+              "avgEngagementRate": 4.821610484054991
             },
             {
               "value": "보통",
               "count": 31,
-              "avgViews": 42912.77419354839,
-              "medianViews": 12847,
-              "avgEngagementRate": 3.5613238145045667
+              "avgViews": 42967.54838709677,
+              "medianViews": 13240,
+              "avgEngagementRate": 3.557323508924322
             },
             {
               "value": "깔끔함",
               "count": 7,
-              "avgViews": 23553.714285714286,
+              "avgViews": 23573.14285714286,
               "medianViews": 23244,
-              "avgEngagementRate": 2.383775423609222
+              "avgEngagementRate": 2.3810993458919216
             }
           ],
           "insight": {
             "topValue": "복잡함",
-            "topRate": 4.824469441084241,
+            "topRate": 4.821610484054991,
             "bottomValue": "깔끔함",
-            "bottomRate": 2.383775423609222,
-            "deltaPct": 2.440694017475019
+            "bottomRate": 2.3810993458919216,
+            "deltaPct": 2.4405111381630697
           }
         },
         "dominantColor": {
@@ -5900,9 +6075,9 @@
             {
               "value": "다채로움",
               "count": 16,
-              "avgViews": 42912.125,
-              "medianViews": 13664.5,
-              "avgEngagementRate": 5.399360588602574
+              "avgViews": 42960.8125,
+              "medianViews": 13742,
+              "avgEngagementRate": 5.391897013525951
             },
             {
               "value": "파랑",
@@ -5921,23 +6096,23 @@
             {
               "value": "흑백",
               "count": 16,
-              "avgViews": 22086.25,
-              "medianViews": 19281,
-              "avgEngagementRate": 2.813867470483205
+              "avgViews": 22132.0625,
+              "medianViews": 19431,
+              "avgEngagementRate": 2.8096656982437223
             },
             {
               "value": "보라",
               "count": 1,
-              "avgViews": 3788,
-              "medianViews": 3788,
-              "avgEngagementRate": 2.2703273495248153
+              "avgViews": 3855,
+              "medianViews": 3855,
+              "avgEngagementRate": 2.2827496757457846
             },
             {
               "value": "분홍",
               "count": 3,
-              "avgViews": 115028.66666666667,
+              "avgViews": 115181,
               "medianViews": 6352,
-              "avgEngagementRate": 1.708303271034545
+              "avgEngagementRate": 1.7083141665366461
             },
             {
               "value": "빨강",
@@ -5956,10 +6131,10 @@
           ],
           "insight": {
             "topValue": "다채로움",
-            "topRate": 5.399360588602574,
+            "topRate": 5.391897013525951,
             "bottomValue": "초록",
             "bottomRate": 0.7729286230500333,
-            "deltaPct": 4.626431965552541
+            "deltaPct": 4.618968390475918
           }
         },
         "titleMatch": {
@@ -5968,31 +6143,31 @@
             {
               "value": "무관",
               "count": 7,
-              "avgViews": 14662.42857142857,
+              "avgViews": 14666.285714285714,
               "medianViews": 6711,
-              "avgEngagementRate": 7.100508428249734
+              "avgEngagementRate": 7.100200122274994
             },
             {
               "value": "일치",
               "count": 19,
-              "avgViews": 34230.63157894737,
-              "medianViews": 6791,
-              "avgEngagementRate": 4.366751020078773
+              "avgViews": 34263.68421052631,
+              "medianViews": 6833,
+              "avgEngagementRate": 4.362850192795906
             },
             {
               "value": "과장(클릭베이트)",
               "count": 23,
-              "avgViews": 51202.04347826087,
+              "avgViews": 51262.086956521736,
               "medianViews": 18719,
-              "avgEngagementRate": 2.0645565951125193
+              "avgEngagementRate": 2.060299347976311
             }
           ],
           "insight": {
             "topValue": "무관",
-            "topRate": 7.100508428249734,
+            "topRate": 7.100200122274994,
             "bottomValue": "과장(클릭베이트)",
-            "bottomRate": 2.0645565951125193,
-            "deltaPct": 5.035951833137215
+            "bottomRate": 2.060299347976311,
+            "deltaPct": 5.039900774298683
           }
         },
         "overlayTone": {
@@ -6001,16 +6176,16 @@
             {
               "value": "없음",
               "count": 10,
-              "avgViews": 38565.7,
-              "medianViews": 154,
-              "avgEngagementRate": 9.388436661890577
+              "avgViews": 38565.8,
+              "medianViews": 154.5,
+              "avgEngagementRate": 9.386263221334177
             },
             {
               "value": "질문형",
               "count": 5,
-              "avgViews": 80799.6,
-              "medianViews": 25264,
-              "avgEngagementRate": 3.533746837016013,
+              "avgViews": 80848.4,
+              "medianViews": 25357,
+              "avgEngagementRate": 3.53149226516327,
               "examples": [
                 "대충 살아도 괜찮은가요",
                 "여행중\n어떤게 설레?\n가기전 vs갔 후",
@@ -6020,9 +6195,9 @@
             {
               "value": "궁금증 유발",
               "count": 15,
-              "avgViews": 30802.333333333332,
+              "avgViews": 30842.466666666667,
               "medianViews": 18719,
-              "avgEngagementRate": 2.3021004192548533,
+              "avgEngagementRate": 2.2975259714869183,
               "examples": [
                 "우리 집\n주방에\n없는 것",
                 "POV: 아들vs딸 걸어갈때 차이\nSon vs Daughter: Walking",
@@ -6032,9 +6207,9 @@
             {
               "value": "과장·최상급",
               "count": 5,
-              "avgViews": 21818.2,
+              "avgViews": 21838.6,
               "medianViews": 14244,
-              "avgEngagementRate": 1.918944885065624,
+              "avgEngagementRate": 1.9203415516066513,
               "examples": [
                 "남자들은 뭐가\n잘못된지 1도 모르는\n[수치편]\nA problem men can't find\n[Embarrassing Edition]",
                 "성균관대 -> 덴마크 공대\n효율하삶상\n약 2 5",
@@ -6044,9 +6219,9 @@
             {
               "value": "단순 정보",
               "count": 14,
-              "avgViews": 40706.07142857143,
-              "medianViews": 12254.5,
-              "avgEngagementRate": 1.7483784677640009,
+              "avgViews": 40783.71428571428,
+              "medianViews": 12343.5,
+              "avgEngagementRate": 1.7426963323576559,
               "examples": [
                 "Erin's Summer Closet",
                 "가을 웜톤의\n흔치 않은 여름색 코디\n\nsummer days",
@@ -6056,10 +6231,10 @@
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 9.388436661890577,
+            "topRate": 9.386263221334177,
             "bottomValue": "단순 정보",
-            "bottomRate": 1.7483784677640009,
-            "deltaPct": 7.640058194126576
+            "bottomRate": 1.7426963323576559,
+            "deltaPct": 7.643566888976522
           }
         }
       },
@@ -6067,16 +6242,16 @@
         "dimensionKey": "overlayTone",
         "dimensionLabel": "오버레이 문구 톤",
         "topValue": "없음",
-        "topRate": 9.388436661890577,
+        "topRate": 9.386263221334177,
         "bottomValue": "단순 정보",
-        "bottomRate": 1.7483784677640009,
-        "deltaPct": 7.640058194126576
+        "bottomRate": 1.7426963323576559,
+        "deltaPct": 7.643566888976522
       }
     },
     "macro": {
       "sampleSize": 95,
       "stableSampleSize": 95,
-      "generatedAt": "2026-08-25T01:25:28.532Z",
+      "generatedAt": "2026-08-26T01:35:29.199Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -6084,31 +6259,31 @@
             {
               "value": "없음",
               "count": 34,
-              "avgViews": 136035.73529411765,
-              "medianViews": 136844,
-              "avgEngagementRate": 2.0766347031871013
+              "avgViews": 136213.0294117647,
+              "medianViews": 137299.5,
+              "avgEngagementRate": 2.0748939127790216
             },
             {
               "value": "1명",
               "count": 54,
-              "avgViews": 180738.83333333334,
-              "medianViews": 188984,
-              "avgEngagementRate": 2.032298879701018
+              "avgViews": 181182.25925925927,
+              "medianViews": 189270.5,
+              "avgEngagementRate": 2.0294131361664784
             },
             {
               "value": "2명 이상",
               "count": 7,
-              "avgViews": 151115.2857142857,
-              "medianViews": 168854,
-              "avgEngagementRate": 1.4068717393000616
+              "avgViews": 151795.57142857142,
+              "medianViews": 170261,
+              "avgEngagementRate": 1.403543028096647
             }
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 2.0766347031871013,
+            "topRate": 2.0748939127790216,
             "bottomValue": "2명 이상",
-            "bottomRate": 1.4068717393000616,
-            "deltaPct": 0.6697629638870397
+            "bottomRate": 1.403543028096647,
+            "deltaPct": 0.6713508846823746
           }
         },
         "textOverlay": {
@@ -6117,24 +6292,24 @@
             {
               "value": "없음",
               "count": 4,
-              "avgViews": 163484.5,
+              "avgViews": 163559,
               "medianViews": 184400,
-              "avgEngagementRate": 2.4708326007086248
+              "avgEngagementRate": 2.4695125220037957
             },
             {
               "value": "있음",
               "count": 91,
-              "avgViews": 162516.27472527474,
-              "medianViews": 167965,
-              "avgEngagementRate": 1.9814779251042018
+              "avgViews": 162894.7032967033,
+              "medianViews": 168732,
+              "avgEngagementRate": 1.9789170713861304
             }
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 2.4708326007086248,
+            "topRate": 2.4695125220037957,
             "bottomValue": "있음",
-            "bottomRate": 1.9814779251042018,
-            "deltaPct": 0.4893546756044229
+            "bottomRate": 1.9789170713861304,
+            "deltaPct": 0.4905954506176653
           }
         },
         "dominantEmotion": {
@@ -6143,31 +6318,31 @@
             {
               "value": "없음",
               "count": 36,
-              "avgViews": 134923.22222222222,
-              "medianViews": 136844,
-              "avgEngagementRate": 2.106975784751531
+              "avgViews": 135146.83333333334,
+              "medianViews": 137299.5,
+              "avgEngagementRate": 2.105139925089121
             },
             {
               "value": "중립",
               "count": 36,
-              "avgViews": 168560.61111111112,
+              "avgViews": 168949.25,
               "medianViews": 168359.5,
-              "avgEngagementRate": 2.068141808002291
+              "avgEngagementRate": 2.065593492160098
             },
             {
               "value": "긍정",
               "count": 23,
-              "avgViews": 196413.08695652173,
-              "medianViews": 207201,
-              "avgEngagementRate": 1.7345038368773593
+              "avgViews": 196965,
+              "medianViews": 207894,
+              "avgEngagementRate": 1.7310043723122253
             }
           ],
           "insight": {
             "topValue": "없음",
-            "topRate": 2.106975784751531,
+            "topRate": 2.105139925089121,
             "bottomValue": "긍정",
-            "bottomRate": 1.7345038368773593,
-            "deltaPct": 0.3724719478741718
+            "bottomRate": 1.7310043723122253,
+            "deltaPct": 0.3741355527768959
           }
         },
         "shotType": {
@@ -6176,31 +6351,31 @@
             {
               "value": "넓은 화면",
               "count": 4,
-              "avgViews": 158442.5,
-              "medianViews": 156439.5,
-              "avgEngagementRate": 2.7054060934309003
+              "avgViews": 158731.75,
+              "medianViews": 157018,
+              "avgEngagementRate": 2.702712837733939
             },
             {
               "value": "클로즈업",
               "count": 48,
-              "avgViews": 138992.1875,
+              "avgViews": 139265.41666666666,
               "medianViews": 151562.5,
-              "avgEngagementRate": 1.9956821372381828
+              "avgEngagementRate": 1.9935247503482676
             },
             {
               "value": "중간거리",
               "count": 43,
-              "avgViews": 189244.7441860465,
-              "medianViews": 189941,
-              "avgEngagementRate": 1.943801270375826
+              "avgViews": 189720.62790697673,
+              "medianViews": 190514,
+              "avgEngagementRate": 1.940917772476756
             }
           ],
           "insight": {
             "topValue": "넓은 화면",
-            "topRate": 2.7054060934309003,
+            "topRate": 2.702712837733939,
             "bottomValue": "중간거리",
-            "bottomRate": 1.943801270375826,
-            "deltaPct": 0.7616048230550743
+            "bottomRate": 1.940917772476756,
+            "deltaPct": 0.7617950652571832
           }
         },
         "brightness": {
@@ -6209,31 +6384,31 @@
             {
               "value": "밝음",
               "count": 65,
-              "avgViews": 174414.93846153846,
-              "medianViews": 168854,
-              "avgEngagementRate": 2.148803552952346
+              "avgViews": 174838.24615384615,
+              "medianViews": 169557,
+              "avgEngagementRate": 2.145850110980466
             },
             {
               "value": "보통",
               "count": 29,
-              "avgViews": 140360.62068965516,
+              "avgViews": 140602.27586206896,
               "medianViews": 167965,
-              "avgEngagementRate": 1.706700490673193
+              "avgEngagementRate": 1.7051204065809473
             },
             {
               "value": "어두움",
               "count": 1,
-              "avgViews": 35490,
-              "medianViews": 35490,
-              "avgEngagementRate": 1.0312764158918006
+              "avgViews": 35702,
+              "medianViews": 35702,
+              "avgEngagementRate": 1.0307545795753739
             }
           ],
           "insight": {
             "topValue": "밝음",
-            "topRate": 2.148803552952346,
+            "topRate": 2.145850110980466,
             "bottomValue": "어두움",
-            "bottomRate": 1.0312764158918006,
-            "deltaPct": 1.1175271370605455
+            "bottomRate": 1.0307545795753739,
+            "deltaPct": 1.115095531405092
           }
         },
         "sceneBusyness": {
@@ -6242,31 +6417,31 @@
             {
               "value": "복잡함",
               "count": 29,
-              "avgViews": 164423.62068965516,
+              "avgViews": 164638.3103448276,
               "medianViews": 160420,
-              "avgEngagementRate": 2.42121759936966
+              "avgEngagementRate": 2.418929273863832
             },
             {
               "value": "보통",
               "count": 61,
-              "avgViews": 155767.09836065574,
-              "medianViews": 168854,
-              "avgEngagementRate": 1.8295887352627709
+              "avgViews": 156201.31147540984,
+              "medianViews": 170261,
+              "avgEngagementRate": 1.8268829567460045
             },
             {
               "value": "깔끔함",
               "count": 5,
-              "avgViews": 234568.2,
+              "avgViews": 234972.6,
               "medianViews": 169557,
-              "avgEngagementRate": 1.6755196709135411
+              "avgEngagementRate": 1.6741388561191388
             }
           ],
           "insight": {
             "topValue": "복잡함",
-            "topRate": 2.42121759936966,
+            "topRate": 2.418929273863832,
             "bottomValue": "깔끔함",
-            "bottomRate": 1.6755196709135411,
-            "deltaPct": 0.7456979284561189
+            "bottomRate": 1.6741388561191388,
+            "deltaPct": 0.7447904177446931
           }
         },
         "dominantColor": {
@@ -6275,16 +6450,16 @@
             {
               "value": "노랑",
               "count": 8,
-              "avgViews": 87847.25,
+              "avgViews": 87885.75,
               "medianViews": 36931.5,
-              "avgEngagementRate": 2.711513918626092
+              "avgEngagementRate": 2.710849584626526
             },
             {
               "value": "빨강",
               "count": 6,
-              "avgViews": 129459.33333333333,
+              "avgViews": 129480.83333333333,
               "medianViews": 142557.5,
-              "avgEngagementRate": 2.2715214433127517
+              "avgEngagementRate": 2.2716497868042693
             },
             {
               "value": "주황",
@@ -6296,23 +6471,23 @@
             {
               "value": "파랑",
               "count": 6,
-              "avgViews": 143802.5,
-              "medianViews": 157824.5,
-              "avgEngagementRate": 2.0609941870466235
+              "avgViews": 144132.5,
+              "medianViews": 158528,
+              "avgEngagementRate": 2.0588501805174784
             },
             {
               "value": "다채로움",
               "count": 29,
-              "avgViews": 168936.5172413793,
+              "avgViews": 169472.1724137931,
               "medianViews": 160420,
-              "avgEngagementRate": 2.0327428257768925
+              "avgEngagementRate": 2.0287417718950618
             },
             {
               "value": "분홍",
               "count": 14,
-              "avgViews": 210416.42857142858,
-              "medianViews": 209323.5,
-              "avgEngagementRate": 1.9780599979682678
+              "avgViews": 211057.07142857142,
+              "medianViews": 210284.5,
+              "avgEngagementRate": 1.9739888651682642
             },
             {
               "value": "초록",
@@ -6324,17 +6499,17 @@
             {
               "value": "흑백",
               "count": 22,
-              "avgViews": 181310.54545454544,
-              "medianViews": 197440.5,
-              "avgEngagementRate": 1.6272029033547193
+              "avgViews": 181665.77272727274,
+              "medianViews": 197841.5,
+              "avgEngagementRate": 1.6250264064834312
             }
           ],
           "insight": {
             "topValue": "노랑",
-            "topRate": 2.711513918626092,
+            "topRate": 2.710849584626526,
             "bottomValue": "흑백",
-            "bottomRate": 1.6272029033547193,
-            "deltaPct": 1.0843110152713729
+            "bottomRate": 1.6250264064834312,
+            "deltaPct": 1.0858231781430947
           }
         },
         "titleMatch": {
@@ -6343,31 +6518,31 @@
             {
               "value": "일치",
               "count": 42,
-              "avgViews": 143440.45238095237,
+              "avgViews": 143890.80952380953,
               "medianViews": 150765.5,
-              "avgEngagementRate": 2.156897607168864
+              "avgEngagementRate": 2.154032495968565
             },
             {
               "value": "무관",
               "count": 28,
-              "avgViews": 184934.39285714287,
-              "medianViews": 177127,
-              "avgEngagementRate": 2.06609991718551
+              "avgViews": 185233.85714285713,
+              "medianViews": 177501,
+              "avgEngagementRate": 2.0637726298397108
             },
             {
               "value": "과장(클릭베이트)",
               "count": 25,
-              "avgViews": 169610.28,
-              "medianViews": 167735,
-              "avgEngagementRate": 1.6702929762012124
+              "avgViews": 169907.68,
+              "medianViews": 168732,
+              "avgEngagementRate": 1.668180204718459
             }
           ],
           "insight": {
             "topValue": "일치",
-            "topRate": 2.156897607168864,
+            "topRate": 2.154032495968565,
             "bottomValue": "과장(클릭베이트)",
-            "bottomRate": 1.6702929762012124,
-            "deltaPct": 0.4866046309676515
+            "bottomRate": 1.668180204718459,
+            "deltaPct": 0.48585229125010576
           }
         },
         "overlayTone": {
@@ -6388,16 +6563,16 @@
             {
               "value": "없음",
               "count": 5,
-              "avgViews": 168775.8,
-              "medianViews": 189941,
-              "avgEngagementRate": 2.4829285515447297
+              "avgViews": 168950,
+              "medianViews": 190514,
+              "avgEngagementRate": 2.4807697433974663
             },
             {
               "value": "단순 정보",
               "count": 49,
-              "avgViews": 186442.04081632654,
-              "medianViews": 193956,
-              "avgEngagementRate": 2.160842469304926,
+              "avgViews": 186957,
+              "medianViews": 194758,
+              "avgEngagementRate": 2.1573354017163187,
               "examples": [
                 "밤음 좋아지는 법\n희곡 추천\n내신성적\n연극영화과 AtoZ\n한예종 연기과\n(및 칠판에 쓰인 질문형 텍스트)",
                 "연프 선배의\n과묵임 나솔 리액션 모음zip.",
@@ -6407,9 +6582,9 @@
             {
               "value": "궁금증 유발",
               "count": 20,
-              "avgViews": 133727.55,
+              "avgViews": 134045.65,
               "medianViews": 149195.5,
-              "avgEngagementRate": 1.6443180786119875,
+              "avgEngagementRate": 1.6423818001949855,
               "examples": [
                 "혼자 떠나야\n했던 이유\n- 강원도 교성 편 -",
                 "매일 커피 2잔 이상 마시는 사람 손 !!! 크롬스 커피 크러쉬 = ❤ P등 애용중O",
@@ -6419,9 +6594,9 @@
             {
               "value": "과장·최상급",
               "count": 16,
-              "avgViews": 116805.4375,
+              "avgViews": 116947.25,
               "medianViews": 76674.5,
-              "avgEngagementRate": 1.5777584483672404,
+              "avgEngagementRate": 1.5766989432268863,
               "examples": [
                 "황인4 레전드 컨텐츠 최대쇼\n다시찍기(O Ver.)",
                 "강원도 바다에서\n소리 지르는 여자 !\n다양한 자극적 문구들",
@@ -6433,8 +6608,8 @@
             "topValue": "질문형",
             "topRate": 2.754280217507251,
             "bottomValue": "과장·최상급",
-            "bottomRate": 1.5777584483672404,
-            "deltaPct": 1.1765217691400105
+            "bottomRate": 1.5766989432268863,
+            "deltaPct": 1.1775812742803646
           }
         }
       },
@@ -6444,14 +6619,14 @@
         "topValue": "질문형",
         "topRate": 2.754280217507251,
         "bottomValue": "과장·최상급",
-        "bottomRate": 1.5777584483672404,
-        "deltaPct": 1.1765217691400105
+        "bottomRate": 1.5766989432268863,
+        "deltaPct": 1.1775812742803646
       }
     },
     "mega": {
       "sampleSize": 18,
       "stableSampleSize": 18,
-      "generatedAt": "2026-08-25T01:25:28.532Z",
+      "generatedAt": "2026-08-26T01:35:29.200Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -6459,16 +6634,16 @@
             {
               "value": "1명",
               "count": 12,
-              "avgViews": 186941.08333333334,
+              "avgViews": 187437.41666666666,
               "medianViews": 73066.5,
-              "avgEngagementRate": 3.5573226018579702
+              "avgEngagementRate": 3.555860104112791
             },
             {
               "value": "2명 이상",
               "count": 4,
-              "avgViews": 94503,
-              "medianViews": 81324,
-              "avgEngagementRate": 3.0413599152671154
+              "avgViews": 94784.5,
+              "medianViews": 81651,
+              "avgEngagementRate": 3.0358092107847696
             },
             {
               "value": "없음",
@@ -6480,10 +6655,10 @@
           ],
           "insight": {
             "topValue": "1명",
-            "topRate": 3.5573226018579702,
+            "topRate": 3.555860104112791,
             "bottomValue": "없음",
             "bottomRate": 2.989885385387389,
-            "deltaPct": 0.5674372164705814
+            "deltaPct": 0.5659747187254021
           }
         },
         "textOverlay": {
@@ -6492,9 +6667,9 @@
             {
               "value": "있음",
               "count": 18,
-              "avgViews": 162290.66666666666,
-              "medianViews": 74777.5,
-              "avgEngagementRate": 3.3796156474521606
+              "avgViews": 162684.11111111112,
+              "medianViews": 75104.5,
+              "avgEngagementRate": 3.3774071590704087
             }
           ],
           "insight": null
@@ -6512,9 +6687,9 @@
             {
               "value": "긍정",
               "count": 9,
-              "avgViews": 210927.44444444444,
+              "avgViews": 211714.33333333334,
               "medianViews": 80143,
-              "avgEngagementRate": 3.090880770512668
+              "avgEngagementRate": 3.0864637937491644
             },
             {
               "value": "없음",
@@ -6559,17 +6734,17 @@
             {
               "value": "중간거리",
               "count": 12,
-              "avgViews": 197328.66666666666,
-              "medianViews": 81324,
-              "avgEngagementRate": 3.077726297236357
+              "avgViews": 197918.83333333334,
+              "medianViews": 81651,
+              "avgEngagementRate": 3.0744135646637294
             }
           ],
           "insight": {
             "topValue": "클로즈업",
             "topRate": 4.042724042380489,
             "bottomValue": "중간거리",
-            "bottomRate": 3.077726297236357,
-            "deltaPct": 0.9649977451441321
+            "bottomRate": 3.0744135646637294,
+            "deltaPct": 0.9683104777167597
           }
         },
         "brightness": {
@@ -6578,24 +6753,24 @@
             {
               "value": "밝음",
               "count": 16,
-              "avgViews": 177179.0625,
+              "avgViews": 177592.25,
               "medianViews": 86689.5,
-              "avgEngagementRate": 3.451328582735827
+              "avgEngagementRate": 3.4490345357888734
             },
             {
               "value": "보통",
               "count": 2,
-              "avgViews": 43183.5,
-              "medianViews": 43183.5,
-              "avgEngagementRate": 2.8059121651828294
+              "avgViews": 43419,
+              "medianViews": 43419,
+              "avgEngagementRate": 2.8043881453226893
             }
           ],
           "insight": {
             "topValue": "밝음",
-            "topRate": 3.451328582735827,
+            "topRate": 3.4490345357888734,
             "bottomValue": "보통",
-            "bottomRate": 2.8059121651828294,
-            "deltaPct": 0.6454164175529975
+            "bottomRate": 2.8043881453226893,
+            "deltaPct": 0.6446463904661841
           }
         },
         "sceneBusyness": {
@@ -6611,24 +6786,24 @@
             {
               "value": "보통",
               "count": 9,
-              "avgViews": 122972.44444444444,
+              "avgViews": 123024.88888888889,
               "medianViews": 80143,
-              "avgEngagementRate": 3.1492991766046567
+              "avgEngagementRate": 3.148148110919027
             },
             {
               "value": "복잡함",
               "count": 8,
-              "avgViews": 223152.375,
-              "medianViews": 81324,
-              "avgEngagementRate": 3.11836580013541
+              "avgViews": 223978.625,
+              "medianViews": 81651,
+              "avgEngagementRate": 3.1146916501728024
             }
           ],
           "insight": {
             "topValue": "깔끔함",
             "topRate": 7.542462663613684,
             "bottomValue": "복잡함",
-            "bottomRate": 3.11836580013541,
-            "deltaPct": 4.424096863478273
+            "bottomRate": 3.1146916501728024,
+            "deltaPct": 4.427771013440881
           }
         },
         "dominantColor": {
@@ -6637,9 +6812,9 @@
             {
               "value": "다채로움",
               "count": 9,
-              "avgViews": 137878.88888888888,
+              "avgViews": 138613.33333333334,
               "medianViews": 65990,
-              "avgEngagementRate": 3.775069513911988
+              "avgEngagementRate": 3.771803602834114
             },
             {
               "value": "흑백",
@@ -6665,9 +6840,9 @@
             {
               "value": "파랑",
               "count": 1,
-              "avgViews": 60310,
-              "medianViews": 60310,
-              "avgEngagementRate": 2.817111590117725
+              "avgViews": 60782,
+              "medianViews": 60782,
+              "avgEngagementRate": 2.806751998947057
             },
             {
               "value": "주황",
@@ -6686,10 +6861,10 @@
           ],
           "insight": {
             "topValue": "다채로움",
-            "topRate": 3.775069513911988,
+            "topRate": 3.771803602834114,
             "bottomValue": "분홍",
             "bottomRate": 2.1844423749089166,
-            "deltaPct": 1.5906271390030713
+            "deltaPct": 1.5873612279251974
           }
         },
         "titleMatch": {
@@ -6698,9 +6873,9 @@
             {
               "value": "일치",
               "count": 12,
-              "avgViews": 85465.16666666667,
-              "medianViews": 69398.5,
-              "avgEngagementRate": 3.6561116630655324
+              "avgViews": 85598.25,
+              "medianViews": 69725.5,
+              "avgEngagementRate": 3.6540074249280607
             },
             {
               "value": "무관",
@@ -6712,17 +6887,17 @@
             {
               "value": "과장(클릭베이트)",
               "count": 5,
-              "avgViews": 259986.6,
+              "avgViews": 261083.6,
               "medianViews": 230542,
-              "avgEngagementRate": 2.7548001634070327
+              "avgEngagementRate": 2.751899776762659
             }
           ],
           "insight": {
             "topValue": "일치",
-            "topRate": 3.6561116630655324,
+            "topRate": 3.6540074249280607,
             "bottomValue": "과장(클릭베이트)",
-            "bottomRate": 2.7548001634070327,
-            "deltaPct": 0.9013114996584997
+            "bottomRate": 2.751899776762659,
+            "deltaPct": 0.9021076481654018
           }
         },
         "overlayTone": {
@@ -6731,9 +6906,9 @@
             {
               "value": "단순 정보",
               "count": 13,
-              "avgViews": 201488.23076923078,
+              "avgViews": 201996.76923076922,
               "medianViews": 129952,
-              "avgEngagementRate": 3.4963825936896735,
+              "avgEngagementRate": 3.493559151293423,
               "examples": [
                 "Plan D\nVLOG",
                 "집순이가 침대에서 힐링하는 법",
@@ -6743,9 +6918,9 @@
             {
               "value": "궁금증 유발",
               "count": 4,
-              "avgViews": 68640,
+              "avgViews": 68757.75,
               "medianViews": 67687.5,
-              "avgEngagementRate": 3.228375565928004,
+              "avgEngagementRate": 3.2276135559979338,
               "examples": [
                 "꿀빙이 소문은 웋았애요!\n꿀조합 5가지 레시피 🐚",
                 "기긴윤미\n등장\nondo vlog",
@@ -6765,10 +6940,10 @@
           ],
           "insight": {
             "topValue": "단순 정보",
-            "topRate": 3.4963825936896735,
+            "topRate": 3.493559151293423,
             "bottomValue": "긴급·경고",
             "bottomRate": 2.466605672461116,
-            "deltaPct": 1.0297769212285575
+            "deltaPct": 1.026953478832307
           }
         }
       },
@@ -6778,8 +6953,8 @@
         "topValue": "깔끔함",
         "topRate": 7.542462663613684,
         "bottomValue": "복잡함",
-        "bottomRate": 3.11836580013541,
-        "deltaPct": 4.424096863478273
+        "bottomRate": 3.1146916501728024,
+        "deltaPct": 4.427771013440881
       }
     }
   },
@@ -6795,7 +6970,7 @@
     {
       "channelId": "UC6hIfm4cG58W0DLvvrrd9sQ",
       "title": "설아의날들 (Seola's Moments)",
-      "subscriberCount": 41700,
+      "subscriberCount": 41800,
       "analyzedVideoCount": 1,
       "clickbaitRate": 100,
       "growthRate30d": null
@@ -6827,7 +7002,7 @@
     {
       "channelId": "UCMxGrrcSv8mLjDSsMmKTQBw",
       "title": "소소한 나의 미니멀라이프",
-      "subscriberCount": 8060,
+      "subscriberCount": 8070,
       "analyzedVideoCount": 4,
       "clickbaitRate": 50,
       "growthRate30d": null
@@ -6851,7 +7026,7 @@
     {
       "channelId": "UCTnH8Piru1x6uYBkVK0_JNQ",
       "title": "알밤로그",
-      "subscriberCount": 7560,
+      "subscriberCount": 7570,
       "analyzedVideoCount": 18,
       "clickbaitRate": 33.33333333333333,
       "growthRate30d": null
@@ -6875,7 +7050,7 @@
     {
       "channelId": "UCioqBNry60RpQs38YcNDGpQ",
       "title": "절약의 달인 곽지현 (舊 자취린이)",
-      "subscriberCount": 61100,
+      "subscriberCount": 61200,
       "analyzedVideoCount": 1,
       "clickbaitRate": 100,
       "growthRate30d": null

@@ -169,6 +169,13 @@
       "subscriberCount": 61100,
       "totalViewCount": 2421904,
       "videoCount": 93
+    },
+    {
+      "date": "2026-08-26",
+      "title": "절약의 달인 곽지현 (舊 자취린이)",
+      "subscriberCount": 61200,
+      "totalViewCount": 2424317,
+      "videoCount": 93
     }
   ],
   "videos": [
@@ -178,8 +185,8 @@
       "publishedAt": "2026-08-08T11:45:31Z",
       "durationSeconds": 1159,
       "isShort": false,
-      "likeRate": 3.0279442671440804,
-      "commentRate": 0.6460652292363975,
+      "likeRate": 2.983383685800604,
+      "commentRate": 0.6419939577039275,
       "dailyStats": [
         {
           "date": "2026-08-09",
@@ -332,6 +339,15 @@
           "viewCount": 12847,
           "likeCount": 389,
           "commentCount": 83,
+          "durationSeconds": 1159
+        },
+        {
+          "date": "2026-08-26",
+          "title": "퇴근하면 또 출근하는 짠순이 N잡러 일상｜청소 알바·펫시터·절약 자취 일상",
+          "publishedAt": "2026-08-08T11:45:31Z",
+          "viewCount": 13240,
+          "likeCount": 395,
+          "commentCount": 85,
           "durationSeconds": 1159
         }
       ],
