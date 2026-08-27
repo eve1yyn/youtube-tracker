@@ -176,6 +176,13 @@
       "subscriberCount": 8070,
       "totalViewCount": 2584805,
       "videoCount": 271
+    },
+    {
+      "date": "2026-08-27",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8070,
+      "totalViewCount": 2586947,
+      "videoCount": 271
     }
   ],
   "videos": [
@@ -218,8 +225,8 @@
       "publishedAt": "2026-07-29T01:30:09Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 5.177993527508091,
-      "commentRate": 3.8834951456310676,
+      "likeRate": 5.32258064516129,
+      "commentRate": 3.870967741935484,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -445,6 +452,15 @@
           "likeCount": 32,
           "commentCount": 24,
           "durationSeconds": 42
+        },
+        {
+          "date": "2026-08-27",
+          "title": "정리마켓 유튜브 채널에 출연했어요.",
+          "publishedAt": "2026-07-29T01:30:09Z",
+          "viewCount": 620,
+          "likeCount": 33,
+          "commentCount": 24,
+          "durationSeconds": 42
         }
       ],
       "thumbnailFeatures": {
@@ -467,8 +483,8 @@
       "publishedAt": "2026-08-14T08:10:19Z",
       "durationSeconds": 774,
       "isShort": false,
-      "likeRate": 1.7049180327868854,
-      "commentRate": 0.09016393442622951,
+      "likeRate": 1.687116564417178,
+      "commentRate": 0.08879560865353568,
       "dailyStats": [
         {
           "date": "2026-08-15",
@@ -577,6 +593,15 @@
           "likeCount": 208,
           "commentCount": 11,
           "durationSeconds": 774
+        },
+        {
+          "date": "2026-08-27",
+          "title": "미니멀라이프 8년 더이상 사지 않는 물건 10가지",
+          "publishedAt": "2026-08-14T08:10:19Z",
+          "viewCount": 12388,
+          "likeCount": 209,
+          "commentCount": 11,
+          "durationSeconds": 774
         }
       ],
       "thumbnailFeatures": null
@@ -587,8 +612,8 @@
       "publishedAt": "2026-08-24T10:22:50Z",
       "durationSeconds": 1270,
       "isShort": false,
-      "likeRate": 2.236302646291465,
-      "commentRate": 0.14908684308609765,
+      "likeRate": 2.2044728434504792,
+      "commentRate": 0.19169329073482427,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -606,6 +631,15 @@
           "viewCount": 2683,
           "likeCount": 60,
           "commentCount": 4,
+          "durationSeconds": 1270
+        },
+        {
+          "date": "2026-08-27",
+          "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
+          "publishedAt": "2026-08-24T10:22:50Z",
+          "viewCount": 3130,
+          "likeCount": 69,
+          "commentCount": 6,
           "durationSeconds": 1270
         }
       ],
@@ -794,8 +828,8 @@
       "publishedAt": "2026-08-07T01:47:29Z",
       "durationSeconds": 860,
       "isShort": false,
-      "likeRate": 2.014218009478673,
-      "commentRate": 0.49085985104942453,
+      "likeRate": 1.9920318725099602,
+      "commentRate": 0.5146082337317397,
       "dailyStats": [
         {
           "date": "2026-08-07",
@@ -975,6 +1009,15 @@
           "viewCount": 5908,
           "likeCount": 119,
           "commentCount": 29,
+          "durationSeconds": 860
+        },
+        {
+          "date": "2026-08-27",
+          "title": "V정리마켓 출연/3년간 만들어 쓴 살뜨물 발효액 사용법/집밥이야기",
+          "publishedAt": "2026-08-07T01:47:29Z",
+          "viewCount": 6024,
+          "likeCount": 120,
+          "commentCount": 31,
           "durationSeconds": 860
         }
       ],
