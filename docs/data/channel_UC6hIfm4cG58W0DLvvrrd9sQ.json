@@ -190,6 +190,13 @@
       "subscriberCount": 41900,
       "totalViewCount": 1485551,
       "videoCount": 39
+    },
+    {
+      "date": "2026-08-29",
+      "title": "설아의날들 (Seola's Moments)",
+      "subscriberCount": 41900,
+      "totalViewCount": 1487629,
+      "videoCount": 39
     }
   ],
   "videos": [
@@ -199,8 +206,8 @@
       "publishedAt": "2026-08-20T02:56:22Z",
       "durationSeconds": 76,
       "isShort": true,
-      "likeRate": 6.032285471537808,
-      "commentRate": 0.29736618521665253,
+      "likeRate": 6.038851351351352,
+      "commentRate": 0.2956081081081081,
       "dailyStats": [
         {
           "date": "2026-08-21",
@@ -271,6 +278,15 @@
           "publishedAt": "2026-08-20T02:56:22Z",
           "viewCount": 2354,
           "likeCount": 142,
+          "commentCount": 7,
+          "durationSeconds": 76
+        },
+        {
+          "date": "2026-08-29",
+          "title": "With까사미아❤️",
+          "publishedAt": "2026-08-20T02:56:22Z",
+          "viewCount": 2368,
+          "likeCount": 143,
           "commentCount": 7,
           "durationSeconds": 76
         }
@@ -388,8 +404,8 @@
       "publishedAt": "2026-08-13T10:00:28Z",
       "durationSeconds": 1155,
       "isShort": false,
-      "likeRate": 3.9751439276249654,
-      "commentRate": 0.44777483322672024,
+      "likeRate": 3.9318913390090553,
+      "commentRate": 0.44222496314791976,
       "dailyStats": [
         {
           "date": "2026-08-14",
@@ -525,6 +541,15 @@
           "likeCount": 1305,
           "commentCount": 147,
           "durationSeconds": 1155
+        },
+        {
+          "date": "2026-08-29",
+          "title": "SUB) 김설아 첫 집들이",
+          "publishedAt": "2026-08-13T10:00:28Z",
+          "viewCount": 33241,
+          "likeCount": 1307,
+          "commentCount": 147,
+          "durationSeconds": 1155
         }
       ],
       "thumbnailFeatures": null
@@ -535,8 +560,8 @@
       "publishedAt": "2026-08-28T10:00:21Z",
       "durationSeconds": 1319,
       "isShort": false,
-      "likeRate": 17.040358744394617,
-      "commentRate": 4.484304932735426,
+      "likeRate": 3.0262808601008757,
+      "commentRate": 0.7034775683567825,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -545,6 +570,15 @@
           "viewCount": 223,
           "likeCount": 38,
           "commentCount": 10,
+          "durationSeconds": 1319
+        },
+        {
+          "date": "2026-08-29",
+          "title": "대충 살아도 괜찮은가요 03.재영(진짜 대충 살면 어떨까?똑똑한 그녀의 생존법,열심히 사는 이유,다양한 경험이 주는 힘)",
+          "publishedAt": "2026-08-28T10:00:21Z",
+          "viewCount": 7534,
+          "likeCount": 228,
+          "commentCount": 53,
           "durationSeconds": 1319
         }
       ],
