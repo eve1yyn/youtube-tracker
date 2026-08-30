@@ -197,6 +197,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 148937469,
       "videoCount": 397
+    },
+    {
+      "date": "2026-08-30",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 148949078,
+      "videoCount": 397
     }
   ],
   "videos": [
@@ -392,8 +399,8 @@
       "publishedAt": "2026-08-05T08:00:04Z",
       "durationSeconds": 1419,
       "isShort": false,
-      "likeRate": 2.918940240615344,
-      "commentRate": 0.1807902176056801,
+      "likeRate": 2.9110036591740722,
+      "commentRate": 0.17969158389963408,
       "dailyStats": [
         {
           "date": "2026-08-06",
@@ -610,6 +617,15 @@
           "likeCount": 1776,
           "commentCount": 110,
           "durationSeconds": 1419
+        },
+        {
+          "date": "2026-08-30",
+          "title": "육묘에 지친 나..🐱카페 대청소,동묘 빈티지 쇼핑,혼자 파스타 먹으러 간 일상",
+          "publishedAt": "2026-08-05T08:00:04Z",
+          "viewCount": 61216,
+          "likeCount": 1782,
+          "commentCount": 110,
+          "durationSeconds": 1419
         }
       ],
       "thumbnailFeatures": {
@@ -632,8 +648,8 @@
       "publishedAt": "2026-08-25T09:30:01Z",
       "durationSeconds": 1380,
       "isShort": false,
-      "likeRate": 2.55343924145388,
-      "commentRate": 0.1351576145720702,
+      "likeRate": 2.399571109015954,
+      "commentRate": 0.12755809439298985,
       "dailyStats": [
         {
           "date": "2026-08-26",
@@ -669,6 +685,15 @@
           "viewCount": 48092,
           "likeCount": 1228,
           "commentCount": 65,
+          "durationSeconds": 1380
+        },
+        {
+          "date": "2026-08-30",
+          "title": "더워서 집에만 있고 싶다..🌞 💧비스코티 만들고, 두부 콩국수 해 먹기...🐱",
+          "publishedAt": "2026-08-25T09:30:01Z",
+          "viewCount": 54093,
+          "likeCount": 1298,
+          "commentCount": 69,
           "durationSeconds": 1380
         }
       ],
