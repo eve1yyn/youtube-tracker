@@ -204,7 +204,36 @@
       "subscriberCount": 8450,
       "totalViewCount": 1404230,
       "videoCount": 43
+    },
+    {
+      "date": "2026-08-31",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8460,
+      "totalViewCount": 1407892,
+      "videoCount": 44
     }
   ],
-  "videos": []
+  "videos": [
+    {
+      "videoId": "_opet_ndEVo",
+      "title": "[썰풀곰] 자취방에서 살아남기…과연 살아남을 수 있을 것인가! Surviving My Apartment Life 😂",
+      "publishedAt": "2026-08-30T11:52:04Z",
+      "durationSeconds": 1740,
+      "isShort": false,
+      "likeRate": 7.017543859649122,
+      "commentRate": 0,
+      "dailyStats": [
+        {
+          "date": "2026-08-31",
+          "title": "[썰풀곰] 자취방에서 살아남기…과연 살아남을 수 있을 것인가! Surviving My Apartment Life 😂",
+          "publishedAt": "2026-08-30T11:52:04Z",
+          "viewCount": 57,
+          "likeCount": 4,
+          "commentCount": 0,
+          "durationSeconds": 1740
+        }
+      ],
+      "thumbnailFeatures": null
+    }
+  ]
 }

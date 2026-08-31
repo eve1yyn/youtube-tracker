@@ -204,6 +204,13 @@
       "subscriberCount": 105000,
       "totalViewCount": 17988975,
       "videoCount": 76
+    },
+    {
+      "date": "2026-08-31",
+      "title": "아임지현 Jihyun",
+      "subscriberCount": 105000,
+      "totalViewCount": 18082790,
+      "videoCount": 77
     }
   ],
   "videos": [
@@ -504,7 +511,7 @@
       "publishedAt": "2026-08-01T09:00:23Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 0.9500377579108913,
+      "likeRate": 0.9493815049792418,
       "commentRate": null,
       "dailyStats": [
         {
@@ -549,6 +556,15 @@
           "publishedAt": "2026-08-01T09:00:23Z",
           "viewCount": 328408,
           "likeCount": 3120,
+          "commentCount": null,
+          "durationSeconds": 42
+        },
+        {
+          "date": "2026-08-31",
+          "title": "다음부터 고기 더 많이 시키자 … ^^",
+          "publishedAt": "2026-08-01T09:00:23Z",
+          "viewCount": 329267,
+          "likeCount": 3126,
           "commentCount": null,
           "durationSeconds": 42
         }
@@ -832,13 +848,34 @@
       }
     },
     {
+      "videoId": "9ETFkX9Tf-Y",
+      "title": "환승녀가 내 인스타를 본다고..?  #shorts",
+      "publishedAt": "2026-08-30T09:00:16Z",
+      "durationSeconds": 22,
+      "isShort": true,
+      "likeRate": 0.581963051204937,
+      "commentRate": 0.007811584579932039,
+      "dailyStats": [
+        {
+          "date": "2026-08-31",
+          "title": "환승녀가 내 인스타를 본다고..?  #shorts",
+          "publishedAt": "2026-08-30T09:00:16Z",
+          "viewCount": 25603,
+          "likeCount": 149,
+          "commentCount": 2,
+          "durationSeconds": 22
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "AFVCIDnwvF0",
       "title": "신혼 맛보기 VLOG 🍳 1만원 vs 10만원 요리대결 [SUB]",
       "publishedAt": "2026-08-07T09:00:20Z",
       "durationSeconds": 1563,
       "isShort": false,
-      "likeRate": 1.4158808407175878,
-      "commentRate": 0.19015965603966029,
+      "likeRate": 1.4046134285887266,
+      "commentRate": 0.18768541502694194,
       "dailyStats": [
         {
           "date": "2026-08-08",
@@ -1046,6 +1083,15 @@
           "likeCount": 2539,
           "commentCount": 341,
           "durationSeconds": 1563
+        },
+        {
+          "date": "2026-08-31",
+          "title": "신혼 맛보기 VLOG 🍳 1만원 vs 10만원 요리대결 [SUB]",
+          "publishedAt": "2026-08-07T09:00:20Z",
+          "viewCount": 181687,
+          "likeCount": 2552,
+          "commentCount": 341,
+          "durationSeconds": 1563
         }
       ],
       "thumbnailFeatures": {
@@ -1068,8 +1114,8 @@
       "publishedAt": "2026-08-24T09:00:30Z",
       "durationSeconds": 39,
       "isShort": true,
-      "likeRate": 1.0506319299061797,
-      "commentRate": 0.017445917655268667,
+      "likeRate": 1.0215093777910091,
+      "commentRate": 0.020467401012206014,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -1124,6 +1170,15 @@
           "likeCount": 542,
           "commentCount": 9,
           "durationSeconds": 39
+        },
+        {
+          "date": "2026-08-31",
+          "title": "부모님 울리는 법 #shorts",
+          "publishedAt": "2026-08-24T09:00:30Z",
+          "viewCount": 53744,
+          "likeCount": 549,
+          "commentCount": 11,
+          "durationSeconds": 39
         }
       ],
       "thumbnailFeatures": null
@@ -1134,8 +1189,8 @@
       "publishedAt": "2026-08-18T10:30:23Z",
       "durationSeconds": 73,
       "isShort": true,
-      "likeRate": 1.0139085482183519,
-      "commentRate": 0.006154224875376947,
+      "likeRate": 0.9565817054602311,
+      "commentRate": 0.0054622795458114555,
       "dailyStats": [
         {
           "date": "2026-08-19",
@@ -1242,6 +1297,15 @@
           "publishedAt": "2026-08-18T10:30:23Z",
           "viewCount": 129992,
           "likeCount": 1318,
+          "commentCount": 8,
+          "durationSeconds": 73
+        },
+        {
+          "date": "2026-08-31",
+          "title": "연애프로에서 제대로 뜨는 방법..?😈 #short",
+          "publishedAt": "2026-08-18T10:30:23Z",
+          "viewCount": 146459,
+          "likeCount": 1401,
           "commentCount": 8,
           "durationSeconds": 73
         }
@@ -1539,8 +1603,8 @@
       "publishedAt": "2026-08-12T09:00:23Z",
       "durationSeconds": 25,
       "isShort": true,
-      "likeRate": 0.7323472594642909,
-      "commentRate": 0.004805428211707945,
+      "likeRate": 0.7302627795986429,
+      "commentRate": 0.004791750522300807,
       "dailyStats": [
         {
           "date": "2026-08-13",
@@ -1703,6 +1767,15 @@
           "likeCount": 1524,
           "commentCount": 10,
           "durationSeconds": 25
+        },
+        {
+          "date": "2026-08-31",
+          "title": "이때부터 제 요리가 망한걸까요 ..? 🍳",
+          "publishedAt": "2026-08-12T09:00:23Z",
+          "viewCount": 208692,
+          "likeCount": 1524,
+          "commentCount": 10,
+          "durationSeconds": 25
         }
       ],
       "thumbnailFeatures": null
@@ -1713,8 +1786,8 @@
       "publishedAt": "2026-08-12T10:00:21Z",
       "durationSeconds": 1560,
       "isShort": false,
-      "likeRate": 1.04,
-      "commentRate": 0.12307692307692308,
+      "likeRate": 1.032059392960044,
+      "commentRate": 0.12195679680473191,
       "dailyStats": [
         {
           "date": "2026-08-13",
@@ -1877,6 +1950,15 @@
           "likeCount": 1352,
           "commentCount": 160,
           "durationSeconds": 1560
+        },
+        {
+          "date": "2026-08-31",
+          "title": "내 동기가 SNL에..? | 스마일클리닉 SNL 오디션 연습 🎭 [SUB]",
+          "publishedAt": "2026-08-12T10:00:21Z",
+          "viewCount": 131194,
+          "likeCount": 1354,
+          "commentCount": 160,
+          "durationSeconds": 1560
         }
       ],
       "thumbnailFeatures": null
@@ -2001,8 +2083,8 @@
       "publishedAt": "2026-08-14T09:00:12Z",
       "durationSeconds": 24,
       "isShort": true,
-      "likeRate": 0.6986891076408797,
-      "commentRate": 0.005830507156947535,
+      "likeRate": 0.6927673167774774,
+      "commentRate": 0.005773060973145645,
       "dailyStats": [
         {
           "date": "2026-08-15",
@@ -2145,6 +2227,15 @@
           "publishedAt": "2026-08-14T09:00:12Z",
           "viewCount": 102907,
           "likeCount": 719,
+          "commentCount": 6,
+          "durationSeconds": 24
+        },
+        {
+          "date": "2026-08-31",
+          "title": "백 요리사 지현의 패배",
+          "publishedAt": "2026-08-14T09:00:12Z",
+          "viewCount": 103931,
+          "likeCount": 720,
           "commentCount": 6,
           "durationSeconds": 24
         }
@@ -2316,8 +2407,8 @@
       "publishedAt": "2026-08-19T10:00:20Z",
       "durationSeconds": 67,
       "isShort": true,
-      "likeRate": 0.6386906262587625,
-      "commentRate": 0.00637531478116732,
+      "likeRate": 0.6323844262945048,
+      "commentRate": 0.006230388436399063,
       "dailyStats": [
         {
           "date": "2026-08-20",
@@ -2417,6 +2508,15 @@
           "likeCount": 2204,
           "commentCount": 22,
           "durationSeconds": 67
+        },
+        {
+          "date": "2026-08-31",
+          "title": "치욕스러운 SNL 오디션 썰 ㅋ 😹 #shorts",
+          "publishedAt": "2026-08-19T10:00:20Z",
+          "viewCount": 353108,
+          "likeCount": 2233,
+          "commentCount": 22,
+          "durationSeconds": 67
         }
       ],
       "thumbnailFeatures": null
@@ -2427,8 +2527,8 @@
       "publishedAt": "2026-08-02T09:00:02Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 1.0108283253482513,
-      "commentRate": 0.013846963360934949,
+      "likeRate": 1.0077861836655806,
+      "commentRate": 0.013805290187199736,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -2687,6 +2787,15 @@
           "title": "시작부터 티격태격;; 😈🍳",
           "publishedAt": "2026-08-02T09:00:02Z",
           "viewCount": 36109,
+          "likeCount": 365,
+          "commentCount": 5,
+          "durationSeconds": 42
+        },
+        {
+          "date": "2026-08-31",
+          "title": "시작부터 티격태격;; 😈🍳",
+          "publishedAt": "2026-08-02T09:00:02Z",
+          "viewCount": 36218,
           "likeCount": 365,
           "commentCount": 5,
           "durationSeconds": 42
@@ -3162,8 +3271,8 @@
       "publishedAt": "2026-08-25T09:00:04Z",
       "durationSeconds": 22,
       "isShort": true,
-      "likeRate": 0.784094091290955,
-      "commentRate": 0.007000840100812098,
+      "likeRate": 0.764057996916959,
+      "commentRate": 0.008936350841134023,
       "dailyStats": [
         {
           "date": "2026-08-26",
@@ -3209,6 +3318,15 @@
           "likeCount": 336,
           "commentCount": 3,
           "durationSeconds": 22
+        },
+        {
+          "date": "2026-08-31",
+          "title": "29살 딸이 엄마랑 있으면 … (❤️) #shorts",
+          "publishedAt": "2026-08-25T09:00:04Z",
+          "viewCount": 44761,
+          "likeCount": 342,
+          "commentCount": 4,
+          "durationSeconds": 22
         }
       ],
       "thumbnailFeatures": null
@@ -3219,8 +3337,8 @@
       "publishedAt": "2026-08-20T10:00:31Z",
       "durationSeconds": 47,
       "isShort": true,
-      "likeRate": 0.7804422506086783,
-      "commentRate": 0.016676116465997398,
+      "likeRate": 0.777159416471828,
+      "commentRate": 0.016465241874403135,
       "dailyStats": [
         {
           "date": "2026-08-21",
@@ -3309,6 +3427,15 @@
           "publishedAt": "2026-08-20T10:00:31Z",
           "viewCount": 29983,
           "likeCount": 234,
+          "commentCount": 5,
+          "durationSeconds": 47
+        },
+        {
+          "date": "2026-08-31",
+          "title": "한예종 꺼드럭? But 현실은 … 🥹",
+          "publishedAt": "2026-08-20T10:00:31Z",
+          "viewCount": 30367,
+          "likeCount": 236,
           "commentCount": 5,
           "durationSeconds": 47
         }
@@ -3516,8 +3643,8 @@
       "publishedAt": "2026-08-26T13:30:35Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 1.3242240215924426,
-      "commentRate": 0.05904183535762483,
+      "likeRate": 1.2317109584950732,
+      "commentRate": 0.05225440429979098,
       "dailyStats": [
         {
           "date": "2026-08-27",
@@ -3554,6 +3681,15 @@
           "likeCount": 157,
           "commentCount": 7,
           "durationSeconds": 33
+        },
+        {
+          "date": "2026-08-31",
+          "title": "송이들이 좋아해준 부산 청순먹방 (?) #shorts",
+          "publishedAt": "2026-08-26T13:30:35Z",
+          "viewCount": 13396,
+          "likeCount": 165,
+          "commentCount": 7,
+          "durationSeconds": 33
         }
       ],
       "thumbnailFeatures": null
@@ -3564,8 +3700,8 @@
       "publishedAt": "2026-08-17T09:00:27Z",
       "durationSeconds": 1571,
       "isShort": false,
-      "likeRate": 1.0573927372911178,
-      "commentRate": 0.426561842884485,
+      "likeRate": 1.04843285541281,
+      "commentRate": 0.4200506432025474,
       "dailyStats": [
         {
           "date": "2026-08-18",
@@ -3683,6 +3819,15 @@
           "likeCount": 1232,
           "commentCount": 497,
           "durationSeconds": 1571
+        },
+        {
+          "date": "2026-08-31",
+          "title": "6시 내고향 부산 🌊 | 효도 VLOG & GRWM [SUB]",
+          "publishedAt": "2026-08-17T09:00:27Z",
+          "viewCount": 118081,
+          "likeCount": 1238,
+          "commentCount": 496,
+          "durationSeconds": 1571
         }
       ],
       "thumbnailFeatures": null
@@ -3693,8 +3838,8 @@
       "publishedAt": "2026-08-13T09:00:00Z",
       "durationSeconds": 28,
       "isShort": true,
-      "likeRate": 1.210901774282056,
-      "commentRate": 0.029266508139747578,
+      "likeRate": 1.203855246408438,
+      "commentRate": 0.029096199308965266,
       "dailyStats": [
         {
           "date": "2026-08-14",
@@ -3848,6 +3993,15 @@
           "likeCount": 331,
           "commentCount": 8,
           "durationSeconds": 28
+        },
+        {
+          "date": "2026-08-31",
+          "title": "방구석귀요미🐰 👉🏻 방귀요 …? 💨",
+          "publishedAt": "2026-08-13T09:00:00Z",
+          "viewCount": 27495,
+          "likeCount": 331,
+          "commentCount": 8,
+          "durationSeconds": 28
         }
       ],
       "thumbnailFeatures": null
@@ -3858,8 +4012,8 @@
       "publishedAt": "2026-08-29T09:00:36Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 1.4456775700934579,
-      "commentRate": 0.051109813084112145,
+      "likeRate": 1.046639735585751,
+      "commentRate": 0.027543150936467135,
       "dailyStats": [
         {
           "date": "2026-08-30",
@@ -3868,6 +4022,15 @@
           "viewCount": 13696,
           "likeCount": 198,
           "commentCount": 7,
+          "durationSeconds": 57
+        },
+        {
+          "date": "2026-08-31",
+          "title": "초미녀 토끼와의 첫 만남 🐰 #shorts",
+          "publishedAt": "2026-08-29T09:00:36Z",
+          "viewCount": 32676,
+          "likeCount": 342,
+          "commentCount": 9,
           "durationSeconds": 57
         }
       ],
@@ -3879,8 +4042,8 @@
       "publishedAt": "2026-08-27T09:00:03Z",
       "durationSeconds": 1692,
       "isShort": false,
-      "likeRate": 0.9031978215292672,
-      "commentRate": 0.16916885557992145,
+      "likeRate": 0.8683638379516141,
+      "commentRate": 0.15721499909049175,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -3907,6 +4070,15 @@
           "viewCount": 207485,
           "likeCount": 1874,
           "commentCount": 351,
+          "durationSeconds": 1692
+        },
+        {
+          "date": "2026-08-31",
+          "title": "연애란 뭘까..? With 하트페어링 제연 🐰[SUB]",
+          "publishedAt": "2026-08-27T09:00:03Z",
+          "viewCount": 230894,
+          "likeCount": 2005,
+          "commentCount": 363,
           "durationSeconds": 1692
         }
       ],
