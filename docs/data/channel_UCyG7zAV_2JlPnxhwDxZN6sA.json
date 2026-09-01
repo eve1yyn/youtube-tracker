@@ -211,6 +211,13 @@
       "subscriberCount": 3000000,
       "totalViewCount": 360756098,
       "videoCount": 232
+    },
+    {
+      "date": "2026-09-01",
+      "title": "지현꿍",
+      "subscriberCount": 3000000,
+      "totalViewCount": 360769069,
+      "videoCount": 232
     }
   ],
   "videos": [
@@ -334,8 +341,8 @@
       "publishedAt": "2026-08-21T12:26:43Z",
       "durationSeconds": 1654,
       "isShort": false,
-      "likeRate": 1.8721501844032786,
-      "commentRate": 0.10965785811022959,
+      "likeRate": 1.8175690955609454,
+      "commentRate": 0.10553340930556357,
       "dailyStats": [
         {
           "date": "2026-08-22",
@@ -426,6 +433,15 @@
           "likeCount": 3995,
           "commentCount": 234,
           "durationSeconds": 1654
+        },
+        {
+          "date": "2026-09-01",
+          "title": "vlog | 이사 준비하는 냉털 주간 🏚️ 💸  초계국수 만들고 낭만 한도 초과 여름 축제 🎏 🏮 다녀온 집순이 일상 | 여름 집밥 해먹으며 조용히 보내는 소소한 하루",
+          "publishedAt": "2026-08-21T12:26:43Z",
+          "viewCount": 225521,
+          "likeCount": 4099,
+          "commentCount": 238,
+          "durationSeconds": 1654
         }
       ],
       "thumbnailFeatures": null
@@ -436,8 +452,8 @@
       "publishedAt": "2026-08-18T12:18:06Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 2.764539331375411,
-      "commentRate": 0.0351722561243691,
+      "likeRate": 2.761627906976744,
+      "commentRate": 0.03502381619501261,
       "dailyStats": [
         {
           "date": "2026-08-19",
@@ -555,6 +571,15 @@
           "likeCount": 1572,
           "commentCount": 20,
           "durationSeconds": 57
+        },
+        {
+          "date": "2026-09-01",
+          "title": "집순이 자취생 아침메뉴 🎐🤍",
+          "publishedAt": "2026-08-18T12:18:06Z",
+          "viewCount": 57104,
+          "likeCount": 1577,
+          "commentCount": 20,
+          "durationSeconds": 57
         }
       ],
       "thumbnailFeatures": null
@@ -565,8 +590,8 @@
       "publishedAt": "2026-08-15T13:50:44Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 2.845274085689945,
-      "commentRate": 0.019601782254355743,
+      "likeRate": 2.8318610548046643,
+      "commentRate": 0.01944754026014825,
       "dailyStats": [
         {
           "date": "2026-08-16",
@@ -709,6 +734,15 @@
           "publishedAt": "2026-08-15T13:50:44Z",
           "viewCount": 132641,
           "likeCount": 3774,
+          "commentCount": 26,
+          "durationSeconds": 82
+        },
+        {
+          "date": "2026-09-01",
+          "title": "집순이 자취생 출근전 점심도시락 🍱",
+          "publishedAt": "2026-08-15T13:50:44Z",
+          "viewCount": 133693,
+          "likeCount": 3786,
           "commentCount": 26,
           "durationSeconds": 82
         }
