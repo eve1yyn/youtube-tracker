@@ -225,16 +225,65 @@
       "subscriberCount": 8460,
       "totalViewCount": 1411264,
       "videoCount": 44
+    },
+    {
+      "date": "2026-09-03",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8460,
+      "totalViewCount": 1415632,
+      "videoCount": 46
     }
   ],
   "videos": [
+    {
+      "videoId": "DMJG5YqAzXw",
+      "title": "꿈에서 택시기사가 소리쳤는데… 알고 보니?😨 My Taxi Driver in a Dream Might’ve Been…",
+      "publishedAt": "2026-09-03T03:34:05Z",
+      "durationSeconds": 59,
+      "isShort": true,
+      "likeRate": null,
+      "commentRate": null,
+      "dailyStats": [
+        {
+          "date": "2026-09-03",
+          "title": "꿈에서 택시기사가 소리쳤는데… 알고 보니?😨 My Taxi Driver in a Dream Might’ve Been…",
+          "publishedAt": "2026-09-03T03:34:05Z",
+          "viewCount": 0,
+          "likeCount": 0,
+          "commentCount": 0,
+          "durationSeconds": 59
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "Gt4r8jAnXp4",
+      "title": "나혼자 사는 집인줄 알았는데 I Thought I Lived Alone… I Was Wrong 😂",
+      "publishedAt": "2026-09-03T03:28:21Z",
+      "durationSeconds": 33,
+      "isShort": true,
+      "likeRate": null,
+      "commentRate": null,
+      "dailyStats": [
+        {
+          "date": "2026-09-03",
+          "title": "나혼자 사는 집인줄 알았는데 I Thought I Lived Alone… I Was Wrong 😂",
+          "publishedAt": "2026-09-03T03:28:21Z",
+          "viewCount": 0,
+          "likeCount": 0,
+          "commentCount": 0,
+          "durationSeconds": 33
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "_opet_ndEVo",
       "title": "[썰풀곰] 자취방에서 살아남기…과연 살아남을 수 있을 것인가! Surviving My Apartment Life 😂",
       "publishedAt": "2026-08-30T11:52:04Z",
       "durationSeconds": 1740,
       "isShort": false,
-      "likeRate": 4.395604395604396,
+      "likeRate": 3.8095238095238098,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -260,6 +309,15 @@
           "title": "[썰풀곰] 자취방에서 살아남기…과연 살아남을 수 있을 것인가! Surviving My Apartment Life 😂",
           "publishedAt": "2026-08-30T11:52:04Z",
           "viewCount": 91,
+          "likeCount": 4,
+          "commentCount": 0,
+          "durationSeconds": 1740
+        },
+        {
+          "date": "2026-09-03",
+          "title": "[썰풀곰] 자취방에서 살아남기…과연 살아남을 수 있을 것인가! Surviving My Apartment Life 😂",
+          "publishedAt": "2026-08-30T11:52:04Z",
+          "viewCount": 105,
           "likeCount": 4,
           "commentCount": 0,
           "durationSeconds": 1740
