@@ -239,6 +239,13 @@
       "subscriberCount": 120000,
       "totalViewCount": 7351221,
       "videoCount": 106
+    },
+    {
+      "date": "2026-09-05",
+      "title": "némo 김네모",
+      "subscriberCount": 120000,
+      "totalViewCount": 7351221,
+      "videoCount": 106
     }
   ],
   "videos": [
@@ -566,8 +573,8 @@
       "publishedAt": "2026-08-24T13:17:10Z",
       "durationSeconds": 1242,
       "isShort": false,
-      "likeRate": 2.705346279552449,
-      "commentRate": 0.09781234344060881,
+      "likeRate": 2.6383349378810803,
+      "commentRate": 0.09627286480539128,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -667,6 +674,15 @@
           "likeCount": 1134,
           "commentCount": 41,
           "durationSeconds": 1242
+        },
+        {
+          "date": "2026-09-05",
+          "title": "먹는 게 낙, 집순이 집콕 자취 집밥 기록 🍖 커링클, 카이막 치즈볼, 스테이크 솥밥, 청무화과 토스트,연어 파피요트, 불닭 등",
+          "publishedAt": "2026-08-24T13:17:10Z",
+          "viewCount": 43626,
+          "likeCount": 1151,
+          "commentCount": 42,
+          "durationSeconds": 1242
         }
       ],
       "thumbnailFeatures": null
@@ -677,8 +693,8 @@
       "publishedAt": "2026-09-02T12:18:47Z",
       "durationSeconds": 1455,
       "isShort": false,
-      "likeRate": 2.0286198080945583,
-      "commentRate": 0.1328065340814768,
+      "likeRate": 1.99479618386817,
+      "commentRate": 0.1175055255574518,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -696,6 +712,15 @@
           "viewCount": 30119,
           "likeCount": 611,
           "commentCount": 40,
+          "durationSeconds": 1455
+        },
+        {
+          "date": "2026-09-05",
+          "title": "자취생 일주일 집밥 게으른 현실편.. 그리고 속초 먹여행 𓇼🐚 𓂃⋆｡ 피자에땅 달피자, 홍게 라면, 명란 김밥, 두부김치 등",
+          "publishedAt": "2026-09-02T12:18:47Z",
+          "viewCount": 35743,
+          "likeCount": 713,
+          "commentCount": 42,
           "durationSeconds": 1455
         }
       ],
@@ -1001,8 +1026,8 @@
       "publishedAt": "2026-08-09T14:19:21Z",
       "durationSeconds": 1528,
       "isShort": false,
-      "likeRate": 3.4791846490936855,
-      "commentRate": 0.19255029546510855,
+      "likeRate": 3.462160467342156,
+      "commentRate": 0.19142545958612495,
       "dailyStats": [
         {
           "date": "2026-08-10",
@@ -1237,6 +1262,15 @@
           "likeCount": 1048,
           "commentCount": 58,
           "durationSeconds": 1528
+        },
+        {
+          "date": "2026-09-05",
+          "title": "자취생 여름 집밥 그립감이 좋다. . 🧊🫜 마르쉐 채소시장, 냉제육, 불닭 냉면, 병어조림, 오색 콩국수 등 / 약간의 내면 토크",
+          "publishedAt": "2026-08-09T14:19:21Z",
+          "viewCount": 30299,
+          "likeCount": 1049,
+          "commentCount": 58,
+          "durationSeconds": 1528
         }
       ],
       "thumbnailFeatures": {
@@ -1454,8 +1488,8 @@
       "publishedAt": "2026-08-17T13:32:58Z",
       "durationSeconds": 1310,
       "isShort": false,
-      "likeRate": 2.8415170609915585,
-      "commentRate": 0.1545595054095827,
+      "likeRate": 2.813903443113772,
+      "commentRate": 0.15203967065868265,
       "dailyStats": [
         {
           "date": "2026-08-18",
@@ -1618,6 +1652,15 @@
           "likeCount": 1195,
           "commentCount": 65,
           "durationSeconds": 1310
+        },
+        {
+          "date": "2026-09-05",
+          "title": "자취생 긴축재정 주간 집밥 브이로그..인데 뭔가 좀 이상한  💸 ",
+          "publishedAt": "2026-08-17T13:32:58Z",
+          "viewCount": 42752,
+          "likeCount": 1203,
+          "commentCount": 65,
+          "durationSeconds": 1310
         }
       ],
       "thumbnailFeatures": null
@@ -1770,7 +1813,7 @@
       "durationSeconds": 60,
       "isShort": true,
       "likeRate": null,
-      "commentRate": 0.052975454705986226,
+      "commentRate": 0.05289139633286319,
       "dailyStats": [
         {
           "date": "2026-08-12",
@@ -1984,6 +2027,15 @@
           "title": "여름이 가기 전에 먹어야 할 것 = 🦑🍜🧊",
           "publishedAt": "2026-08-11T06:55:49Z",
           "viewCount": 5663,
+          "likeCount": null,
+          "commentCount": 3,
+          "durationSeconds": 60
+        },
+        {
+          "date": "2026-09-05",
+          "title": "여름이 가기 전에 먹어야 할 것 = 🦑🍜🧊",
+          "publishedAt": "2026-08-11T06:55:49Z",
+          "viewCount": 5672,
           "likeCount": null,
           "commentCount": 3,
           "durationSeconds": 60
@@ -2553,7 +2605,7 @@
       "durationSeconds": 48,
       "isShort": true,
       "likeRate": null,
-      "commentRate": 0.06656681644200366,
+      "commentRate": 0.0663680106188817,
       "dailyStats": [
         {
           "date": "2026-08-14",
@@ -2749,6 +2801,15 @@
           "title": "떡집에서 사 온 가래떡으로 통가래떡 떡볶이 만들기👩🏻‍🍳",
           "publishedAt": "2026-08-13T07:15:29Z",
           "viewCount": 6009,
+          "likeCount": null,
+          "commentCount": 4,
+          "durationSeconds": 48
+        },
+        {
+          "date": "2026-09-05",
+          "title": "떡집에서 사 온 가래떡으로 통가래떡 떡볶이 만들기👩🏻‍🍳",
+          "publishedAt": "2026-08-13T07:15:29Z",
+          "viewCount": 6027,
           "likeCount": null,
           "commentCount": 4,
           "durationSeconds": 48

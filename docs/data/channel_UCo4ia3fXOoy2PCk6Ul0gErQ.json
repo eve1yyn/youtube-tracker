@@ -239,6 +239,13 @@
       "subscriberCount": 16400,
       "totalViewCount": 4473931,
       "videoCount": 216
+    },
+    {
+      "date": "2026-09-05",
+      "title": "오리지널 레미 ORIGINAL REMY",
+      "subscriberCount": 16400,
+      "totalViewCount": 4473931,
+      "videoCount": 216
     }
   ],
   "videos": [
@@ -299,8 +306,8 @@
       "publishedAt": "2026-08-27T00:17:13Z",
       "durationSeconds": 904,
       "isShort": false,
-      "likeRate": 1.3754205422521275,
-      "commentRate": 0.2820106867207599,
+      "likeRate": 1.371921659879775,
+      "commentRate": 0.2763234438627109,
       "dailyStats": [
         {
           "date": "2026-08-27",
@@ -380,6 +387,15 @@
           "publishedAt": "2026-08-27T00:17:13Z",
           "viewCount": 20212,
           "likeCount": 278,
+          "commentCount": 57,
+          "durationSeconds": 904
+        },
+        {
+          "date": "2026-09-05",
+          "title": "장본 후 수다떨며 소분,정리. 00만원 장봐도 왜 먹을게 없.. /레몬소분 후 세정제 만들기, 소고기, 마늘, 미역 소분, 트레이더스 추천템",
+          "publishedAt": "2026-08-27T00:17:13Z",
+          "viewCount": 20628,
+          "likeCount": 283,
           "commentCount": 57,
           "durationSeconds": 904
         }
@@ -845,8 +861,8 @@
       "publishedAt": "2026-08-19T00:22:46Z",
       "durationSeconds": 583,
       "isShort": false,
-      "likeRate": 3.0620467365028206,
-      "commentRate": 2.39949861223028,
+      "likeRate": 3.019600918241215,
+      "commentRate": 2.3750662193183825,
       "dailyStats": [
         {
           "date": "2026-08-19",
@@ -1000,6 +1016,15 @@
           "likeCount": 342,
           "commentCount": 268,
           "durationSeconds": 583
+        },
+        {
+          "date": "2026-09-05",
+          "title": "세련되지 않아도 우리도 갬성(?)있어~ㅋ🤣| 리얼 주부현실 일상 루틴 살림 청소 집순이 갓생(?)vlog",
+          "publishedAt": "2026-08-19T00:22:46Z",
+          "viewCount": 11326,
+          "likeCount": 342,
+          "commentCount": 269,
+          "durationSeconds": 583
         }
       ],
       "thumbnailFeatures": null
@@ -1133,8 +1158,8 @@
       "publishedAt": "2026-09-04T00:50:26Z",
       "durationSeconds": 620,
       "isShort": false,
-      "likeRate": 8.990256864481843,
-      "commentRate": 1.771479185119575,
+      "likeRate": 1.3860459676004446,
+      "commentRate": 0.22515936604479794,
       "dailyStats": [
         {
           "date": "2026-09-04",
@@ -1143,6 +1168,15 @@
           "viewCount": 2258,
           "likeCount": 203,
           "commentCount": 40,
+          "durationSeconds": 620
+        },
+        {
+          "date": "2026-09-05",
+          "title": "삶이 끝나야 끝나는 살림. 살림이 지긋지긋한 4가지 이유",
+          "publishedAt": "2026-09-04T00:50:26Z",
+          "viewCount": 34198,
+          "likeCount": 474,
+          "commentCount": 77,
           "durationSeconds": 620
         }
       ],
@@ -1205,8 +1239,8 @@
       "publishedAt": "2026-08-11T07:48:27Z",
       "durationSeconds": 997,
       "isShort": false,
-      "likeRate": 3.482587064676617,
-      "commentRate": 0.34040324692327834,
+      "likeRate": 3.459037711313394,
+      "commentRate": 0.3381014304291287,
       "dailyStats": [
         {
           "date": "2026-08-12",
@@ -1420,6 +1454,15 @@
           "title": "폭염속 휴가vlog |지리산 산청계곡, 부산바다 그리고 병원? 내일을 모르는게 인생..어쩌다 10일간의 여름휴가",
           "publishedAt": "2026-08-11T07:48:27Z",
           "viewCount": 7638,
+          "likeCount": 266,
+          "commentCount": 26,
+          "durationSeconds": 997
+        },
+        {
+          "date": "2026-09-05",
+          "title": "폭염속 휴가vlog |지리산 산청계곡, 부산바다 그리고 병원? 내일을 모르는게 인생..어쩌다 10일간의 여름휴가",
+          "publishedAt": "2026-08-11T07:48:27Z",
+          "viewCount": 7690,
           "likeCount": 266,
           "commentCount": 26,
           "durationSeconds": 997

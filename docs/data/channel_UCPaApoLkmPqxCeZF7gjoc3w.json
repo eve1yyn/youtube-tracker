@@ -239,6 +239,13 @@
       "subscriberCount": 2360000,
       "totalViewCount": 423688011,
       "videoCount": 321
+    },
+    {
+      "date": "2026-09-05",
+      "title": "planD플랜디",
+      "subscriberCount": 2360000,
+      "totalViewCount": 423688011,
+      "videoCount": 321
     }
   ],
   "videos": [
@@ -542,8 +549,8 @@
       "publishedAt": "2026-08-12T11:00:22Z",
       "durationSeconds": 1990,
       "isShort": false,
-      "likeRate": 2.93304444839685,
-      "commentRate": 0.06036401657854598,
+      "likeRate": 2.9201167761368643,
+      "commentRate": 0.060100119308545454,
       "dailyStats": [
         {
           "date": "2026-08-13",
@@ -751,6 +758,15 @@
           "likeCount": 16326,
           "commentCount": 336,
           "durationSeconds": 1990
+        },
+        {
+          "date": "2026-09-05",
+          "title": "다친 엄마 보양식 만들기, 늦은 여름옷 언박싱. 단호박 콩국수, 벚꽃 모나카,콘칩빙수",
+          "publishedAt": "2026-08-12T11:00:22Z",
+          "viewCount": 560731,
+          "likeCount": 16374,
+          "commentCount": 337,
+          "durationSeconds": 1990
         }
       ],
       "thumbnailFeatures": null
@@ -911,8 +927,8 @@
       "publishedAt": "2026-08-17T11:00:29Z",
       "durationSeconds": 1917,
       "isShort": false,
-      "likeRate": 2.5626601758408847,
-      "commentRate": 0.06636951110348126,
+      "likeRate": 2.5343775516210387,
+      "commentRate": 0.06535168412648343,
       "dailyStats": [
         {
           "date": "2026-08-18",
@@ -1073,6 +1089,15 @@
           "publishedAt": "2026-08-17T11:00:29Z",
           "viewCount": 652408,
           "likeCount": 16719,
+          "commentCount": 433,
+          "durationSeconds": 1917
+        },
+        {
+          "date": "2026-09-05",
+          "title": "못나가는 집순이의 격리생활🏠 KFC치킨 만들기🍗  5가지 초간단 홈카페 메뉴",
+          "publishedAt": "2026-08-17T11:00:29Z",
+          "viewCount": 662569,
+          "likeCount": 16792,
           "commentCount": 433,
           "durationSeconds": 1917
         }
@@ -1652,8 +1677,8 @@
       "publishedAt": "2026-08-28T11:00:18Z",
       "durationSeconds": 2425,
       "isShort": false,
-      "likeRate": 1.7383825423201962,
-      "commentRate": 0.06520687406659516,
+      "likeRate": 1.7076238335818474,
+      "commentRate": 0.06316637439596452,
       "dailyStats": [
         {
           "date": "2026-08-29",
@@ -1716,6 +1741,15 @@
           "viewCount": 855738,
           "likeCount": 14876,
           "commentCount": 558,
+          "durationSeconds": 2425
+        },
+        {
+          "date": "2026-09-05",
+          "title": "동대문 두번갔다가 동묘,완구거리 가는 일상. 성심당 복숭아시루🍑 만들기",
+          "publishedAt": "2026-08-28T11:00:18Z",
+          "viewCount": 891297,
+          "likeCount": 15220,
+          "commentCount": 563,
           "durationSeconds": 2425
         }
       ],
