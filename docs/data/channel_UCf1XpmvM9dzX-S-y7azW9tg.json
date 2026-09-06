@@ -246,6 +246,13 @@
       "subscriberCount": 8470,
       "totalViewCount": 1422605,
       "videoCount": 46
+    },
+    {
+      "date": "2026-09-06",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8480,
+      "totalViewCount": 1427121,
+      "videoCount": 46
     }
   ],
   "videos": [
@@ -255,8 +262,8 @@
       "publishedAt": "2026-09-03T03:34:05Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 1.043382756727073,
-      "commentRate": 0.16474464579901155,
+      "likeRate": 1.2134583563154993,
+      "commentRate": 0.13789299503585217,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -284,6 +291,15 @@
           "likeCount": 19,
           "commentCount": 3,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-09-06",
+          "title": "꿈에서 택시기사가 소리쳤는데… 알고 보니?😨 My Taxi Driver in a Dream Might’ve Been…",
+          "publishedAt": "2026-09-03T03:34:05Z",
+          "viewCount": 3626,
+          "likeCount": 44,
+          "commentCount": 5,
+          "durationSeconds": 59
         }
       ],
       "thumbnailFeatures": null
@@ -294,8 +310,8 @@
       "publishedAt": "2026-09-03T03:28:21Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 0.6734006734006733,
-      "commentRate": 0,
+      "likeRate": 0.6774361646690985,
+      "commentRate": 0.10422094841063052,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -323,6 +339,15 @@
           "likeCount": 10,
           "commentCount": 0,
           "durationSeconds": 33
+        },
+        {
+          "date": "2026-09-06",
+          "title": "나혼자 사는 집인줄 알았는데 I Thought I Lived Alone… I Was Wrong 😂",
+          "publishedAt": "2026-09-03T03:28:21Z",
+          "viewCount": 1919,
+          "likeCount": 13,
+          "commentCount": 2,
+          "durationSeconds": 33
         }
       ],
       "thumbnailFeatures": null
@@ -333,8 +358,8 @@
       "publishedAt": "2026-08-30T11:52:04Z",
       "durationSeconds": 1740,
       "isShort": false,
-      "likeRate": 3.597122302158273,
-      "commentRate": 1.4388489208633095,
+      "likeRate": 4.069767441860465,
+      "commentRate": 1.1627906976744187,
       "dailyStats": [
         {
           "date": "2026-08-31",
@@ -387,6 +412,15 @@
           "publishedAt": "2026-08-30T11:52:04Z",
           "viewCount": 139,
           "likeCount": 5,
+          "commentCount": 2,
+          "durationSeconds": 1740
+        },
+        {
+          "date": "2026-09-06",
+          "title": "[썰풀곰] 자취방에서 살아남기…과연 살아남을 수 있을 것인가! Surviving My Apartment Life 😂",
+          "publishedAt": "2026-08-30T11:52:04Z",
+          "viewCount": 172,
+          "likeCount": 7,
           "commentCount": 2,
           "durationSeconds": 1740
         }
