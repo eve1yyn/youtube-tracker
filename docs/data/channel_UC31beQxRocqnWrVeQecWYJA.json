@@ -253,17 +253,45 @@
       "subscriberCount": 60200,
       "totalViewCount": 28477466,
       "videoCount": 742
+    },
+    {
+      "date": "2026-09-07",
+      "title": "상큼한 뿌미맘_MinimalTV",
+      "subscriberCount": 60200,
+      "totalViewCount": 28484234,
+      "videoCount": 743
     }
   ],
   "videos": [
+    {
+      "videoId": "6fXMm6a-ccY",
+      "title": "❤️소스병 분리수거 힘들다고요?",
+      "publishedAt": "2026-09-06T06:39:11Z",
+      "durationSeconds": 31,
+      "isShort": true,
+      "likeRate": 1.4061054579093433,
+      "commentRate": 0.07400555041628122,
+      "dailyStats": [
+        {
+          "date": "2026-09-07",
+          "title": "❤️소스병 분리수거 힘들다고요?",
+          "publishedAt": "2026-09-06T06:39:11Z",
+          "viewCount": 5405,
+          "likeCount": 76,
+          "commentCount": 4,
+          "durationSeconds": 31
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "93qaKBpbrfk",
       "title": "💛살림의 여왕 비법",
       "publishedAt": "2026-09-05T06:26:15Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 1.5660156601566018,
-      "commentRate": 0.2970029700297003,
+      "likeRate": 1.3898687738112037,
+      "commentRate": 0.23987582898264428,
       "dailyStats": [
         {
           "date": "2026-09-06",
@@ -272,6 +300,15 @@
           "viewCount": 11111,
           "likeCount": 174,
           "commentCount": 33,
+          "durationSeconds": 42
+        },
+        {
+          "date": "2026-09-07",
+          "title": "💛살림의 여왕 비법",
+          "publishedAt": "2026-09-05T06:26:15Z",
+          "viewCount": 14174,
+          "likeCount": 197,
+          "commentCount": 34,
           "durationSeconds": 42
         }
       ],
@@ -283,8 +320,8 @@
       "publishedAt": "2026-09-02T12:58:36Z",
       "durationSeconds": 41,
       "isShort": true,
-      "likeRate": 1.5141955835962144,
-      "commentRate": 0.22082018927444794,
+      "likeRate": 1.56078860898138,
+      "commentRate": 0.21905805038335158,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -321,6 +358,15 @@
           "likeCount": 48,
           "commentCount": 7,
           "durationSeconds": 41
+        },
+        {
+          "date": "2026-09-07",
+          "title": "💜돈이 없을 때 데이트 하는 방법",
+          "publishedAt": "2026-09-02T12:58:36Z",
+          "viewCount": 3652,
+          "likeCount": 57,
+          "commentCount": 8,
+          "durationSeconds": 41
         }
       ],
       "thumbnailFeatures": null
@@ -331,8 +377,8 @@
       "publishedAt": "2026-08-23T12:16:13Z",
       "durationSeconds": 19,
       "isShort": true,
-      "likeRate": 1.341344138605561,
-      "commentRate": 0.09780634343998881,
+      "likeRate": 1.3182930144060885,
+      "commentRate": 0.09513454743136722,
       "dailyStats": [
         {
           "date": "2026-08-24",
@@ -459,6 +505,15 @@
           "likeCount": 96,
           "commentCount": 7,
           "durationSeconds": 19
+        },
+        {
+          "date": "2026-09-07",
+          "title": "9,500원에 파스타 먹을 수 있을까요? (가성비 좋은 롤링 파스타)💛새 인스타💛 http://instagram.com/freshcha1023",
+          "publishedAt": "2026-08-23T12:16:13Z",
+          "viewCount": 7358,
+          "likeCount": 97,
+          "commentCount": 7,
+          "durationSeconds": 19
         }
       ],
       "thumbnailFeatures": null
@@ -469,8 +524,8 @@
       "publishedAt": "2026-08-28T03:28:15Z",
       "durationSeconds": 35,
       "isShort": true,
-      "likeRate": 2.0321361058601135,
-      "commentRate": 0.21266540642722118,
+      "likeRate": 1.99501246882793,
+      "commentRate": 0.22670596236681026,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -560,6 +615,15 @@
           "viewCount": 4232,
           "likeCount": 86,
           "commentCount": 9,
+          "durationSeconds": 35
+        },
+        {
+          "date": "2026-09-07",
+          "title": "🩵무더위에도 매일 걷는 이유",
+          "publishedAt": "2026-08-28T03:28:15Z",
+          "viewCount": 4411,
+          "likeCount": 88,
+          "commentCount": 10,
           "durationSeconds": 35
         }
       ],

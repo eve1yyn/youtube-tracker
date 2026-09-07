@@ -253,6 +253,13 @@
       "subscriberCount": 1010000,
       "totalViewCount": 15255420,
       "videoCount": 195
+    },
+    {
+      "date": "2026-09-07",
+      "title": "세빈 SEBIN",
+      "subscriberCount": 1010000,
+      "totalViewCount": 15285414,
+      "videoCount": 195
     }
   ],
   "videos": [
@@ -262,8 +269,8 @@
       "publishedAt": "2026-08-09T10:57:42Z",
       "durationSeconds": 610,
       "isShort": false,
-      "likeRate": 2.5492025140305534,
-      "commentRate": 0.14221705687153058,
+      "likeRate": 2.5460076045627376,
+      "commentRate": 0.14144486692015207,
       "dailyStats": [
         {
           "date": "2026-08-10",
@@ -514,6 +521,15 @@
           "publishedAt": "2026-08-09T10:57:42Z",
           "viewCount": 65393,
           "likeCount": 1667,
+          "commentCount": 93,
+          "durationSeconds": 610
+        },
+        {
+          "date": "2026-09-07",
+          "title": "요즘 핫플 고성 당일치기 여행⛱️ 실패 없는하루 코스 알려드림🥵",
+          "publishedAt": "2026-08-09T10:57:42Z",
+          "viewCount": 65750,
+          "likeCount": 1674,
           "commentCount": 93,
           "durationSeconds": 610
         }
@@ -778,8 +794,8 @@
       "publishedAt": "2026-08-16T11:00:04Z",
       "durationSeconds": 1214,
       "isShort": false,
-      "likeRate": 2.536615342596702,
-      "commentRate": 0.22532518521047423,
+      "likeRate": 2.522018970189702,
+      "commentRate": 0.22357723577235775,
       "dailyStats": [
         {
           "date": "2026-08-17",
@@ -969,6 +985,15 @@
           "likeCount": 1486,
           "commentCount": 132,
           "durationSeconds": 1214
+        },
+        {
+          "date": "2026-09-07",
+          "title": "만 24세, 첫 차 뽑았습니다🚗 같이 화장하고 차 받으러 양산까지 가보자구🥵",
+          "publishedAt": "2026-08-16T11:00:04Z",
+          "viewCount": 59040,
+          "likeCount": 1489,
+          "commentCount": 132,
+          "durationSeconds": 1214
         }
       ],
       "thumbnailFeatures": null
@@ -1048,8 +1073,8 @@
       "publishedAt": "2026-08-19T14:34:08Z",
       "durationSeconds": 15,
       "isShort": true,
-      "likeRate": 4.806305873305777,
-      "commentRate": 0.1922522349322311,
+      "likeRate": 4.761904761904762,
+      "commentRate": 0.1889644746787604,
       "dailyStats": [
         {
           "date": "2026-08-20",
@@ -1212,6 +1237,15 @@
           "likeCount": 500,
           "commentCount": 20,
           "durationSeconds": 15
+        },
+        {
+          "date": "2026-09-07",
+          "title": "오버립+누드립의 조합🤎",
+          "publishedAt": "2026-08-19T14:34:08Z",
+          "viewCount": 10584,
+          "likeCount": 504,
+          "commentCount": 20,
+          "durationSeconds": 15
         }
       ],
       "thumbnailFeatures": null
@@ -1222,8 +1256,8 @@
       "publishedAt": "2026-08-30T13:22:20Z",
       "durationSeconds": 1942,
       "isShort": false,
-      "likeRate": 1.2451927130284772,
-      "commentRate": 0.07263624159332784,
+      "likeRate": 1.2109917992485173,
+      "commentRate": 0.0710205716852514,
       "dailyStats": [
         {
           "date": "2026-08-31",
@@ -1287,6 +1321,15 @@
           "likeCount": 1920,
           "commentCount": 112,
           "durationSeconds": 1942
+        },
+        {
+          "date": "2026-09-07",
+          "title": "싱가폴 여행 브이로그🇸🇬 마리나베이샌즈 호텔, 아사이볼, 그리웠던 친구들까지..❤️",
+          "publishedAt": "2026-08-30T13:22:20Z",
+          "viewCount": 164741,
+          "likeCount": 1995,
+          "commentCount": 117,
+          "durationSeconds": 1942
         }
       ],
       "thumbnailFeatures": null
@@ -1297,8 +1340,8 @@
       "publishedAt": "2026-08-27T12:38:34Z",
       "durationSeconds": 83,
       "isShort": true,
-      "likeRate": 3.2088498352424293,
-      "commentRate": 0.16475757100266752,
+      "likeRate": 3.1936892088534883,
+      "commentRate": 0.16083326951060734,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -1387,6 +1430,15 @@
           "publishedAt": "2026-08-27T12:38:34Z",
           "viewCount": 12746,
           "likeCount": 409,
+          "commentCount": 21,
+          "durationSeconds": 83
+        },
+        {
+          "date": "2026-09-07",
+          "title": "두리안 먹방 in 🇲🇾 DURIAN MUKBANG w my family",
+          "publishedAt": "2026-08-27T12:38:34Z",
+          "viewCount": 13057,
+          "likeCount": 417,
           "commentCount": 21,
           "durationSeconds": 83
         }
@@ -2002,8 +2054,8 @@
       "publishedAt": "2026-09-05T12:12:25Z",
       "durationSeconds": 98,
       "isShort": true,
-      "likeRate": 5.7198757049142595,
-      "commentRate": 0.1381056508228795,
+      "likeRate": 4.757852939090974,
+      "commentRate": 0.09926965893781464,
       "dailyStats": [
         {
           "date": "2026-09-06",
@@ -2012,6 +2064,15 @@
           "viewCount": 8689,
           "likeCount": 497,
           "commentCount": 12,
+          "durationSeconds": 98
+        },
+        {
+          "date": "2026-09-07",
+          "title": "시딩깡 레츠고🩷 pr unboxing haul asmr",
+          "publishedAt": "2026-09-05T12:12:25Z",
+          "viewCount": 14103,
+          "likeCount": 671,
+          "commentCount": 14,
           "durationSeconds": 98
         }
       ],
@@ -2608,8 +2669,8 @@
       "publishedAt": "2026-08-23T12:17:53Z",
       "durationSeconds": 1025,
       "isShort": false,
-      "likeRate": 1.9926869048245384,
-      "commentRate": 0.13284579365496924,
+      "likeRate": 1.9579414670447401,
+      "commentRate": 0.13215463375203684,
       "dailyStats": [
         {
           "date": "2026-08-24",
@@ -2735,6 +2796,15 @@
           "viewCount": 76028,
           "likeCount": 1515,
           "commentCount": 101,
+          "durationSeconds": 1025
+        },
+        {
+          "date": "2026-09-07",
+          "title": "왓츠인마이카🩷 첫 붕붕이를 공개합니다! Bmw 320i 후기",
+          "publishedAt": "2026-08-23T12:17:53Z",
+          "viewCount": 77939,
+          "likeCount": 1526,
+          "commentCount": 103,
           "durationSeconds": 1025
         }
       ],
