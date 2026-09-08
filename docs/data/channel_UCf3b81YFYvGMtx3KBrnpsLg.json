@@ -260,6 +260,13 @@
       "subscriberCount": 781000,
       "totalViewCount": 222186265,
       "videoCount": 741
+    },
+    {
+      "date": "2026-09-08",
+      "title": "에바EVA",
+      "subscriberCount": 781000,
+      "totalViewCount": 222299657,
+      "videoCount": 741
     }
   ],
   "videos": [
@@ -683,8 +690,8 @@
       "publishedAt": "2026-08-27T12:23:18Z",
       "durationSeconds": 794,
       "isShort": false,
-      "likeRate": 0.8254212867916761,
-      "commentRate": 0.06649813435789718,
+      "likeRate": 0.8261901760578175,
+      "commentRate": 0.06617925122904324,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -784,6 +791,15 @@
           "likeCount": 1564,
           "commentCount": 126,
           "durationSeconds": 794
+        },
+        {
+          "date": "2026-09-08",
+          "title": "어른 여자 특 : 떠나고 싶을 때 훌쩍 떠남",
+          "publishedAt": "2026-08-27T12:23:18Z",
+          "viewCount": 190392,
+          "likeCount": 1573,
+          "commentCount": 126,
+          "durationSeconds": 794
         }
       ],
       "thumbnailFeatures": null
@@ -794,8 +810,8 @@
       "publishedAt": "2026-08-14T12:19:47Z",
       "durationSeconds": 102,
       "isShort": true,
-      "likeRate": 1.698611051468869,
-      "commentRate": 0.026719724405128275,
+      "likeRate": 1.6935165130507646,
+      "commentRate": 0.026560005059048587,
       "dailyStats": [
         {
           "date": "2026-08-15",
@@ -1012,6 +1028,15 @@
           "likeCount": 10680,
           "commentCount": 168,
           "durationSeconds": 102
+        },
+        {
+          "date": "2026-09-08",
+          "title": "혼자 사는 여성의 평일 하루 동안 먹은 것들",
+          "publishedAt": "2026-08-14T12:19:47Z",
+          "viewCount": 632530,
+          "likeCount": 10712,
+          "commentCount": 168,
+          "durationSeconds": 102
         }
       ],
       "thumbnailFeatures": null
@@ -1022,8 +1047,8 @@
       "publishedAt": "2026-08-25T12:28:04Z",
       "durationSeconds": 628,
       "isShort": false,
-      "likeRate": 1.2405567828948385,
-      "commentRate": 0.11123298676018478,
+      "likeRate": 1.2369456956284866,
+      "commentRate": 0.11049638968393428,
       "dailyStats": [
         {
           "date": "2026-08-26",
@@ -1141,6 +1166,15 @@
           "likeCount": 1606,
           "commentCount": 144,
           "durationSeconds": 628
+        },
+        {
+          "date": "2026-09-08",
+          "title": "서울에서 혼자 자취하면 하루 생활비 얼마 쓸까?",
+          "publishedAt": "2026-08-25T12:28:04Z",
+          "viewCount": 130321,
+          "likeCount": 1612,
+          "commentCount": 144,
+          "durationSeconds": 628
         }
       ],
       "thumbnailFeatures": null
@@ -1151,8 +1185,8 @@
       "publishedAt": "2026-08-13T12:26:42Z",
       "durationSeconds": 1192,
       "isShort": false,
-      "likeRate": 1.1737273410087103,
-      "commentRate": 0.06726231180565675,
+      "likeRate": 1.1725236937012498,
+      "commentRate": 0.06709720707875536,
       "dailyStats": [
         {
           "date": "2026-08-14",
@@ -1378,6 +1412,15 @@
           "likeCount": 2094,
           "commentCount": 120,
           "durationSeconds": 1192
+        },
+        {
+          "date": "2026-09-08",
+          "title": "그렇게 됐다..",
+          "publishedAt": "2026-08-13T12:26:42Z",
+          "viewCount": 178845,
+          "likeCount": 2097,
+          "commentCount": 120,
+          "durationSeconds": 1192
         }
       ],
       "thumbnailFeatures": null
@@ -1388,8 +1431,8 @@
       "publishedAt": "2026-08-24T12:15:19Z",
       "durationSeconds": 92,
       "isShort": true,
-      "likeRate": 1.5431847092207835,
-      "commentRate": 0.031801428618024076,
+      "likeRate": 1.5365683845792653,
+      "commentRate": 0.031573322970806825,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -1516,6 +1559,15 @@
           "likeCount": 3785,
           "commentCount": 78,
           "durationSeconds": 92
+        },
+        {
+          "date": "2026-09-08",
+          "title": "썸붕썰 푼다..",
+          "publishedAt": "2026-08-24T12:15:19Z",
+          "viewCount": 247044,
+          "likeCount": 3796,
+          "commentCount": 78,
+          "durationSeconds": 92
         }
       ],
       "thumbnailFeatures": null
@@ -1526,8 +1578,8 @@
       "publishedAt": "2026-08-31T11:33:05Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 1.4533965244865719,
-      "commentRate": 0.06770480704129993,
+      "likeRate": 1.446032019280427,
+      "commentRate": 0.06455500086073335,
       "dailyStats": [
         {
           "date": "2026-09-01",
@@ -1591,6 +1643,15 @@
           "likeCount": 644,
           "commentCount": 30,
           "durationSeconds": 82
+        },
+        {
+          "date": "2026-09-08",
+          "title": "자라에서 딱 하나만 산다면?",
+          "publishedAt": "2026-08-31T11:33:05Z",
+          "viewCount": 46472,
+          "likeCount": 672,
+          "commentCount": 30,
+          "durationSeconds": 82
         }
       ],
       "thumbnailFeatures": null
@@ -1601,8 +1662,8 @@
       "publishedAt": "2026-09-06T13:10:12Z",
       "durationSeconds": 119,
       "isShort": true,
-      "likeRate": 3.5935836728700954,
-      "commentRate": 0.04037734463898983,
+      "likeRate": 2.8348464866867937,
+      "commentRate": 0.0272476594260553,
       "dailyStats": [
         {
           "date": "2026-09-07",
@@ -1611,6 +1672,15 @@
           "viewCount": 54486,
           "likeCount": 1958,
           "commentCount": 22,
+          "durationSeconds": 119
+        },
+        {
+          "date": "2026-09-08",
+          "title": "이사하기 전 반드시 해야 하는 것들",
+          "publishedAt": "2026-09-06T13:10:12Z",
+          "viewCount": 91751,
+          "likeCount": 2601,
+          "commentCount": 25,
           "durationSeconds": 119
         }
       ],
@@ -2441,8 +2511,8 @@
       "publishedAt": "2026-08-18T12:32:48Z",
       "durationSeconds": 62,
       "isShort": true,
-      "likeRate": 1.3798291966321699,
-      "commentRate": 0.010688914225574461,
+      "likeRate": 1.3771368776518866,
+      "commentRate": 0.010655359235874136,
       "dailyStats": [
         {
           "date": "2026-08-19",
@@ -2623,6 +2693,15 @@
           "likeCount": 10069,
           "commentCount": 78,
           "durationSeconds": 62
+        },
+        {
+          "date": "2026-09-08",
+          "title": "서울에서 혼자 자취하면 주말에 얼마 쓸까?",
+          "publishedAt": "2026-08-18T12:32:48Z",
+          "viewCount": 732026,
+          "likeCount": 10081,
+          "commentCount": 78,
+          "durationSeconds": 62
         }
       ],
       "thumbnailFeatures": null
@@ -2633,8 +2712,8 @@
       "publishedAt": "2026-09-02T12:18:27Z",
       "durationSeconds": 869,
       "isShort": false,
-      "likeRate": 0.8419185236941342,
-      "commentRate": 0.07135742637548873,
+      "likeRate": 0.8300005740637976,
+      "commentRate": 0.06984442871084406,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -2679,6 +2758,15 @@
           "viewCount": 201801,
           "likeCount": 1699,
           "commentCount": 144,
+          "durationSeconds": 869
+        },
+        {
+          "date": "2026-09-08",
+          "title": "혼자 사는 싱글 여성의 이사하는 날",
+          "publishedAt": "2026-09-02T12:18:27Z",
+          "viewCount": 209036,
+          "likeCount": 1735,
+          "commentCount": 146,
           "durationSeconds": 869
         }
       ],

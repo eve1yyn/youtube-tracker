@@ -260,6 +260,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 149009511,
       "videoCount": 397
+    },
+    {
+      "date": "2026-09-08",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 149014894,
+      "videoCount": 397
     }
   ],
   "videos": [
@@ -749,8 +756,8 @@
       "publishedAt": "2026-08-25T09:30:01Z",
       "durationSeconds": 1380,
       "isShort": false,
-      "likeRate": 1.9580882540167543,
-      "commentRate": 0.09675858732462506,
+      "likeRate": 1.9391445317371243,
+      "commentRate": 0.09602194787379972,
       "dailyStats": [
         {
           "date": "2026-08-26",
@@ -867,6 +874,15 @@
           "viewCount": 78546,
           "likeCount": 1538,
           "commentCount": 76,
+          "durationSeconds": 1380
+        },
+        {
+          "date": "2026-09-08",
+          "title": "더워서 집에만 있고 싶다..🌞 💧비스코티 만들고, 두부 콩국수 해 먹기...🐱",
+          "publishedAt": "2026-08-25T09:30:01Z",
+          "viewCount": 80190,
+          "likeCount": 1555,
+          "commentCount": 77,
           "durationSeconds": 1380
         }
       ],
