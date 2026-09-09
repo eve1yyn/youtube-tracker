@@ -267,6 +267,13 @@
       "subscriberCount": 34400,
       "totalViewCount": 3548175,
       "videoCount": 101
+    },
+    {
+      "date": "2026-09-09",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34400,
+      "totalViewCount": 3550822,
+      "videoCount": 101
     }
   ],
   "videos": [
@@ -1017,7 +1024,7 @@
       "publishedAt": "2026-08-10T15:16:25Z",
       "durationSeconds": 74,
       "isShort": true,
-      "likeRate": 0.9066183136899365,
+      "likeRate": 0.8925914906277893,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -1280,6 +1287,15 @@
           "likeCount": 30,
           "commentCount": 0,
           "durationSeconds": 74
+        },
+        {
+          "date": "2026-09-09",
+          "title": "화잘먹 겔팩 다들 뭐써?!?💜🌾👸 #gelpack",
+          "publishedAt": "2026-08-10T15:16:25Z",
+          "viewCount": 3361,
+          "likeCount": 30,
+          "commentCount": 0,
+          "durationSeconds": 74
         }
       ],
       "thumbnailFeatures": null
@@ -1290,8 +1306,8 @@
       "publishedAt": "2026-08-11T06:23:46Z",
       "durationSeconds": 28,
       "isShort": true,
-      "likeRate": 0.5564715581203628,
-      "commentRate": 0.020610057708161583,
+      "likeRate": 0.5468908243872798,
+      "commentRate": 0.0202552157180474,
       "dailyStats": [
         {
           "date": "2026-08-12",
@@ -1544,6 +1560,15 @@
           "likeCount": 27,
           "commentCount": 1,
           "durationSeconds": 28
+        },
+        {
+          "date": "2026-09-09",
+          "title": "피부 개복치들 모이세요.... #화잘먹",
+          "publishedAt": "2026-08-11T06:23:46Z",
+          "viewCount": 4937,
+          "likeCount": 27,
+          "commentCount": 1,
+          "durationSeconds": 28
         }
       ],
       "thumbnailFeatures": null
@@ -1554,8 +1579,8 @@
       "publishedAt": "2026-08-10T03:53:04Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 0.9040683073832245,
-      "commentRate": 0.05022601707684581,
+      "likeRate": 0.8926357550210762,
+      "commentRate": 0.049590875278948676,
       "dailyStats": [
         {
           "date": "2026-08-11",
@@ -1814,6 +1839,15 @@
           "title": "화잘먹 흑미 PDRN 겔 팩 런칭 완💜 #gelpack",
           "publishedAt": "2026-08-10T03:53:04Z",
           "viewCount": 3982,
+          "likeCount": 36,
+          "commentCount": 2,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-09-09",
+          "title": "화잘먹 흑미 PDRN 겔 팩 런칭 완💜 #gelpack",
+          "publishedAt": "2026-08-10T03:53:04Z",
+          "viewCount": 4033,
           "likeCount": 36,
           "commentCount": 2,
           "durationSeconds": 56
