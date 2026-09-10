@@ -274,6 +274,13 @@
       "subscriberCount": 34400,
       "totalViewCount": 3550822,
       "videoCount": 101
+    },
+    {
+      "date": "2026-09-10",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34400,
+      "totalViewCount": 3553820,
+      "videoCount": 101
     }
   ],
   "videos": [
@@ -1306,8 +1313,8 @@
       "publishedAt": "2026-08-11T06:23:46Z",
       "durationSeconds": 28,
       "isShort": true,
-      "likeRate": 0.5468908243872798,
-      "commentRate": 0.0202552157180474,
+      "likeRate": 0.5603362017210326,
+      "commentRate": 0.020012007204322592,
       "dailyStats": [
         {
           "date": "2026-08-12",
@@ -1567,6 +1574,15 @@
           "publishedAt": "2026-08-11T06:23:46Z",
           "viewCount": 4937,
           "likeCount": 27,
+          "commentCount": 1,
+          "durationSeconds": 28
+        },
+        {
+          "date": "2026-09-10",
+          "title": "피부 개복치들 모이세요.... #화잘먹",
+          "publishedAt": "2026-08-11T06:23:46Z",
+          "viewCount": 4997,
+          "likeCount": 28,
           "commentCount": 1,
           "durationSeconds": 28
         }

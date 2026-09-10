@@ -274,6 +274,13 @@
       "subscriberCount": 17500,
       "totalViewCount": 2719042,
       "videoCount": 82
+    },
+    {
+      "date": "2026-09-10",
+      "title": "고초희 Daily Chohees",
+      "subscriberCount": 17500,
+      "totalViewCount": 2719042,
+      "videoCount": 82
     }
   ],
   "videos": [
@@ -283,8 +290,8 @@
       "publishedAt": "2026-08-30T00:00:06Z",
       "durationSeconds": 1515,
       "isShort": false,
-      "likeRate": 0.9352987824788916,
-      "commentRate": 0.4081727853710874,
+      "likeRate": 0.9343404997094712,
+      "commentRate": 0.40674026728646134,
       "dailyStats": [
         {
           "date": "2026-08-30",
@@ -382,6 +389,15 @@
           "publishedAt": "2026-08-30T00:00:06Z",
           "viewCount": 42874,
           "likeCount": 401,
+          "commentCount": 175,
+          "durationSeconds": 1515
+        },
+        {
+          "date": "2026-09-10",
+          "title": "EP 60. 명상 흉내라도 내며 리셋하기 | 인풋 없이 아웃풋만 내면 생기는 일 | 평창 브이로그 vlog",
+          "publishedAt": "2026-08-30T00:00:06Z",
+          "viewCount": 43025,
+          "likeCount": 402,
           "commentCount": 175,
           "durationSeconds": 1515
         }
