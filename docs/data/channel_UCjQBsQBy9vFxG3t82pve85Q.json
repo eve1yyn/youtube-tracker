@@ -288,6 +288,13 @@
       "subscriberCount": 34400,
       "totalViewCount": 3555931,
       "videoCount": 101
+    },
+    {
+      "date": "2026-09-12",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34400,
+      "totalViewCount": 3558647,
+      "videoCount": 102
     }
   ],
   "videos": [
@@ -1592,6 +1599,27 @@
           "likeCount": 28,
           "commentCount": 1,
           "durationSeconds": 28
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "Vbo8X9GhFwM",
+      "title": "같이 화장해요 #mkaeup #makeuptutorial",
+      "publishedAt": "2026-09-11T11:24:36Z",
+      "durationSeconds": 53,
+      "isShort": true,
+      "likeRate": 1.416048550236008,
+      "commentRate": 0.13486176668914363,
+      "dailyStats": [
+        {
+          "date": "2026-09-12",
+          "title": "같이 화장해요 #mkaeup #makeuptutorial",
+          "publishedAt": "2026-09-11T11:24:36Z",
+          "viewCount": 1483,
+          "likeCount": 21,
+          "commentCount": 2,
+          "durationSeconds": 53
         }
       ],
       "thumbnailFeatures": null
