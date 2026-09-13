@@ -295,17 +295,45 @@
       "subscriberCount": 17500,
       "totalViewCount": 2756839,
       "videoCount": 84
+    },
+    {
+      "date": "2026-09-13",
+      "title": "고초희 Daily Chohees",
+      "subscriberCount": 17500,
+      "totalViewCount": 2757720,
+      "videoCount": 85
     }
   ],
   "videos": [
+    {
+      "videoId": "ohrt5Sb2Y4U",
+      "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 우리들의 여름기록 브이로그 vlog",
+      "publishedAt": "2026-09-13T00:00:26Z",
+      "durationSeconds": 1409,
+      "isShort": false,
+      "likeRate": 8.008213552361395,
+      "commentRate": 2.1560574948665296,
+      "dailyStats": [
+        {
+          "date": "2026-09-13",
+          "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 우리들의 여름기록 브이로그 vlog",
+          "publishedAt": "2026-09-13T00:00:26Z",
+          "viewCount": 974,
+          "likeCount": 78,
+          "commentCount": 21,
+          "durationSeconds": 1409
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "suoOrNClDYA",
       "title": "EP 60. 명상 흉내라도 내며 리셋하기 | 인풋 없이 아웃풋만 내면 생기는 일 | 평창 브이로그 vlog",
       "publishedAt": "2026-08-30T00:00:06Z",
       "durationSeconds": 1515,
       "isShort": false,
-      "likeRate": 0.9295995571138586,
-      "commentRate": 0.4059789629082856,
+      "likeRate": 0.9277332537258595,
+      "commentRate": 0.40645739086504235,
       "dailyStats": [
         {
           "date": "2026-08-30",
@@ -431,6 +459,15 @@
           "viewCount": 43352,
           "likeCount": 403,
           "commentCount": 176,
+          "durationSeconds": 1515
+        },
+        {
+          "date": "2026-09-13",
+          "title": "EP 60. 명상 흉내라도 내며 리셋하기 | 인풋 없이 아웃풋만 내면 생기는 일 | 평창 브이로그 vlog",
+          "publishedAt": "2026-08-30T00:00:06Z",
+          "viewCount": 43547,
+          "likeCount": 404,
+          "commentCount": 177,
           "durationSeconds": 1515
         }
       ],

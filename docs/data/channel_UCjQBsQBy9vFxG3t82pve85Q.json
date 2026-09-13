@@ -295,6 +295,13 @@
       "subscriberCount": 34400,
       "totalViewCount": 3558647,
       "videoCount": 102
+    },
+    {
+      "date": "2026-09-13",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34400,
+      "totalViewCount": 3563816,
+      "videoCount": 102
     }
   ],
   "videos": [
@@ -1609,8 +1616,8 @@
       "publishedAt": "2026-09-11T11:24:36Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 1.416048550236008,
-      "commentRate": 0.13486176668914363,
+      "likeRate": 1.3537906137184115,
+      "commentRate": 0.04512635379061372,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -1619,6 +1626,15 @@
           "viewCount": 1483,
           "likeCount": 21,
           "commentCount": 2,
+          "durationSeconds": 53
+        },
+        {
+          "date": "2026-09-13",
+          "title": "같이 화장해요 #mkaeup #makeuptutorial",
+          "publishedAt": "2026-09-11T11:24:36Z",
+          "viewCount": 2216,
+          "likeCount": 30,
+          "commentCount": 1,
           "durationSeconds": 53
         }
       ],

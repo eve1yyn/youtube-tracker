@@ -295,6 +295,13 @@
       "subscriberCount": 42200,
       "totalViewCount": 1367553,
       "videoCount": 36
+    },
+    {
+      "date": "2026-09-13",
+      "title": "설아의날들 (Seola's Moments)",
+      "subscriberCount": 42300,
+      "totalViewCount": 1369227,
+      "videoCount": 36
     }
   ],
   "videos": [
@@ -304,8 +311,8 @@
       "publishedAt": "2026-08-20T02:56:22Z",
       "durationSeconds": 76,
       "isShort": true,
-      "likeRate": 5.851279967492888,
-      "commentRate": 0.28443722064201543,
+      "likeRate": 5.834683954619125,
+      "commentRate": 0.28363047001620745,
       "dailyStats": [
         {
           "date": "2026-08-21",
@@ -510,6 +517,15 @@
           "title": "With까사미아❤️",
           "publishedAt": "2026-08-20T02:56:22Z",
           "viewCount": 2461,
+          "likeCount": 144,
+          "commentCount": 7,
+          "durationSeconds": 76
+        },
+        {
+          "date": "2026-09-13",
+          "title": "With까사미아❤️",
+          "publishedAt": "2026-08-20T02:56:22Z",
+          "viewCount": 2468,
           "likeCount": 144,
           "commentCount": 7,
           "durationSeconds": 76
@@ -910,8 +926,8 @@
       "publishedAt": "2026-08-28T10:00:21Z",
       "durationSeconds": 1319,
       "isShort": false,
-      "likeRate": 2.1335486103102297,
-      "commentRate": 0.3805789412985815,
+      "likeRate": 2.125465482669722,
+      "commentRate": 0.3781151532512174,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -1054,6 +1070,15 @@
           "publishedAt": "2026-08-28T10:00:21Z",
           "viewCount": 17342,
           "likeCount": 370,
+          "commentCount": 66,
+          "durationSeconds": 1319
+        },
+        {
+          "date": "2026-09-13",
+          "title": "대충 살아도 괜찮은가요 03.재영(진짜 대충 살면 어떨까?똑똑한 그녀의 생존법,열심히 사는 이유,다양한 경험이 주는 힘)",
+          "publishedAt": "2026-08-28T10:00:21Z",
+          "viewCount": 17455,
+          "likeCount": 371,
           "commentCount": 66,
           "durationSeconds": 1319
         }
