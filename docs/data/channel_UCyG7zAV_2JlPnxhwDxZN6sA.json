@@ -302,6 +302,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 360495984,
       "videoCount": 231
+    },
+    {
+      "date": "2026-09-14",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 360732166,
+      "videoCount": 232
     }
   ],
   "videos": [
@@ -425,8 +432,8 @@
       "publishedAt": "2026-08-21T12:26:43Z",
       "durationSeconds": 1654,
       "isShort": false,
-      "likeRate": 1.5131200919364107,
-      "commentRate": 0.08226550406460668,
+      "likeRate": 1.5014207224505065,
+      "commentRate": 0.0813166495066893,
       "dailyStats": [
         {
           "date": "2026-08-22",
@@ -634,6 +641,15 @@
           "likeCount": 4819,
           "commentCount": 262,
           "durationSeconds": 1654
+        },
+        {
+          "date": "2026-09-14",
+          "title": "vlog | 이사 준비하는 냉털 주간 🏚️ 💸  초계국수 만들고 낭만 한도 초과 여름 축제 🎏 🏮 다녀온 집순이 일상 | 여름 집밥 해먹으며 조용히 보내는 소소한 하루",
+          "publishedAt": "2026-08-21T12:26:43Z",
+          "viewCount": 323427,
+          "likeCount": 4856,
+          "commentCount": 263,
+          "durationSeconds": 1654
         }
       ],
       "thumbnailFeatures": null
@@ -644,8 +660,8 @@
       "publishedAt": "2026-09-12T15:06:07Z",
       "durationSeconds": 1414,
       "isShort": false,
-      "likeRate": 2.3312101910828025,
-      "commentRate": 0.1735668789808917,
+      "likeRate": 1.6368621923906141,
+      "commentRate": 0.10954278099118774,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -654,6 +670,15 @@
           "viewCount": 62800,
           "likeCount": 1464,
           "commentCount": 109,
+          "durationSeconds": 1414
+        },
+        {
+          "date": "2026-09-14",
+          "title": "vlog | 이사한 집에서 보내는 일상 ⏰ 하루 종일 정리하고 집밥 해먹는 어른 여자가 되고 싶은 사람 .. | 웃픈 이사 대장정 썰 📦💸",
+          "publishedAt": "2026-09-12T15:06:07Z",
+          "viewCount": 143323,
+          "likeCount": 2346,
+          "commentCount": 157,
           "durationSeconds": 1414
         }
       ],
@@ -665,8 +690,8 @@
       "publishedAt": "2026-08-18T12:18:06Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 2.7412409309495485,
-      "commentRate": 0.033511502823344114,
+      "likeRate": 2.7341535794071556,
+      "commentRate": 0.03334333633423361,
       "dailyStats": [
         {
           "date": "2026-08-19",
@@ -901,6 +926,15 @@
           "likeCount": 1636,
           "commentCount": 20,
           "durationSeconds": 57
+        },
+        {
+          "date": "2026-09-14",
+          "title": "집순이 자취생 아침메뉴 🎐🤍",
+          "publishedAt": "2026-08-18T12:18:06Z",
+          "viewCount": 59982,
+          "likeCount": 1640,
+          "commentCount": 20,
+          "durationSeconds": 57
         }
       ],
       "thumbnailFeatures": null
@@ -911,8 +945,8 @@
       "publishedAt": "2026-08-15T13:50:44Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 2.784100731861926,
-      "commentRate": 0.018728750072033656,
+      "likeRate": 2.780133078481813,
+      "commentRate": 0.01868272422861906,
       "dailyStats": [
         {
           "date": "2026-08-16",
@@ -1174,6 +1208,36 @@
           "likeCount": 3865,
           "commentCount": 26,
           "durationSeconds": 82
+        },
+        {
+          "date": "2026-09-14",
+          "title": "집순이 자취생 출근전 점심도시락 🍱",
+          "publishedAt": "2026-08-15T13:50:44Z",
+          "viewCount": 139166,
+          "likeCount": 3869,
+          "commentCount": 26,
+          "durationSeconds": 82
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "vhvpA6umzqk",
+      "title": "vlog | 도시락 싸서 여름 피크닉 다녀온 일상 ☁️🎐  매콤한 해물찜, 꾸덕한 감자스프 만들고 카페에서 작업하며 보낸 집순이의 주말 48시간 🏡",
+      "publishedAt": "2026-09-13T11:00:50Z",
+      "durationSeconds": 1513,
+      "isShort": false,
+      "likeRate": 1.7049818237673442,
+      "commentRate": 0.15872203164200502,
+      "dailyStats": [
+        {
+          "date": "2026-09-14",
+          "title": "vlog | 도시락 싸서 여름 피크닉 다녀온 일상 ☁️🎐  매콤한 해물찜, 꾸덕한 감자스프 만들고 카페에서 작업하며 보낸 집순이의 주말 48시간 🏡",
+          "publishedAt": "2026-09-13T11:00:50Z",
+          "viewCount": 78124,
+          "likeCount": 1332,
+          "commentCount": 124,
+          "durationSeconds": 1513
         }
       ],
       "thumbnailFeatures": null

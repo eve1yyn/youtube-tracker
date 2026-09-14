@@ -302,6 +302,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 149081026,
       "videoCount": 398
+    },
+    {
+      "date": "2026-09-14",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 149114026,
+      "videoCount": 398
     }
   ],
   "videos": [
@@ -497,8 +504,8 @@
       "publishedAt": "2026-09-11T08:00:29Z",
       "durationSeconds": 1482,
       "isShort": false,
-      "likeRate": 1.6147450308675018,
-      "commentRate": 0.09991792456196695,
+      "likeRate": 1.5000862118512557,
+      "commentRate": 0.09914362894419218,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -516,6 +523,15 @@
           "viewCount": 56046,
           "likeCount": 905,
           "commentCount": 56,
+          "durationSeconds": 1482
+        },
+        {
+          "date": "2026-09-14",
+          "title": "화이트 라구소스,건강한 쥬스 만들어 먹고 빈티지 마켓,합사 성공…?🐱",
+          "publishedAt": "2026-09-11T08:00:29Z",
+          "viewCount": 69596,
+          "likeCount": 1044,
+          "commentCount": 69,
           "durationSeconds": 1482
         }
       ],
@@ -821,8 +837,8 @@
       "publishedAt": "2026-08-25T09:30:01Z",
       "durationSeconds": 1380,
       "isShort": false,
-      "likeRate": 1.8804960013114294,
-      "commentRate": 0.09250260529489597,
+      "likeRate": 1.8838961763885012,
+      "commentRate": 0.09186901107079729,
       "dailyStats": [
         {
           "date": "2026-08-26",
@@ -992,6 +1008,15 @@
           "publishedAt": "2026-08-25T09:30:01Z",
           "viewCount": 85403,
           "likeCount": 1606,
+          "commentCount": 79,
+          "durationSeconds": 1380
+        },
+        {
+          "date": "2026-09-14",
+          "title": "더워서 집에만 있고 싶다..🌞 💧비스코티 만들고, 두부 콩국수 해 먹기...🐱",
+          "publishedAt": "2026-08-25T09:30:01Z",
+          "viewCount": 85992,
+          "likeCount": 1620,
           "commentCount": 79,
           "durationSeconds": 1380
         }

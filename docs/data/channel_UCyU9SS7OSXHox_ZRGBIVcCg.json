@@ -302,17 +302,24 @@
       "subscriberCount": 17500,
       "totalViewCount": 2757720,
       "videoCount": 85
+    },
+    {
+      "date": "2026-09-14",
+      "title": "고초희 Daily Chohees",
+      "subscriberCount": 17500,
+      "totalViewCount": 2771149,
+      "videoCount": 85
     }
   ],
   "videos": [
     {
       "videoId": "ohrt5Sb2Y4U",
-      "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 우리들의 여름기록 브이로그 vlog",
+      "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 말하는 대로 이루어진다 | 여름기록 브이로그 vlog",
       "publishedAt": "2026-09-13T00:00:26Z",
       "durationSeconds": 1409,
       "isShort": false,
-      "likeRate": 8.008213552361395,
-      "commentRate": 2.1560574948665296,
+      "likeRate": 1.5961395694135114,
+      "commentRate": 0.33407572383073497,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -321,6 +328,15 @@
           "viewCount": 974,
           "likeCount": 78,
           "commentCount": 21,
+          "durationSeconds": 1409
+        },
+        {
+          "date": "2026-09-14",
+          "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 말하는 대로 이루어진다 | 여름기록 브이로그 vlog",
+          "publishedAt": "2026-09-13T00:00:26Z",
+          "viewCount": 13470,
+          "likeCount": 215,
+          "commentCount": 45,
           "durationSeconds": 1409
         }
       ],
@@ -332,8 +348,8 @@
       "publishedAt": "2026-08-30T00:00:06Z",
       "durationSeconds": 1515,
       "isShort": false,
-      "likeRate": 0.9277332537258595,
-      "commentRate": 0.40645739086504235,
+      "likeRate": 0.9320601270160369,
+      "commentRate": 0.4043496139260748,
       "dailyStats": [
         {
           "date": "2026-08-30",
@@ -467,6 +483,15 @@
           "publishedAt": "2026-08-30T00:00:06Z",
           "viewCount": 43547,
           "likeCount": 404,
+          "commentCount": 177,
+          "durationSeconds": 1515
+        },
+        {
+          "date": "2026-09-14",
+          "title": "EP 60. 명상 흉내라도 내며 리셋하기 | 인풋 없이 아웃풋만 내면 생기는 일 | 평창 브이로그 vlog",
+          "publishedAt": "2026-08-30T00:00:06Z",
+          "viewCount": 43774,
+          "likeCount": 408,
           "commentCount": 177,
           "durationSeconds": 1515
         }
