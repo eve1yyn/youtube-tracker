@@ -309,6 +309,13 @@
       "subscriberCount": 8090,
       "totalViewCount": 2617699,
       "videoCount": 272
+    },
+    {
+      "date": "2026-09-15",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8100,
+      "totalViewCount": 2618352,
+      "videoCount": 272
     }
   ],
   "videos": [
@@ -609,8 +616,8 @@
       "publishedAt": "2026-09-04T07:05:09Z",
       "durationSeconds": 639,
       "isShort": false,
-      "likeRate": 0.813815005954744,
-      "commentRate": 0.03969829297340214,
+      "likeRate": 0.8115597783056215,
+      "commentRate": 0.0395882818685669,
       "dailyStats": [
         {
           "date": "2026-09-05",
@@ -698,6 +705,15 @@
           "title": "미니멀한 냉장고를 위한 정리",
           "publishedAt": "2026-09-04T07:05:09Z",
           "viewCount": 10076,
+          "likeCount": 82,
+          "commentCount": 4,
+          "durationSeconds": 639
+        },
+        {
+          "date": "2026-09-15",
+          "title": "미니멀한 냉장고를 위한 정리",
+          "publishedAt": "2026-09-04T07:05:09Z",
+          "viewCount": 10104,
           "likeCount": 82,
           "commentCount": 4,
           "durationSeconds": 639
@@ -993,8 +1009,8 @@
       "publishedAt": "2026-08-24T10:22:50Z",
       "durationSeconds": 1270,
       "isShort": false,
-      "likeRate": 1.426220515633571,
-      "commentRate": 0.12799414883891022,
+      "likeRate": 1.422060164083865,
+      "commentRate": 0.12762078395624432,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -1181,6 +1197,15 @@
           "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
           "publishedAt": "2026-08-24T10:22:50Z",
           "viewCount": 5469,
+          "likeCount": 78,
+          "commentCount": 7,
+          "durationSeconds": 1270
+        },
+        {
+          "date": "2026-09-15",
+          "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
+          "publishedAt": "2026-08-24T10:22:50Z",
+          "viewCount": 5485,
           "likeCount": 78,
           "commentCount": 7,
           "durationSeconds": 1270

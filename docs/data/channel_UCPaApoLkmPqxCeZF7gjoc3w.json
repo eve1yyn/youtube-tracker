@@ -309,6 +309,13 @@
       "subscriberCount": 2360000,
       "totalViewCount": 425724057,
       "videoCount": 322
+    },
+    {
+      "date": "2026-09-15",
+      "title": "planD플랜디",
+      "subscriberCount": 2360000,
+      "totalViewCount": 425830843,
+      "videoCount": 322
     }
   ],
   "videos": [
@@ -1044,8 +1051,8 @@
       "publishedAt": "2026-08-17T11:00:29Z",
       "durationSeconds": 1917,
       "isShort": false,
-      "likeRate": 2.3725690529397956,
-      "commentRate": 0.05929387373525625,
+      "likeRate": 2.356693374604352,
+      "commentRate": 0.059112135721463614,
       "dailyStats": [
         {
           "date": "2026-08-18",
@@ -1297,6 +1304,15 @@
           "viewCount": 737007,
           "likeCount": 17486,
           "commentCount": 437,
+          "durationSeconds": 1917
+        },
+        {
+          "date": "2026-09-15",
+          "title": "못나가는 집순이의 격리생활🏠 KFC치킨 만들기🍗  5가지 초간단 홈카페 메뉴",
+          "publishedAt": "2026-08-17T11:00:29Z",
+          "viewCount": 744348,
+          "likeCount": 17542,
+          "commentCount": 440,
           "durationSeconds": 1917
         }
       ],
@@ -1875,8 +1891,8 @@
       "publishedAt": "2026-08-28T11:00:18Z",
       "durationSeconds": 2425,
       "isShort": false,
-      "likeRate": 1.5999178418021287,
-      "commentRate": 0.05634243386123745,
+      "likeRate": 1.594499434336344,
+      "commentRate": 0.05600630257591654,
       "dailyStats": [
         {
           "date": "2026-08-29",
@@ -2030,6 +2046,15 @@
           "likeCount": 16981,
           "commentCount": 598,
           "durationSeconds": 2425
+        },
+        {
+          "date": "2026-09-15",
+          "title": "동대문 두번갔다가 동묘,완구거리 가는 일상. 성심당 복숭아시루🍑 만들기",
+          "publishedAt": "2026-08-28T11:00:18Z",
+          "viewCount": 1071308,
+          "likeCount": 17082,
+          "commentCount": 600,
+          "durationSeconds": 2425
         }
       ],
       "thumbnailFeatures": null
@@ -2040,8 +2065,8 @@
       "publishedAt": "2026-09-06T13:32:47Z",
       "durationSeconds": 2335,
       "isShort": false,
-      "likeRate": 1.9816549139891746,
-      "commentRate": 0.06583528999874419,
+      "likeRate": 1.9542103736051892,
+      "commentRate": 0.06368549691899893,
       "dailyStats": [
         {
           "date": "2026-09-07",
@@ -2113,6 +2138,15 @@
           "viewCount": 788331,
           "likeCount": 15622,
           "commentCount": 519,
+          "durationSeconds": 2335
+        },
+        {
+          "date": "2026-09-15",
+          "title": "대전 빵버스 투어🚐 , 빵집 10군데 들러 빵모으는 자취일상. 빵해장은 짬뽕으로!",
+          "publishedAt": "2026-09-06T13:32:47Z",
+          "viewCount": 813372,
+          "likeCount": 15895,
+          "commentCount": 518,
           "durationSeconds": 2335
         }
       ],
