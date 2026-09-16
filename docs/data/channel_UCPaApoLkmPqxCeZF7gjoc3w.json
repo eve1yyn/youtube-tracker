@@ -316,9 +316,37 @@
       "subscriberCount": 2360000,
       "totalViewCount": 425830843,
       "videoCount": 322
+    },
+    {
+      "date": "2026-09-16",
+      "title": "planD플랜디",
+      "subscriberCount": 2370000,
+      "totalViewCount": 426091572,
+      "videoCount": 323
     }
   ],
   "videos": [
+    {
+      "videoId": "2ksz4dGPTf0",
+      "title": "떡지순례 갔다가 우주떡집 떡🐰만드는 자취일상. 비오는날 놀러간 이태원 빈티지마켓 쇼핑",
+      "publishedAt": "2026-09-15T11:00:27Z",
+      "durationSeconds": 1688,
+      "isShort": false,
+      "likeRate": 2.833905301696248,
+      "commentRate": 0.07330477586757635,
+      "dailyStats": [
+        {
+          "date": "2026-09-16",
+          "title": "떡지순례 갔다가 우주떡집 떡🐰만드는 자취일상. 비오는날 놀러간 이태원 빈티지마켓 쇼핑",
+          "publishedAt": "2026-09-15T11:00:27Z",
+          "viewCount": 244186,
+          "likeCount": 6920,
+          "commentCount": 179,
+          "durationSeconds": 1688
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "L4jRgmTsTSI",
       "title": "퇴원한 집순이의 집정리🏠 대차게 망한 요리와 바삭한 오징어링, 김신영 열쫄냉, 구독자님 파우치 만들기",
@@ -1051,8 +1079,8 @@
       "publishedAt": "2026-08-17T11:00:29Z",
       "durationSeconds": 1917,
       "isShort": false,
-      "likeRate": 2.356693374604352,
-      "commentRate": 0.059112135721463614,
+      "likeRate": 2.3445958558894904,
+      "commentRate": 0.05866823115283074,
       "dailyStats": [
         {
           "date": "2026-08-18",
@@ -1312,6 +1340,15 @@
           "publishedAt": "2026-08-17T11:00:29Z",
           "viewCount": 744348,
           "likeCount": 17542,
+          "commentCount": 440,
+          "durationSeconds": 1917
+        },
+        {
+          "date": "2026-09-16",
+          "title": "못나가는 집순이의 격리생활🏠 KFC치킨 만들기🍗  5가지 초간단 홈카페 메뉴",
+          "publishedAt": "2026-08-17T11:00:29Z",
+          "viewCount": 749980,
+          "likeCount": 17584,
           "commentCount": 440,
           "durationSeconds": 1917
         }
@@ -1891,8 +1928,8 @@
       "publishedAt": "2026-08-28T11:00:18Z",
       "durationSeconds": 2425,
       "isShort": false,
-      "likeRate": 1.594499434336344,
-      "commentRate": 0.05600630257591654,
+      "likeRate": 1.5892780163442164,
+      "commentRate": 0.05596700814250588,
       "dailyStats": [
         {
           "date": "2026-08-29",
@@ -2055,6 +2092,15 @@
           "likeCount": 17082,
           "commentCount": 600,
           "durationSeconds": 2425
+        },
+        {
+          "date": "2026-09-16",
+          "title": "동대문 두번갔다가 동묘,완구거리 가는 일상. 성심당 복숭아시루🍑 만들기",
+          "publishedAt": "2026-08-28T11:00:18Z",
+          "viewCount": 1080994,
+          "likeCount": 17180,
+          "commentCount": 605,
+          "durationSeconds": 2425
         }
       ],
       "thumbnailFeatures": null
@@ -2065,8 +2111,8 @@
       "publishedAt": "2026-09-06T13:32:47Z",
       "durationSeconds": 2335,
       "isShort": false,
-      "likeRate": 1.9542103736051892,
-      "commentRate": 0.06368549691899893,
+      "likeRate": 1.9421565182229112,
+      "commentRate": 0.0630617186484574,
       "dailyStats": [
         {
           "date": "2026-09-07",
@@ -2147,6 +2193,15 @@
           "viewCount": 813372,
           "likeCount": 15895,
           "commentCount": 518,
+          "durationSeconds": 2335
+        },
+        {
+          "date": "2026-09-16",
+          "title": "대전 빵버스 투어🚐 , 빵집 10군데 들러 빵모으는 자취일상. 빵해장은 짬뽕으로!",
+          "publishedAt": "2026-09-06T13:32:47Z",
+          "viewCount": 830932,
+          "likeCount": 16138,
+          "commentCount": 524,
           "durationSeconds": 2335
         }
       ],

@@ -316,6 +316,13 @@
       "subscriberCount": 8100,
       "totalViewCount": 2618352,
       "videoCount": 272
+    },
+    {
+      "date": "2026-09-16",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8100,
+      "totalViewCount": 2618747,
+      "videoCount": 272
     }
   ],
   "videos": [
@@ -616,8 +623,8 @@
       "publishedAt": "2026-09-04T07:05:09Z",
       "durationSeconds": 639,
       "isShort": false,
-      "likeRate": 0.8115597783056215,
-      "commentRate": 0.0395882818685669,
+      "likeRate": 0.8096366508688783,
+      "commentRate": 0.03949447077409163,
       "dailyStats": [
         {
           "date": "2026-09-05",
@@ -714,6 +721,15 @@
           "title": "미니멀한 냉장고를 위한 정리",
           "publishedAt": "2026-09-04T07:05:09Z",
           "viewCount": 10104,
+          "likeCount": 82,
+          "commentCount": 4,
+          "durationSeconds": 639
+        },
+        {
+          "date": "2026-09-16",
+          "title": "미니멀한 냉장고를 위한 정리",
+          "publishedAt": "2026-09-04T07:05:09Z",
+          "viewCount": 10128,
           "likeCount": 82,
           "commentCount": 4,
           "durationSeconds": 639
@@ -1009,8 +1025,8 @@
       "publishedAt": "2026-08-24T10:22:50Z",
       "durationSeconds": 1270,
       "isShort": false,
-      "likeRate": 1.422060164083865,
-      "commentRate": 0.12762078395624432,
+      "likeRate": 1.4192139737991267,
+      "commentRate": 0.12736535662299855,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -1206,6 +1222,15 @@
           "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
           "publishedAt": "2026-08-24T10:22:50Z",
           "viewCount": 5485,
+          "likeCount": 78,
+          "commentCount": 7,
+          "durationSeconds": 1270
+        },
+        {
+          "date": "2026-09-16",
+          "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
+          "publishedAt": "2026-08-24T10:22:50Z",
+          "viewCount": 5496,
           "likeCount": 78,
           "commentCount": 7,
           "durationSeconds": 1270

@@ -316,6 +316,13 @@
       "subscriberCount": 25700,
       "totalViewCount": 3998777,
       "videoCount": 123
+    },
+    {
+      "date": "2026-09-16",
+      "title": "형은순 청담헤어  라이프",
+      "subscriberCount": 25700,
+      "totalViewCount": 3998995,
+      "videoCount": 123
     }
   ],
   "videos": [
@@ -517,7 +524,7 @@
       "publishedAt": "2026-08-31T20:00:34Z",
       "durationSeconds": 1543,
       "isShort": false,
-      "likeRate": 4.385964912280701,
+      "likeRate": 4.3478260869565215,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -651,6 +658,15 @@
           "title": "요즘 저는 이렇게 살고 있어요｜삼성화재 RC가 된 나, 일과 일상 그리고 다시 미용까지 포장완충제 알바까지💕💕",
           "publishedAt": "2026-08-31T20:00:34Z",
           "viewCount": 228,
+          "likeCount": 10,
+          "commentCount": 0,
+          "durationSeconds": 1543
+        },
+        {
+          "date": "2026-09-16",
+          "title": "요즘 저는 이렇게 살고 있어요｜삼성화재 RC가 된 나, 일과 일상 그리고 다시 미용까지 포장완충제 알바까지💕💕",
+          "publishedAt": "2026-08-31T20:00:34Z",
+          "viewCount": 230,
           "likeCount": 10,
           "commentCount": 0,
           "durationSeconds": 1543

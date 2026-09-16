@@ -316,6 +316,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 360840863,
       "videoCount": 232
+    },
+    {
+      "date": "2026-09-16",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 360934098,
+      "videoCount": 232
     }
   ],
   "videos": [
@@ -439,8 +446,8 @@
       "publishedAt": "2026-08-21T12:26:43Z",
       "durationSeconds": 1654,
       "isShort": false,
-      "likeRate": 1.4957585479570312,
-      "commentRate": 0.08051258659695032,
+      "likeRate": 1.4927730347179828,
+      "commentRate": 0.07987778395337325,
       "dailyStats": [
         {
           "date": "2026-08-22",
@@ -666,6 +673,15 @@
           "likeCount": 4886,
           "commentCount": 263,
           "durationSeconds": 1654
+        },
+        {
+          "date": "2026-09-16",
+          "title": "vlog | 이사 준비하는 냉털 주간 🏚️ 💸  초계국수 만들고 낭만 한도 초과 여름 축제 🎏 🏮 다녀온 집순이 일상 | 여름 집밥 해먹으며 조용히 보내는 소소한 하루",
+          "publishedAt": "2026-08-21T12:26:43Z",
+          "viewCount": 329253,
+          "likeCount": 4915,
+          "commentCount": 263,
+          "durationSeconds": 1654
         }
       ],
       "thumbnailFeatures": null
@@ -676,8 +692,8 @@
       "publishedAt": "2026-09-12T15:06:07Z",
       "durationSeconds": 1414,
       "isShort": false,
-      "likeRate": 1.5418341249543297,
-      "commentRate": 0.10230179028132991,
+      "likeRate": 1.4878010202064138,
+      "commentRate": 0.0934200640594725,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -705,6 +721,15 @@
           "likeCount": 2743,
           "commentCount": 182,
           "durationSeconds": 1414
+        },
+        {
+          "date": "2026-09-16",
+          "title": "vlog | 이사한 집에서 보내는 일상 ⏰ 하루 종일 정리하고 집밥 해먹는 어른 여자가 되고 싶은 사람 .. | 웃픈 이사 대장정 썰 📦💸",
+          "publishedAt": "2026-09-12T15:06:07Z",
+          "viewCount": 202312,
+          "likeCount": 3010,
+          "commentCount": 189,
+          "durationSeconds": 1414
         }
       ],
       "thumbnailFeatures": null
@@ -715,8 +740,8 @@
       "publishedAt": "2026-08-18T12:18:06Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 2.72595890297181,
-      "commentRate": 0.03156198607950298,
+      "likeRate": 2.720423876148688,
+      "commentRate": 0.03145955791042305,
       "dailyStats": [
         {
           "date": "2026-08-19",
@@ -967,6 +992,15 @@
           "publishedAt": "2026-08-18T12:18:06Z",
           "viewCount": 60199,
           "likeCount": 1641,
+          "commentCount": 19,
+          "durationSeconds": 57
+        },
+        {
+          "date": "2026-09-16",
+          "title": "집순이 자취생 아침메뉴 🎐🤍",
+          "publishedAt": "2026-08-18T12:18:06Z",
+          "viewCount": 60395,
+          "likeCount": 1643,
           "commentCount": 19,
           "durationSeconds": 57
         }
@@ -1261,8 +1295,8 @@
       "publishedAt": "2026-09-13T11:00:50Z",
       "durationSeconds": 1513,
       "isShort": false,
-      "likeRate": 1.5209614534346236,
-      "commentRate": 0.12379918807026007,
+      "likeRate": 1.4534807037906565,
+      "commentRate": 0.10947268458677359,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -1280,6 +1314,15 @@
           "viewCount": 124395,
           "likeCount": 1892,
           "commentCount": 154,
+          "durationSeconds": 1513
+        },
+        {
+          "date": "2026-09-16",
+          "title": "vlog | 도시락 싸서 여름 피크닉 다녀온 일상 ☁️🎐  매콤한 해물찜, 꾸덕한 감자스프 만들고 카페에서 작업하며 보낸 집순이의 주말 48시간 🏡",
+          "publishedAt": "2026-09-13T11:00:50Z",
+          "viewCount": 151636,
+          "likeCount": 2204,
+          "commentCount": 166,
           "durationSeconds": 1513
         }
       ],
