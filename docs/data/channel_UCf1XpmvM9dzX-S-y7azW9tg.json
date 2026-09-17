@@ -323,6 +323,13 @@
       "subscriberCount": 8530,
       "totalViewCount": 1463634,
       "videoCount": 47
+    },
+    {
+      "date": "2026-09-17",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8520,
+      "totalViewCount": 1464861,
+      "videoCount": 47
     }
   ],
   "videos": [
@@ -332,8 +339,8 @@
       "publishedAt": "2026-09-03T03:34:05Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 0.9850448654037885,
-      "commentRate": 0.10368893320039882,
+      "likeRate": 1.0081961267861028,
+      "commentRate": 0.0942917240879089,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -460,6 +467,15 @@
           "likeCount": 247,
           "commentCount": 26,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-09-17",
+          "title": "꿈에서 택시기사가 소리쳤는데… 알고 보니?😨 My Taxi Driver in a Dream Might’ve Been…",
+          "publishedAt": "2026-09-03T03:34:05Z",
+          "viewCount": 27574,
+          "likeCount": 278,
+          "commentCount": 26,
+          "durationSeconds": 59
         }
       ],
       "thumbnailFeatures": null
@@ -470,8 +486,8 @@
       "publishedAt": "2026-09-03T03:28:21Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 0.7547169811320755,
-      "commentRate": 0.18867924528301888,
+      "likeRate": 0.7518796992481203,
+      "commentRate": 0.18148820326678766,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -598,6 +614,15 @@
           "likeCount": 28,
           "commentCount": 7,
           "durationSeconds": 33
+        },
+        {
+          "date": "2026-09-17",
+          "title": "나혼자 사는 집인줄 알았는데 I Thought I Lived Alone… I Was Wrong 😂",
+          "publishedAt": "2026-09-03T03:28:21Z",
+          "viewCount": 3857,
+          "likeCount": 29,
+          "commentCount": 7,
+          "durationSeconds": 33
         }
       ],
       "thumbnailFeatures": null
@@ -608,8 +633,8 @@
       "publishedAt": "2026-08-30T11:52:04Z",
       "durationSeconds": 1740,
       "isShort": false,
-      "likeRate": 4.166666666666666,
-      "commentRate": 2.083333333333333,
+      "likeRate": 2.8520499108734403,
+      "commentRate": 1.4260249554367201,
       "dailyStats": [
         {
           "date": "2026-08-31",
@@ -763,6 +788,15 @@
           "likeCount": 14,
           "commentCount": 7,
           "durationSeconds": 1740
+        },
+        {
+          "date": "2026-09-17",
+          "title": "[썰풀곰] 자취방에서 살아남기…과연 살아남을 수 있을 것인가! Surviving My Apartment Life 😂",
+          "publishedAt": "2026-08-30T11:52:04Z",
+          "viewCount": 561,
+          "likeCount": 16,
+          "commentCount": 8,
+          "durationSeconds": 1740
         }
       ],
       "thumbnailFeatures": null
@@ -773,8 +807,8 @@
       "publishedAt": "2026-09-15T12:15:35Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 0,
-      "commentRate": 0,
+      "likeRate": 3.4482758620689653,
+      "commentRate": 1.7241379310344827,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -783,6 +817,15 @@
           "viewCount": 21,
           "likeCount": 0,
           "commentCount": 0,
+          "durationSeconds": 84
+        },
+        {
+          "date": "2026-09-17",
+          "title": "늙크크의 늦은 한정선 리뷰 Finally Trying Hanjeongsun 😂",
+          "publishedAt": "2026-09-15T12:15:35Z",
+          "viewCount": 116,
+          "likeCount": 4,
+          "commentCount": 2,
           "durationSeconds": 84
         }
       ],

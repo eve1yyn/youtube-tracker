@@ -323,6 +323,13 @@
       "subscriberCount": 729000,
       "totalViewCount": 126161715,
       "videoCount": 340
+    },
+    {
+      "date": "2026-09-17",
+      "title": "효뎡 Dyeong",
+      "subscriberCount": 729000,
+      "totalViewCount": 126198453,
+      "videoCount": 341
     }
   ],
   "videos": [
@@ -332,8 +339,8 @@
       "publishedAt": "2026-08-28T09:00:11Z",
       "durationSeconds": 935,
       "isShort": false,
-      "likeRate": 1.2844906294213172,
-      "commentRate": 0.03833260152912232,
+      "likeRate": 1.283457352287872,
+      "commentRate": 0.03817747667703243,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -503,6 +510,15 @@
           "publishedAt": "2026-08-28T09:00:11Z",
           "viewCount": 143481,
           "likeCount": 1843,
+          "commentCount": 55,
+          "durationSeconds": 935
+        },
+        {
+          "date": "2026-09-17",
+          "title": "지코바 도시락 밀키트 만들어두고🍱 주말 집밥 야무지게 해먹는 일상 | 분모자쫄볶이·라면수육·브리치즈파스타 + 스마일라식 8개월 차👀",
+          "publishedAt": "2026-08-28T09:00:11Z",
+          "viewCount": 144064,
+          "likeCount": 1849,
           "commentCount": 55,
           "durationSeconds": 935
         }
@@ -783,13 +799,34 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "KgTM5VXwVM0",
+      "title": "집순이의 마라탕 밀키트 소분🌶️ 먹고 싶을 때 꺼내먹는 냉동 밀프렙 | Mala Tang Meal Prep",
+      "publishedAt": "2026-09-16T09:00:32Z",
+      "durationSeconds": 32,
+      "isShort": true,
+      "likeRate": 2.132910276749515,
+      "commentRate": 0.052882072977260705,
+      "dailyStats": [
+        {
+          "date": "2026-09-17",
+          "title": "집순이의 마라탕 밀키트 소분🌶️ 먹고 싶을 때 꺼내먹는 냉동 밀프렙 | Mala Tang Meal Prep",
+          "publishedAt": "2026-09-16T09:00:32Z",
+          "viewCount": 5673,
+          "likeCount": 121,
+          "commentCount": 3,
+          "durationSeconds": 32
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "NGD_xpXAv70",
       "title": "키위 샌드위치 도시락 싸서 출근하고🥝 퇴근 후 연어 납작우동 만들어 먹으며 영양 챙기는 직장인 일상 | 고등어솥밥·키위케이크·치즈김치전·키위찹쌀떡",
       "publishedAt": "2026-08-19T09:44:40Z",
       "durationSeconds": 1027,
       "isShort": false,
-      "likeRate": 2.5398766880507226,
-      "commentRate": 0.1397868250917351,
+      "likeRate": 2.5344791135541156,
+      "commentRate": 0.1392844262600888,
       "dailyStats": [
         {
           "date": "2026-08-20",
@@ -1033,6 +1070,15 @@
           "likeCount": 2035,
           "commentCount": 112,
           "durationSeconds": 1027
+        },
+        {
+          "date": "2026-09-17",
+          "title": "키위 샌드위치 도시락 싸서 출근하고🥝 퇴근 후 연어 납작우동 만들어 먹으며 영양 챙기는 직장인 일상 | 고등어솥밥·키위케이크·치즈김치전·키위찹쌀떡",
+          "publishedAt": "2026-08-19T09:44:40Z",
+          "viewCount": 80411,
+          "likeCount": 2038,
+          "commentCount": 112,
+          "durationSeconds": 1027
         }
       ],
       "thumbnailFeatures": null
@@ -1043,8 +1089,8 @@
       "publishedAt": "2026-08-27T10:55:45Z",
       "durationSeconds": 917,
       "isShort": false,
-      "likeRate": 1.5396662003677604,
-      "commentRate": 0.04662989063970931,
+      "likeRate": 1.540537698482246,
+      "commentRate": 0.046443969294402185,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -1216,6 +1262,15 @@
           "likeCount": 1750,
           "commentCount": 53,
           "durationSeconds": 917
+        },
+        {
+          "date": "2026-09-17",
+          "title": "여름 끝자락 새 김치 들이고🛒 매콤한 오징어소면 한상 차려먹기🦑 | 들깨칼국수·찹쌀누룽지백숙·M&M브라우니·얼큰국물파스타",
+          "publishedAt": "2026-08-27T10:55:45Z",
+          "viewCount": 114116,
+          "likeCount": 1758,
+          "commentCount": 53,
+          "durationSeconds": 917
         }
       ],
       "thumbnailFeatures": null
@@ -1226,8 +1281,8 @@
       "publishedAt": "2026-09-15T13:31:45Z",
       "durationSeconds": 34,
       "isShort": true,
-      "likeRate": 2.147197839297772,
-      "commentRate": 0.02700877785280216,
+      "likeRate": 1.5768805988464842,
+      "commentRate": 0.018407166523499816,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -1236,6 +1291,15 @@
           "viewCount": 7405,
           "likeCount": 159,
           "commentCount": 2,
+          "durationSeconds": 34
+        },
+        {
+          "date": "2026-09-17",
+          "title": "집순이의 베란다 캠핑🏕️ 고기랑 막국수 먹는 저녁 | Balcony Camping at Home",
+          "publishedAt": "2026-09-15T13:31:45Z",
+          "viewCount": 16298,
+          "likeCount": 257,
+          "commentCount": 3,
           "durationSeconds": 34
         }
       ],
@@ -1247,8 +1311,8 @@
       "publishedAt": "2026-09-10T09:00:02Z",
       "durationSeconds": 927,
       "isShort": false,
-      "likeRate": 1.2263457973346392,
-      "commentRate": 0.04407289516947078,
+      "likeRate": 1.214903904758035,
+      "commentRate": 0.042663849498191866,
       "dailyStats": [
         {
           "date": "2026-09-11",
@@ -1292,6 +1356,15 @@
           "publishedAt": "2026-09-10T09:00:02Z",
           "viewCount": 142945,
           "likeCount": 1753,
+          "commentCount": 63,
+          "durationSeconds": 927
+        },
+        {
+          "date": "2026-09-17",
+          "title": "이사 두 달 앞두고 냉털 시작🧊 물김치 담그고 밤만쥬 잔뜩 굽는 일상🌰 | 김치알밥·마라탕·엽떡·마파두부",
+          "publishedAt": "2026-09-10T09:00:02Z",
+          "viewCount": 147666,
+          "likeCount": 1794,
           "commentCount": 63,
           "durationSeconds": 927
         }

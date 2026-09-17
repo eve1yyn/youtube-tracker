@@ -323,6 +323,13 @@
       "subscriberCount": 8100,
       "totalViewCount": 2618747,
       "videoCount": 272
+    },
+    {
+      "date": "2026-09-17",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8100,
+      "totalViewCount": 2619824,
+      "videoCount": 272
     }
   ],
   "videos": [
@@ -623,8 +630,8 @@
       "publishedAt": "2026-09-04T07:05:09Z",
       "durationSeconds": 639,
       "isShort": false,
-      "likeRate": 0.8096366508688783,
-      "commentRate": 0.03949447077409163,
+      "likeRate": 0.8168487353606929,
+      "commentRate": 0.03936620411376833,
       "dailyStats": [
         {
           "date": "2026-09-05",
@@ -731,6 +738,15 @@
           "publishedAt": "2026-09-04T07:05:09Z",
           "viewCount": 10128,
           "likeCount": 82,
+          "commentCount": 4,
+          "durationSeconds": 639
+        },
+        {
+          "date": "2026-09-17",
+          "title": "미니멀한 냉장고를 위한 정리",
+          "publishedAt": "2026-09-04T07:05:09Z",
+          "viewCount": 10161,
+          "likeCount": 83,
           "commentCount": 4,
           "durationSeconds": 639
         }
@@ -1025,8 +1041,8 @@
       "publishedAt": "2026-08-24T10:22:50Z",
       "durationSeconds": 1270,
       "isShort": false,
-      "likeRate": 1.4192139737991267,
-      "commentRate": 0.12736535662299855,
+      "likeRate": 1.4156079854809438,
+      "commentRate": 0.12704174228675136,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -1231,6 +1247,15 @@
           "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
           "publishedAt": "2026-08-24T10:22:50Z",
           "viewCount": 5496,
+          "likeCount": 78,
+          "commentCount": 7,
+          "durationSeconds": 1270
+        },
+        {
+          "date": "2026-09-17",
+          "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
+          "publishedAt": "2026-08-24T10:22:50Z",
+          "viewCount": 5510,
           "likeCount": 78,
           "commentCount": 7,
           "durationSeconds": 1270
