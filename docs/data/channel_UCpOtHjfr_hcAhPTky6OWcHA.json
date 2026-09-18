@@ -330,6 +330,13 @@
       "subscriberCount": 1010000,
       "totalViewCount": 15619081,
       "videoCount": 198
+    },
+    {
+      "date": "2026-09-18",
+      "title": "세빈 SEBIN",
+      "subscriberCount": 1010000,
+      "totalViewCount": 15661598,
+      "videoCount": 199
     }
   ],
   "videos": [
@@ -1155,8 +1162,8 @@
       "publishedAt": "2026-09-13T11:00:05Z",
       "durationSeconds": 1874,
       "isShort": false,
-      "likeRate": 1.747063446547293,
-      "commentRate": 0.09877015229720258,
+      "likeRate": 1.6916194909815416,
+      "commentRate": 0.09387242928436641,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -1192,6 +1199,15 @@
           "viewCount": 94158,
           "likeCount": 1645,
           "commentCount": 93,
+          "durationSeconds": 1874
+        },
+        {
+          "date": "2026-09-18",
+          "title": "쿠알라룸푸르 일주일 여행🇲🇾 먹고 쇼핑하고 마사지 받고.. 힐링 가득 가족 여행 브이로그",
+          "publishedAt": "2026-09-13T11:00:05Z",
+          "viewCount": 104397,
+          "likeCount": 1766,
+          "commentCount": 98,
           "durationSeconds": 1874
         }
       ],
@@ -1267,13 +1283,34 @@
       }
     },
     {
+      "videoId": "Bw34-6zK6K4",
+      "title": "드디어 공개된 애플 신제품 👀아이폰 18부터 듀오까지! 제가 먼저 만나보고 왔습니다🤍여러분의 픽은? #Apple #iPhone18pro #iPhoneDuo",
+      "publishedAt": "2026-09-17T13:15:09Z",
+      "durationSeconds": 37,
+      "isShort": true,
+      "likeRate": 4.305723672834169,
+      "commentRate": 0.17292062943109113,
+      "dailyStats": [
+        {
+          "date": "2026-09-18",
+          "title": "드디어 공개된 애플 신제품 👀아이폰 18부터 듀오까지! 제가 먼저 만나보고 왔습니다🤍여러분의 픽은? #Apple #iPhone18pro #iPhoneDuo",
+          "publishedAt": "2026-09-17T13:15:09Z",
+          "viewCount": 5783,
+          "likeCount": 249,
+          "commentCount": 10,
+          "durationSeconds": 37
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "MmTfxXDwZx8",
       "title": "오버립+누드립의 조합🤎",
       "publishedAt": "2026-08-19T14:34:08Z",
       "durationSeconds": 15,
       "isShort": true,
-      "likeRate": 4.513387165320867,
-      "commentRate": 0.16999575010624735,
+      "likeRate": 4.495614035087719,
+      "commentRate": 0.16869095816464239,
       "dailyStats": [
         {
           "date": "2026-08-20",
@@ -1535,6 +1572,15 @@
           "likeCount": 531,
           "commentCount": 20,
           "durationSeconds": 15
+        },
+        {
+          "date": "2026-09-18",
+          "title": "오버립+누드립의 조합🤎",
+          "publishedAt": "2026-08-19T14:34:08Z",
+          "viewCount": 11856,
+          "likeCount": 533,
+          "commentCount": 20,
+          "durationSeconds": 15
         }
       ],
       "thumbnailFeatures": null
@@ -1545,8 +1591,8 @@
       "publishedAt": "2026-08-30T13:22:20Z",
       "durationSeconds": 1942,
       "isShort": false,
-      "likeRate": 1.1625133517925106,
-      "commentRate": 0.06533304296425349,
+      "likeRate": 1.1679253848376048,
+      "commentRate": 0.06551524906112005,
       "dailyStats": [
         {
           "date": "2026-08-31",
@@ -1709,6 +1755,15 @@
           "likeCount": 2242,
           "commentCount": 126,
           "durationSeconds": 1942
+        },
+        {
+          "date": "2026-09-18",
+          "title": "싱가폴 여행 브이로그🇸🇬 마리나베이샌즈 호텔, 아사이볼, 그리웠던 친구들까지..❤️",
+          "publishedAt": "2026-08-30T13:22:20Z",
+          "viewCount": 193848,
+          "likeCount": 2264,
+          "commentCount": 127,
+          "durationSeconds": 1942
         }
       ],
       "thumbnailFeatures": null
@@ -1719,8 +1774,8 @@
       "publishedAt": "2026-08-27T12:38:34Z",
       "durationSeconds": 83,
       "isShort": true,
-      "likeRate": 3.0703734761013997,
-      "commentRate": 0.1354576533574147,
+      "likeRate": 3.0148511696092806,
+      "commentRate": 0.13385174325960864,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -1908,6 +1963,15 @@
           "publishedAt": "2026-08-27T12:38:34Z",
           "viewCount": 15503,
           "likeCount": 476,
+          "commentCount": 21,
+          "durationSeconds": 83
+        },
+        {
+          "date": "2026-09-18",
+          "title": "두리안 먹방 in 🇲🇾 DURIAN MUKBANG w my family",
+          "publishedAt": "2026-08-27T12:38:34Z",
+          "viewCount": 15689,
+          "likeCount": 473,
           "commentCount": 21,
           "durationSeconds": 83
         }
@@ -2523,8 +2587,8 @@
       "publishedAt": "2026-09-05T12:12:25Z",
       "durationSeconds": 98,
       "isShort": true,
-      "likeRate": 4.56270017245627,
-      "commentRate": 0.09854644000985464,
+      "likeRate": 4.55456189219567,
+      "commentRate": 0.0977373796608513,
       "dailyStats": [
         {
           "date": "2026-09-06",
@@ -2631,6 +2695,15 @@
           "publishedAt": "2026-09-05T12:12:25Z",
           "viewCount": 20295,
           "likeCount": 926,
+          "commentCount": 20,
+          "durationSeconds": 98
+        },
+        {
+          "date": "2026-09-18",
+          "title": "시딩깡 레츠고🩷 pr unboxing haul asmr",
+          "publishedAt": "2026-09-05T12:12:25Z",
+          "viewCount": 20463,
+          "likeCount": 932,
           "commentCount": 20,
           "durationSeconds": 98
         }
@@ -3228,8 +3301,8 @@
       "publishedAt": "2026-08-23T12:17:53Z",
       "durationSeconds": 1025,
       "isShort": false,
-      "likeRate": 1.8275773741243555,
-      "commentRate": 0.11693822320722566,
+      "likeRate": 1.8238419483648123,
+      "commentRate": 0.1155026565611009,
       "dailyStats": [
         {
           "date": "2026-08-24",
@@ -3455,6 +3528,15 @@
           "likeCount": 1641,
           "commentCount": 105,
           "durationSeconds": 1025
+        },
+        {
+          "date": "2026-09-18",
+          "title": "왓츠인마이카🩷 첫 붕붕이를 공개합니다! Bmw 320i 후기",
+          "publishedAt": "2026-08-23T12:17:53Z",
+          "viewCount": 90907,
+          "likeCount": 1658,
+          "commentCount": 105,
+          "durationSeconds": 1025
         }
       ],
       "thumbnailFeatures": null
@@ -3465,8 +3547,8 @@
       "publishedAt": "2026-09-11T11:57:25Z",
       "durationSeconds": 32,
       "isShort": true,
-      "likeRate": 2.777405071783175,
-      "commentRate": 0.053669663222863276,
+      "likeRate": 2.8101939248326753,
+      "commentRate": 0.05148446885189634,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -3521,6 +3603,15 @@
           "likeCount": 621,
           "commentCount": 12,
           "durationSeconds": 32
+        },
+        {
+          "date": "2026-09-18",
+          "title": "mini vlog🎀 하루 미니 브이로그",
+          "publishedAt": "2026-09-11T11:57:25Z",
+          "viewCount": 23308,
+          "likeCount": 655,
+          "commentCount": 12,
+          "durationSeconds": 32
         }
       ],
       "thumbnailFeatures": null
@@ -3531,8 +3622,8 @@
       "publishedAt": "2026-09-09T10:48:44Z",
       "durationSeconds": 63,
       "isShort": true,
-      "likeRate": 4.931293246272293,
-      "commentRate": 0.14131176298606374,
+      "likeRate": 4.882106864422894,
+      "commentRate": 0.13785890853774482,
       "dailyStats": [
         {
           "date": "2026-09-10",
@@ -3603,6 +3694,15 @@
           "publishedAt": "2026-09-09T10:48:44Z",
           "viewCount": 20522,
           "likeCount": 1012,
+          "commentCount": 29,
+          "durationSeconds": 63
+        },
+        {
+          "date": "2026-09-18",
+          "title": "GRWM 20분만에 풀메하기",
+          "publishedAt": "2026-09-09T10:48:44Z",
+          "viewCount": 21036,
+          "likeCount": 1027,
           "commentCount": 29,
           "durationSeconds": 63
         }
