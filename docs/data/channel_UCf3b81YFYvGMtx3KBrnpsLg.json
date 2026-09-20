@@ -344,6 +344,13 @@
       "subscriberCount": 781000,
       "totalViewCount": 223042997,
       "videoCount": 745
+    },
+    {
+      "date": "2026-09-20",
+      "title": "에바EVA",
+      "subscriberCount": 781000,
+      "totalViewCount": 223153885,
+      "videoCount": 746
     }
   ],
   "videos": [
@@ -767,8 +774,8 @@
       "publishedAt": "2026-09-08T11:46:13Z",
       "durationSeconds": 66,
       "isShort": true,
-      "likeRate": 1.2912929488064027,
-      "commentRate": 0.014350765834138265,
+      "likeRate": 1.2891657902902065,
+      "commentRate": 0.014278300552734982,
       "dailyStats": [
         {
           "date": "2026-09-09",
@@ -868,6 +875,15 @@
           "likeCount": 4679,
           "commentCount": 52,
           "durationSeconds": 66
+        },
+        {
+          "date": "2026-09-20",
+          "title": "혼자 사는 여성의 주말 하루 동안 먹은 것들",
+          "publishedAt": "2026-09-08T11:46:13Z",
+          "viewCount": 364189,
+          "likeCount": 4695,
+          "commentCount": 52,
+          "durationSeconds": 66
         }
       ],
       "thumbnailFeatures": null
@@ -878,8 +894,8 @@
       "publishedAt": "2026-08-27T12:23:18Z",
       "durationSeconds": 794,
       "isShort": false,
-      "likeRate": 0.8229399632542976,
-      "commentRate": 0.06448410159828452,
+      "likeRate": 0.8223701023234895,
+      "commentRate": 0.06439939893894324,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -1085,6 +1101,15 @@
           "publishedAt": "2026-08-27T12:23:18Z",
           "viewCount": 195397,
           "likeCount": 1608,
+          "commentCount": 126,
+          "durationSeconds": 794
+        },
+        {
+          "date": "2026-09-20",
+          "title": "어른 여자 특 : 떠나고 싶을 때 훌쩍 떠남",
+          "publishedAt": "2026-08-27T12:23:18Z",
+          "viewCount": 195654,
+          "likeCount": 1609,
           "commentCount": 126,
           "durationSeconds": 794
         }
@@ -1379,8 +1404,8 @@
       "publishedAt": "2026-08-25T12:28:04Z",
       "durationSeconds": 628,
       "isShort": false,
-      "likeRate": 1.2104104163279783,
-      "commentRate": 0.10788761952618123,
+      "likeRate": 1.2097250088516465,
+      "commentRate": 0.1076950312758173,
       "dailyStats": [
         {
           "date": "2026-08-26",
@@ -1606,6 +1631,36 @@
           "likeCount": 1638,
           "commentCount": 146,
           "durationSeconds": 628
+        },
+        {
+          "date": "2026-09-20",
+          "title": "서울에서 혼자 자취하면 하루 생활비 얼마 쓸까?",
+          "publishedAt": "2026-08-25T12:28:04Z",
+          "viewCount": 135568,
+          "likeCount": 1640,
+          "commentCount": 146,
+          "durationSeconds": 628
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "QCFJ49R185Y",
+      "title": "당신의 돈을 아껴드립니다",
+      "publishedAt": "2026-09-19T12:27:07Z",
+      "durationSeconds": 1686,
+      "isShort": false,
+      "likeRate": 1.1142822028922177,
+      "commentRate": 0.13382310770029088,
+      "dailyStats": [
+        {
+          "date": "2026-09-20",
+          "title": "당신의 돈을 아껴드립니다",
+          "publishedAt": "2026-09-19T12:27:07Z",
+          "viewCount": 73231,
+          "likeCount": 816,
+          "commentCount": 98,
+          "durationSeconds": 1686
         }
       ],
       "thumbnailFeatures": null
@@ -1898,8 +1953,8 @@
       "publishedAt": "2026-09-10T12:28:30Z",
       "durationSeconds": 1758,
       "isShort": false,
-      "likeRate": 1.1602497159182397,
-      "commentRate": 0.027143034591267302,
+      "likeRate": 1.1631167186722742,
+      "commentRate": 0.026681137792248903,
       "dailyStats": [
         {
           "date": "2026-09-11",
@@ -1981,6 +2036,15 @@
           "likeCount": 2522,
           "commentCount": 59,
           "durationSeconds": 1758
+        },
+        {
+          "date": "2026-09-20",
+          "title": "이거 모르고 독립하면 큰일날지도..",
+          "publishedAt": "2026-09-10T12:28:30Z",
+          "viewCount": 221130,
+          "likeCount": 2572,
+          "commentCount": 59,
+          "durationSeconds": 1758
         }
       ],
       "thumbnailFeatures": null
@@ -1991,8 +2055,8 @@
       "publishedAt": "2026-08-24T12:15:19Z",
       "durationSeconds": 92,
       "isShort": true,
-      "likeRate": 1.501367351378228,
-      "commentRate": 0.03185307187917586,
+      "likeRate": 1.4993428016424142,
+      "commentRate": 0.03179366685665321,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -2227,6 +2291,15 @@
           "likeCount": 3865,
           "commentCount": 82,
           "durationSeconds": 92
+        },
+        {
+          "date": "2026-09-20",
+          "title": "썸붕썰 푼다..",
+          "publishedAt": "2026-08-24T12:15:19Z",
+          "viewCount": 257913,
+          "likeCount": 3867,
+          "commentCount": 82,
+          "durationSeconds": 92
         }
       ],
       "thumbnailFeatures": null
@@ -2237,8 +2310,8 @@
       "publishedAt": "2026-09-15T11:41:33Z",
       "durationSeconds": 52,
       "isShort": true,
-      "likeRate": 1.0360001385953361,
-      "commentRate": 0.06150168046845224,
+      "likeRate": 1.0433501084380732,
+      "commentRate": 0.06028989390653392,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -2275,6 +2348,15 @@
           "likeCount": 1196,
           "commentCount": 71,
           "durationSeconds": 52
+        },
+        {
+          "date": "2026-09-20",
+          "title": "인스타 언팔 기준",
+          "publishedAt": "2026-09-15T11:41:33Z",
+          "viewCount": 119423,
+          "likeCount": 1246,
+          "commentCount": 72,
+          "durationSeconds": 52
         }
       ],
       "thumbnailFeatures": null
@@ -2285,8 +2367,8 @@
       "publishedAt": "2026-09-12T12:37:31Z",
       "durationSeconds": 76,
       "isShort": true,
-      "likeRate": 2.4824584776623144,
-      "commentRate": 0.017763566924238385,
+      "likeRate": 2.45721992750569,
+      "commentRate": 0.016859141869678834,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -2350,6 +2432,15 @@
           "likeCount": 559,
           "commentCount": 4,
           "durationSeconds": 76
+        },
+        {
+          "date": "2026-09-20",
+          "title": "이사하는 날 절대 잊으면 안 되는 것들",
+          "publishedAt": "2026-09-12T12:37:31Z",
+          "viewCount": 23726,
+          "likeCount": 583,
+          "commentCount": 4,
+          "durationSeconds": 76
         }
       ],
       "thumbnailFeatures": null
@@ -2360,8 +2451,8 @@
       "publishedAt": "2026-08-31T11:33:05Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 1.407048149445848,
-      "commentRate": 0.05901119368580227,
+      "likeRate": 1.4029160086672299,
+      "commentRate": 0.05876087994417717,
       "dailyStats": [
         {
           "date": "2026-09-01",
@@ -2533,6 +2624,15 @@
           "likeCount": 763,
           "commentCount": 32,
           "durationSeconds": 82
+        },
+        {
+          "date": "2026-09-20",
+          "title": "자라에서 딱 하나만 산다면?",
+          "publishedAt": "2026-08-31T11:33:05Z",
+          "viewCount": 54458,
+          "likeCount": 764,
+          "commentCount": 32,
+          "durationSeconds": 82
         }
       ],
       "thumbnailFeatures": null
@@ -2543,8 +2643,8 @@
       "publishedAt": "2026-09-06T13:10:12Z",
       "durationSeconds": 119,
       "isShort": true,
-      "likeRate": 2.6975813880043162,
-      "commentRate": 0.0245633427200393,
+      "likeRate": 2.6898582124105634,
+      "commentRate": 0.02446119842399993,
       "dailyStats": [
         {
           "date": "2026-09-07",
@@ -2660,6 +2760,15 @@
           "publishedAt": "2026-09-06T13:10:12Z",
           "viewCount": 113991,
           "likeCount": 3075,
+          "commentCount": 28,
+          "durationSeconds": 119
+        },
+        {
+          "date": "2026-09-20",
+          "title": "이사하기 전 반드시 해야 하는 것들",
+          "publishedAt": "2026-09-06T13:10:12Z",
+          "viewCount": 114467,
+          "likeCount": 3079,
           "commentCount": 28,
           "durationSeconds": 119
         }
@@ -3773,8 +3882,8 @@
       "publishedAt": "2026-09-02T12:18:27Z",
       "durationSeconds": 869,
       "isShort": false,
-      "likeRate": 0.8103193844207863,
-      "commentRate": 0.06587962474965743,
+      "likeRate": 0.8106662457691026,
+      "commentRate": 0.06576524438364814,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -3926,6 +4035,15 @@
           "publishedAt": "2026-09-02T12:18:27Z",
           "viewCount": 227688,
           "likeCount": 1845,
+          "commentCount": 150,
+          "durationSeconds": 869
+        },
+        {
+          "date": "2026-09-20",
+          "title": "혼자 사는 싱글 여성의 이사하는 날",
+          "publishedAt": "2026-09-02T12:18:27Z",
+          "viewCount": 228084,
+          "likeCount": 1849,
           "commentCount": 150,
           "durationSeconds": 869
         }

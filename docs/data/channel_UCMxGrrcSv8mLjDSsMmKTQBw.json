@@ -344,6 +344,13 @@
       "subscriberCount": 8100,
       "totalViewCount": 2620419,
       "videoCount": 273
+    },
+    {
+      "date": "2026-09-20",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8060,
+      "totalViewCount": 2628384,
+      "videoCount": 273
     }
   ],
   "videos": [
@@ -644,8 +651,8 @@
       "publishedAt": "2026-09-04T07:05:09Z",
       "durationSeconds": 639,
       "isShort": false,
-      "likeRate": 0.8314584759855229,
-      "commentRate": 0.03912745769343637,
+      "likeRate": 0.8311332746651021,
+      "commentRate": 0.03911215410188716,
       "dailyStats": [
         {
           "date": "2026-09-05",
@@ -781,6 +788,15 @@
           "likeCount": 85,
           "commentCount": 4,
           "durationSeconds": 639
+        },
+        {
+          "date": "2026-09-20",
+          "title": "미니멀한 냉장고를 위한 정리",
+          "publishedAt": "2026-09-04T07:05:09Z",
+          "viewCount": 10227,
+          "likeCount": 85,
+          "commentCount": 4,
+          "durationSeconds": 639
         }
       ],
       "thumbnailFeatures": null
@@ -791,8 +807,8 @@
       "publishedAt": "2026-09-18T07:00:26Z",
       "durationSeconds": 638,
       "isShort": false,
-      "likeRate": 0.8198182142220638,
-      "commentRate": 0.21386562110140794,
+      "likeRate": 0.8147824821766332,
+      "commentRate": 0.1745962461807071,
       "dailyStats": [
         {
           "date": "2026-09-19",
@@ -800,6 +816,15 @@
           "publishedAt": "2026-09-18T07:00:26Z",
           "viewCount": 5611,
           "likeCount": 46,
+          "commentCount": 12,
+          "durationSeconds": 638
+        },
+        {
+          "date": "2026-09-20",
+          "title": "옷 정리를 안 해도 되는 옷장의 비밀",
+          "publishedAt": "2026-09-18T07:00:26Z",
+          "viewCount": 6873,
+          "likeCount": 56,
           "commentCount": 12,
           "durationSeconds": 638
         }
@@ -1094,8 +1119,8 @@
       "publishedAt": "2026-08-24T10:22:50Z",
       "durationSeconds": 1270,
       "isShort": false,
-      "likeRate": 1.4097234773179108,
-      "commentRate": 0.1265136454003253,
+      "likeRate": 1.4087050749503343,
+      "commentRate": 0.12642225031605564,
       "dailyStats": [
         {
           "date": "2026-08-25",
@@ -1327,6 +1352,15 @@
           "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
           "publishedAt": "2026-08-24T10:22:50Z",
           "viewCount": 5533,
+          "likeCount": 78,
+          "commentCount": 7,
+          "durationSeconds": 1270
+        },
+        {
+          "date": "2026-09-20",
+          "title": "V냉장고를 열 때마다 스트레스였다면?(냉장고 1편)부산 광안리",
+          "publishedAt": "2026-08-24T10:22:50Z",
+          "viewCount": 5537,
           "likeCount": 78,
           "commentCount": 7,
           "durationSeconds": 1270
