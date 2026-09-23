@@ -365,6 +365,13 @@
       "subscriberCount": 34400,
       "totalViewCount": 3601581,
       "videoCount": 103
+    },
+    {
+      "date": "2026-09-23",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34400,
+      "totalViewCount": 3605642,
+      "videoCount": 103
     }
   ],
   "videos": [
@@ -1679,8 +1686,8 @@
       "publishedAt": "2026-09-11T11:24:36Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 1.3066444259104808,
-      "commentRate": 0.027800945232137893,
+      "likeRate": 1.2862616310892174,
+      "commentRate": 0.027367268746579094,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -1777,6 +1784,15 @@
           "title": "같이 화장해요 #mkaeup #makeuptutorial",
           "publishedAt": "2026-09-11T11:24:36Z",
           "viewCount": 3597,
+          "likeCount": 47,
+          "commentCount": 1,
+          "durationSeconds": 53
+        },
+        {
+          "date": "2026-09-23",
+          "title": "같이 화장해요 #mkaeup #makeuptutorial",
+          "publishedAt": "2026-09-11T11:24:36Z",
+          "viewCount": 3654,
           "likeCount": 47,
           "commentCount": 1,
           "durationSeconds": 53
@@ -2072,8 +2088,8 @@
       "publishedAt": "2026-09-13T08:30:02Z",
       "durationSeconds": 18,
       "isShort": true,
-      "likeRate": 1.3113679206622408,
-      "commentRate": 0.024588148512417016,
+      "likeRate": 1.2949174490126254,
+      "commentRate": 0.024279702168986728,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -2152,6 +2168,15 @@
           "title": "멀멀 웜 메이크업 #makeup #makeuptransformation",
           "publishedAt": "2026-09-13T08:30:02Z",
           "viewCount": 12201,
+          "likeCount": 160,
+          "commentCount": 3,
+          "durationSeconds": 18
+        },
+        {
+          "date": "2026-09-23",
+          "title": "멀멀 웜 메이크업 #makeup #makeuptransformation",
+          "publishedAt": "2026-09-13T08:30:02Z",
+          "viewCount": 12356,
           "likeCount": 160,
           "commentCount": 3,
           "durationSeconds": 18

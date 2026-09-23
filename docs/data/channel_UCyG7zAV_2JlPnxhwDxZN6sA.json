@@ -365,6 +365,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 361255381,
       "videoCount": 232
+    },
+    {
+      "date": "2026-09-23",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 361322451,
+      "videoCount": 232
     }
   ],
   "videos": [
@@ -770,8 +777,8 @@
       "publishedAt": "2026-09-12T15:06:07Z",
       "durationSeconds": 1414,
       "isShort": false,
-      "likeRate": 1.240029281098546,
-      "commentRate": 0.06531451938610662,
+      "likeRate": 1.2241341490165492,
+      "commentRate": 0.06336981159667553,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -861,6 +868,15 @@
           "viewCount": 316928,
           "likeCount": 3930,
           "commentCount": 207,
+          "durationSeconds": 1414
+        },
+        {
+          "date": "2026-09-23",
+          "title": "vlog | 이사한 집에서 보내는 일상 ⏰ 하루 종일 정리하고 집밥 해먹는 어른 여자가 되고 싶은 사람 .. | 웃픈 이사 대장정 썰 📦💸",
+          "publishedAt": "2026-09-12T15:06:07Z",
+          "viewCount": 328232,
+          "likeCount": 4018,
+          "commentCount": 208,
           "durationSeconds": 1414
         }
       ],
@@ -1436,8 +1452,8 @@
       "publishedAt": "2026-09-13T11:00:50Z",
       "durationSeconds": 1513,
       "isShort": false,
-      "likeRate": 1.3499385976525584,
-      "commentRate": 0.08673937556780051,
+      "likeRate": 1.339151102360808,
+      "commentRate": 0.08425122829422303,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -1517,6 +1533,15 @@
           "publishedAt": "2026-09-13T11:00:50Z",
           "viewCount": 219047,
           "likeCount": 2957,
+          "commentCount": 190,
+          "durationSeconds": 1513
+        },
+        {
+          "date": "2026-09-23",
+          "title": "vlog | 도시락 싸서 여름 피크닉 다녀온 일상 ☁️🎐  매콤한 해물찜, 꾸덕한 감자스프 만들고 카페에서 작업하며 보낸 집순이의 주말 48시간 🏡",
+          "publishedAt": "2026-09-13T11:00:50Z",
+          "viewCount": 225516,
+          "likeCount": 3020,
           "commentCount": 190,
           "durationSeconds": 1513
         }
