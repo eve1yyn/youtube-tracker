@@ -372,6 +372,13 @@
       "subscriberCount": 34400,
       "totalViewCount": 3605642,
       "videoCount": 103
+    },
+    {
+      "date": "2026-09-24",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34400,
+      "totalViewCount": 3606804,
+      "videoCount": 103
     }
   ],
   "videos": [
@@ -1686,8 +1693,8 @@
       "publishedAt": "2026-09-11T11:24:36Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 1.2862616310892174,
-      "commentRate": 0.027367268746579094,
+      "likeRate": 1.2955465587044535,
+      "commentRate": 0.026990553306342778,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -1794,6 +1801,15 @@
           "publishedAt": "2026-09-11T11:24:36Z",
           "viewCount": 3654,
           "likeCount": 47,
+          "commentCount": 1,
+          "durationSeconds": 53
+        },
+        {
+          "date": "2026-09-24",
+          "title": "같이 화장해요 #mkaeup #makeuptutorial",
+          "publishedAt": "2026-09-11T11:24:36Z",
+          "viewCount": 3705,
+          "likeCount": 48,
           "commentCount": 1,
           "durationSeconds": 53
         }
@@ -2088,8 +2104,8 @@
       "publishedAt": "2026-09-13T08:30:02Z",
       "durationSeconds": 18,
       "isShort": true,
-      "likeRate": 1.2949174490126254,
-      "commentRate": 0.024279702168986728,
+      "likeRate": 1.2674171455561678,
+      "commentRate": 0.023616468550736045,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -2178,6 +2194,15 @@
           "publishedAt": "2026-09-13T08:30:02Z",
           "viewCount": 12356,
           "likeCount": 160,
+          "commentCount": 3,
+          "durationSeconds": 18
+        },
+        {
+          "date": "2026-09-24",
+          "title": "멀멀 웜 메이크업 #makeup #makeuptransformation",
+          "publishedAt": "2026-09-13T08:30:02Z",
+          "viewCount": 12703,
+          "likeCount": 161,
           "commentCount": 3,
           "durationSeconds": 18
         }

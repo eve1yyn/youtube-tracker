@@ -372,6 +372,13 @@
       "subscriberCount": 8100,
       "totalViewCount": 2629774,
       "videoCount": 273
+    },
+    {
+      "date": "2026-09-24",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8100,
+      "totalViewCount": 2630367,
+      "videoCount": 273
     }
   ],
   "videos": [
@@ -672,8 +679,8 @@
       "publishedAt": "2026-09-04T07:05:09Z",
       "durationSeconds": 639,
       "isShort": false,
-      "likeRate": 0.8289448020284766,
-      "commentRate": 0.03900916715428126,
+      "likeRate": 0.8287831513260531,
+      "commentRate": 0.0390015600624025,
       "dailyStats": [
         {
           "date": "2026-09-05",
@@ -845,6 +852,15 @@
           "likeCount": 85,
           "commentCount": 4,
           "durationSeconds": 639
+        },
+        {
+          "date": "2026-09-24",
+          "title": "미니멀한 냉장고를 위한 정리",
+          "publishedAt": "2026-09-04T07:05:09Z",
+          "viewCount": 10256,
+          "likeCount": 85,
+          "commentCount": 4,
+          "durationSeconds": 639
         }
       ],
       "thumbnailFeatures": null
@@ -855,8 +871,8 @@
       "publishedAt": "2026-09-18T07:00:26Z",
       "durationSeconds": 638,
       "isShort": false,
-      "likeRate": 0.7811429354529258,
-      "commentRate": 0.16445114430587912,
+      "likeRate": 0.7748776508972268,
+      "commentRate": 0.1631321370309951,
       "dailyStats": [
         {
           "date": "2026-09-19",
@@ -899,6 +915,15 @@
           "title": "옷 정리를 안 해도 되는 옷장의 비밀",
           "publishedAt": "2026-09-18T07:00:26Z",
           "viewCount": 7297,
+          "likeCount": 57,
+          "commentCount": 12,
+          "durationSeconds": 638
+        },
+        {
+          "date": "2026-09-24",
+          "title": "옷 정리를 안 해도 되는 옷장의 비밀",
+          "publishedAt": "2026-09-18T07:00:26Z",
+          "viewCount": 7356,
           "likeCount": 57,
           "commentCount": 12,
           "durationSeconds": 638
