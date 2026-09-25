@@ -379,6 +379,13 @@
       "subscriberCount": 16600,
       "totalViewCount": 4682496,
       "videoCount": 217
+    },
+    {
+      "date": "2026-09-25",
+      "title": "오리지널 레미 ORIGINAL REMY",
+      "subscriberCount": 16600,
+      "totalViewCount": 4685445,
+      "videoCount": 217
     }
   ],
   "videos": [
@@ -388,8 +395,8 @@
       "publishedAt": "2026-09-18T01:17:39Z",
       "durationSeconds": 799,
       "isShort": false,
-      "likeRate": 0.9531659480936681,
-      "commentRate": 0.2282525995434948,
+      "likeRate": 0.9411031473979432,
+      "commentRate": 0.22852394307676327,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -453,6 +460,15 @@
           "likeCount": 451,
           "commentCount": 108,
           "durationSeconds": 799
+        },
+        {
+          "date": "2026-09-25",
+          "title": "손님 오는날 D-1청소. 누가 자고간다는데 집청소도 안해놓는 그런여자는 아니쟈나",
+          "publishedAt": "2026-09-18T01:17:39Z",
+          "viewCount": 48135,
+          "likeCount": 453,
+          "commentCount": 110,
+          "durationSeconds": 799
         }
       ],
       "thumbnailFeatures": null
@@ -514,8 +530,8 @@
       "publishedAt": "2026-08-27T00:17:13Z",
       "durationSeconds": 904,
       "isShort": false,
-      "likeRate": 1.3334506887294812,
-      "commentRate": 0.25964881397702766,
+      "likeRate": 1.3305814157737572,
+      "commentRate": 0.25909011066221677,
       "dailyStats": [
         {
           "date": "2026-08-27",
@@ -774,6 +790,15 @@
           "title": "장본 후 수다떨며 소분,정리. 00만원 장봐도 왜 먹을게 없.. /레몬소분 후 세정제 만들기, 소고기, 마늘, 미역 소분, 트레이더스 추천템",
           "publishedAt": "2026-08-27T00:17:13Z",
           "viewCount": 22723,
+          "likeCount": 303,
+          "commentCount": 59,
+          "durationSeconds": 904
+        },
+        {
+          "date": "2026-09-25",
+          "title": "장본 후 수다떨며 소분,정리. 00만원 장봐도 왜 먹을게 없.. /레몬소분 후 세정제 만들기, 소고기, 마늘, 미역 소분, 트레이더스 추천템",
+          "publishedAt": "2026-08-27T00:17:13Z",
+          "viewCount": 22772,
           "likeCount": 303,
           "commentCount": 59,
           "durationSeconds": 904
@@ -1645,8 +1670,8 @@
       "publishedAt": "2026-09-04T00:50:26Z",
       "durationSeconds": 620,
       "isShort": false,
-      "likeRate": 1.2232531004761278,
-      "commentRate": 0.2615879707172027,
+      "likeRate": 1.2239074936176602,
+      "commentRate": 0.2609250638233969,
       "dailyStats": [
         {
           "date": "2026-09-04",
@@ -1834,6 +1859,15 @@
           "publishedAt": "2026-09-04T00:50:26Z",
           "viewCount": 53137,
           "likeCount": 650,
+          "commentCount": 139,
+          "durationSeconds": 620
+        },
+        {
+          "date": "2026-09-25",
+          "title": "삶이 끝나야 끝나는 살림. 살림이 지긋지긋한 4가지 이유",
+          "publishedAt": "2026-09-04T00:50:26Z",
+          "viewCount": 53272,
+          "likeCount": 652,
           "commentCount": 139,
           "durationSeconds": 620
         }
