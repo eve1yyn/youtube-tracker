@@ -386,6 +386,13 @@
       "subscriberCount": 17600,
       "totalViewCount": 2823679,
       "videoCount": 86
+    },
+    {
+      "date": "2026-09-26",
+      "title": "고초희 Daily Chohees",
+      "subscriberCount": 17600,
+      "totalViewCount": 2825419,
+      "videoCount": 86
     }
   ],
   "videos": [
@@ -395,8 +402,8 @@
       "publishedAt": "2026-09-13T00:00:26Z",
       "durationSeconds": 1409,
       "isShort": false,
-      "likeRate": 0.9316298971262101,
-      "commentRate": 0.2518738809820047,
+      "likeRate": 0.9324642404490314,
+      "commentRate": 0.2504677409620375,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -514,6 +521,15 @@
           "likeCount": 307,
           "commentCount": 83,
           "durationSeconds": 1409
+        },
+        {
+          "date": "2026-09-26",
+          "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 말하는 대로 이루어진다 | 여름기록 브이로그 vlog",
+          "publishedAt": "2026-09-13T00:00:26Z",
+          "viewCount": 33138,
+          "likeCount": 309,
+          "commentCount": 83,
+          "durationSeconds": 1409
         }
       ],
       "thumbnailFeatures": null
@@ -524,8 +540,8 @@
       "publishedAt": "2026-08-30T00:00:06Z",
       "durationSeconds": 1515,
       "isShort": false,
-      "likeRate": 0.9276520195295161,
-      "commentRate": 0.3994673768308922,
+      "likeRate": 0.9288200217241913,
+      "commentRate": 0.3990157611225643,
       "dailyStats": [
         {
           "date": "2026-08-30",
@@ -769,6 +785,15 @@
           "likeCount": 418,
           "commentCount": 180,
           "durationSeconds": 1515
+        },
+        {
+          "date": "2026-09-26",
+          "title": "EP 60. 명상 흉내라도 내며 리셋하기 | 인풋 없이 아웃풋만 내면 생기는 일 | 평창 브이로그 vlog",
+          "publishedAt": "2026-08-30T00:00:06Z",
+          "viewCount": 45111,
+          "likeCount": 419,
+          "commentCount": 180,
+          "durationSeconds": 1515
         }
       ],
       "thumbnailFeatures": null
@@ -779,8 +804,8 @@
       "publishedAt": "2026-09-14T07:34:46Z",
       "durationSeconds": 15,
       "isShort": true,
-      "likeRate": 1.2586019558131112,
-      "commentRate": 0.11771097428467947,
+      "likeRate": 1.2383073496659243,
+      "commentRate": 0.11581291759465479,
       "dailyStats": [
         {
           "date": "2026-09-15",
@@ -877,6 +902,15 @@
           "title": "을지로 김사랑 빠이 #fyp",
           "publishedAt": "2026-09-14T07:34:46Z",
           "viewCount": 11044,
+          "likeCount": 139,
+          "commentCount": 13,
+          "durationSeconds": 15
+        },
+        {
+          "date": "2026-09-26",
+          "title": "을지로 김사랑 빠이 #fyp",
+          "publishedAt": "2026-09-14T07:34:46Z",
+          "viewCount": 11225,
           "likeCount": 139,
           "commentCount": 13,
           "durationSeconds": 15

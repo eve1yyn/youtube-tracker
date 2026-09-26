@@ -386,6 +386,13 @@
       "subscriberCount": 107000,
       "totalViewCount": 20612943,
       "videoCount": 83
+    },
+    {
+      "date": "2026-09-26",
+      "title": "아임지현 Jihyun",
+      "subscriberCount": 107000,
+      "totalViewCount": 20843615,
+      "videoCount": 83
     }
   ],
   "videos": [
@@ -395,8 +402,8 @@
       "publishedAt": "2026-09-24T09:00:27Z",
       "durationSeconds": 31,
       "isShort": true,
-      "likeRate": 0.7603770636945992,
-      "commentRate": 0.03124837248059997,
+      "likeRate": 0.82692904474179,
+      "commentRate": 0.021905405158722913,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -404,6 +411,15 @@
           "publishedAt": "2026-09-24T09:00:27Z",
           "viewCount": 38402,
           "likeCount": 292,
+          "commentCount": 12,
+          "durationSeconds": 31
+        },
+        {
+          "date": "2026-09-26",
+          "title": "29살 엄마 👼🏻 #shorts",
+          "publishedAt": "2026-09-24T09:00:27Z",
+          "viewCount": 54781,
+          "likeCount": 453,
           "commentCount": 12,
           "durationSeconds": 31
         }
@@ -1049,8 +1065,8 @@
       "publishedAt": "2026-08-30T09:00:16Z",
       "durationSeconds": 22,
       "isShort": true,
-      "likeRate": 0.29748512574371283,
-      "commentRate": 0.005833041681249271,
+      "likeRate": 0.29547916871860536,
+      "commentRate": 0.006566203749302341,
       "dailyStats": [
         {
           "date": "2026-08-31",
@@ -1284,6 +1300,15 @@
           "viewCount": 120006,
           "likeCount": 357,
           "commentCount": 7,
+          "durationSeconds": 22
+        },
+        {
+          "date": "2026-09-26",
+          "title": "환승녀가 내 인스타를 본다고..?  #shorts",
+          "publishedAt": "2026-08-30T09:00:16Z",
+          "viewCount": 121836,
+          "likeCount": 360,
+          "commentCount": 8,
           "durationSeconds": 22
         }
       ],
@@ -2720,7 +2745,7 @@
       "publishedAt": "2026-09-07T09:00:20Z",
       "durationSeconds": 1575,
       "isShort": false,
-      "likeRate": 0.50807030465464,
+      "likeRate": 0.5037719822039814,
       "commentRate": null,
       "dailyStats": [
         {
@@ -2884,6 +2909,15 @@
           "likeCount": 2980,
           "commentCount": null,
           "durationSeconds": 1575
+        },
+        {
+          "date": "2026-09-26",
+          "title": "이제야 전하는 현실적인 이야기 | 일 • 사랑 • 대학원 Vlog [SUB]",
+          "publishedAt": "2026-09-07T09:00:20Z",
+          "viewCount": 594515,
+          "likeCount": 2995,
+          "commentCount": null,
+          "durationSeconds": 1575
         }
       ],
       "thumbnailFeatures": null
@@ -2894,8 +2928,8 @@
       "publishedAt": "2026-09-22T09:00:38Z",
       "durationSeconds": 45,
       "isShort": true,
-      "likeRate": 1.4540019024323958,
-      "commentRate": 0.12229922543823889,
+      "likeRate": 1.394422310756972,
+      "commentRate": 0.10546051089758612,
       "dailyStats": [
         {
           "date": "2026-09-23",
@@ -2921,6 +2955,15 @@
           "publishedAt": "2026-09-22T09:00:38Z",
           "viewCount": 7359,
           "likeCount": 107,
+          "commentCount": 9,
+          "durationSeconds": 45
+        },
+        {
+          "date": "2026-09-26",
+          "title": "나는 내 삶을 사랑하는가 #shorts",
+          "publishedAt": "2026-09-22T09:00:38Z",
+          "viewCount": 8534,
+          "likeCount": 119,
           "commentCount": 9,
           "durationSeconds": 45
         }
@@ -4052,8 +4095,8 @@
       "publishedAt": "2026-09-17T09:00:07Z",
       "durationSeconds": 1631,
       "isShort": false,
-      "likeRate": 0.5925219214280782,
-      "commentRate": 0.133066363710543,
+      "likeRate": 0.5813109877752385,
+      "commentRate": 0.1305909239307868,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -4125,6 +4168,15 @@
           "viewCount": 318638,
           "likeCount": 1888,
           "commentCount": 424,
+          "durationSeconds": 1631
+        },
+        {
+          "date": "2026-09-26",
+          "title": "괜찮다 말했지만 안 괜찮을지도 | Vlog [SUB]",
+          "publishedAt": "2026-09-17T09:00:07Z",
+          "viewCount": 330804,
+          "likeCount": 1923,
+          "commentCount": 432,
           "durationSeconds": 1631
         }
       ],
@@ -5171,8 +5223,8 @@
       "publishedAt": "2026-09-23T09:00:28Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 1.22847543049139,
-      "commentRate": 0.041999160016799666,
+      "likeRate": 1.1348088531187124,
+      "commentRate": 0.03219315895372234,
       "dailyStats": [
         {
           "date": "2026-09-24",
@@ -5189,6 +5241,15 @@
           "publishedAt": "2026-09-23T09:00:28Z",
           "viewCount": 9524,
           "likeCount": 117,
+          "commentCount": 4,
+          "durationSeconds": 42
+        },
+        {
+          "date": "2026-09-26",
+          "title": "마음껏 도전하고 실패하고 경험하기 #shorts",
+          "publishedAt": "2026-09-23T09:00:28Z",
+          "viewCount": 12425,
+          "likeCount": 141,
           "commentCount": 4,
           "durationSeconds": 42
         }
@@ -5678,8 +5739,8 @@
       "publishedAt": "2026-08-31T09:00:21Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 0.5049208786183275,
-      "commentRate": 0.012133034051826723,
+      "likeRate": 0.5045496699079047,
+      "commentRate": 0.011936570898640149,
       "dailyStats": [
         {
           "date": "2026-09-01",
@@ -5903,6 +5964,15 @@
           "publishedAt": "2026-08-31T09:00:21Z",
           "viewCount": 214291,
           "likeCount": 1082,
+          "commentCount": 26,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-09-26",
+          "title": "츤데레 ISTP 남자친구 🐈‍⬛ #shorts",
+          "publishedAt": "2026-08-31T09:00:21Z",
+          "viewCount": 217818,
+          "likeCount": 1099,
           "commentCount": 26,
           "durationSeconds": 33
         }
@@ -6761,8 +6831,8 @@
       "publishedAt": "2026-08-29T09:00:36Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 0.5053397811885998,
-      "commentRate": 0.00797523327557331,
+      "likeRate": 0.5001693097804617,
+      "commentRate": 0.007760031604492353,
       "dailyStats": [
         {
           "date": "2026-08-30",
@@ -7006,6 +7076,15 @@
           "likeCount": 697,
           "commentCount": 11,
           "durationSeconds": 57
+        },
+        {
+          "date": "2026-09-26",
+          "title": "초미녀 토끼와의 첫 만남 🐰 #shorts",
+          "publishedAt": "2026-08-29T09:00:36Z",
+          "viewCount": 141752,
+          "likeCount": 709,
+          "commentCount": 11,
+          "durationSeconds": 57
         }
       ],
       "thumbnailFeatures": null
@@ -7016,8 +7095,8 @@
       "publishedAt": "2026-08-27T09:00:03Z",
       "durationSeconds": 1692,
       "isShort": false,
-      "likeRate": 0.6975069873884824,
-      "commentRate": 0.11114122326519774,
+      "likeRate": 0.6954205010398684,
+      "commentRate": 0.11037557600554597,
       "dailyStats": [
         {
           "date": "2026-08-28",
@@ -7277,6 +7356,15 @@
           "publishedAt": "2026-08-27T09:00:03Z",
           "viewCount": 365301,
           "likeCount": 2548,
+          "commentCount": 406,
+          "durationSeconds": 1692
+        },
+        {
+          "date": "2026-09-26",
+          "title": "연애란 뭘까..? With 하트페어링 제연 🐰[SUB]",
+          "publishedAt": "2026-08-27T09:00:03Z",
+          "viewCount": 367835,
+          "likeCount": 2558,
           "commentCount": 406,
           "durationSeconds": 1692
         }

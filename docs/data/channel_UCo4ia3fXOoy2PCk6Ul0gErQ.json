@@ -386,6 +386,13 @@
       "subscriberCount": 16600,
       "totalViewCount": 4685445,
       "videoCount": 217
+    },
+    {
+      "date": "2026-09-26",
+      "title": "오리지널 레미 ORIGINAL REMY",
+      "subscriberCount": 16600,
+      "totalViewCount": 4695565,
+      "videoCount": 217
     }
   ],
   "videos": [
@@ -395,8 +402,8 @@
       "publishedAt": "2026-09-18T01:17:39Z",
       "durationSeconds": 799,
       "isShort": false,
-      "likeRate": 0.9411031473979432,
-      "commentRate": 0.22852394307676327,
+      "likeRate": 0.9375639713408392,
+      "commentRate": 0.22517911975435007,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -467,6 +474,15 @@
           "publishedAt": "2026-09-18T01:17:39Z",
           "viewCount": 48135,
           "likeCount": 453,
+          "commentCount": 110,
+          "durationSeconds": 799
+        },
+        {
+          "date": "2026-09-26",
+          "title": "손님 오는날 D-1청소. 누가 자고간다는데 집청소도 안해놓는 그런여자는 아니쟈나",
+          "publishedAt": "2026-09-18T01:17:39Z",
+          "viewCount": 48850,
+          "likeCount": 458,
           "commentCount": 110,
           "durationSeconds": 799
         }
@@ -1670,8 +1686,8 @@
       "publishedAt": "2026-09-04T00:50:26Z",
       "durationSeconds": 620,
       "isShort": false,
-      "likeRate": 1.2239074936176602,
-      "commentRate": 0.2609250638233969,
+      "likeRate": 1.219649070298178,
+      "commentRate": 0.2600172097721576,
       "dailyStats": [
         {
           "date": "2026-09-04",
@@ -1867,6 +1883,15 @@
           "title": "삶이 끝나야 끝나는 살림. 살림이 지긋지긋한 4가지 이유",
           "publishedAt": "2026-09-04T00:50:26Z",
           "viewCount": 53272,
+          "likeCount": 652,
+          "commentCount": 139,
+          "durationSeconds": 620
+        },
+        {
+          "date": "2026-09-26",
+          "title": "삶이 끝나야 끝나는 살림. 살림이 지긋지긋한 4가지 이유",
+          "publishedAt": "2026-09-04T00:50:26Z",
+          "viewCount": 53458,
           "likeCount": 652,
           "commentCount": 139,
           "durationSeconds": 620
