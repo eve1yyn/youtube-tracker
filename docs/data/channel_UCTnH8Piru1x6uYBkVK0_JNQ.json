@@ -393,6 +393,13 @@
       "subscriberCount": 7880,
       "totalViewCount": 6362354,
       "videoCount": 179
+    },
+    {
+      "date": "2026-09-27",
+      "title": "알밤로그",
+      "subscriberCount": 7890,
+      "totalViewCount": 6367817,
+      "videoCount": 179
     }
   ],
   "videos": [
@@ -2166,7 +2173,7 @@
       "publishedAt": "2026-09-22T11:01:09Z",
       "durationSeconds": 45,
       "isShort": true,
-      "likeRate": 1.2399256044637323,
+      "likeRate": 1.2658227848101267,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -2202,6 +2209,15 @@
           "publishedAt": "2026-09-22T11:01:09Z",
           "viewCount": 1613,
           "likeCount": 20,
+          "commentCount": 0,
+          "durationSeconds": 45
+        },
+        {
+          "date": "2026-09-27",
+          "title": "화장품에 수 억 쓴 여자의 붓기 쏙 빼는 루틴🌷",
+          "publishedAt": "2026-09-22T11:01:09Z",
+          "viewCount": 1738,
+          "likeCount": 22,
           "commentCount": 0,
           "durationSeconds": 45
         }
@@ -2919,8 +2935,8 @@
       "publishedAt": "2026-09-12T10:57:40Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 2.672209026128266,
-      "commentRate": 0.5641330166270784,
+      "likeRate": 2.6674398376340966,
+      "commentRate": 0.5798782255726298,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -3047,6 +3063,15 @@
           "likeCount": 90,
           "commentCount": 19,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-09-27",
+          "title": "수건에만 수 천 쓴 여자의 최고의 수건 추천 Best 3🌷",
+          "publishedAt": "2026-09-12T10:57:40Z",
+          "viewCount": 3449,
+          "likeCount": 92,
+          "commentCount": 20,
+          "durationSeconds": 59
         }
       ],
       "thumbnailFeatures": null
@@ -3057,7 +3082,7 @@
       "publishedAt": "2026-09-19T11:00:59Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 1.0981912144702841,
+      "likeRate": 1.0559006211180124,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -3122,6 +3147,15 @@
           "likeCount": 17,
           "commentCount": 0,
           "durationSeconds": 53
+        },
+        {
+          "date": "2026-09-27",
+          "title": "좁쌀 피부 트러블 가장 쉽게 없애는 방법 3가지!!!🌷",
+          "publishedAt": "2026-09-19T11:00:59Z",
+          "viewCount": 1610,
+          "likeCount": 17,
+          "commentCount": 0,
+          "durationSeconds": 53
         }
       ],
       "thumbnailFeatures": null
@@ -3132,8 +3166,8 @@
       "publishedAt": "2026-09-03T11:03:56Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 1.4644351464435146,
-      "commentRate": 0.3486750348675035,
+      "likeRate": 1.4285714285714286,
+      "commentRate": 0.3401360544217687,
       "dailyStats": [
         {
           "date": "2026-09-04",
@@ -3338,6 +3372,15 @@
           "title": "화장품에 수 억 쓴 여자가 정착한 뷰티 디바이스 2가지🌷",
           "publishedAt": "2026-09-03T11:03:56Z",
           "viewCount": 1434,
+          "likeCount": 21,
+          "commentCount": 5,
+          "durationSeconds": 58
+        },
+        {
+          "date": "2026-09-27",
+          "title": "화장품에 수 억 쓴 여자가 정착한 뷰티 디바이스 2가지🌷",
+          "publishedAt": "2026-09-03T11:03:56Z",
+          "viewCount": 1470,
           "likeCount": 21,
           "commentCount": 5,
           "durationSeconds": 58
@@ -3705,8 +3748,8 @@
       "publishedAt": "2026-08-29T11:00:47Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.9216664221798445,
-      "commentRate": 0.029338418659234266,
+      "likeRate": 1.918711094837056,
+      "commentRate": 0.02929329915781765,
       "dailyStats": [
         {
           "date": "2026-08-30",
@@ -3959,6 +4002,15 @@
           "likeCount": 262,
           "commentCount": 4,
           "durationSeconds": 54
+        },
+        {
+          "date": "2026-09-27",
+          "title": "화장품에 수 억 쓴 여자의 도쿄가면 꼭 사는아이템 best3",
+          "publishedAt": "2026-08-29T11:00:47Z",
+          "viewCount": 13655,
+          "likeCount": 262,
+          "commentCount": 4,
+          "durationSeconds": 54
         }
       ],
       "thumbnailFeatures": null
@@ -4173,8 +4225,8 @@
       "publishedAt": "2026-09-26T03:09:20Z",
       "durationSeconds": 41,
       "isShort": true,
-      "likeRate": 0.14513788098693758,
-      "commentRate": 0,
+      "likeRate": 0.5314009661835749,
+      "commentRate": 0.04830917874396135,
       "dailyStats": [
         {
           "date": "2026-09-26",
@@ -4183,6 +4235,15 @@
           "viewCount": 689,
           "likeCount": 1,
           "commentCount": 0,
+          "durationSeconds": 41
+        },
+        {
+          "date": "2026-09-27",
+          "title": "30대 미혼억대 연봉K 장녀의명절 vlog🌷",
+          "publishedAt": "2026-09-26T03:09:20Z",
+          "viewCount": 2070,
+          "likeCount": 11,
+          "commentCount": 1,
           "durationSeconds": 41
         }
       ],
@@ -4476,8 +4537,8 @@
       "publishedAt": "2026-09-17T11:00:48Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 2.4222704266088213,
-      "commentRate": 0.18076644974692696,
+      "likeRate": 2.353354408148929,
+      "commentRate": 0.17562346329469616,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -4556,6 +4617,15 @@
           "title": "화장품에 수 억 쓴 여자의 최고의 앰플 추천 Best 3🌷",
           "publishedAt": "2026-09-17T11:00:48Z",
           "viewCount": 2766,
+          "likeCount": 67,
+          "commentCount": 5,
+          "durationSeconds": 58
+        },
+        {
+          "date": "2026-09-27",
+          "title": "화장품에 수 억 쓴 여자의 최고의 앰플 추천 Best 3🌷",
+          "publishedAt": "2026-09-17T11:00:48Z",
+          "viewCount": 2847,
           "likeCount": 67,
           "commentCount": 5,
           "durationSeconds": 58
@@ -4851,8 +4921,8 @@
       "publishedAt": "2026-09-11T11:01:20Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 0.6899950714637753,
-      "commentRate": 0.04928536224741252,
+      "likeRate": 0.6802721088435374,
+      "commentRate": 0.048590864917395525,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -4988,6 +5058,15 @@
           "likeCount": 14,
           "commentCount": 1,
           "durationSeconds": 56
+        },
+        {
+          "date": "2026-09-27",
+          "title": "루이비통 파인주얼리 vip 초대 받아서 다녀왔어요☺️",
+          "publishedAt": "2026-09-11T11:01:20Z",
+          "viewCount": 2058,
+          "likeCount": 14,
+          "commentCount": 1,
+          "durationSeconds": 56
         }
       ],
       "thumbnailFeatures": null
@@ -5103,8 +5182,8 @@
       "publishedAt": "2026-09-20T11:01:23Z",
       "durationSeconds": 60,
       "isShort": true,
-      "likeRate": 1.2182203389830508,
-      "commentRate": 0.05296610169491525,
+      "likeRate": 1.1645569620253164,
+      "commentRate": 0.10126582278481014,
       "dailyStats": [
         {
           "date": "2026-09-21",
@@ -5158,6 +5237,15 @@
           "viewCount": 1888,
           "likeCount": 23,
           "commentCount": 1,
+          "durationSeconds": 60
+        },
+        {
+          "date": "2026-09-27",
+          "title": "화장품에 수 억 쓴 여자의 백화점 럭셔리 앰플 추천 BEST 3🌷",
+          "publishedAt": "2026-09-20T11:01:23Z",
+          "viewCount": 1975,
+          "likeCount": 23,
+          "commentCount": 2,
           "durationSeconds": 60
         }
       ],
@@ -6324,8 +6412,8 @@
       "publishedAt": "2026-09-10T11:04:44Z",
       "durationSeconds": 52,
       "isShort": true,
-      "likeRate": 1.542111506524318,
-      "commentRate": 0.05931198102016608,
+      "likeRate": 1.4951121334100057,
+      "commentRate": 0.05750431282346176,
       "dailyStats": [
         {
           "date": "2026-09-11",
@@ -6470,6 +6558,15 @@
           "likeCount": 26,
           "commentCount": 1,
           "durationSeconds": 52
+        },
+        {
+          "date": "2026-09-27",
+          "title": "돈, 시간, 체력 다 있는 30대 여자 강릉 여행 vlog",
+          "publishedAt": "2026-09-10T11:04:44Z",
+          "viewCount": 1739,
+          "likeCount": 26,
+          "commentCount": 1,
+          "durationSeconds": 52
         }
       ],
       "thumbnailFeatures": null
@@ -6480,8 +6577,8 @@
       "publishedAt": "2026-09-01T11:00:55Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 2.659956865564342,
-      "commentRate": 0.03594536304816679,
+      "likeRate": 2.632515119174671,
+      "commentRate": 0.03557452863749555,
       "dailyStats": [
         {
           "date": "2026-09-02",
@@ -6704,6 +6801,15 @@
           "title": "화장품에 수 억 쓴 여자가 도쿄에서 산 특별한 향수 아이템 best4 2탄🌷",
           "publishedAt": "2026-09-01T11:00:55Z",
           "viewCount": 2782,
+          "likeCount": 74,
+          "commentCount": 1,
+          "durationSeconds": 59
+        },
+        {
+          "date": "2026-09-27",
+          "title": "화장품에 수 억 쓴 여자가 도쿄에서 산 특별한 향수 아이템 best4 2탄🌷",
+          "publishedAt": "2026-09-01T11:00:55Z",
+          "viewCount": 2811,
           "likeCount": 74,
           "commentCount": 1,
           "durationSeconds": 59
@@ -6984,7 +7090,7 @@
       "publishedAt": "2026-08-31T11:04:31Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 2.5082995204721503,
+      "likeRate": 2.5274725274725274,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -7218,6 +7324,15 @@
           "publishedAt": "2026-08-31T11:04:31Z",
           "viewCount": 2711,
           "likeCount": 68,
+          "commentCount": 0,
+          "durationSeconds": 59
+        },
+        {
+          "date": "2026-09-27",
+          "title": "화장품에 수 억 쓴 여자가 도쿄에서 산 특별한 향수 아이템 best4 1탄",
+          "publishedAt": "2026-08-31T11:04:31Z",
+          "viewCount": 2730,
+          "likeCount": 69,
           "commentCount": 0,
           "durationSeconds": 59
         }
