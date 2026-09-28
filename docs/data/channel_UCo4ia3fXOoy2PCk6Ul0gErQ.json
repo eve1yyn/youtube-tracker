@@ -400,6 +400,13 @@
       "subscriberCount": 16600,
       "totalViewCount": 4697562,
       "videoCount": 217
+    },
+    {
+      "date": "2026-09-28",
+      "title": "오리지널 레미 ORIGINAL REMY",
+      "subscriberCount": 16600,
+      "totalViewCount": 4703849,
+      "videoCount": 218
     }
   ],
   "videos": [
@@ -409,8 +416,8 @@
       "publishedAt": "2026-09-18T01:17:39Z",
       "durationSeconds": 799,
       "isShort": false,
-      "likeRate": 0.9336120638915386,
-      "commentRate": 0.2232550587566723,
+      "likeRate": 0.9295213568597469,
+      "commentRate": 0.22332655976500412,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -500,6 +507,15 @@
           "viewCount": 49271,
           "likeCount": 460,
           "commentCount": 110,
+          "durationSeconds": 799
+        },
+        {
+          "date": "2026-09-28",
+          "title": "손님 오는날 D-1청소. 누가 자고간다는데 집청소도 안해놓는 그런여자는 아니쟈나",
+          "publishedAt": "2026-09-18T01:17:39Z",
+          "viewCount": 49703,
+          "likeCount": 462,
+          "commentCount": 111,
           "durationSeconds": 799
         }
       ],
@@ -1702,8 +1718,8 @@
       "publishedAt": "2026-09-04T00:50:26Z",
       "durationSeconds": 620,
       "isShort": false,
-      "likeRate": 1.219625733171958,
-      "commentRate": 0.26254538683549017,
+      "likeRate": 1.217836854416515,
+      "commentRate": 0.26361712397430664,
       "dailyStats": [
         {
           "date": "2026-09-04",
@@ -1920,6 +1936,15 @@
           "likeCount": 655,
           "commentCount": 141,
           "durationSeconds": 620
+        },
+        {
+          "date": "2026-09-28",
+          "title": "삶이 끝나야 끝나는 살림. 살림이 지긋지긋한 4가지 이유",
+          "publishedAt": "2026-09-04T00:50:26Z",
+          "viewCount": 53866,
+          "likeCount": 656,
+          "commentCount": 142,
+          "durationSeconds": 620
         }
       ],
       "thumbnailFeatures": null
@@ -1974,6 +1999,27 @@
         "overlayTone": "question",
         "hasFace": true
       }
+    },
+    {
+      "videoId": "nHEfgbFASb4",
+      "title": "감기걸린 주부 나홀로 고군분투 회복 브이로그😵 아파도 살림..해야지?👻감기 빨리낫는법 총동원",
+      "publishedAt": "2026-09-28T02:49:04Z",
+      "durationSeconds": 1031,
+      "isShort": false,
+      "likeRate": 8.375378405650856,
+      "commentRate": 1.513622603430878,
+      "dailyStats": [
+        {
+          "date": "2026-09-28",
+          "title": "감기걸린 주부 나홀로 고군분투 회복 브이로그😵 아파도 살림..해야지?👻감기 빨리낫는법 총동원",
+          "publishedAt": "2026-09-28T02:49:04Z",
+          "viewCount": 991,
+          "likeCount": 83,
+          "commentCount": 15,
+          "durationSeconds": 1031
+        }
+      ],
+      "thumbnailFeatures": null
     },
     {
       "videoId": "qd5ErsjDr2k",

@@ -400,6 +400,13 @@
       "subscriberCount": 729000,
       "totalViewCount": 126382739,
       "videoCount": 342
+    },
+    {
+      "date": "2026-09-28",
+      "title": "효뎡 Dyeong",
+      "subscriberCount": 729000,
+      "totalViewCount": 126414471,
+      "videoCount": 343
     }
   ],
   "videos": [
@@ -964,8 +971,8 @@
       "publishedAt": "2026-09-16T09:00:32Z",
       "durationSeconds": 32,
       "isShort": true,
-      "likeRate": 1.3190604231139973,
-      "commentRate": 0.015219927959007663,
+      "likeRate": 1.3118365711996796,
+      "commentRate": 0.015021029441217705,
       "dailyStats": [
         {
           "date": "2026-09-17",
@@ -1063,6 +1070,15 @@
           "publishedAt": "2026-09-16T09:00:32Z",
           "viewCount": 19711,
           "likeCount": 260,
+          "commentCount": 3,
+          "durationSeconds": 32
+        },
+        {
+          "date": "2026-09-28",
+          "title": "집순이의 마라탕 밀키트 소분🌶️ 먹고 싶을 때 꺼내먹는 냉동 밀프렙 | Mala Tang Meal Prep",
+          "publishedAt": "2026-09-16T09:00:32Z",
+          "viewCount": 19972,
+          "likeCount": 262,
           "commentCount": 3,
           "durationSeconds": 32
         }
@@ -1338,6 +1354,27 @@
           "likeCount": 2044,
           "commentCount": 112,
           "durationSeconds": 1027
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "T701ganB_wY",
+      "title": "출근 전 고구마맛탕 휘낭시에🍠 빠작한 시럽 코팅까지 | Sweet Potato Financiers",
+      "publishedAt": "2026-09-27T07:07:13Z",
+      "durationSeconds": 72,
+      "isShort": true,
+      "likeRate": 2.848593656493118,
+      "commentRate": 0.059844404548174746,
+      "dailyStats": [
+        {
+          "date": "2026-09-28",
+          "title": "출근 전 고구마맛탕 휘낭시에🍠 빠작한 시럽 코팅까지 | Sweet Potato Financiers",
+          "publishedAt": "2026-09-27T07:07:13Z",
+          "viewCount": 8355,
+          "likeCount": 238,
+          "commentCount": 5,
+          "durationSeconds": 72
         }
       ],
       "thumbnailFeatures": null
@@ -1621,8 +1658,8 @@
       "publishedAt": "2026-09-15T13:31:45Z",
       "durationSeconds": 34,
       "isShort": true,
-      "likeRate": 1.3445023229621287,
-      "commentRate": 0.014078558355624384,
+      "likeRate": 1.3474258915759632,
+      "commentRate": 0.01399923004234767,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -1731,6 +1768,15 @@
           "likeCount": 382,
           "commentCount": 4,
           "durationSeconds": 34
+        },
+        {
+          "date": "2026-09-28",
+          "title": "집순이의 베란다 캠핑🏕️ 고기랑 막국수 먹는 저녁 | Balcony Camping at Home",
+          "publishedAt": "2026-09-15T13:31:45Z",
+          "viewCount": 28573,
+          "likeCount": 385,
+          "commentCount": 4,
+          "durationSeconds": 34
         }
       ],
       "thumbnailFeatures": null
@@ -1741,8 +1787,8 @@
       "publishedAt": "2026-09-10T09:00:02Z",
       "durationSeconds": 927,
       "isShort": false,
-      "likeRate": 1.166556354009077,
-      "commentRate": 0.03900340393343419,
+      "likeRate": 1.1697593368812698,
+      "commentRate": 0.038854613102246506,
       "dailyStats": [
         {
           "date": "2026-09-11",
@@ -1885,6 +1931,15 @@
           "publishedAt": "2026-09-10T09:00:02Z",
           "viewCount": 169216,
           "likeCount": 1974,
+          "commentCount": 66,
+          "durationSeconds": 927
+        },
+        {
+          "date": "2026-09-28",
+          "title": "이사 두 달 앞두고 냉털 시작🧊 물김치 담그고 밤만쥬 잔뜩 굽는 일상🌰 | 김치알밥·마라탕·엽떡·마파두부",
+          "publishedAt": "2026-09-10T09:00:02Z",
+          "viewCount": 169864,
+          "likeCount": 1987,
           "commentCount": 66,
           "durationSeconds": 927
         }
@@ -2128,8 +2183,8 @@
       "publishedAt": "2026-09-24T11:00:26Z",
       "durationSeconds": 1053,
       "isShort": false,
-      "likeRate": 1.3328797006023976,
-      "commentRate": 0.03802509656373206,
+      "likeRate": 1.2748852775765103,
+      "commentRate": 0.03450298450815995,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -2156,6 +2211,15 @@
           "viewCount": 99934,
           "likeCount": 1332,
           "commentCount": 38,
+          "durationSeconds": 1053
+        },
+        {
+          "date": "2026-09-28",
+          "title": "출근 전 빠삭한 고구마맛탕 휘낭시에 굽고🍠 먹고 싶은 거 야무지게 해먹는 일상 | 봉골레파스타·콩국수·가지튀김·순두부짬뽕",
+          "publishedAt": "2026-09-24T11:00:26Z",
+          "viewCount": 115932,
+          "likeCount": 1478,
+          "commentCount": 40,
           "durationSeconds": 1053
         }
       ],
