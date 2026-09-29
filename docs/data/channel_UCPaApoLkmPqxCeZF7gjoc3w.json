@@ -407,6 +407,13 @@
       "subscriberCount": 2370000,
       "totalViewCount": 428364971,
       "videoCount": 324
+    },
+    {
+      "date": "2026-09-29",
+      "title": "planD플랜디",
+      "subscriberCount": 2370000,
+      "totalViewCount": 428640381,
+      "videoCount": 324
     }
   ],
   "videos": [
@@ -416,8 +423,8 @@
       "publishedAt": "2026-09-24T11:00:31Z",
       "durationSeconds": 2476,
       "isShort": false,
-      "likeRate": 1.7888529355137226,
-      "commentRate": 0.0652129357621529,
+      "likeRate": 1.7417486905460782,
+      "commentRate": 0.06270523824419619,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -454,6 +461,15 @@
           "likeCount": 11521,
           "commentCount": 420,
           "durationSeconds": 2476
+        },
+        {
+          "date": "2026-09-29",
+          "title": "남대문 쇼핑🛍️ 알찬 코스소개, 귀여운 송편만들고 제철새우🦐 먹는 자취일상",
+          "publishedAt": "2026-09-24T11:00:31Z",
+          "viewCount": 700101,
+          "likeCount": 12194,
+          "commentCount": 439,
+          "durationSeconds": 2476
         }
       ],
       "thumbnailFeatures": null
@@ -464,8 +480,8 @@
       "publishedAt": "2026-09-15T11:00:27Z",
       "durationSeconds": 1688,
       "isShort": false,
-      "likeRate": 1.8092575967256945,
-      "commentRate": 0.03515278393060396,
+      "likeRate": 1.7994871887563682,
+      "commentRate": 0.034729663780704766,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -581,6 +597,15 @@
           "publishedAt": "2026-09-15T11:00:27Z",
           "viewCount": 765231,
           "likeCount": 13845,
+          "commentCount": 269,
+          "durationSeconds": 1688
+        },
+        {
+          "date": "2026-09-29",
+          "title": "떡지순례 갔다가 우주떡집 떡🐰만드는 자취일상. 비오는날 놀러간 이태원 빈티지마켓 쇼핑",
+          "publishedAt": "2026-09-15T11:00:27Z",
+          "viewCount": 774554,
+          "likeCount": 13938,
           "commentCount": 269,
           "durationSeconds": 1688
         }
@@ -2450,8 +2475,8 @@
       "publishedAt": "2026-09-06T13:32:47Z",
       "durationSeconds": 2335,
       "isShort": false,
-      "likeRate": 1.871967592517735,
-      "commentRate": 0.05820928826209702,
+      "likeRate": 1.8682994300994615,
+      "commentRate": 0.057945074507708305,
       "dailyStats": [
         {
           "date": "2026-09-07",
@@ -2648,6 +2673,15 @@
           "publishedAt": "2026-09-06T13:32:47Z",
           "viewCount": 927687,
           "likeCount": 17366,
+          "commentCount": 540,
+          "durationSeconds": 2335
+        },
+        {
+          "date": "2026-09-29",
+          "title": "대전 빵버스 투어🚐 , 빵집 10군데 들러 빵모으는 자취일상. 빵해장은 짬뽕으로!",
+          "publishedAt": "2026-09-06T13:32:47Z",
+          "viewCount": 931917,
+          "likeCount": 17411,
           "commentCount": 540,
           "durationSeconds": 2335
         }
