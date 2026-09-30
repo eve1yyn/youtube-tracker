@@ -414,6 +414,13 @@
       "subscriberCount": 89300,
       "totalViewCount": 10824942,
       "videoCount": 159
+    },
+    {
+      "date": "2026-09-30",
+      "title": "소수콩",
+      "subscriberCount": 89300,
+      "totalViewCount": 10831066,
+      "videoCount": 160
     }
   ],
   "videos": [
@@ -423,8 +430,8 @@
       "publishedAt": "2026-09-27T19:46:53Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 1.7839195979899496,
-      "commentRate": 0.1507537688442211,
+      "likeRate": 1.8047200370198981,
+      "commentRate": 0.13882461823229986,
       "dailyStats": [
         {
           "date": "2026-09-28",
@@ -441,6 +448,15 @@
           "publishedAt": "2026-09-27T19:46:53Z",
           "viewCount": 3980,
           "likeCount": 71,
+          "commentCount": 6,
+          "durationSeconds": 58
+        },
+        {
+          "date": "2026-09-30",
+          "title": "유럽에서 인도여행 가는 법",
+          "publishedAt": "2026-09-27T19:46:53Z",
+          "viewCount": 4322,
+          "likeCount": 78,
           "commentCount": 6,
           "durationSeconds": 58
         }
@@ -735,8 +751,8 @@
       "publishedAt": "2026-09-24T18:19:22Z",
       "durationSeconds": 49,
       "isShort": true,
-      "likeRate": 1.69414953693246,
-      "commentRate": 0.2710639259091936,
+      "likeRate": 1.6960499888417764,
+      "commentRate": 0.2677973666592279,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -780,6 +796,15 @@
           "publishedAt": "2026-09-24T18:19:22Z",
           "viewCount": 4427,
           "likeCount": 75,
+          "commentCount": 12,
+          "durationSeconds": 49
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 51 과식한 다음날 어케 하나요 A.또 과식해요",
+          "publishedAt": "2026-09-24T18:19:22Z",
+          "viewCount": 4481,
+          "likeCount": 76,
           "commentCount": 12,
           "durationSeconds": 49
         }
@@ -1356,8 +1381,8 @@
       "publishedAt": "2026-09-03T20:08:44Z",
       "durationSeconds": 55,
       "isShort": true,
-      "likeRate": 1.4488865038905285,
-      "commentRate": 0.18781862087469814,
+      "likeRate": 1.448497854077253,
+      "commentRate": 0.18776824034334763,
       "dailyStats": [
         {
           "date": "2026-09-04",
@@ -1589,6 +1614,15 @@
           "title": "Day 30 위생학 개강 날",
           "publishedAt": "2026-09-03T20:08:44Z",
           "viewCount": 7454,
+          "likeCount": 108,
+          "commentCount": 14,
+          "durationSeconds": 55
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 30 위생학 개강 날",
+          "publishedAt": "2026-09-03T20:08:44Z",
+          "viewCount": 7456,
           "likeCount": 108,
           "commentCount": 14,
           "durationSeconds": 55
@@ -1884,8 +1918,8 @@
       "publishedAt": "2026-09-14T10:00:00Z",
       "durationSeconds": 1060,
       "isShort": false,
-      "likeRate": 0.8042251830512542,
-      "commentRate": 0.45612771576041294,
+      "likeRate": 0.8003822721299726,
+      "commentRate": 0.4539481543423725,
       "dailyStats": [
         {
           "date": "2026-09-15",
@@ -2018,6 +2052,15 @@
           "title": "[#28 대딩로그] ADHD 인간의,, 레전드 정신없는 교환학생 하루 📝 / 무화과 브리치즈 샌드위치, 템페 부리또",
           "publishedAt": "2026-09-14T10:00:00Z",
           "viewCount": 8331,
+          "likeCount": 67,
+          "commentCount": 38,
+          "durationSeconds": 1060
+        },
+        {
+          "date": "2026-09-30",
+          "title": "[#28 대딩로그] ADHD 인간의,, 레전드 정신없는 교환학생 하루 📝 / 무화과 브리치즈 샌드위치, 템페 부리또",
+          "publishedAt": "2026-09-14T10:00:00Z",
+          "viewCount": 8371,
           "likeCount": 67,
           "commentCount": 38,
           "durationSeconds": 1060
@@ -2628,8 +2671,8 @@
       "publishedAt": "2026-09-27T10:00:38Z",
       "durationSeconds": 968,
       "isShort": false,
-      "likeRate": 0.8054123711340205,
-      "commentRate": 0.44029209621993126,
+      "likeRate": 0.7692307692307693,
+      "commentRate": 0.44790652385589097,
       "dailyStats": [
         {
           "date": "2026-09-28",
@@ -2648,6 +2691,15 @@
           "likeCount": 75,
           "commentCount": 41,
           "durationSeconds": 968
+        },
+        {
+          "date": "2026-09-30",
+          "title": "[#29 대딩로그] 나의 채식 집밥을 소개합니다.. 그리구 솔직한 진로 이야기🥹 / 교환학생 브이로그",
+          "publishedAt": "2026-09-27T10:00:38Z",
+          "viewCount": 10270,
+          "likeCount": 79,
+          "commentCount": 46,
+          "durationSeconds": 968
         }
       ],
       "thumbnailFeatures": null
@@ -2658,8 +2710,8 @@
       "publishedAt": "2026-09-06T19:54:26Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 1.7048883524441762,
-      "commentRate": 0.07543753771876886,
+      "likeRate": 1.703860072376357,
+      "commentRate": 0.07539203860072376,
       "dailyStats": [
         {
           "date": "2026-09-07",
@@ -2867,6 +2919,15 @@
           "likeCount": 113,
           "commentCount": 5,
           "durationSeconds": 53
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 33 친구가 정성 가득 커리를 만들어줘따..😭",
+          "publishedAt": "2026-09-06T19:54:26Z",
+          "viewCount": 6632,
+          "likeCount": 113,
+          "commentCount": 5,
+          "durationSeconds": 53
         }
       ],
       "thumbnailFeatures": null
@@ -2877,8 +2938,8 @@
       "publishedAt": "2026-09-14T20:23:36Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 1.8441511480744892,
-      "commentRate": 0.03615982643283312,
+      "likeRate": 1.8404907975460123,
+      "commentRate": 0.03608805485384337,
       "dailyStats": [
         {
           "date": "2026-09-15",
@@ -3014,6 +3075,15 @@
           "likeCount": 102,
           "commentCount": 2,
           "durationSeconds": 58
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 41 단 한끼도 허투루 먹지 않는 여성",
+          "publishedAt": "2026-09-14T20:23:36Z",
+          "viewCount": 5542,
+          "likeCount": 102,
+          "commentCount": 2,
+          "durationSeconds": 58
         }
       ],
       "thumbnailFeatures": null
@@ -3024,8 +3094,8 @@
       "publishedAt": "2026-09-17T21:26:40Z",
       "durationSeconds": 76,
       "isShort": true,
-      "likeRate": 2.1499872024571283,
-      "commentRate": 0.3071410289224469,
+      "likeRate": 2.1374045801526718,
+      "commentRate": 0.3053435114503817,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -3131,6 +3201,15 @@
           "title": "Day 44 다같이 피자 만들어 먹은 날",
           "publishedAt": "2026-09-17T21:26:40Z",
           "viewCount": 3907,
+          "likeCount": 84,
+          "commentCount": 12,
+          "durationSeconds": 76
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 44 다같이 피자 만들어 먹은 날",
+          "publishedAt": "2026-09-17T21:26:40Z",
+          "viewCount": 3930,
           "likeCount": 84,
           "commentCount": 12,
           "durationSeconds": 76
@@ -3438,8 +3517,8 @@
       "publishedAt": "2026-09-10T20:18:47Z",
       "durationSeconds": 76,
       "isShort": true,
-      "likeRate": 1.6360776088096485,
-      "commentRate": 0.09438909281594127,
+      "likeRate": 1.6419159171721396,
+      "commentRate": 0.09412256850031374,
       "dailyStats": [
         {
           "date": "2026-09-11",
@@ -3609,6 +3688,15 @@
           "publishedAt": "2026-09-10T20:18:47Z",
           "viewCount": 9535,
           "likeCount": 156,
+          "commentCount": 9,
+          "durationSeconds": 76
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 37 이 세상에서 내가 젤 영어못하는것같아",
+          "publishedAt": "2026-09-10T20:18:47Z",
+          "viewCount": 9562,
+          "likeCount": 157,
           "commentCount": 9,
           "durationSeconds": 76
         }
@@ -3903,8 +3991,8 @@
       "publishedAt": "2026-09-23T19:59:04Z",
       "durationSeconds": 38,
       "isShort": true,
-      "likeRate": 1.6851535836177476,
-      "commentRate": 0.042662116040955635,
+      "likeRate": 1.6779949022939677,
+      "commentRate": 0.04248088360237893,
       "dailyStats": [
         {
           "date": "2026-09-24",
@@ -3956,6 +4044,15 @@
           "title": "덴마크에서 빨뚜랑 사케 마신 날",
           "publishedAt": "2026-09-23T19:59:04Z",
           "viewCount": 4688,
+          "likeCount": 79,
+          "commentCount": 2,
+          "durationSeconds": 38
+        },
+        {
+          "date": "2026-09-30",
+          "title": "덴마크에서 빨뚜랑 사케 마신 날",
+          "publishedAt": "2026-09-23T19:59:04Z",
+          "viewCount": 4708,
           "likeCount": 79,
           "commentCount": 2,
           "durationSeconds": 38
@@ -4263,8 +4360,8 @@
       "publishedAt": "2026-08-31T19:26:30Z",
       "durationSeconds": 44,
       "isShort": true,
-      "likeRate": 1.3004791238877482,
-      "commentRate": 0.04705681040383299,
+      "likeRate": 1.3003678672255967,
+      "commentRate": 0.04705278466934725,
       "dailyStats": [
         {
           "date": "2026-09-01",
@@ -4526,6 +4623,15 @@
           "likeCount": 304,
           "commentCount": 11,
           "durationSeconds": 44
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 27 성균관대 교환학생의 개강 첫날/떡볶이 같이 만들어먹기🫶🏻",
+          "publishedAt": "2026-08-31T19:26:30Z",
+          "viewCount": 23378,
+          "likeCount": 304,
+          "commentCount": 11,
+          "durationSeconds": 44
         }
       ],
       "thumbnailFeatures": null
@@ -4536,8 +4642,8 @@
       "publishedAt": "2026-09-11T20:06:51Z",
       "durationSeconds": 75,
       "isShort": true,
-      "likeRate": 1.2721238938053099,
-      "commentRate": 0.039506953223767384,
+      "likeRate": 1.2688155094964142,
+      "commentRate": 0.03940420836945386,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -4697,6 +4803,15 @@
           "title": "Day 38 덴마크에서 비빔밥 해먹기",
           "publishedAt": "2026-09-11T20:06:51Z",
           "viewCount": 12656,
+          "likeCount": 161,
+          "commentCount": 5,
+          "durationSeconds": 75
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 38 덴마크에서 비빔밥 해먹기",
+          "publishedAt": "2026-09-11T20:06:51Z",
+          "viewCount": 12689,
           "likeCount": 161,
           "commentCount": 5,
           "durationSeconds": 75
@@ -4992,8 +5107,8 @@
       "publishedAt": "2026-09-07T19:45:36Z",
       "durationSeconds": 68,
       "isShort": true,
-      "likeRate": 1.601325234676974,
-      "commentRate": 0.1435670900055218,
+      "likeRate": 1.60097162415811,
+      "commentRate": 0.14353538699348573,
       "dailyStats": [
         {
           "date": "2026-09-08",
@@ -5192,6 +5307,15 @@
           "likeCount": 145,
           "commentCount": 13,
           "durationSeconds": 68
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 34 / 팟타이가 2만 4천원이면 먹으실건가요",
+          "publishedAt": "2026-09-07T19:45:36Z",
+          "viewCount": 9057,
+          "likeCount": 145,
+          "commentCount": 13,
+          "durationSeconds": 68
         }
       ],
       "thumbnailFeatures": null
@@ -5202,8 +5326,8 @@
       "publishedAt": "2026-09-20T20:04:05Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 1.6441717791411041,
-      "commentRate": 0.09815950920245399,
+      "likeRate": 1.654501216545012,
+      "commentRate": 0.09732360097323602,
       "dailyStats": [
         {
           "date": "2026-09-21",
@@ -5285,6 +5409,15 @@
           "likeCount": 67,
           "commentCount": 4,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 47 자신감 끌어올려!!ㅠ",
+          "publishedAt": "2026-09-20T20:04:05Z",
+          "viewCount": 4110,
+          "likeCount": 68,
+          "commentCount": 4,
+          "durationSeconds": 59
         }
       ],
       "thumbnailFeatures": null
@@ -5295,8 +5428,8 @@
       "publishedAt": "2026-09-21T18:59:37Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 1.679712981082844,
-      "commentRate": 0.14677103718199608,
+      "likeRate": 1.6604868611961956,
+      "commentRate": 0.14509108495889086,
       "dailyStats": [
         {
           "date": "2026-09-22",
@@ -5366,6 +5499,15 @@
           "title": "Day 48 수업을 못 따라가..",
           "publishedAt": "2026-09-21T18:59:37Z",
           "viewCount": 6132,
+          "likeCount": 103,
+          "commentCount": 9,
+          "durationSeconds": 50
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 48 수업을 못 따라가..",
+          "publishedAt": "2026-09-21T18:59:37Z",
+          "viewCount": 6203,
           "likeCount": 103,
           "commentCount": 9,
           "durationSeconds": 50
@@ -5661,8 +5803,8 @@
       "publishedAt": "2026-09-13T19:48:54Z",
       "durationSeconds": 68,
       "isShort": true,
-      "likeRate": 2.042577675489068,
-      "commentRate": 0.14384349827387802,
+      "likeRate": 2.0367183017785426,
+      "commentRate": 0.1434308663224326,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -5804,6 +5946,15 @@
           "title": "Day 39 무화과 브리치즈샌디치 해먹은 날",
           "publishedAt": "2026-09-13T19:48:54Z",
           "viewCount": 3476,
+          "likeCount": 71,
+          "commentCount": 5,
+          "durationSeconds": 68
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 39 무화과 브리치즈샌디치 해먹은 날",
+          "publishedAt": "2026-09-13T19:48:54Z",
+          "viewCount": 3486,
           "likeCount": 71,
           "commentCount": 5,
           "durationSeconds": 68
@@ -6381,8 +6532,8 @@
       "publishedAt": "2026-09-16T19:51:38Z",
       "durationSeconds": 73,
       "isShort": true,
-      "likeRate": 1.9680653546230968,
-      "commentRate": 0.25993316004455996,
+      "likeRate": 1.9564414913252122,
+      "commentRate": 0.2583979328165375,
       "dailyStats": [
         {
           "date": "2026-09-17",
@@ -6497,6 +6648,15 @@
           "title": "Day 43 수업 짼 날 교환학생 하루🥦",
           "publishedAt": "2026-09-16T19:51:38Z",
           "viewCount": 5386,
+          "likeCount": 106,
+          "commentCount": 14,
+          "durationSeconds": 73
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 43 수업 짼 날 교환학생 하루🥦",
+          "publishedAt": "2026-09-16T19:51:38Z",
+          "viewCount": 5418,
           "likeCount": 106,
           "commentCount": 14,
           "durationSeconds": 73
@@ -6792,8 +6952,8 @@
       "publishedAt": "2026-09-05T19:43:49Z",
       "durationSeconds": 78,
       "isShort": true,
-      "likeRate": 1.708599324070597,
-      "commentRate": 0.06102140443109275,
+      "likeRate": 1.7073971574651718,
+      "commentRate": 0.06097846990947042,
       "dailyStats": [
         {
           "date": "2026-09-06",
@@ -7010,6 +7170,15 @@
           "likeCount": 364,
           "commentCount": 13,
           "durationSeconds": 78
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 32 까르보불닭 4천원주고 사먹기",
+          "publishedAt": "2026-09-05T19:43:49Z",
+          "viewCount": 21319,
+          "likeCount": 364,
+          "commentCount": 13,
+          "durationSeconds": 78
         }
       ],
       "thumbnailFeatures": null
@@ -7020,8 +7189,8 @@
       "publishedAt": "2026-09-15T20:56:21Z",
       "durationSeconds": 71,
       "isShort": true,
-      "likeRate": 3.9989613087509737,
-      "commentRate": 0.18177096857958971,
+      "likeRate": 3.9886039886039883,
+      "commentRate": 0.1813001813001813,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -7148,6 +7317,15 @@
           "likeCount": 154,
           "commentCount": 7,
           "durationSeconds": 71
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 42 원서접수 끝난 고3에게 화석이 감히 한마디",
+          "publishedAt": "2026-09-15T20:56:21Z",
+          "viewCount": 3861,
+          "likeCount": 154,
+          "commentCount": 7,
+          "durationSeconds": 71
         }
       ],
       "thumbnailFeatures": null
@@ -7158,8 +7336,8 @@
       "publishedAt": "2026-09-07T10:30:25Z",
       "durationSeconds": 815,
       "isShort": false,
-      "likeRate": 0.7820597380570998,
-      "commentRate": 0.19787053613492886,
+      "likeRate": 0.78125,
+      "commentRate": 0.1976656626506024,
       "dailyStats": [
         {
           "date": "2026-09-08",
@@ -7355,6 +7533,15 @@
           "title": "[#27 대딩로그] 수포자 출신^^ 수학의 난관에 부딪혔다.. / 인도 커리, 샌드위치, 파스타 해먹기",
           "publishedAt": "2026-09-07T10:30:25Z",
           "viewCount": 10613,
+          "likeCount": 83,
+          "commentCount": 21,
+          "durationSeconds": 815
+        },
+        {
+          "date": "2026-09-30",
+          "title": "[#27 대딩로그] 수포자 출신^^ 수학의 난관에 부딪혔다.. / 인도 커리, 샌드위치, 파스타 해먹기",
+          "publishedAt": "2026-09-07T10:30:25Z",
+          "viewCount": 10624,
           "likeCount": 83,
           "commentCount": 21,
           "durationSeconds": 815
@@ -7650,8 +7837,8 @@
       "publishedAt": "2026-09-08T20:14:49Z",
       "durationSeconds": 60,
       "isShort": true,
-      "likeRate": 1.0353141398383208,
-      "commentRate": 0.033092232780220304,
+      "likeRate": 1.0338831712016543,
+      "commentRate": 0.032896282720052634,
       "dailyStats": [
         {
           "date": "2026-09-09",
@@ -7841,6 +8028,15 @@
           "likeCount": 219,
           "commentCount": 7,
           "durationSeconds": 60
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 35 뼈문과인데 공대 왔어요",
+          "publishedAt": "2026-09-08T20:14:49Z",
+          "viewCount": 21279,
+          "likeCount": 220,
+          "commentCount": 7,
+          "durationSeconds": 60
         }
       ],
       "thumbnailFeatures": null
@@ -7851,8 +8047,8 @@
       "publishedAt": "2026-09-04T23:08:52Z",
       "durationSeconds": 93,
       "isShort": true,
-      "likeRate": 2.8072258502247474,
-      "commentRate": 0.13569671783563733,
+      "likeRate": 2.806035944387928,
+      "commentRate": 0.1356391997287216,
       "dailyStats": [
         {
           "date": "2026-09-05",
@@ -8075,6 +8271,15 @@
           "title": "Day 31 대학 와서 꿀강 피한 결과",
           "publishedAt": "2026-09-04T23:08:52Z",
           "viewCount": 11791,
+          "likeCount": 331,
+          "commentCount": 16,
+          "durationSeconds": 93
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 31 대학 와서 꿀강 피한 결과",
+          "publishedAt": "2026-09-04T23:08:52Z",
+          "viewCount": 11796,
           "likeCount": 331,
           "commentCount": 16,
           "durationSeconds": 93
@@ -8652,8 +8857,8 @@
       "publishedAt": "2026-09-01T19:39:51Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 1.8618428012271235,
-      "commentRate": 0.042314609118798266,
+      "likeRate": 1.8616458641844722,
+      "commentRate": 0.04231013327691982,
       "dailyStats": [
         {
           "date": "2026-09-02",
@@ -8903,6 +9108,15 @@
           "title": "Day 28 개강 둘쨋날/엑셀을 이렇게 한다고..",
           "publishedAt": "2026-09-01T19:39:51Z",
           "viewCount": 9453,
+          "likeCount": 176,
+          "commentCount": 4,
+          "durationSeconds": 53
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 28 개강 둘쨋날/엑셀을 이렇게 한다고..",
+          "publishedAt": "2026-09-01T19:39:51Z",
+          "viewCount": 9454,
           "likeCount": 176,
           "commentCount": 4,
           "durationSeconds": 53
@@ -9468,8 +9682,8 @@
       "publishedAt": "2026-09-28T19:57:09Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 2.3293607800650054,
-      "commentRate": 0.3250270855904659,
+      "likeRate": 1.8429003021148038,
+      "commentRate": 0.392749244712991,
       "dailyStats": [
         {
           "date": "2026-09-29",
@@ -9478,6 +9692,15 @@
           "viewCount": 1846,
           "likeCount": 43,
           "commentCount": 6,
+          "durationSeconds": 50
+        },
+        {
+          "date": "2026-09-30",
+          "title": "성균관대 교환학생은 하루종일 머할까",
+          "publishedAt": "2026-09-28T19:57:09Z",
+          "viewCount": 3310,
+          "likeCount": 61,
+          "commentCount": 13,
           "durationSeconds": 50
         }
       ],
@@ -9867,8 +10090,8 @@
       "publishedAt": "2026-09-13T19:50:57Z",
       "durationSeconds": 67,
       "isShort": true,
-      "likeRate": 1.750270660411404,
-      "commentRate": 0.23457235654998193,
+      "likeRate": 1.7773788150807899,
+      "commentRate": 0.23339317773788149,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -10013,6 +10236,15 @@
           "likeCount": 97,
           "commentCount": 13,
           "durationSeconds": 67
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 40 존맛 샌디치와 개강 둘째주 마무리",
+          "publishedAt": "2026-09-13T19:50:57Z",
+          "viewCount": 5570,
+          "likeCount": 99,
+          "commentCount": 13,
+          "durationSeconds": 67
         }
       ],
       "thumbnailFeatures": null
@@ -10023,8 +10255,8 @@
       "publishedAt": "2026-09-09T20:17:21Z",
       "durationSeconds": 65,
       "isShort": true,
-      "likeRate": 1.4282735613010844,
-      "commentRate": 0.11467889908256881,
+      "likeRate": 1.4257466958060152,
+      "commentRate": 0.11447601207201581,
       "dailyStats": [
         {
           "date": "2026-09-10",
@@ -10205,6 +10437,15 @@
           "likeCount": 137,
           "commentCount": 11,
           "durationSeconds": 65
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 36 점심 약속 거절당했나..??",
+          "publishedAt": "2026-09-09T20:17:21Z",
+          "viewCount": 9609,
+          "likeCount": 137,
+          "commentCount": 11,
+          "durationSeconds": 65
         }
       ],
       "thumbnailFeatures": null
@@ -10215,8 +10456,8 @@
       "publishedAt": "2026-09-25T21:37:08Z",
       "durationSeconds": 46,
       "isShort": true,
-      "likeRate": 1.4934858595487766,
-      "commentRate": 0.07414468806270522,
+      "likeRate": 1.436265709156194,
+      "commentRate": 0.06981847197287054,
       "dailyStats": [
         {
           "date": "2026-09-26",
@@ -10251,6 +10492,15 @@
           "publishedAt": "2026-09-25T21:37:08Z",
           "viewCount": 9441,
           "likeCount": 141,
+          "commentCount": 7,
+          "durationSeconds": 46
+        },
+        {
+          "date": "2026-09-30",
+          "title": "12개국 음식 한자리에서 맛볼 수 있는 방법",
+          "publishedAt": "2026-09-25T21:37:08Z",
+          "viewCount": 10026,
+          "likeCount": 144,
           "commentCount": 7,
           "durationSeconds": 46
         }
@@ -11121,8 +11371,8 @@
       "publishedAt": "2026-09-22T20:31:24Z",
       "durationSeconds": 44,
       "isShort": true,
-      "likeRate": 1.4366021236727045,
-      "commentRate": 0.12492192379762648,
+      "likeRate": 1.441054729418979,
+      "commentRate": 0.13797332515713628,
       "dailyStats": [
         {
           "date": "2026-09-23",
@@ -11186,6 +11436,15 @@
           "likeCount": 92,
           "commentCount": 8,
           "durationSeconds": 44
+        },
+        {
+          "date": "2026-09-30",
+          "title": "유럽 교환학생은 맨날 놀러다니나요",
+          "publishedAt": "2026-09-22T20:31:24Z",
+          "viewCount": 6523,
+          "likeCount": 94,
+          "commentCount": 9,
+          "durationSeconds": 44
         }
       ],
       "thumbnailFeatures": null
@@ -11196,8 +11455,8 @@
       "publishedAt": "2026-09-19T19:05:41Z",
       "durationSeconds": 60,
       "isShort": true,
-      "likeRate": 2.4312475089677164,
-      "commentRate": 0.3188521323236349,
+      "likeRate": 2.4158415841584158,
+      "commentRate": 0.31683168316831684,
       "dailyStats": [
         {
           "date": "2026-09-20",
@@ -11285,6 +11544,15 @@
           "title": "ADHD 여성의 산만한 아침",
           "publishedAt": "2026-09-19T19:05:41Z",
           "viewCount": 2509,
+          "likeCount": 61,
+          "commentCount": 8,
+          "durationSeconds": 60
+        },
+        {
+          "date": "2026-09-30",
+          "title": "ADHD 여성의 산만한 아침",
+          "publishedAt": "2026-09-19T19:05:41Z",
+          "viewCount": 2525,
           "likeCount": 61,
           "commentCount": 8,
           "durationSeconds": 60
@@ -11862,8 +12130,8 @@
       "publishedAt": "2026-09-18T20:00:22Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 1.8431689571544059,
-      "commentRate": 0.14551333872271624,
+      "likeRate": 1.8652516481749477,
+      "commentRate": 0.1447178002894356,
       "dailyStats": [
         {
           "date": "2026-09-19",
@@ -11961,6 +12229,15 @@
           "publishedAt": "2026-09-18T20:00:22Z",
           "viewCount": 6185,
           "likeCount": 114,
+          "commentCount": 9,
+          "durationSeconds": 59
+        },
+        {
+          "date": "2026-09-30",
+          "title": "성대생의 알찬 하루 듀듀🌳",
+          "publishedAt": "2026-09-18T20:00:22Z",
+          "viewCount": 6219,
+          "likeCount": 116,
           "commentCount": 9,
           "durationSeconds": 59
         }
@@ -12544,6 +12821,27 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "tdDwafQBDkU",
+      "title": "타코 티라미수 파스타-레전드 걸스나잇",
+      "publishedAt": "2026-09-29T20:51:54Z",
+      "durationSeconds": 45,
+      "isShort": true,
+      "likeRate": 5.194805194805195,
+      "commentRate": 0.3710575139146568,
+      "dailyStats": [
+        {
+          "date": "2026-09-30",
+          "title": "타코 티라미수 파스타-레전드 걸스나잇",
+          "publishedAt": "2026-09-29T20:51:54Z",
+          "viewCount": 539,
+          "likeCount": 28,
+          "commentCount": 2,
+          "durationSeconds": 45
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "up7-6Baifyo",
       "title": "Day 15 레전드 물가 런던에서 하이디라오 먹으면 얼마 나올까 / 인생 피자 만남..😭",
       "publishedAt": "2026-08-19T21:48:14Z",
@@ -12831,8 +13129,8 @@
       "publishedAt": "2026-09-02T20:52:08Z",
       "durationSeconds": 68,
       "isShort": true,
-      "likeRate": 1.6160563013163038,
-      "commentRate": 0.09122898475172683,
+      "likeRate": 1.6085095343105462,
+      "commentRate": 0.09080295758204696,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -13076,6 +13374,15 @@
           "likeCount": 124,
           "commentCount": 7,
           "durationSeconds": 68
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Day 29 아무도 안시킨 만칼로리 챌린지",
+          "publishedAt": "2026-09-02T20:52:08Z",
+          "viewCount": 7709,
+          "likeCount": 124,
+          "commentCount": 7,
+          "durationSeconds": 68
         }
       ],
       "thumbnailFeatures": null
@@ -13086,8 +13393,8 @@
       "publishedAt": "2026-09-26T19:21:22Z",
       "durationSeconds": 45,
       "isShort": true,
-      "likeRate": 1.9661636945587562,
-      "commentRate": 0.1600365797896662,
+      "likeRate": 2.02194020219402,
+      "commentRate": 0.1505700150570015,
       "dailyStats": [
         {
           "date": "2026-09-27",
@@ -13113,6 +13420,15 @@
           "publishedAt": "2026-09-26T19:21:22Z",
           "viewCount": 4374,
           "likeCount": 86,
+          "commentCount": 7,
+          "durationSeconds": 45
+        },
+        {
+          "date": "2026-09-30",
+          "title": "곰팡이로 우유 만들기",
+          "publishedAt": "2026-09-26T19:21:22Z",
+          "viewCount": 4649,
+          "likeCount": 94,
           "commentCount": 7,
           "durationSeconds": 45
         }
