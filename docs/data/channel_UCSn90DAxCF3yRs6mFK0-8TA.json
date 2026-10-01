@@ -421,6 +421,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 149204639,
       "videoCount": 398
+    },
+    {
+      "date": "2026-10-01",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 149212395,
+      "videoCount": 398
     }
   ],
   "videos": [
@@ -616,8 +623,8 @@
       "publishedAt": "2026-09-11T08:00:29Z",
       "durationSeconds": 1482,
       "isShort": false,
-      "likeRate": 1.355849717734086,
-      "commentRate": 0.08565310492505353,
+      "likeRate": 1.3517828632251196,
+      "commentRate": 0.08515167642362959,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -787,6 +794,15 @@
           "publishedAt": "2026-09-11T08:00:29Z",
           "viewCount": 102740,
           "likeCount": 1393,
+          "commentCount": 88,
+          "durationSeconds": 1482
+        },
+        {
+          "date": "2026-10-01",
+          "title": "화이트 라구소스,건강한 쥬스 만들어 먹고 빈티지 마켓,합사 성공…?🐱",
+          "publishedAt": "2026-09-11T08:00:29Z",
+          "viewCount": 103345,
+          "likeCount": 1397,
           "commentCount": 88,
           "durationSeconds": 1482
         }

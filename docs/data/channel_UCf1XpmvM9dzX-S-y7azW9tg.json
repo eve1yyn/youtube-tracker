@@ -421,6 +421,13 @@
       "subscriberCount": 8610,
       "totalViewCount": 1507412,
       "videoCount": 47
+    },
+    {
+      "date": "2026-10-01",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8620,
+      "totalViewCount": 1510799,
+      "videoCount": 47
     }
   ],
   "videos": [
@@ -430,8 +437,8 @@
       "publishedAt": "2026-09-03T03:34:05Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 0.9051473853195342,
-      "commentRate": 0.13662602042559005,
+      "likeRate": 0.9041113970830859,
+      "commentRate": 0.14848544842605427,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -684,6 +691,15 @@
           "likeCount": 530,
           "commentCount": 80,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-10-01",
+          "title": "꿈에서 택시기사가 소리쳤는데… 알고 보니?😨 My Taxi Driver in a Dream Might’ve Been…",
+          "publishedAt": "2026-09-03T03:34:05Z",
+          "viewCount": 60612,
+          "likeCount": 548,
+          "commentCount": 90,
+          "durationSeconds": 59
         }
       ],
       "thumbnailFeatures": null
@@ -694,8 +710,8 @@
       "publishedAt": "2026-09-03T03:28:21Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 0.8844065166795966,
-      "commentRate": 0.3103180760279286,
+      "likeRate": 0.8762961881115817,
+      "commentRate": 0.3067036658390536,
       "dailyStats": [
         {
           "date": "2026-09-03",
@@ -947,6 +963,15 @@
           "viewCount": 6445,
           "likeCount": 57,
           "commentCount": 20,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-10-01",
+          "title": "나혼자 사는 집인줄 알았는데 I Thought I Lived Alone… I Was Wrong 😂",
+          "publishedAt": "2026-09-03T03:28:21Z",
+          "viewCount": 6847,
+          "likeCount": 60,
+          "commentCount": 21,
           "durationSeconds": 33
         }
       ],
@@ -1240,8 +1265,8 @@
       "publishedAt": "2026-09-15T12:15:35Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 3.697183098591549,
-      "commentRate": 2.112676056338028,
+      "likeRate": 3.523489932885906,
+      "commentRate": 2.1812080536912752,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -1376,6 +1401,15 @@
           "viewCount": 568,
           "likeCount": 21,
           "commentCount": 12,
+          "durationSeconds": 84
+        },
+        {
+          "date": "2026-10-01",
+          "title": "늙크크의 늦은 한정선 리뷰 Finally Trying Hanjeongsun 😂",
+          "publishedAt": "2026-09-15T12:15:35Z",
+          "viewCount": 596,
+          "likeCount": 21,
+          "commentCount": 13,
           "durationSeconds": 84
         }
       ],

@@ -421,6 +421,13 @@
       "subscriberCount": 16700,
       "totalViewCount": 4729239,
       "videoCount": 218
+    },
+    {
+      "date": "2026-10-01",
+      "title": "오리지널 레미 ORIGINAL REMY",
+      "subscriberCount": 16700,
+      "totalViewCount": 4745389,
+      "videoCount": 218
     }
   ],
   "videos": [
@@ -430,8 +437,8 @@
       "publishedAt": "2026-09-18T01:17:39Z",
       "durationSeconds": 799,
       "isShort": false,
-      "likeRate": 0.9271259096799921,
-      "commentRate": 0.2272953843086432,
+      "likeRate": 0.9255029691565213,
+      "commentRate": 0.22641059760481422,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -547,6 +554,15 @@
           "publishedAt": "2026-09-18T01:17:39Z",
           "viewCount": 50155,
           "likeCount": 465,
+          "commentCount": 114,
+          "durationSeconds": 799
+        },
+        {
+          "date": "2026-10-01",
+          "title": "손님 오는날 D-1청소. 누가 자고간다는데 집청소도 안해놓는 그런여자는 아니쟈나",
+          "publishedAt": "2026-09-18T01:17:39Z",
+          "viewCount": 50351,
+          "likeCount": 466,
           "commentCount": 114,
           "durationSeconds": 799
         }
@@ -1750,8 +1766,8 @@
       "publishedAt": "2026-09-04T00:50:26Z",
       "durationSeconds": 620,
       "isShort": false,
-      "likeRate": 1.2131395756781211,
-      "commentRate": 0.26220063888324685,
+      "likeRate": 1.213963341622916,
+      "commentRate": 0.2615823892419637,
       "dailyStats": [
         {
           "date": "2026-09-04",
@@ -1995,6 +2011,15 @@
           "likeCount": 657,
           "commentCount": 142,
           "durationSeconds": 620
+        },
+        {
+          "date": "2026-10-01",
+          "title": "삶이 끝나야 끝나는 살림. 살림이 지긋지긋한 4가지 이유",
+          "publishedAt": "2026-09-04T00:50:26Z",
+          "viewCount": 54285,
+          "likeCount": 659,
+          "commentCount": 142,
+          "durationSeconds": 620
         }
       ],
       "thumbnailFeatures": null
@@ -2056,8 +2081,8 @@
       "publishedAt": "2026-09-28T02:49:04Z",
       "durationSeconds": 1031,
       "isShort": false,
-      "likeRate": 1.2230094466936572,
-      "commentRate": 0.21086369770580296,
+      "likeRate": 1.133553957929172,
+      "commentRate": 0.20160523412834264,
       "dailyStats": [
         {
           "date": "2026-09-28",
@@ -2084,6 +2109,15 @@
           "viewCount": 23712,
           "likeCount": 290,
           "commentCount": 50,
+          "durationSeconds": 1031
+        },
+        {
+          "date": "2026-10-01",
+          "title": "감기걸린 주부 나홀로 고군분투 회복 브이로그😵 아파도 살림..해야지?👻감기 빨리낫는법 총동원",
+          "publishedAt": "2026-09-28T02:49:04Z",
+          "viewCount": 26289,
+          "likeCount": 298,
+          "commentCount": 53,
           "durationSeconds": 1031
         }
       ],
