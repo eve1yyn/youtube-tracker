@@ -435,6 +435,13 @@
       "subscriberCount": 34400,
       "totalViewCount": 3635608,
       "videoCount": 106
+    },
+    {
+      "date": "2026-10-03",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34400,
+      "totalViewCount": 3650103,
+      "videoCount": 106
     }
   ],
   "videos": [
@@ -1185,8 +1192,8 @@
       "publishedAt": "2026-10-02T03:52:33Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 2.245508982035928,
-      "commentRate": 0,
+      "likeRate": 2.302357836338419,
+      "commentRate": 0.055478502080443824,
       "dailyStats": [
         {
           "date": "2026-10-02",
@@ -1195,6 +1202,15 @@
           "viewCount": 668,
           "likeCount": 15,
           "commentCount": 0,
+          "durationSeconds": 82
+        },
+        {
+          "date": "2026-10-03",
+          "title": "사이버 도화살녀. 인스타 계정 사라짐.",
+          "publishedAt": "2026-10-02T03:52:33Z",
+          "viewCount": 3605,
+          "likeCount": 83,
+          "commentCount": 2,
           "durationSeconds": 82
         }
       ],
@@ -1770,8 +1786,8 @@
       "publishedAt": "2026-09-11T11:24:36Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 1.1555555555555554,
-      "commentRate": 0.044444444444444446,
+      "likeRate": 1.1380717199914108,
+      "commentRate": 0.04294610264118531,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -1961,6 +1977,15 @@
           "likeCount": 52,
           "commentCount": 2,
           "durationSeconds": 53
+        },
+        {
+          "date": "2026-10-03",
+          "title": "같이 화장해요 #mkaeup #makeuptutorial",
+          "publishedAt": "2026-09-11T11:24:36Z",
+          "viewCount": 4657,
+          "likeCount": 53,
+          "commentCount": 2,
+          "durationSeconds": 53
         }
       ],
       "thumbnailFeatures": null
@@ -1971,8 +1996,8 @@
       "publishedAt": "2026-10-01T00:34:05Z",
       "durationSeconds": 21,
       "isShort": true,
-      "likeRate": 1.4618299945858149,
-      "commentRate": 0.2165674066053059,
+      "likeRate": 1.409052092228864,
+      "commentRate": 0.1707941929974381,
       "dailyStats": [
         {
           "date": "2026-10-01",
@@ -1989,6 +2014,15 @@
           "publishedAt": "2026-10-01T00:34:05Z",
           "viewCount": 1847,
           "likeCount": 27,
+          "commentCount": 4,
+          "durationSeconds": 21
+        },
+        {
+          "date": "2026-10-03",
+          "title": "이젠 너무 유명한 다이어트 루틴템...🐰💛#fyp",
+          "publishedAt": "2026-10-01T00:34:05Z",
+          "viewCount": 2342,
+          "likeCount": 33,
           "commentCount": 4,
           "durationSeconds": 21
         }
@@ -2283,8 +2317,8 @@
       "publishedAt": "2026-09-30T13:22:58Z",
       "durationSeconds": 7,
       "isShort": true,
-      "likeRate": 0.7767476822851416,
-      "commentRate": 0.20045101478326235,
+      "likeRate": 0.7514088916718847,
+      "commentRate": 0.1669797537048633,
       "dailyStats": [
         {
           "date": "2026-10-01",
@@ -2303,6 +2337,15 @@
           "likeCount": 31,
           "commentCount": 8,
           "durationSeconds": 7
+        },
+        {
+          "date": "2026-10-03",
+          "title": "제가 41kg까지 야무지게 뺀 방법은 이제 다들 아시죠?",
+          "publishedAt": "2026-09-30T13:22:58Z",
+          "viewCount": 4791,
+          "likeCount": 36,
+          "commentCount": 8,
+          "durationSeconds": 7
         }
       ],
       "thumbnailFeatures": null
@@ -2313,8 +2356,8 @@
       "publishedAt": "2026-09-13T08:30:02Z",
       "durationSeconds": 18,
       "isShort": true,
-      "likeRate": 1.0949539424135335,
-      "commentRate": 0.017380221308151325,
+      "likeRate": 1.0848464085874157,
+      "commentRate": 0.0171291538198013,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -2484,6 +2527,15 @@
           "publishedAt": "2026-09-13T08:30:02Z",
           "viewCount": 17261,
           "likeCount": 189,
+          "commentCount": 3,
+          "durationSeconds": 18
+        },
+        {
+          "date": "2026-10-03",
+          "title": "멀멀 웜 메이크업 #makeup #makeuptransformation",
+          "publishedAt": "2026-09-13T08:30:02Z",
+          "viewCount": 17514,
+          "likeCount": 190,
           "commentCount": 3,
           "durationSeconds": 18
         }
