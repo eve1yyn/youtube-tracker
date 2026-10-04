@@ -442,6 +442,13 @@
       "subscriberCount": 17600,
       "totalViewCount": 2836363,
       "videoCount": 86
+    },
+    {
+      "date": "2026-10-04",
+      "title": "고초희 Daily Chohees",
+      "subscriberCount": 17600,
+      "totalViewCount": 2836834,
+      "videoCount": 86
     }
   ],
   "videos": [
@@ -451,8 +458,8 @@
       "publishedAt": "2026-09-13T00:00:26Z",
       "durationSeconds": 1409,
       "isShort": false,
-      "likeRate": 0.9180954587581093,
-      "commentRate": 0.2519694161260426,
+      "likeRate": 0.9207677875595325,
+      "commentRate": 0.2511184875162361,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -640,6 +647,15 @@
           "publishedAt": "2026-09-13T00:00:26Z",
           "viewCount": 34528,
           "likeCount": 317,
+          "commentCount": 87,
+          "durationSeconds": 1409
+        },
+        {
+          "date": "2026-10-04",
+          "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 말하는 대로 이루어진다 | 여름기록 브이로그 vlog",
+          "publishedAt": "2026-09-13T00:00:26Z",
+          "viewCount": 34645,
+          "likeCount": 319,
           "commentCount": 87,
           "durationSeconds": 1409
         }
@@ -934,8 +950,8 @@
       "publishedAt": "2026-09-14T07:34:46Z",
       "durationSeconds": 15,
       "isShort": true,
-      "likeRate": 1.1969621925045404,
-      "commentRate": 0.10731385174178637,
+      "likeRate": 1.1872594776058298,
+      "commentRate": 0.1064439531646606,
       "dailyStats": [
         {
           "date": "2026-09-15",
@@ -1104,6 +1120,15 @@
           "title": "을지로 김사랑 빠이 #fyp",
           "publishedAt": "2026-09-14T07:34:46Z",
           "viewCount": 12114,
+          "likeCount": 145,
+          "commentCount": 13,
+          "durationSeconds": 15
+        },
+        {
+          "date": "2026-10-04",
+          "title": "을지로 김사랑 빠이 #fyp",
+          "publishedAt": "2026-09-14T07:34:46Z",
+          "viewCount": 12213,
           "likeCount": 145,
           "commentCount": 13,
           "durationSeconds": 15
