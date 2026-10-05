@@ -449,6 +449,13 @@
       "subscriberCount": 8630,
       "totalViewCount": 1523312,
       "videoCount": 47
+    },
+    {
+      "date": "2026-10-05",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8630,
+      "totalViewCount": 1527537,
+      "videoCount": 47
     }
   ],
   "videos": [
@@ -1304,8 +1311,8 @@
       "publishedAt": "2026-09-15T12:15:35Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 3.2167832167832167,
-      "commentRate": 2.097902097902098,
+      "likeRate": 3.2564450474898234,
+      "commentRate": 2.03527815468114,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -1475,6 +1482,15 @@
           "publishedAt": "2026-09-15T12:15:35Z",
           "viewCount": 715,
           "likeCount": 23,
+          "commentCount": 15,
+          "durationSeconds": 84
+        },
+        {
+          "date": "2026-10-05",
+          "title": "늙크크의 늦은 한정선 리뷰 Finally Trying Hanjeongsun 😂",
+          "publishedAt": "2026-09-15T12:15:35Z",
+          "viewCount": 737,
+          "likeCount": 24,
           "commentCount": 15,
           "durationSeconds": 84
         }

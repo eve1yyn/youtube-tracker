@@ -449,6 +449,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 149224462,
       "videoCount": 399
+    },
+    {
+      "date": "2026-10-05",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 149277435,
+      "videoCount": 399
     }
   ],
   "videos": [
@@ -644,8 +651,8 @@
       "publishedAt": "2026-09-11T08:00:29Z",
       "durationSeconds": 1482,
       "isShort": false,
-      "likeRate": 1.3404111608969054,
-      "commentRate": 0.08561888181740346,
+      "likeRate": 1.341933290522419,
+      "commentRate": 0.0849922562610962,
       "dailyStats": [
         {
           "date": "2026-09-12",
@@ -851,6 +858,15 @@
           "publishedAt": "2026-09-11T08:00:29Z",
           "viewCount": 105117,
           "likeCount": 1409,
+          "commentCount": 90,
+          "durationSeconds": 1482
+        },
+        {
+          "date": "2026-10-05",
+          "title": "화이트 라구소스,건강한 쥬스 만들어 먹고 빈티지 마켓,합사 성공…?🐱",
+          "publishedAt": "2026-09-11T08:00:29Z",
+          "viewCount": 105892,
+          "likeCount": 1421,
           "commentCount": 90,
           "durationSeconds": 1482
         }
@@ -1157,8 +1173,8 @@
       "publishedAt": "2026-10-04T03:30:01Z",
       "durationSeconds": 1422,
       "isShort": false,
-      "likeRate": 7.303679297089512,
-      "commentRate": 0.9335529928610654,
+      "likeRate": 1.8343370155539958,
+      "commentRate": 0.11453060922895038,
       "dailyStats": [
         {
           "date": "2026-10-04",
@@ -1167,6 +1183,15 @@
           "viewCount": 1821,
           "likeCount": 133,
           "commentCount": 17,
+          "durationSeconds": 1422
+        },
+        {
+          "date": "2026-10-05",
+          "title": "혼자 망원동 빵투어..🍞 카페 신메뉴 개발,오픈 준비,솥밥에 빠진 일상..👩🏻‍🍳",
+          "publishedAt": "2026-10-04T03:30:01Z",
+          "viewCount": 54134,
+          "likeCount": 993,
+          "commentCount": 62,
           "durationSeconds": 1422
         }
       ],
