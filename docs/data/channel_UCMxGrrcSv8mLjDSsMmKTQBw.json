@@ -456,6 +456,13 @@
       "subscriberCount": 8110,
       "totalViewCount": 2647277,
       "videoCount": 275
+    },
+    {
+      "date": "2026-10-06",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8110,
+      "totalViewCount": 2647439,
+      "videoCount": 275
     }
   ],
   "videos": [
@@ -465,8 +472,8 @@
       "publishedAt": "2026-09-27T00:34:41Z",
       "durationSeconds": 482,
       "isShort": false,
-      "likeRate": 1.7678708685626443,
-      "commentRate": 0.15372790161414296,
+      "likeRate": 1.739788199697428,
+      "commentRate": 0.15128593040847202,
       "dailyStats": [
         {
           "date": "2026-09-27",
@@ -545,6 +552,15 @@
           "title": "생활은 가볍게 여행은 꽉차게~",
           "publishedAt": "2026-09-27T00:34:41Z",
           "viewCount": 1301,
+          "likeCount": 23,
+          "commentCount": 2,
+          "durationSeconds": 482
+        },
+        {
+          "date": "2026-10-06",
+          "title": "생활은 가볍게 여행은 꽉차게~",
+          "publishedAt": "2026-09-27T00:34:41Z",
+          "viewCount": 1322,
           "likeCount": 23,
           "commentCount": 2,
           "durationSeconds": 482
@@ -1131,8 +1147,8 @@
       "publishedAt": "2026-09-18T07:00:26Z",
       "durationSeconds": 638,
       "isShort": false,
-      "likeRate": 0.7803505181015735,
-      "commentRate": 0.1535115773314571,
+      "likeRate": 0.7764765784114053,
+      "commentRate": 0.15274949083503053,
       "dailyStats": [
         {
           "date": "2026-09-19",
@@ -1283,6 +1299,15 @@
           "title": "옷 정리를 안 해도 되는 옷장의 비밀",
           "publishedAt": "2026-09-18T07:00:26Z",
           "viewCount": 7817,
+          "likeCount": 61,
+          "commentCount": 12,
+          "durationSeconds": 638
+        },
+        {
+          "date": "2026-10-06",
+          "title": "옷 정리를 안 해도 되는 옷장의 비밀",
+          "publishedAt": "2026-09-18T07:00:26Z",
+          "viewCount": 7856,
           "likeCount": 61,
           "commentCount": 12,
           "durationSeconds": 638
@@ -1578,8 +1603,8 @@
       "publishedAt": "2026-09-25T01:06:46Z",
       "durationSeconds": 612,
       "isShort": false,
-      "likeRate": 0.6623826000988631,
-      "commentRate": 0.049431537320810674,
+      "likeRate": 0.6604238541153278,
+      "commentRate": 0.04928536224741252,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -1676,6 +1701,15 @@
           "title": "쓰레기 안 만드는 생활하기",
           "publishedAt": "2026-09-25T01:06:46Z",
           "viewCount": 10115,
+          "likeCount": 67,
+          "commentCount": 5,
+          "durationSeconds": 612
+        },
+        {
+          "date": "2026-10-06",
+          "title": "쓰레기 안 만드는 생활하기",
+          "publishedAt": "2026-09-25T01:06:46Z",
+          "viewCount": 10145,
           "likeCount": 67,
           "commentCount": 5,
           "durationSeconds": 612
