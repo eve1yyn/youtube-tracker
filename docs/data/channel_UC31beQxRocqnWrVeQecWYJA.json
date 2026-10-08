@@ -470,6 +470,13 @@
       "subscriberCount": 60100,
       "totalViewCount": 28842616,
       "videoCount": 768
+    },
+    {
+      "date": "2026-10-08",
+      "title": "상큼한 뿌미맘_MinimalTV",
+      "subscriberCount": 60100,
+      "totalViewCount": 28848579,
+      "videoCount": 769
     }
   ],
   "videos": [
@@ -479,8 +486,8 @@
       "publishedAt": "2026-10-01T08:41:00Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 2.588774341351661,
-      "commentRate": 0.06872852233676977,
+      "likeRate": 2.5950782997762865,
+      "commentRate": 0.06711409395973154,
       "dailyStats": [
         {
           "date": "2026-10-02",
@@ -535,6 +542,15 @@
           "likeCount": 113,
           "commentCount": 3,
           "durationSeconds": 54
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💙한 달에 얼마 버시나요?",
+          "publishedAt": "2026-10-01T08:41:00Z",
+          "viewCount": 4470,
+          "likeCount": 116,
+          "commentCount": 3,
+          "durationSeconds": 54
         }
       ],
       "thumbnailFeatures": null
@@ -545,8 +561,8 @@
       "publishedAt": "2026-09-13T14:16:54Z",
       "durationSeconds": 46,
       "isShort": true,
-      "likeRate": 2.1012133767386802,
-      "commentRate": 0.23675643681562594,
+      "likeRate": 2.087007642563198,
+      "commentRate": 0.23515579071134626,
       "dailyStats": [
         {
           "date": "2026-09-14",
@@ -763,6 +779,15 @@
           "likeCount": 71,
           "commentCount": 8,
           "durationSeconds": 46
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩷육아 우울증 이렇게 극복했어요!!",
+          "publishedAt": "2026-09-13T14:16:54Z",
+          "viewCount": 3402,
+          "likeCount": 71,
+          "commentCount": 8,
+          "durationSeconds": 46
         }
       ],
       "thumbnailFeatures": null
@@ -773,8 +798,8 @@
       "publishedAt": "2026-09-17T04:53:27Z",
       "durationSeconds": 39,
       "isShort": true,
-      "likeRate": 1.4649976819656931,
-      "commentRate": 0.1761706073249884,
+      "likeRate": 1.4678729689807977,
+      "commentRate": 0.17540620384047267,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -955,6 +980,15 @@
           "likeCount": 158,
           "commentCount": 19,
           "durationSeconds": 39
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩵아직도 냄새 나는 행주 쓰세요?",
+          "publishedAt": "2026-09-17T04:53:27Z",
+          "viewCount": 10832,
+          "likeCount": 159,
+          "commentCount": 19,
+          "durationSeconds": 39
         }
       ],
       "thumbnailFeatures": null
@@ -965,8 +999,8 @@
       "publishedAt": "2026-09-30T06:22:27Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 2.5,
-      "commentRate": 0.2102803738317757,
+      "likeRate": 2.4317504014682267,
+      "commentRate": 0.20646937370956642,
       "dailyStats": [
         {
           "date": "2026-10-01",
@@ -1030,6 +1064,15 @@
           "likeCount": 107,
           "commentCount": 9,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💛한 달에 생활비 500만 원 쓰세요?",
+          "publishedAt": "2026-09-30T06:22:27Z",
+          "viewCount": 4359,
+          "likeCount": 106,
+          "commentCount": 9,
+          "durationSeconds": 59
         }
       ],
       "thumbnailFeatures": null
@@ -1040,8 +1083,8 @@
       "publishedAt": "2026-09-20T12:45:54Z",
       "durationSeconds": 23,
       "isShort": true,
-      "likeRate": 0.9791579241852008,
-      "commentRate": 0.06993985172751434,
+      "likeRate": 0.9760178471834913,
+      "commentRate": 0.06971556051310653,
       "dailyStats": [
         {
           "date": "2026-09-21",
@@ -1192,6 +1235,15 @@
           "title": "💜옷 기름 얼룩 초간단 제거",
           "publishedAt": "2026-09-20T12:45:54Z",
           "viewCount": 7149,
+          "likeCount": 70,
+          "commentCount": 5,
+          "durationSeconds": 23
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💜옷 기름 얼룩 초간단 제거",
+          "publishedAt": "2026-09-20T12:45:54Z",
+          "viewCount": 7172,
           "likeCount": 70,
           "commentCount": 5,
           "durationSeconds": 23
@@ -2051,8 +2103,8 @@
       "publishedAt": "2026-09-21T07:03:38Z",
       "durationSeconds": 47,
       "isShort": true,
-      "likeRate": 1.4801110083256246,
-      "commentRate": 0.09250693802035154,
+      "likeRate": 1.4748242885125016,
+      "commentRate": 0.09217651803203135,
       "dailyStats": [
         {
           "date": "2026-09-22",
@@ -2194,6 +2246,15 @@
           "title": "🩵설거지 빨리, 깨끗이 하는 법",
           "publishedAt": "2026-09-21T07:03:38Z",
           "viewCount": 8648,
+          "likeCount": 128,
+          "commentCount": 8,
+          "durationSeconds": 47
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩵설거지 빨리, 깨끗이 하는 법",
+          "publishedAt": "2026-09-21T07:03:38Z",
+          "viewCount": 8679,
           "likeCount": 128,
           "commentCount": 8,
           "durationSeconds": 47
@@ -2489,8 +2550,8 @@
       "publishedAt": "2026-09-24T13:56:45Z",
       "durationSeconds": 32,
       "isShort": true,
-      "likeRate": 0.912975912975913,
-      "commentRate": 0.0777000777000777,
+      "likeRate": 0.9066358024691359,
+      "commentRate": 0.07716049382716049,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -2608,6 +2669,15 @@
           "likeCount": 47,
           "commentCount": 4,
           "durationSeconds": 32
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🍇포도 얼룩 이것만 준비하세요!!!",
+          "publishedAt": "2026-09-24T13:56:45Z",
+          "viewCount": 5184,
+          "likeCount": 47,
+          "commentCount": 4,
+          "durationSeconds": 32
         }
       ],
       "thumbnailFeatures": null
@@ -2618,8 +2688,8 @@
       "publishedAt": "2026-10-02T09:00:08Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 2.112503070498649,
-      "commentRate": 0.09825595676737901,
+      "likeRate": 2.117930204572804,
+      "commentRate": 0.09626955475330926,
       "dailyStats": [
         {
           "date": "2026-10-03",
@@ -2665,6 +2735,15 @@
           "likeCount": 86,
           "commentCount": 4,
           "durationSeconds": 53
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💚아직도 할부 쓰세요?",
+          "publishedAt": "2026-10-02T09:00:08Z",
+          "viewCount": 4155,
+          "likeCount": 88,
+          "commentCount": 4,
+          "durationSeconds": 53
         }
       ],
       "thumbnailFeatures": null
@@ -2675,8 +2754,8 @@
       "publishedAt": "2026-09-18T08:32:14Z",
       "durationSeconds": 21,
       "isShort": true,
-      "likeRate": 1.3856812933025404,
-      "commentRate": 0.01649620587264929,
+      "likeRate": 1.3971071663379357,
+      "commentRate": 0.01643655489809336,
       "dailyStats": [
         {
           "date": "2026-09-19",
@@ -2848,6 +2927,15 @@
           "likeCount": 84,
           "commentCount": 1,
           "durationSeconds": 21
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💙자전거 기름때 포기하신다고요?",
+          "publishedAt": "2026-09-18T08:32:14Z",
+          "viewCount": 6084,
+          "likeCount": 85,
+          "commentCount": 1,
+          "durationSeconds": 21
         }
       ],
       "thumbnailFeatures": null
@@ -2858,8 +2946,8 @@
       "publishedAt": "2026-09-12T14:27:47Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 1.7885220125786163,
-      "commentRate": 0.15723270440251574,
+      "likeRate": 1.803921568627451,
+      "commentRate": 0.1568627450980392,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -3085,6 +3173,15 @@
           "likeCount": 91,
           "commentCount": 8,
           "durationSeconds": 58
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩵10평대 아파트가 🩵10평대 아파트가 첫 우리 집 이었어요",
+          "publishedAt": "2026-09-12T14:27:47Z",
+          "viewCount": 5100,
+          "likeCount": 92,
+          "commentCount": 8,
+          "durationSeconds": 58
         }
       ],
       "thumbnailFeatures": null
@@ -3095,8 +3192,8 @@
       "publishedAt": "2026-09-28T23:53:45Z",
       "durationSeconds": 47,
       "isShort": true,
-      "likeRate": 1.7281105990783412,
-      "commentRate": 0.14400921658986177,
+      "likeRate": 1.7123287671232876,
+      "commentRate": 0.14269406392694062,
       "dailyStats": [
         {
           "date": "2026-09-29",
@@ -3178,6 +3275,15 @@
           "likeCount": 60,
           "commentCount": 5,
           "durationSeconds": 47
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💙지저분한 운동화가 깨끗해진다고?",
+          "publishedAt": "2026-09-28T23:53:45Z",
+          "viewCount": 3504,
+          "likeCount": 60,
+          "commentCount": 5,
+          "durationSeconds": 47
         }
       ],
       "thumbnailFeatures": null
@@ -3188,8 +3294,8 @@
       "publishedAt": "2026-09-10T02:44:20Z",
       "durationSeconds": 31,
       "isShort": true,
-      "likeRate": 1.640881387716831,
-      "commentRate": 0.07813720893889671,
+      "likeRate": 1.6367887763055338,
+      "commentRate": 0.0779423226812159,
       "dailyStats": [
         {
           "date": "2026-09-10",
@@ -3442,6 +3548,15 @@
           "likeCount": 105,
           "commentCount": 5,
           "durationSeconds": 31
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💚한 달 만에 6kg 감량 다이어트약 × 세 끼 다 먹음 ○",
+          "publishedAt": "2026-09-10T02:44:20Z",
+          "viewCount": 6415,
+          "likeCount": 105,
+          "commentCount": 5,
+          "durationSeconds": 31
         }
       ],
       "thumbnailFeatures": null
@@ -3452,8 +3567,8 @@
       "publishedAt": "2026-09-20T08:54:54Z",
       "durationSeconds": 52,
       "isShort": true,
-      "likeRate": 1.1138613861386137,
-      "commentRate": 0.49504950495049505,
+      "likeRate": 1.1009174311926606,
+      "commentRate": 0.4892966360856269,
       "dailyStats": [
         {
           "date": "2026-09-21",
@@ -3607,6 +3722,15 @@
           "likeCount": 18,
           "commentCount": 8,
           "durationSeconds": 52
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩵뿌미맘 가계부 CM송 들어 보세요!",
+          "publishedAt": "2026-09-20T08:54:54Z",
+          "viewCount": 1635,
+          "likeCount": 18,
+          "commentCount": 8,
+          "durationSeconds": 52
         }
       ],
       "thumbnailFeatures": null
@@ -3617,8 +3741,8 @@
       "publishedAt": "2026-09-17T12:36:30Z",
       "durationSeconds": 41,
       "isShort": true,
-      "likeRate": 1.4681348014681348,
-      "commentRate": 0.20020020020020018,
+      "likeRate": 1.4584023864766325,
+      "commentRate": 0.19887305270135897,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -3799,6 +3923,15 @@
           "likeCount": 44,
           "commentCount": 6,
           "durationSeconds": 41
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💙월급 적어도 1억 모은 비결",
+          "publishedAt": "2026-09-17T12:36:30Z",
+          "viewCount": 3017,
+          "likeCount": 44,
+          "commentCount": 6,
+          "durationSeconds": 41
         }
       ],
       "thumbnailFeatures": null
@@ -3809,8 +3942,8 @@
       "publishedAt": "2026-09-22T02:04:52Z",
       "durationSeconds": 44,
       "isShort": true,
-      "likeRate": 1.0879452752610703,
-      "commentRate": 0.19102718043881672,
+      "likeRate": 1.0708387348830601,
+      "commentRate": 0.18824030828790111,
       "dailyStats": [
         {
           "date": "2026-09-22",
@@ -3954,6 +4087,15 @@
           "viewCount": 54966,
           "likeCount": 598,
           "commentCount": 105,
+          "durationSeconds": 44
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩵마음이 무너질 때는 청소를 해요",
+          "publishedAt": "2026-09-22T02:04:52Z",
+          "viewCount": 56311,
+          "likeCount": 603,
+          "commentCount": 106,
           "durationSeconds": 44
         }
       ],
@@ -4247,8 +4389,8 @@
       "publishedAt": "2026-09-13T03:44:41Z",
       "durationSeconds": 60,
       "isShort": true,
-      "likeRate": 2.0402611534276387,
-      "commentRate": 0.2720348204570185,
+      "likeRate": 2.057947468183049,
+      "commentRate": 0.27078256160303277,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -4472,6 +4614,15 @@
           "publishedAt": "2026-09-13T03:44:41Z",
           "viewCount": 3676,
           "likeCount": 75,
+          "commentCount": 10,
+          "durationSeconds": 60
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💚10년 동안 미니멀을 유지한 비결",
+          "publishedAt": "2026-09-13T03:44:41Z",
+          "viewCount": 3693,
+          "likeCount": 76,
           "commentCount": 10,
           "durationSeconds": 60
         }
@@ -4761,13 +4912,34 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "ZSv6TpBbu_A",
+      "title": "💚당신의 통장 잔고가 늘 부족한 이유",
+      "publishedAt": "2026-10-07T07:09:07Z",
+      "durationSeconds": 54,
+      "isShort": true,
+      "likeRate": 2.34375,
+      "commentRate": 0.07102272727272728,
+      "dailyStats": [
+        {
+          "date": "2026-10-08",
+          "title": "💚당신의 통장 잔고가 늘 부족한 이유",
+          "publishedAt": "2026-10-07T07:09:07Z",
+          "viewCount": 2816,
+          "likeCount": 66,
+          "commentCount": 2,
+          "durationSeconds": 54
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "a9hNZFse__s",
       "title": "❤️김칫국물 지우는 것 어렵다고?",
       "publishedAt": "2026-10-02T10:23:49Z",
       "durationSeconds": 17,
       "isShort": true,
-      "likeRate": 0.975043528728961,
-      "commentRate": 0.12768427161926874,
+      "likeRate": 0.9894459102902375,
+      "commentRate": 0.12093227792436236,
       "dailyStats": [
         {
           "date": "2026-10-03",
@@ -4813,6 +4985,15 @@
           "likeCount": 84,
           "commentCount": 11,
           "durationSeconds": 17
+        },
+        {
+          "date": "2026-10-08",
+          "title": "❤️김칫국물 지우는 것 어렵다고?",
+          "publishedAt": "2026-10-02T10:23:49Z",
+          "viewCount": 9096,
+          "likeCount": 90,
+          "commentCount": 11,
+          "durationSeconds": 17
         }
       ],
       "thumbnailFeatures": null
@@ -4823,8 +5004,8 @@
       "publishedAt": "2026-09-10T08:44:46Z",
       "durationSeconds": 34,
       "isShort": true,
-      "likeRate": 1.3174807197943446,
-      "commentRate": 0.032133676092544985,
+      "likeRate": 1.3126300624299665,
+      "commentRate": 0.03201536737634064,
       "dailyStats": [
         {
           "date": "2026-09-11",
@@ -5068,6 +5249,15 @@
           "likeCount": 82,
           "commentCount": 2,
           "durationSeconds": 34
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩵설거지 그릇 건조에도 원칙이 있다",
+          "publishedAt": "2026-09-10T08:44:46Z",
+          "viewCount": 6247,
+          "likeCount": 82,
+          "commentCount": 2,
+          "durationSeconds": 34
         }
       ],
       "thumbnailFeatures": null
@@ -5078,8 +5268,8 @@
       "publishedAt": "2026-09-09T02:48:13Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 1.537090666072622,
-      "commentRate": 0.12252171975941191,
+      "likeRate": 1.5355513519528208,
+      "commentRate": 0.12239902080783352,
       "dailyStats": [
         {
           "date": "2026-09-09",
@@ -5341,6 +5531,15 @@
           "likeCount": 138,
           "commentCount": 11,
           "durationSeconds": 50
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🧡친정집 주방이 깔끔해진 이유",
+          "publishedAt": "2026-09-09T02:48:13Z",
+          "viewCount": 8987,
+          "likeCount": 138,
+          "commentCount": 11,
+          "durationSeconds": 50
         }
       ],
       "thumbnailFeatures": null
@@ -5351,8 +5550,8 @@
       "publishedAt": "2026-10-04T09:19:36Z",
       "durationSeconds": 55,
       "isShort": true,
-      "likeRate": 2.8879546700785963,
-      "commentRate": 0.4935112410893804,
+      "likeRate": 2.9355567135660934,
+      "commentRate": 0.46899426784783743,
       "dailyStats": [
         {
           "date": "2026-10-05",
@@ -5380,6 +5579,15 @@
           "likeCount": 158,
           "commentCount": 27,
           "durationSeconds": 55
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩷인생이 망한 것 같을 때",
+          "publishedAt": "2026-10-04T09:19:36Z",
+          "viewCount": 5757,
+          "likeCount": 169,
+          "commentCount": 27,
+          "durationSeconds": 55
         }
       ],
       "thumbnailFeatures": null
@@ -5390,8 +5598,8 @@
       "publishedAt": "2026-09-16T09:32:51Z",
       "durationSeconds": 37,
       "isShort": true,
-      "likeRate": 1.2564671101256468,
-      "commentRate": 0.09238728750923873,
+      "likeRate": 1.2486228424531767,
+      "commentRate": 0.0918105031215571,
       "dailyStats": [
         {
           "date": "2026-09-17",
@@ -5581,6 +5789,15 @@
           "likeCount": 68,
           "commentCount": 5,
           "durationSeconds": 37
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💜아직도 텀블러 주방세제로 닦으세요?",
+          "publishedAt": "2026-09-16T09:32:51Z",
+          "viewCount": 5446,
+          "likeCount": 68,
+          "commentCount": 5,
+          "durationSeconds": 37
         }
       ],
       "thumbnailFeatures": null
@@ -5591,8 +5808,8 @@
       "publishedAt": "2026-09-29T03:22:35Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 3.4771886559802714,
-      "commentRate": 0.5178791615289766,
+      "likeRate": 3.453307392996109,
+      "commentRate": 0.5107003891050583,
       "dailyStats": [
         {
           "date": "2026-09-29",
@@ -5674,6 +5891,15 @@
           "likeCount": 141,
           "commentCount": 21,
           "durationSeconds": 54
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💛생얼이라 죄송해요",
+          "publishedAt": "2026-09-29T03:22:35Z",
+          "viewCount": 4112,
+          "likeCount": 142,
+          "commentCount": 21,
+          "durationSeconds": 54
         }
       ],
       "thumbnailFeatures": null
@@ -5684,8 +5910,8 @@
       "publishedAt": "2026-10-06T04:10:08Z",
       "durationSeconds": 26,
       "isShort": true,
-      "likeRate": 1.71990171990172,
-      "commentRate": 0.1404001404001404,
+      "likeRate": 1.6343490304709143,
+      "commentRate": 0.110803324099723,
       "dailyStats": [
         {
           "date": "2026-10-06",
@@ -5704,6 +5930,15 @@
           "likeCount": 49,
           "commentCount": 4,
           "durationSeconds": 26
+        },
+        {
+          "date": "2026-10-08",
+          "title": "🩵볼펜 자국 생기면 옷 버리신다고요?",
+          "publishedAt": "2026-10-06T04:10:08Z",
+          "viewCount": 3610,
+          "likeCount": 59,
+          "commentCount": 4,
+          "durationSeconds": 26
         }
       ],
       "thumbnailFeatures": null
@@ -5714,8 +5949,8 @@
       "publishedAt": "2026-09-15T06:14:29Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 1.926444833625219,
-      "commentRate": 0.3064798598949212,
+      "likeRate": 1.9203491543917075,
+      "commentRate": 0.3055100927441353,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -5911,6 +6146,15 @@
           "title": "💙생활비 100만 원 줄여주는 뿌미맘 가계부 #love #food #걷기전문가 #돈버는꿀팁",
           "publishedAt": "2026-09-15T06:14:29Z",
           "viewCount": 9136,
+          "likeCount": 176,
+          "commentCount": 28,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-10-08",
+          "title": "💙생활비 100만 원 줄여주는 뿌미맘 가계부 #love #food #걷기전문가 #돈버는꿀팁",
+          "publishedAt": "2026-09-15T06:14:29Z",
+          "viewCount": 9165,
           "likeCount": 176,
           "commentCount": 28,
           "durationSeconds": 33

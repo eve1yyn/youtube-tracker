@@ -470,6 +470,13 @@
       "subscriberCount": 16700,
       "totalViewCount": 4828560,
       "videoCount": 219
+    },
+    {
+      "date": "2026-10-08",
+      "title": "오리지널 레미 ORIGINAL REMY",
+      "subscriberCount": 16700,
+      "totalViewCount": 4835512,
+      "videoCount": 219
     }
   ],
   "videos": [
@@ -479,8 +486,8 @@
       "publishedAt": "2026-09-18T01:17:39Z",
       "durationSeconds": 799,
       "isShort": false,
-      "likeRate": 0.9211733250063427,
-      "commentRate": 0.2244384160502742,
+      "likeRate": 0.9213448128092251,
+      "commentRate": 0.22400560987962131,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -659,6 +666,15 @@
           "publishedAt": "2026-09-18T01:17:39Z",
           "viewCount": 51239,
           "likeCount": 472,
+          "commentCount": 115,
+          "durationSeconds": 799
+        },
+        {
+          "date": "2026-10-08",
+          "title": "손님 오는날 D-1청소. 누가 자고간다는데 집청소도 안해놓는 그런여자는 아니쟈나",
+          "publishedAt": "2026-09-18T01:17:39Z",
+          "viewCount": 51338,
+          "likeCount": 473,
           "commentCount": 115,
           "durationSeconds": 799
         }
@@ -1262,8 +1278,8 @@
       "publishedAt": "2026-10-01T07:10:43Z",
       "durationSeconds": 961,
       "isShort": false,
-      "likeRate": 1.095025525932868,
-      "commentRate": 0.2984191185537771,
+      "likeRate": 1.0723216003077514,
+      "commentRate": 0.29332563954606655,
       "dailyStats": [
         {
           "date": "2026-10-02",
@@ -1317,6 +1333,15 @@
           "viewCount": 40547,
           "likeCount": 444,
           "commentCount": 121,
+          "durationSeconds": 961
+        },
+        {
+          "date": "2026-10-08",
+          "title": "명절이 뭐길래..🫠 설거지투어 끝난 며느리들(만) 오이데~~",
+          "publishedAt": "2026-10-01T07:10:43Z",
+          "viewCount": 41592,
+          "likeCount": 446,
+          "commentCount": 122,
           "durationSeconds": 961
         }
       ],
@@ -2261,8 +2286,8 @@
       "publishedAt": "2026-09-28T02:49:04Z",
       "durationSeconds": 1031,
       "isShort": false,
-      "likeRate": 1.0181627089696852,
-      "commentRate": 0.18064177094623443,
+      "likeRate": 1.0187755102040816,
+      "commentRate": 0.18285714285714286,
       "dailyStats": [
         {
           "date": "2026-09-28",
@@ -2352,6 +2377,15 @@
           "viewCount": 30447,
           "likeCount": 310,
           "commentCount": 55,
+          "durationSeconds": 1031
+        },
+        {
+          "date": "2026-10-08",
+          "title": "감기걸린 주부 나홀로 고군분투 회복 브이로그😵 아파도 살림..해야지?👻감기 빨리낫는법 총동원",
+          "publishedAt": "2026-09-28T02:49:04Z",
+          "viewCount": 30625,
+          "likeCount": 312,
+          "commentCount": 56,
           "durationSeconds": 1031
         }
       ],
