@@ -484,6 +484,13 @@
       "subscriberCount": 8660,
       "totalViewCount": 1538787,
       "videoCount": 47
+    },
+    {
+      "date": "2026-10-10",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8670,
+      "totalViewCount": 1541307,
+      "videoCount": 48
     }
   ],
   "videos": [
@@ -1052,6 +1059,27 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "_k6x9dZpvtE",
+      "title": "스티로폼 가루 지옥 탈출법 #생활꿀팁",
+      "publishedAt": "2026-10-09T15:40:55Z",
+      "durationSeconds": 25,
+      "isShort": true,
+      "likeRate": 15.151515151515152,
+      "commentRate": 3.0303030303030303,
+      "dailyStats": [
+        {
+          "date": "2026-10-10",
+          "title": "스티로폼 가루 지옥 탈출법 #생활꿀팁",
+          "publishedAt": "2026-10-09T15:40:55Z",
+          "viewCount": 33,
+          "likeCount": 5,
+          "commentCount": 1,
+          "durationSeconds": 25
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "_opet_ndEVo",
       "title": "[썰풀곰] 자취방에서 살아남기…과연 살아남을 수 있을 것인가! Surviving My Apartment Life 😂",
       "publishedAt": "2026-08-30T11:52:04Z",
@@ -1339,8 +1367,8 @@
       "publishedAt": "2026-09-15T12:15:35Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 3.098927294398093,
-      "commentRate": 2.1454112038140645,
+      "likeRate": 3.1782065834279227,
+      "commentRate": 2.1566401816118046,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -1556,6 +1584,15 @@
           "viewCount": 839,
           "likeCount": 26,
           "commentCount": 18,
+          "durationSeconds": 84
+        },
+        {
+          "date": "2026-10-10",
+          "title": "늙크크의 늦은 한정선 리뷰 Finally Trying Hanjeongsun 😂",
+          "publishedAt": "2026-09-15T12:15:35Z",
+          "viewCount": 881,
+          "likeCount": 28,
+          "commentCount": 19,
           "durationSeconds": 84
         }
       ],
