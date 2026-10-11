@@ -491,6 +491,13 @@
       "subscriberCount": 17600,
       "totalViewCount": 2844358,
       "videoCount": 86
+    },
+    {
+      "date": "2026-10-11",
+      "title": "고초희 Daily Chohees",
+      "subscriberCount": 17600,
+      "totalViewCount": 2846241,
+      "videoCount": 86
     }
   ],
   "videos": [
@@ -500,8 +507,8 @@
       "publishedAt": "2026-09-13T00:00:26Z",
       "durationSeconds": 1409,
       "isShort": false,
-      "likeRate": 0.9090909090909091,
-      "commentRate": 0.2533070644525753,
+      "likeRate": 0.9061071057873034,
+      "commentRate": 0.252475664151261,
       "dailyStats": [
         {
           "date": "2026-09-13",
@@ -751,6 +758,15 @@
           "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 말하는 대로 이루어진다 | 여름기록 브이로그 vlog",
           "publishedAt": "2026-09-13T00:00:26Z",
           "viewCount": 35530,
+          "likeCount": 323,
+          "commentCount": 90,
+          "durationSeconds": 1409
+        },
+        {
+          "date": "2026-10-11",
+          "title": "EP 61. 나를 위한 생일선물 | 요즘 쓰는 꿀템들 | 말하는 대로 이루어진다 | 여름기록 브이로그 vlog",
+          "publishedAt": "2026-09-13T00:00:26Z",
+          "viewCount": 35647,
           "likeCount": 323,
           "commentCount": 90,
           "durationSeconds": 1409
@@ -1046,8 +1062,8 @@
       "publishedAt": "2026-09-14T07:34:46Z",
       "durationSeconds": 15,
       "isShort": true,
-      "likeRate": 1.1672850958565244,
-      "commentRate": 0.10822510822510822,
+      "likeRate": 1.1627011627011625,
+      "commentRate": 0.10780010780010779,
       "dailyStats": [
         {
           "date": "2026-09-15",
@@ -1279,6 +1295,15 @@
           "title": "을지로 김사랑 빠이 #fyp",
           "publishedAt": "2026-09-14T07:34:46Z",
           "viewCount": 12936,
+          "likeCount": 151,
+          "commentCount": 14,
+          "durationSeconds": 15
+        },
+        {
+          "date": "2026-10-11",
+          "title": "을지로 김사랑 빠이 #fyp",
+          "publishedAt": "2026-09-14T07:34:46Z",
+          "viewCount": 12987,
           "likeCount": 151,
           "commentCount": 14,
           "durationSeconds": 15
