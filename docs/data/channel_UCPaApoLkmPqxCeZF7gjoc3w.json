@@ -505,6 +505,13 @@
       "subscriberCount": 2370000,
       "totalViewCount": 429986591,
       "videoCount": 324
+    },
+    {
+      "date": "2026-10-13",
+      "title": "planD플랜디",
+      "subscriberCount": 2370000,
+      "totalViewCount": 430020631,
+      "videoCount": 324
     }
   ],
   "videos": [
@@ -514,8 +521,8 @@
       "publishedAt": "2026-09-24T11:00:31Z",
       "durationSeconds": 2476,
       "isShort": false,
-      "likeRate": 1.4610291228351413,
-      "commentRate": 0.04858041573888173,
+      "likeRate": 1.4484903969208796,
+      "commentRate": 0.04773978938892111,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -678,6 +685,15 @@
           "likeCount": 14947,
           "commentCount": 497,
           "durationSeconds": 2476
+        },
+        {
+          "date": "2026-10-13",
+          "title": "남대문 쇼핑🛍️ 알찬 코스소개, 귀여운 송편만들고 제철새우🦐 먹는 자취일상",
+          "publishedAt": "2026-09-24T11:00:31Z",
+          "viewCount": 1043155,
+          "likeCount": 15110,
+          "commentCount": 498,
+          "durationSeconds": 2476
         }
       ],
       "thumbnailFeatures": null
@@ -688,8 +704,8 @@
       "publishedAt": "2026-09-15T11:00:27Z",
       "durationSeconds": 1688,
       "isShort": false,
-      "likeRate": 1.732039956855878,
-      "commentRate": 0.032677765267087454,
+      "likeRate": 1.725343244445595,
+      "commentRate": 0.03248258768533317,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -931,6 +947,15 @@
           "publishedAt": "2026-09-15T11:00:27Z",
           "viewCount": 844611,
           "likeCount": 14629,
+          "commentCount": 276,
+          "durationSeconds": 1688
+        },
+        {
+          "date": "2026-10-13",
+          "title": "떡지순례 갔다가 우주떡집 떡🐰만드는 자취일상. 비오는날 놀러간 이태원 빈티지마켓 쇼핑",
+          "publishedAt": "2026-09-15T11:00:27Z",
+          "viewCount": 849686,
+          "likeCount": 14660,
           "commentCount": 276,
           "durationSeconds": 1688
         }
