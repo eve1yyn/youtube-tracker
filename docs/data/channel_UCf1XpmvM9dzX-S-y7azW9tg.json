@@ -512,6 +512,13 @@
       "subscriberCount": 8690,
       "totalViewCount": 1552501,
       "videoCount": 48
+    },
+    {
+      "date": "2026-10-14",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8700,
+      "totalViewCount": 1556426,
+      "videoCount": 48
     }
   ],
   "videos": [
@@ -1085,8 +1092,8 @@
       "publishedAt": "2026-10-09T15:40:55Z",
       "durationSeconds": 25,
       "isShort": true,
-      "likeRate": 6.0344827586206895,
-      "commentRate": 1.7241379310344827,
+      "likeRate": 5.844155844155844,
+      "commentRate": 2.5974025974025974,
       "dailyStats": [
         {
           "date": "2026-10-10",
@@ -1122,6 +1129,15 @@
           "viewCount": 116,
           "likeCount": 7,
           "commentCount": 2,
+          "durationSeconds": 25
+        },
+        {
+          "date": "2026-10-14",
+          "title": "스티로폼 가루 지옥 탈출법 #생활꿀팁",
+          "publishedAt": "2026-10-09T15:40:55Z",
+          "viewCount": 154,
+          "likeCount": 9,
+          "commentCount": 4,
           "durationSeconds": 25
         }
       ],
@@ -1415,8 +1431,8 @@
       "publishedAt": "2026-09-15T12:15:35Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 3.624733475479744,
-      "commentRate": 2.025586353944563,
+      "likeRate": 3.630705394190872,
+      "commentRate": 1.970954356846473,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -1667,6 +1683,15 @@
           "publishedAt": "2026-09-15T12:15:35Z",
           "viewCount": 938,
           "likeCount": 34,
+          "commentCount": 19,
+          "durationSeconds": 84
+        },
+        {
+          "date": "2026-10-14",
+          "title": "늙크크의 늦은 한정선 리뷰 Finally Trying Hanjeongsun 😂",
+          "publishedAt": "2026-09-15T12:15:35Z",
+          "viewCount": 964,
+          "likeCount": 35,
           "commentCount": 19,
           "durationSeconds": 84
         }

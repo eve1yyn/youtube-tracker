@@ -512,6 +512,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 149382000,
       "videoCount": 399
+    },
+    {
+      "date": "2026-10-14",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 149394264,
+      "videoCount": 399
     }
   ],
   "videos": [
@@ -1283,8 +1290,8 @@
       "publishedAt": "2026-10-04T03:30:01Z",
       "durationSeconds": 1422,
       "isShort": false,
-      "likeRate": 1.354726035222877,
-      "commentRate": 0.06855240178236245,
+      "likeRate": 1.3405727464924082,
+      "commentRate": 0.06726888333653662,
       "dailyStats": [
         {
           "date": "2026-10-04",
@@ -1373,6 +1380,15 @@
           "publishedAt": "2026-10-04T03:30:01Z",
           "viewCount": 122534,
           "likeCount": 1660,
+          "commentCount": 84,
+          "durationSeconds": 1422
+        },
+        {
+          "date": "2026-10-14",
+          "title": "혼자 망원동 빵투어..🍞 카페 신메뉴 개발,오픈 준비,솥밥에 빠진 일상..👩🏻‍🍳",
+          "publishedAt": "2026-10-04T03:30:01Z",
+          "viewCount": 124872,
+          "likeCount": 1674,
           "commentCount": 84,
           "durationSeconds": 1422
         }
