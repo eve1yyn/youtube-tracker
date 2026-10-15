@@ -519,6 +519,13 @@
       "subscriberCount": 8700,
       "totalViewCount": 1556426,
       "videoCount": 48
+    },
+    {
+      "date": "2026-10-15",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8700,
+      "totalViewCount": 1559819,
+      "videoCount": 48
     }
   ],
   "videos": [
@@ -1092,8 +1099,8 @@
       "publishedAt": "2026-10-09T15:40:55Z",
       "durationSeconds": 25,
       "isShort": true,
-      "likeRate": 5.844155844155844,
-      "commentRate": 2.5974025974025974,
+      "likeRate": 5.555555555555555,
+      "commentRate": 2.7777777777777777,
       "dailyStats": [
         {
           "date": "2026-10-10",
@@ -1138,6 +1145,15 @@
           "viewCount": 154,
           "likeCount": 9,
           "commentCount": 4,
+          "durationSeconds": 25
+        },
+        {
+          "date": "2026-10-15",
+          "title": "스티로폼 가루 지옥 탈출법 #생활꿀팁",
+          "publishedAt": "2026-10-09T15:40:55Z",
+          "viewCount": 180,
+          "likeCount": 10,
+          "commentCount": 5,
           "durationSeconds": 25
         }
       ],
@@ -1431,8 +1447,8 @@
       "publishedAt": "2026-09-15T12:15:35Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 3.630705394190872,
-      "commentRate": 1.970954356846473,
+      "likeRate": 3.560528992878942,
+      "commentRate": 1.9328585961342828,
       "dailyStats": [
         {
           "date": "2026-09-16",
@@ -1691,6 +1707,15 @@
           "title": "늙크크의 늦은 한정선 리뷰 Finally Trying Hanjeongsun 😂",
           "publishedAt": "2026-09-15T12:15:35Z",
           "viewCount": 964,
+          "likeCount": 35,
+          "commentCount": 19,
+          "durationSeconds": 84
+        },
+        {
+          "date": "2026-10-15",
+          "title": "늙크크의 늦은 한정선 리뷰 Finally Trying Hanjeongsun 😂",
+          "publishedAt": "2026-09-15T12:15:35Z",
+          "viewCount": 983,
           "likeCount": 35,
           "commentCount": 19,
           "durationSeconds": 84

@@ -519,6 +519,13 @@
       "subscriberCount": 1010000,
       "totalViewCount": 16185564,
       "videoCount": 203
+    },
+    {
+      "date": "2026-10-15",
+      "title": "세빈 SEBIN",
+      "subscriberCount": 1010000,
+      "totalViewCount": 16195998,
+      "videoCount": 203
     }
   ],
   "videos": [
@@ -1344,8 +1351,8 @@
       "publishedAt": "2026-10-13T11:34:53Z",
       "durationSeconds": 12,
       "isShort": true,
-      "likeRate": 4.123552123552124,
-      "commentRate": 0.10810810810810811,
+      "likeRate": 3.921787709497207,
+      "commentRate": 0.0782122905027933,
       "dailyStats": [
         {
           "date": "2026-10-14",
@@ -1353,6 +1360,15 @@
           "publishedAt": "2026-10-13T11:34:53Z",
           "viewCount": 6475,
           "likeCount": 267,
+          "commentCount": 7,
+          "durationSeconds": 12
+        },
+        {
+          "date": "2026-10-15",
+          "title": "#광고 POV: What if I designed clothes?",
+          "publishedAt": "2026-10-13T11:34:53Z",
+          "viewCount": 8950,
+          "likeCount": 351,
           "commentCount": 7,
           "durationSeconds": 12
         }
@@ -1716,8 +1732,8 @@
       "publishedAt": "2026-09-17T13:15:09Z",
       "durationSeconds": 37,
       "isShort": true,
-      "likeRate": 2.7332869080779942,
-      "commentRate": 0.06963788300835655,
+      "likeRate": 2.7222286440873886,
+      "commentRate": 0.06935614379840481,
       "dailyStats": [
         {
           "date": "2026-09-18",
@@ -1961,6 +1977,15 @@
           "likeCount": 471,
           "commentCount": 12,
           "durationSeconds": 37
+        },
+        {
+          "date": "2026-10-15",
+          "title": "드디어 공개된 애플 신제품 👀아이폰 18부터 듀오까지! 제가 먼저 만나보고 왔습니다🤍여러분의 픽은? #Apple #iPhone18pro #iPhoneDuo",
+          "publishedAt": "2026-09-17T13:15:09Z",
+          "viewCount": 17302,
+          "likeCount": 471,
+          "commentCount": 12,
+          "durationSeconds": 37
         }
       ],
       "thumbnailFeatures": null
@@ -1971,8 +1996,8 @@
       "publishedAt": "2026-10-11T09:00:12Z",
       "durationSeconds": 1093,
       "isShort": false,
-      "likeRate": 1.939371804236669,
-      "commentRate": 0.10226442658875091,
+      "likeRate": 1.857408434167183,
+      "commentRate": 0.09132122239979126,
       "dailyStats": [
         {
           "date": "2026-10-12",
@@ -1998,6 +2023,15 @@
           "publishedAt": "2026-10-11T09:00:12Z",
           "viewCount": 54760,
           "likeCount": 1062,
+          "commentCount": 56,
+          "durationSeconds": 1093
+        },
+        {
+          "date": "2026-10-15",
+          "title": "주말 VLOG 집 계약하고 네일 바꾸고.. + 오랜만에 한남동 나들이",
+          "publishedAt": "2026-10-11T09:00:12Z",
+          "viewCount": 61322,
+          "likeCount": 1139,
           "commentCount": 56,
           "durationSeconds": 1093
         }
@@ -3156,8 +3190,8 @@
       "publishedAt": "2026-10-10T08:44:26Z",
       "durationSeconds": 12,
       "isShort": true,
-      "likeRate": 4.794213300437367,
-      "commentRate": 0.084109005270831,
+      "likeRate": 4.715341156019122,
+      "commentRate": 0.08148631029986962,
       "dailyStats": [
         {
           "date": "2026-10-11",
@@ -3194,6 +3228,15 @@
           "likeCount": 855,
           "commentCount": 15,
           "durationSeconds": 12
+        },
+        {
+          "date": "2026-10-15",
+          "title": "반년만에 톤다운",
+          "publishedAt": "2026-10-10T08:44:26Z",
+          "viewCount": 18408,
+          "likeCount": 868,
+          "commentCount": 15,
+          "durationSeconds": 12
         }
       ],
       "thumbnailFeatures": null
@@ -3204,8 +3247,8 @@
       "publishedAt": "2026-10-04T12:18:15Z",
       "durationSeconds": 963,
       "isShort": false,
-      "likeRate": 1.5980038224676152,
-      "commentRate": 0.1327245699723933,
+      "likeRate": 1.5968168372555693,
+      "commentRate": 0.13088662600455486,
       "dailyStats": [
         {
           "date": "2026-10-05",
@@ -3294,6 +3337,15 @@
           "publishedAt": "2026-10-04T12:18:15Z",
           "viewCount": 37672,
           "likeCount": 602,
+          "commentCount": 50,
+          "durationSeconds": 963
+        },
+        {
+          "date": "2026-10-15",
+          "title": "나의 대한 추측 읽기하면서 겟레디윗미🍁 다들 나를 어떻게 생각하고 있었던거야?!?!!?",
+          "publishedAt": "2026-10-04T12:18:15Z",
+          "viewCount": 38201,
+          "likeCount": 610,
           "commentCount": 50,
           "durationSeconds": 963
         }
@@ -4068,8 +4120,8 @@
       "publishedAt": "2026-09-20T10:08:50Z",
       "durationSeconds": 1185,
       "isShort": false,
-      "likeRate": 1.6070711128967456,
-      "commentRate": 0.11841576621344442,
+      "likeRate": 1.6030839881190622,
+      "commentRate": 0.11796675865265109,
       "dailyStats": [
         {
           "date": "2026-09-21",
@@ -4284,6 +4336,15 @@
           "publishedAt": "2026-09-20T10:08:50Z",
           "viewCount": 47291,
           "likeCount": 760,
+          "commentCount": 56,
+          "durationSeconds": 1185
+        },
+        {
+          "date": "2026-10-15",
+          "title": "수다떨며 겟레디윗미💋 첫사랑 재질(?) 로다가 메이크업 해봄",
+          "publishedAt": "2026-09-20T10:08:50Z",
+          "viewCount": 47471,
+          "likeCount": 761,
           "commentCount": 56,
           "durationSeconds": 1185
         }
