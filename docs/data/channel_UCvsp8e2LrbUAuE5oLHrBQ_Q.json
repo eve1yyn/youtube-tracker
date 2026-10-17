@@ -533,6 +533,13 @@
       "subscriberCount": 729000,
       "totalViewCount": 126837225,
       "videoCount": 352
+    },
+    {
+      "date": "2026-10-17",
+      "title": "효뎡 Dyeong",
+      "subscriberCount": 729000,
+      "totalViewCount": 126850048,
+      "videoCount": 351
     }
   ],
   "videos": [
@@ -824,8 +831,8 @@
       "publishedAt": "2026-10-06T13:18:28Z",
       "durationSeconds": 1010,
       "isShort": false,
-      "likeRate": 1.6255358359040104,
-      "commentRate": 0.11818436761347703,
+      "likeRate": 1.6097392675834197,
+      "commentRate": 0.11730494356547883,
       "dailyStats": [
         {
           "date": "2026-10-07",
@@ -915,6 +922,15 @@
           "viewCount": 99844,
           "likeCount": 1623,
           "commentCount": 118,
+          "durationSeconds": 1010
+        },
+        {
+          "date": "2026-10-17",
+          "title": "꽃게 손질해서 한가득 쪄먹고🦀 피자설기까지 만드는 집밥 일상🍕 | 등갈비김치찜·진미채김밥·분모자떡볶이·보리굴비",
+          "publishedAt": "2026-10-06T13:18:28Z",
+          "viewCount": 101445,
+          "likeCount": 1633,
+          "commentCount": 119,
           "durationSeconds": 1010
         }
       ],
@@ -1199,8 +1215,8 @@
       "publishedAt": "2026-10-13T13:19:31Z",
       "durationSeconds": 43,
       "isShort": true,
-      "likeRate": 1.671740935510656,
-      "commentRate": 0.02767783005812344,
+      "likeRate": 1.6626581616647496,
+      "commentRate": 0.026142423925546377,
       "dailyStats": [
         {
           "date": "2026-10-14",
@@ -1226,6 +1242,15 @@
           "publishedAt": "2026-10-13T13:19:31Z",
           "viewCount": 18065,
           "likeCount": 302,
+          "commentCount": 5,
+          "durationSeconds": 43
+        },
+        {
+          "date": "2026-10-17",
+          "title": "초간단 치즈 김치볶음밥 김밥🧀 냉동 김볶으로 만드는 도시락 | Cheesy Kimchi Fried Rice Kimbap",
+          "publishedAt": "2026-10-13T13:19:31Z",
+          "viewCount": 19126,
+          "likeCount": 318,
           "commentCount": 5,
           "durationSeconds": 43
         }
@@ -1793,8 +1818,8 @@
       "publishedAt": "2026-09-27T07:07:13Z",
       "durationSeconds": 72,
       "isShort": true,
-      "likeRate": 2.2021546261089986,
-      "commentRate": 0.0369666244190959,
+      "likeRate": 2.192959445989193,
+      "commentRate": 0.03672420124862284,
       "dailyStats": [
         {
           "date": "2026-09-28",
@@ -1964,6 +1989,15 @@
           "publishedAt": "2026-09-27T07:07:13Z",
           "viewCount": 18936,
           "likeCount": 417,
+          "commentCount": 7,
+          "durationSeconds": 72
+        },
+        {
+          "date": "2026-10-17",
+          "title": "출근 전 고구마맛탕 휘낭시에🍠 빠작한 시럽 코팅까지 | Sweet Potato Financiers",
+          "publishedAt": "2026-09-27T07:07:13Z",
+          "viewCount": 19061,
+          "likeCount": 418,
           "commentCount": 7,
           "durationSeconds": 72
         }
@@ -2249,8 +2283,8 @@
       "publishedAt": "2026-10-05T12:21:37Z",
       "durationSeconds": 45,
       "isShort": true,
-      "likeRate": 2.5770308123249297,
-      "commentRate": 0.040016006402561026,
+      "likeRate": 2.572475310608474,
+      "commentRate": 0.039821599235425297,
       "dailyStats": [
         {
           "date": "2026-10-06",
@@ -2348,6 +2382,15 @@
           "publishedAt": "2026-10-05T12:21:37Z",
           "viewCount": 12495,
           "likeCount": 322,
+          "commentCount": 5,
+          "durationSeconds": 45
+        },
+        {
+          "date": "2026-10-17",
+          "title": "오늘 도시락은 오이크래미 샌드위치🥒 간단하게 만드는 든든한 한 끼 | Cucumber Crab Sandwich",
+          "publishedAt": "2026-10-05T12:21:37Z",
+          "viewCount": 12556,
+          "likeCount": 323,
           "commentCount": 5,
           "durationSeconds": 45
         }
@@ -2642,8 +2685,8 @@
       "publishedAt": "2026-10-04T13:23:04Z",
       "durationSeconds": 39,
       "isShort": true,
-      "likeRate": 1.7487344684767603,
-      "commentRate": 0.015339776039269826,
+      "likeRate": 1.746346927345858,
+      "commentRate": 0.01527417137620284,
       "dailyStats": [
         {
           "date": "2026-10-05",
@@ -2750,6 +2793,15 @@
           "publishedAt": "2026-10-04T13:23:04Z",
           "viewCount": 19557,
           "likeCount": 342,
+          "commentCount": 3,
+          "durationSeconds": 39
+        },
+        {
+          "date": "2026-10-17",
+          "title": "퇴근 후 얼큰한 순두부 짬뽕🔥 쫄면사리까지 넣어 뜨끈하게 | Spicy Soft Tofu Jjamppong",
+          "publishedAt": "2026-10-04T13:23:04Z",
+          "viewCount": 19641,
+          "likeCount": 343,
           "commentCount": 3,
           "durationSeconds": 39
         }
@@ -3035,8 +3087,8 @@
       "publishedAt": "2026-10-06T13:30:07Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 2.1503824505700675,
-      "commentRate": 0.021648145475537596,
+      "likeRate": 2.1473714449870727,
+      "commentRate": 0.021545532892846882,
       "dailyStats": [
         {
           "date": "2026-10-07",
@@ -3125,6 +3177,15 @@
           "publishedAt": "2026-10-06T13:30:07Z",
           "viewCount": 13858,
           "likeCount": 298,
+          "commentCount": 3,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-10-17",
+          "title": "퇴근 후 가지튀김과 라유국수🍆 일본에서 사온 가라아게 가루로 바삭하게 | Crispy Eggplant & Chili Oil Noodles",
+          "publishedAt": "2026-10-06T13:30:07Z",
+          "viewCount": 13924,
+          "likeCount": 299,
           "commentCount": 3,
           "durationSeconds": 33
         }
@@ -3368,8 +3429,8 @@
       "publishedAt": "2026-10-11T13:40:01Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 2.2136583617135686,
-      "commentRate": 0.04481089801039613,
+      "likeRate": 2.2083115979829597,
+      "commentRate": 0.04347070074769605,
       "dailyStats": [
         {
           "date": "2026-10-12",
@@ -3415,6 +3476,15 @@
           "likeCount": 247,
           "commentCount": 5,
           "durationSeconds": 33
+        },
+        {
+          "date": "2026-10-17",
+          "title": "퇴근 후 원팬 바지락 파스타🍝 한 팬으로 후다닥 만드는 저녁 | One-Pan Clam Pasta",
+          "publishedAt": "2026-10-11T13:40:01Z",
+          "viewCount": 11502,
+          "likeCount": 254,
+          "commentCount": 5,
+          "durationSeconds": 33
         }
       ],
       "thumbnailFeatures": null
@@ -3425,8 +3495,8 @@
       "publishedAt": "2026-09-30T14:34:42Z",
       "durationSeconds": 40,
       "isShort": true,
-      "likeRate": 2.4947741525038625,
-      "commentRate": 0.04544215214032537,
+      "likeRate": 2.489814395654142,
+      "commentRate": 0.04526935264825713,
       "dailyStats": [
         {
           "date": "2026-10-01",
@@ -3571,6 +3641,15 @@
           "likeCount": 549,
           "commentCount": 10,
           "durationSeconds": 40
+        },
+        {
+          "date": "2026-10-17",
+          "title": "퇴근 후 열라면 투움바🔥 매콤꾸덕하게 만들어먹는 저녁 | Spicy Creamy Ramen Pasta",
+          "publishedAt": "2026-09-30T14:34:42Z",
+          "viewCount": 22090,
+          "likeCount": 550,
+          "commentCount": 10,
+          "durationSeconds": 40
         }
       ],
       "thumbnailFeatures": null
@@ -3581,8 +3660,8 @@
       "publishedAt": "2026-09-24T11:00:26Z",
       "durationSeconds": 1053,
       "isShort": false,
-      "likeRate": 1.1528113511234122,
-      "commentRate": 0.03385381092943559,
+      "likeRate": 1.1497725334091555,
+      "commentRate": 0.033764572078475975,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -3778,6 +3857,15 @@
           "title": "출근 전 빠삭한 고구마맛탕 휘낭시에 굽고🍠 먹고 싶은 거 야무지게 해먹는 일상 | 봉골레파스타·콩국수·가지튀김·순두부짬뽕",
           "publishedAt": "2026-09-24T11:00:26Z",
           "viewCount": 168371,
+          "likeCount": 1941,
+          "commentCount": 57,
+          "durationSeconds": 1053
+        },
+        {
+          "date": "2026-10-17",
+          "title": "출근 전 빠삭한 고구마맛탕 휘낭시에 굽고🍠 먹고 싶은 거 야무지게 해먹는 일상 | 봉골레파스타·콩국수·가지튀김·순두부짬뽕",
+          "publishedAt": "2026-09-24T11:00:26Z",
+          "viewCount": 168816,
           "likeCount": 1941,
           "commentCount": 57,
           "durationSeconds": 1053
@@ -4367,8 +4455,8 @@
       "publishedAt": "2026-09-28T12:15:36Z",
       "durationSeconds": 48,
       "isShort": true,
-      "likeRate": 2.4655547498187094,
-      "commentRate": 0.016734534501031965,
+      "likeRate": 2.4603395491232956,
+      "commentRate": 0.016699137211244088,
       "dailyStats": [
         {
           "date": "2026-09-29",
@@ -4531,6 +4619,15 @@
           "likeCount": 442,
           "commentCount": 3,
           "durationSeconds": 48
+        },
+        {
+          "date": "2026-10-17",
+          "title": "오늘 도시락은 아보카도 샌드위치🥑 베이컨·토마토·계란까지 든든하게 | Avocado Sandwich Lunchbox",
+          "publishedAt": "2026-09-28T12:15:36Z",
+          "viewCount": 17965,
+          "likeCount": 442,
+          "commentCount": 3,
+          "durationSeconds": 48
         }
       ],
       "thumbnailFeatures": null
@@ -4541,8 +4638,8 @@
       "publishedAt": "2026-10-10T12:18:19Z",
       "durationSeconds": 32,
       "isShort": true,
-      "likeRate": 1.3658092419758707,
-      "commentRate": 0.01821078989301161,
+      "likeRate": 1.352253013655976,
+      "commentRate": 0.01779280281126284,
       "dailyStats": [
         {
           "date": "2026-10-11",
@@ -4595,6 +4692,15 @@
           "publishedAt": "2026-10-10T12:18:19Z",
           "viewCount": 21965,
           "likeCount": 300,
+          "commentCount": 4,
+          "durationSeconds": 32
+        },
+        {
+          "date": "2026-10-17",
+          "title": "초간단 명란버터볶음밥🍳 반숙 계란까지 올린 직장인 도시락 | Mentaiko Butter Fried Rice",
+          "publishedAt": "2026-10-10T12:18:19Z",
+          "viewCount": 22481,
+          "likeCount": 304,
           "commentCount": 4,
           "durationSeconds": 32
         }

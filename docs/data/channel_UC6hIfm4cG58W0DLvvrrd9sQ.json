@@ -533,6 +533,13 @@
       "subscriberCount": 43100,
       "totalViewCount": 1436585,
       "videoCount": 36
+    },
+    {
+      "date": "2026-10-17",
+      "title": "설아의날들 (Seola's Moments)",
+      "subscriberCount": 43400,
+      "totalViewCount": 1437857,
+      "videoCount": 37
     }
   ],
   "videos": [
@@ -805,6 +812,27 @@
           "likeCount": 144,
           "commentCount": 7,
           "durationSeconds": 76
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "4J9Ix0ZJxOI",
+      "title": "여자아이돌이상형월드컵",
+      "publishedAt": "2026-10-16T11:07:28Z",
+      "durationSeconds": 676,
+      "isShort": false,
+      "likeRate": 2.7820274436886576,
+      "commentRate": 0.4566102572551604,
+      "dailyStats": [
+        {
+          "date": "2026-10-17",
+          "title": "여자아이돌이상형월드컵",
+          "publishedAt": "2026-10-16T11:07:28Z",
+          "viewCount": 42487,
+          "likeCount": 1182,
+          "commentCount": 194,
+          "durationSeconds": 676
         }
       ],
       "thumbnailFeatures": null
