@@ -540,6 +540,13 @@
       "subscriberCount": 8120,
       "totalViewCount": 2659248,
       "videoCount": 277
+    },
+    {
+      "date": "2026-10-18",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8120,
+      "totalViewCount": 2662597,
+      "videoCount": 277
     }
   ],
   "videos": [
@@ -549,8 +556,8 @@
       "publishedAt": "2026-09-27T00:34:41Z",
       "durationSeconds": 482,
       "isShort": false,
-      "likeRate": 1.578586135895676,
-      "commentRate": 0.13726835964310227,
+      "likeRate": 1.5667574931880108,
+      "commentRate": 0.13623978201634876,
       "dailyStats": [
         {
           "date": "2026-09-27",
@@ -737,6 +744,15 @@
           "title": "생활은 가볍게 여행은 꽉차게~",
           "publishedAt": "2026-09-27T00:34:41Z",
           "viewCount": 1457,
+          "likeCount": 23,
+          "commentCount": 2,
+          "durationSeconds": 482
+        },
+        {
+          "date": "2026-10-18",
+          "title": "생활은 가볍게 여행은 꽉차게~",
+          "publishedAt": "2026-09-27T00:34:41Z",
+          "viewCount": 1468,
           "likeCount": 23,
           "commentCount": 2,
           "durationSeconds": 482
@@ -1323,8 +1339,8 @@
       "publishedAt": "2026-09-18T07:00:26Z",
       "durationSeconds": 638,
       "isShort": false,
-      "likeRate": 0.7743224678406394,
-      "commentRate": 0.14986886474334957,
+      "likeRate": 0.7731637361266991,
+      "commentRate": 0.14964459408903852,
       "dailyStats": [
         {
           "date": "2026-09-19",
@@ -1583,6 +1599,15 @@
           "title": "옷 정리를 안 해도 되는 옷장의 비밀",
           "publishedAt": "2026-09-18T07:00:26Z",
           "viewCount": 8007,
+          "likeCount": 62,
+          "commentCount": 12,
+          "durationSeconds": 638
+        },
+        {
+          "date": "2026-10-18",
+          "title": "옷 정리를 안 해도 되는 옷장의 비밀",
+          "publishedAt": "2026-09-18T07:00:26Z",
+          "viewCount": 8019,
           "likeCount": 62,
           "commentCount": 12,
           "durationSeconds": 638
@@ -1878,8 +1903,8 @@
       "publishedAt": "2026-09-25T01:06:46Z",
       "durationSeconds": 612,
       "isShort": false,
-      "likeRate": 0.666539706722529,
-      "commentRate": 0.09521995810321843,
+      "likeRate": 0.6655257653546301,
+      "commentRate": 0.09507510933637574,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -2084,6 +2109,15 @@
           "title": "쓰레기 안 만드는 생활하기",
           "publishedAt": "2026-09-25T01:06:46Z",
           "viewCount": 10502,
+          "likeCount": 70,
+          "commentCount": 10,
+          "durationSeconds": 612
+        },
+        {
+          "date": "2026-10-18",
+          "title": "쓰레기 안 만드는 생활하기",
+          "publishedAt": "2026-09-25T01:06:46Z",
+          "viewCount": 10518,
           "likeCount": 70,
           "commentCount": 10,
           "durationSeconds": 612
@@ -2379,8 +2413,8 @@
       "publishedAt": "2026-10-10T06:16:21Z",
       "durationSeconds": 696,
       "isShort": false,
-      "likeRate": 1.0752688172043012,
-      "commentRate": 0.0929244656843223,
+      "likeRate": 1.0688836104513064,
+      "commentRate": 0.09237265769332278,
       "dailyStats": [
         {
           "date": "2026-10-11",
@@ -2444,6 +2478,15 @@
           "likeCount": 81,
           "commentCount": 7,
           "durationSeconds": 696
+        },
+        {
+          "date": "2026-10-18",
+          "title": "버릴 물건도 한번 더 사용하기",
+          "publishedAt": "2026-10-10T06:16:21Z",
+          "viewCount": 7578,
+          "likeCount": 81,
+          "commentCount": 7,
+          "durationSeconds": 696
         }
       ],
       "thumbnailFeatures": null
@@ -2454,8 +2497,8 @@
       "publishedAt": "2026-10-16T11:46:32Z",
       "durationSeconds": 577,
       "isShort": false,
-      "likeRate": 1.364522417153996,
-      "commentRate": 0.07797270955165692,
+      "likeRate": 0.8647450110864745,
+      "commentRate": 0.08869179600886917,
       "dailyStats": [
         {
           "date": "2026-10-17",
@@ -2464,6 +2507,15 @@
           "viewCount": 2565,
           "likeCount": 35,
           "commentCount": 2,
+          "durationSeconds": 577
+        },
+        {
+          "date": "2026-10-18",
+          "title": "이런 집에도 버릴게 있다구요??",
+          "publishedAt": "2026-10-16T11:46:32Z",
+          "viewCount": 4510,
+          "likeCount": 39,
+          "commentCount": 4,
           "durationSeconds": 577
         }
       ],
