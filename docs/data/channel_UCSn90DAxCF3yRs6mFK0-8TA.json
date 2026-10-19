@@ -547,6 +547,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 149415194,
       "videoCount": 400
+    },
+    {
+      "date": "2026-10-19",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 149420665,
+      "videoCount": 400
     }
   ],
   "videos": [
@@ -1318,8 +1325,8 @@
       "publishedAt": "2026-10-04T03:30:01Z",
       "durationSeconds": 1422,
       "isShort": false,
-      "likeRate": 1.3131479594894229,
-      "commentRate": 0.06591957811470006,
+      "likeRate": 1.3104823816207432,
+      "commentRate": 0.06574573391445668,
       "dailyStats": [
         {
           "date": "2026-10-04",
@@ -1455,6 +1462,15 @@
           "likeCount": 1753,
           "commentCount": 88,
           "durationSeconds": 1422
+        },
+        {
+          "date": "2026-10-19",
+          "title": "혼자 망원동 빵투어..🍞 카페 신메뉴 개발,오픈 준비,솥밥에 빠진 일상..👩🏻‍🍳",
+          "publishedAt": "2026-10-04T03:30:01Z",
+          "viewCount": 135370,
+          "likeCount": 1774,
+          "commentCount": 89,
+          "durationSeconds": 1422
         }
       ],
       "thumbnailFeatures": null
@@ -1465,8 +1481,8 @@
       "publishedAt": "2026-10-18T02:30:01Z",
       "durationSeconds": 1661,
       "isShort": false,
-      "likeRate": 8.116084604033448,
-      "commentRate": 0.6394490900147565,
+      "likeRate": 1.7958396653430724,
+      "commentRate": 0.14870009967808878,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -1475,6 +1491,15 @@
           "viewCount": 2033,
           "likeCount": 165,
           "commentCount": 13,
+          "durationSeconds": 1661
+        },
+        {
+          "date": "2026-10-19",
+          "title": "작은 카페 운영하는 일상🍰남대문 시장에서 쇼핑 🛒",
+          "publishedAt": "2026-10-18T02:30:01Z",
+          "viewCount": 61197,
+          "likeCount": 1099,
+          "commentCount": 91,
           "durationSeconds": 1661
         }
       ],

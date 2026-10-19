@@ -547,6 +547,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 358219271,
       "videoCount": 230
+    },
+    {
+      "date": "2026-10-19",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 358247990,
+      "videoCount": 230
     }
   ],
   "videos": [
@@ -670,8 +677,8 @@
       "publishedAt": "2026-09-30T15:05:23Z",
       "durationSeconds": 1038,
       "isShort": false,
-      "likeRate": 1.0111511987414579,
-      "commentRate": 0.050867729016441446,
+      "likeRate": 1.0094694240431046,
+      "commentRate": 0.050070465020284644,
       "dailyStats": [
         {
           "date": "2026-10-01",
@@ -834,6 +841,15 @@
           "likeCount": 4075,
           "commentCount": 205,
           "durationSeconds": 1038
+        },
+        {
+          "date": "2026-10-19",
+          "title": "vlog | ⏰ 48시간 알차게 보내는 집순이 일상 🏡 열무 냉쫄면, 우렁쌈장, 명란 주먹밥 만들고 소소하게 행복했던 주말",
+          "publishedAt": "2026-09-30T15:05:23Z",
+          "viewCount": 409423,
+          "likeCount": 4133,
+          "commentCount": 205,
+          "durationSeconds": 1038
         }
       ],
       "thumbnailFeatures": null
@@ -844,8 +860,8 @@
       "publishedAt": "2026-09-28T11:58:09Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 2.6337584893158854,
-      "commentRate": 0.05205991623086206,
+      "likeRate": 2.634245187436677,
+      "commentRate": 0.051836667373530314,
       "dailyStats": [
         {
           "date": "2026-09-29",
@@ -1024,6 +1040,15 @@
           "publishedAt": "2026-09-28T11:58:09Z",
           "viewCount": 42259,
           "likeCount": 1113,
+          "commentCount": 22,
+          "durationSeconds": 58
+        },
+        {
+          "date": "2026-10-19",
+          "title": "여름에 꼭 먹어줘야하는 메뉴 🍧",
+          "publishedAt": "2026-09-28T11:58:09Z",
+          "viewCount": 42441,
+          "likeCount": 1118,
           "commentCount": 22,
           "durationSeconds": 58
         }
@@ -1318,8 +1343,8 @@
       "publishedAt": "2026-09-29T11:54:24Z",
       "durationSeconds": 71,
       "isShort": true,
-      "likeRate": 4.200707763554546,
-      "commentRate": 0.026213464983179696,
+      "likeRate": 4.198481585416259,
+      "commentRate": 0.026104548717614043,
       "dailyStats": [
         {
           "date": "2026-09-30",
@@ -1491,6 +1516,15 @@
           "likeCount": 1923,
           "commentCount": 12,
           "durationSeconds": 71
+        },
+        {
+          "date": "2026-10-19",
+          "title": "🍣 연어가득 넣은 롤 유부초밥",
+          "publishedAt": "2026-09-29T11:54:24Z",
+          "viewCount": 45969,
+          "likeCount": 1930,
+          "commentCount": 12,
+          "durationSeconds": 71
         }
       ],
       "thumbnailFeatures": null
@@ -1501,8 +1535,8 @@
       "publishedAt": "2026-09-27T12:50:16Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 2.3934318823962983,
-      "commentRate": 0.06346996437492322,
+      "likeRate": 2.394708368209379,
+      "commentRate": 0.0632872629279546,
       "dailyStats": [
         {
           "date": "2026-09-28",
@@ -1690,6 +1724,15 @@
           "publishedAt": "2026-09-27T12:50:16Z",
           "viewCount": 48842,
           "likeCount": 1169,
+          "commentCount": 31,
+          "durationSeconds": 54
+        },
+        {
+          "date": "2026-10-19",
+          "title": "집순이 주말 브런치 🍞",
+          "publishedAt": "2026-09-27T12:50:16Z",
+          "viewCount": 48983,
+          "likeCount": 1173,
           "commentCount": 31,
           "durationSeconds": 54
         }
@@ -2548,8 +2591,8 @@
       "publishedAt": "2026-10-02T11:40:53Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 3.09731672871999,
-      "commentRate": 0.048144819617409164,
+      "likeRate": 3.0983486121314723,
+      "commentRate": 0.04791260740409493,
       "dailyStats": [
         {
           "date": "2026-10-03",
@@ -2692,6 +2735,15 @@
           "publishedAt": "2026-10-02T11:40:53Z",
           "viewCount": 31156,
           "likeCount": 965,
+          "commentCount": 15,
+          "durationSeconds": 84
+        },
+        {
+          "date": "2026-10-19",
+          "title": "집순이 주말 브런치 🍅",
+          "publishedAt": "2026-10-02T11:40:53Z",
+          "viewCount": 31307,
+          "likeCount": 970,
           "commentCount": 15,
           "durationSeconds": 84
         }
