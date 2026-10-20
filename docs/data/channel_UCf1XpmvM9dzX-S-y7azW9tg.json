@@ -554,6 +554,13 @@
       "subscriberCount": 8720,
       "totalViewCount": 1574801,
       "videoCount": 48
+    },
+    {
+      "date": "2026-10-20",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8720,
+      "totalViewCount": 1579686,
+      "videoCount": 48
     }
   ],
   "videos": [
@@ -1127,8 +1134,8 @@
       "publishedAt": "2026-10-09T15:40:55Z",
       "durationSeconds": 25,
       "isShort": true,
-      "likeRate": 3.374233128834356,
-      "commentRate": 1.5337423312883436,
+      "likeRate": 3.5398230088495577,
+      "commentRate": 1.4749262536873156,
       "dailyStats": [
         {
           "date": "2026-10-10",
@@ -1217,6 +1224,15 @@
           "publishedAt": "2026-10-09T15:40:55Z",
           "viewCount": 326,
           "likeCount": 11,
+          "commentCount": 5,
+          "durationSeconds": 25
+        },
+        {
+          "date": "2026-10-20",
+          "title": "스티로폼 가루 지옥 탈출법 #생활꿀팁",
+          "publishedAt": "2026-10-09T15:40:55Z",
+          "viewCount": 339,
+          "likeCount": 12,
           "commentCount": 5,
           "durationSeconds": 25
         }

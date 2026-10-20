@@ -554,6 +554,13 @@
       "subscriberCount": 2370000,
       "totalViewCount": 431075602,
       "videoCount": 325
+    },
+    {
+      "date": "2026-10-20",
+      "title": "planD플랜디",
+      "subscriberCount": 2370000,
+      "totalViewCount": 431228295,
+      "videoCount": 325
     }
   ],
   "videos": [
@@ -563,8 +570,8 @@
       "publishedAt": "2026-09-24T11:00:31Z",
       "durationSeconds": 2476,
       "isShort": false,
-      "likeRate": 1.3968043013128053,
-      "commentRate": 0.04427088436658786,
+      "likeRate": 1.3939159615985222,
+      "commentRate": 0.043883358740264486,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -789,6 +796,15 @@
           "viewCount": 1122634,
           "likeCount": 15681,
           "commentCount": 497,
+          "durationSeconds": 2476
+        },
+        {
+          "date": "2026-10-20",
+          "title": "남대문 쇼핑🛍️ 알찬 코스소개, 귀여운 송편만들고 제철새우🦐 먹는 자취일상",
+          "publishedAt": "2026-09-24T11:00:31Z",
+          "viewCount": 1130269,
+          "likeCount": 15755,
+          "commentCount": 496,
           "durationSeconds": 2476
         }
       ],
@@ -1082,8 +1098,8 @@
       "publishedAt": "2026-10-15T11:00:01Z",
       "durationSeconds": 2010,
       "isShort": false,
-      "likeRate": 2.0155726394638283,
-      "commentRate": 0.05505821896857604,
+      "likeRate": 1.9426472753194226,
+      "commentRate": 0.052068401763507174,
       "dailyStats": [
         {
           "date": "2026-10-16",
@@ -1119,6 +1135,15 @@
           "viewCount": 588468,
           "likeCount": 11861,
           "commentCount": 324,
+          "durationSeconds": 2010
+        },
+        {
+          "date": "2026-10-20",
+          "title": "공공마켓에서 구독자님 만나고🤲 입원 전 성북동 힐링투어. 매운🌶️치즈퐁듀 등갈비찜",
+          "publishedAt": "2026-10-15T11:00:01Z",
+          "viewCount": 645305,
+          "likeCount": 12536,
+          "commentCount": 336,
           "durationSeconds": 2010
         }
       ],

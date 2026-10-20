@@ -554,9 +554,37 @@
       "subscriberCount": 1220000,
       "totalViewCount": 149420665,
       "videoCount": 400
+    },
+    {
+      "date": "2026-10-20",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 149488100,
+      "videoCount": 405
     }
   ],
   "videos": [
+    {
+      "videoId": "Cwj3L6dlNts",
+      "title": "#vlog #카페브이로그",
+      "publishedAt": "2026-10-19T07:58:41Z",
+      "durationSeconds": 77,
+      "isShort": true,
+      "likeRate": 2.053442148216401,
+      "commentRate": 0.04607081742793208,
+      "dailyStats": [
+        {
+          "date": "2026-10-20",
+          "title": "#vlog #카페브이로그",
+          "publishedAt": "2026-10-19T07:58:41Z",
+          "viewCount": 15194,
+          "likeCount": 312,
+          "commentCount": 7,
+          "durationSeconds": 77
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "I1qewaEnQaQ",
       "title": "여름방학 전 바쁜 카페영업,아기 고양이를 구조했다..🙀,젤리슈즈 꾸미기 🩰",
@@ -1320,13 +1348,34 @@
       }
     },
     {
+      "videoId": "f8uq7UijUJU",
+      "title": "#vlog",
+      "publishedAt": "2026-10-20T02:28:38Z",
+      "durationSeconds": 95,
+      "isShort": true,
+      "likeRate": 5.952380952380952,
+      "commentRate": 0,
+      "dailyStats": [
+        {
+          "date": "2026-10-20",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:28:38Z",
+          "viewCount": 252,
+          "likeCount": 15,
+          "commentCount": 0,
+          "durationSeconds": 95
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "geckzU1_UPE",
       "title": "혼자 망원동 빵투어..🍞 카페 신메뉴 개발,오픈 준비,솥밥에 빠진 일상..👩🏻‍🍳",
       "publishedAt": "2026-10-04T03:30:01Z",
       "durationSeconds": 1422,
       "isShort": false,
-      "likeRate": 1.3104823816207432,
-      "commentRate": 0.06574573391445668,
+      "likeRate": 1.3108614232209739,
+      "commentRate": 0.06510416666666666,
       "dailyStats": [
         {
           "date": "2026-10-04",
@@ -1471,6 +1520,78 @@
           "likeCount": 1774,
           "commentCount": 89,
           "durationSeconds": 1422
+        },
+        {
+          "date": "2026-10-20",
+          "title": "혼자 망원동 빵투어..🍞 카페 신메뉴 개발,오픈 준비,솥밥에 빠진 일상..👩🏻‍🍳",
+          "publishedAt": "2026-10-04T03:30:01Z",
+          "viewCount": 136704,
+          "likeCount": 1792,
+          "commentCount": 89,
+          "durationSeconds": 1422
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "iFs8OgoLz-A",
+      "title": "#vlog",
+      "publishedAt": "2026-10-20T02:35:30Z",
+      "durationSeconds": 115,
+      "isShort": true,
+      "likeRate": 4.508196721311475,
+      "commentRate": 0,
+      "dailyStats": [
+        {
+          "date": "2026-10-20",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:35:30Z",
+          "viewCount": 244,
+          "likeCount": 11,
+          "commentCount": 0,
+          "durationSeconds": 115
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "ouJL_CR-aJs",
+      "title": "#vlog",
+      "publishedAt": "2026-10-20T02:26:07Z",
+      "durationSeconds": 110,
+      "isShort": true,
+      "likeRate": 5,
+      "commentRate": 0,
+      "dailyStats": [
+        {
+          "date": "2026-10-20",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:26:07Z",
+          "viewCount": 480,
+          "likeCount": 24,
+          "commentCount": 0,
+          "durationSeconds": 110
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "qLIqo1DN7jA",
+      "title": "#vlog",
+      "publishedAt": "2026-10-19T09:32:23Z",
+      "durationSeconds": 80,
+      "isShort": true,
+      "likeRate": 2.0478150107779736,
+      "commentRate": 0.04899078973153047,
+      "dailyStats": [
+        {
+          "date": "2026-10-20",
+          "title": "#vlog",
+          "publishedAt": "2026-10-19T09:32:23Z",
+          "viewCount": 10206,
+          "likeCount": 209,
+          "commentCount": 5,
+          "durationSeconds": 80
         }
       ],
       "thumbnailFeatures": null
@@ -1481,8 +1602,8 @@
       "publishedAt": "2026-10-18T02:30:01Z",
       "durationSeconds": 1661,
       "isShort": false,
-      "likeRate": 1.7958396653430724,
-      "commentRate": 0.14870009967808878,
+      "likeRate": 1.567205671130056,
+      "commentRate": 0.1204651809294352,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -1500,6 +1621,15 @@
           "viewCount": 61197,
           "likeCount": 1099,
           "commentCount": 91,
+          "durationSeconds": 1661
+        },
+        {
+          "date": "2026-10-20",
+          "title": "작은 카페 운영하는 일상🍰남대문 시장에서 쇼핑 🛒",
+          "publishedAt": "2026-10-18T02:30:01Z",
+          "viewCount": 86332,
+          "likeCount": 1353,
+          "commentCount": 104,
           "durationSeconds": 1661
         }
       ],
