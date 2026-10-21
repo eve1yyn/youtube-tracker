@@ -561,6 +561,13 @@
       "subscriberCount": 1220000,
       "totalViewCount": 149488100,
       "videoCount": 405
+    },
+    {
+      "date": "2026-10-21",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 149513404,
+      "videoCount": 405
     }
   ],
   "videos": [
@@ -570,8 +577,8 @@
       "publishedAt": "2026-10-19T07:58:41Z",
       "durationSeconds": 77,
       "isShort": true,
-      "likeRate": 2.053442148216401,
-      "commentRate": 0.04607081742793208,
+      "likeRate": 1.823915900131406,
+      "commentRate": 0.04204993429697766,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -580,6 +587,15 @@
           "viewCount": 15194,
           "likeCount": 312,
           "commentCount": 7,
+          "durationSeconds": 77
+        },
+        {
+          "date": "2026-10-21",
+          "title": "#vlog #카페브이로그",
+          "publishedAt": "2026-10-19T07:58:41Z",
+          "viewCount": 19025,
+          "likeCount": 347,
+          "commentCount": 8,
           "durationSeconds": 77
         }
       ],
@@ -1353,7 +1369,7 @@
       "publishedAt": "2026-10-20T02:28:38Z",
       "durationSeconds": 95,
       "isShort": true,
-      "likeRate": 5.952380952380952,
+      "likeRate": 2.6717557251908395,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -1362,6 +1378,15 @@
           "publishedAt": "2026-10-20T02:28:38Z",
           "viewCount": 252,
           "likeCount": 15,
+          "commentCount": 0,
+          "durationSeconds": 95
+        },
+        {
+          "date": "2026-10-21",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:28:38Z",
+          "viewCount": 3930,
+          "likeCount": 105,
           "commentCount": 0,
           "durationSeconds": 95
         }
@@ -1374,8 +1399,8 @@
       "publishedAt": "2026-10-04T03:30:01Z",
       "durationSeconds": 1422,
       "isShort": false,
-      "likeRate": 1.3108614232209739,
-      "commentRate": 0.06510416666666666,
+      "likeRate": 1.307668849745146,
+      "commentRate": 0.06534713852141208,
       "dailyStats": [
         {
           "date": "2026-10-04",
@@ -1529,6 +1554,15 @@
           "likeCount": 1792,
           "commentCount": 89,
           "durationSeconds": 1422
+        },
+        {
+          "date": "2026-10-21",
+          "title": "혼자 망원동 빵투어..🍞 카페 신메뉴 개발,오픈 준비,솥밥에 빠진 일상..👩🏻‍🍳",
+          "publishedAt": "2026-10-04T03:30:01Z",
+          "viewCount": 137726,
+          "likeCount": 1801,
+          "commentCount": 90,
+          "durationSeconds": 1422
         }
       ],
       "thumbnailFeatures": null
@@ -1539,8 +1573,8 @@
       "publishedAt": "2026-10-20T02:35:30Z",
       "durationSeconds": 115,
       "isShort": true,
-      "likeRate": 4.508196721311475,
-      "commentRate": 0,
+      "likeRate": 3.191903464383029,
+      "commentRate": 0.038925652004671074,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -1549,6 +1583,15 @@
           "viewCount": 244,
           "likeCount": 11,
           "commentCount": 0,
+          "durationSeconds": 115
+        },
+        {
+          "date": "2026-10-21",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:35:30Z",
+          "viewCount": 2569,
+          "likeCount": 82,
+          "commentCount": 1,
           "durationSeconds": 115
         }
       ],
@@ -1560,8 +1603,8 @@
       "publishedAt": "2026-10-20T02:26:07Z",
       "durationSeconds": 110,
       "isShort": true,
-      "likeRate": 5,
-      "commentRate": 0,
+      "likeRate": 2.5902147442993138,
+      "commentRate": 0.044277175116227585,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -1570,6 +1613,15 @@
           "viewCount": 480,
           "likeCount": 24,
           "commentCount": 0,
+          "durationSeconds": 110
+        },
+        {
+          "date": "2026-10-21",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:26:07Z",
+          "viewCount": 4517,
+          "likeCount": 117,
+          "commentCount": 2,
           "durationSeconds": 110
         }
       ],
@@ -1581,8 +1633,8 @@
       "publishedAt": "2026-10-19T09:32:23Z",
       "durationSeconds": 80,
       "isShort": true,
-      "likeRate": 2.0478150107779736,
-      "commentRate": 0.04899078973153047,
+      "likeRate": 1.8588901941814662,
+      "commentRate": 0.0414622348144565,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -1591,6 +1643,15 @@
           "viewCount": 10206,
           "likeCount": 209,
           "commentCount": 5,
+          "durationSeconds": 80
+        },
+        {
+          "date": "2026-10-21",
+          "title": "#vlog",
+          "publishedAt": "2026-10-19T09:32:23Z",
+          "viewCount": 14471,
+          "likeCount": 269,
+          "commentCount": 6,
           "durationSeconds": 80
         }
       ],
@@ -1602,8 +1663,8 @@
       "publishedAt": "2026-10-18T02:30:01Z",
       "durationSeconds": 1661,
       "isShort": false,
-      "likeRate": 1.567205671130056,
-      "commentRate": 0.1204651809294352,
+      "likeRate": 1.4224018761976491,
+      "commentRate": 0.10677547596121763,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -1630,6 +1691,15 @@
           "viewCount": 86332,
           "likeCount": 1353,
           "commentCount": 104,
+          "durationSeconds": 1661
+        },
+        {
+          "date": "2026-10-21",
+          "title": "작은 카페 운영하는 일상🍰남대문 시장에서 쇼핑 🛒",
+          "publishedAt": "2026-10-18T02:30:01Z",
+          "viewCount": 104893,
+          "likeCount": 1492,
+          "commentCount": 112,
           "durationSeconds": 1661
         }
       ],

@@ -561,6 +561,13 @@
       "subscriberCount": 34500,
       "totalViewCount": 3716094,
       "videoCount": 108
+    },
+    {
+      "date": "2026-10-21",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 34600,
+      "totalViewCount": 3717195,
+      "videoCount": 109
     }
   ],
   "videos": [
@@ -1311,8 +1318,8 @@
       "publishedAt": "2026-10-02T03:52:33Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 1.7823386443424252,
-      "commentRate": 0.06751282743721307,
+      "likeRate": 1.773659827928524,
+      "commentRate": 0.06618133686300463,
       "dailyStats": [
         {
           "date": "2026-10-02",
@@ -1482,6 +1489,15 @@
           "publishedAt": "2026-10-02T03:52:33Z",
           "viewCount": 7406,
           "likeCount": 132,
+          "commentCount": 5,
+          "durationSeconds": 82
+        },
+        {
+          "date": "2026-10-21",
+          "title": "사이버 도화살녀. 인스타 계정 사라짐.",
+          "publishedAt": "2026-10-02T03:52:33Z",
+          "viewCount": 7555,
+          "likeCount": 134,
           "commentCount": 5,
           "durationSeconds": 82
         }
@@ -2340,8 +2356,8 @@
       "publishedAt": "2026-10-01T00:34:05Z",
       "durationSeconds": 21,
       "isShort": true,
-      "likeRate": 1.3544536271808998,
-      "commentRate": 0.1147842056932966,
+      "likeRate": 1.3480662983425415,
+      "commentRate": 0.11049723756906078,
       "dailyStats": [
         {
           "date": "2026-10-01",
@@ -2520,6 +2536,15 @@
           "publishedAt": "2026-10-01T00:34:05Z",
           "viewCount": 4356,
           "likeCount": 59,
+          "commentCount": 5,
+          "durationSeconds": 21
+        },
+        {
+          "date": "2026-10-21",
+          "title": "이젠 너무 유명한 다이어트 루틴템...🐰💛#fyp",
+          "publishedAt": "2026-10-01T00:34:05Z",
+          "viewCount": 4525,
+          "likeCount": 61,
           "commentCount": 5,
           "durationSeconds": 21
         }
@@ -2809,13 +2834,34 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "gFUaTfn5sRc",
+      "title": "여러분이 제일 기다려준 절개 쌍수 VLOG , 후기 (그리고 인스타 정지...🙄)",
+      "publishedAt": "2026-10-20T12:00:52Z",
+      "durationSeconds": 2013,
+      "isShort": false,
+      "likeRate": 1.0339823436933122,
+      "commentRate": 0.40512758495585927,
+      "dailyStats": [
+        {
+          "date": "2026-10-21",
+          "title": "여러분이 제일 기다려준 절개 쌍수 VLOG , 후기 (그리고 인스타 정지...🙄)",
+          "publishedAt": "2026-10-20T12:00:52Z",
+          "viewCount": 16538,
+          "likeCount": 171,
+          "commentCount": 67,
+          "durationSeconds": 2013
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "hl_KpiwrMgA",
       "title": "[VLOG] 긴급여권.. 고난의 다낭 먹부림 기행🍔🍌",
       "publishedAt": "2026-10-11T12:55:04Z",
       "durationSeconds": 1717,
       "isShort": false,
-      "likeRate": 0.8864741206748641,
-      "commentRate": 0.13583071203889047,
+      "likeRate": 0.8769506974174838,
+      "commentRate": 0.1381024720342494,
       "dailyStats": [
         {
           "date": "2026-10-12",
@@ -2897,6 +2943,15 @@
           "likeCount": 124,
           "commentCount": 19,
           "durationSeconds": 1717
+        },
+        {
+          "date": "2026-10-21",
+          "title": "[VLOG] 긴급여권.. 고난의 다낭 먹부림 기행🍔🍌",
+          "publishedAt": "2026-10-11T12:55:04Z",
+          "viewCount": 14482,
+          "likeCount": 127,
+          "commentCount": 20,
+          "durationSeconds": 1717
         }
       ],
       "thumbnailFeatures": null
@@ -2907,8 +2962,8 @@
       "publishedAt": "2026-09-30T13:22:58Z",
       "durationSeconds": 7,
       "isShort": true,
-      "likeRate": 0.5981794538361509,
-      "commentRate": 0.13003901170351106,
+      "likeRate": 0.6171284634760705,
+      "commentRate": 0.12594458438287154,
       "dailyStats": [
         {
           "date": "2026-10-01",
@@ -3089,6 +3144,15 @@
           "likeCount": 46,
           "commentCount": 10,
           "durationSeconds": 7
+        },
+        {
+          "date": "2026-10-21",
+          "title": "제가 41kg까지 야무지게 뺀 방법은 이제 다들 아시죠?",
+          "publishedAt": "2026-09-30T13:22:58Z",
+          "viewCount": 7940,
+          "likeCount": 49,
+          "commentCount": 10,
+          "durationSeconds": 7
         }
       ],
       "thumbnailFeatures": null
@@ -3099,8 +3163,8 @@
       "publishedAt": "2026-10-12T12:14:09Z",
       "durationSeconds": 48,
       "isShort": true,
-      "likeRate": 2.135751901696899,
-      "commentRate": 0,
+      "likeRate": 2.030735455543359,
+      "commentRate": 0.027442371020856202,
       "dailyStats": [
         {
           "date": "2026-10-13",
@@ -3172,6 +3236,15 @@
           "viewCount": 3418,
           "likeCount": 73,
           "commentCount": 0,
+          "durationSeconds": 48
+        },
+        {
+          "date": "2026-10-21",
+          "title": "오늘은 작정하고 ‘악마의 여자’ 커버 메이크업 도전! 🖤😈✨",
+          "publishedAt": "2026-10-12T12:14:09Z",
+          "viewCount": 3644,
+          "likeCount": 74,
+          "commentCount": 1,
           "durationSeconds": 48
         }
       ],
