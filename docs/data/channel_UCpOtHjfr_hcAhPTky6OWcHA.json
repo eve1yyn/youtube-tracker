@@ -575,6 +575,13 @@
       "subscriberCount": 1010000,
       "totalViewCount": 16374600,
       "videoCount": 205
+    },
+    {
+      "date": "2026-10-23",
+      "title": "세빈 SEBIN",
+      "subscriberCount": 1010000,
+      "totalViewCount": 16426645,
+      "videoCount": 205
     }
   ],
   "videos": [
@@ -1400,8 +1407,8 @@
       "publishedAt": "2026-10-13T11:34:53Z",
       "durationSeconds": 12,
       "isShort": true,
-      "likeRate": 3.6380892122745965,
-      "commentRate": 0.07118000632711168,
+      "likeRate": 3.6279428791972212,
+      "commentRate": 0.0694712466229255,
       "dailyStats": [
         {
           "date": "2026-10-14",
@@ -1481,6 +1488,15 @@
           "publishedAt": "2026-10-13T11:34:53Z",
           "viewCount": 12644,
           "likeCount": 460,
+          "commentCount": 9,
+          "durationSeconds": 12
+        },
+        {
+          "date": "2026-10-23",
+          "title": "#광고 POV: What if I designed clothes?",
+          "publishedAt": "2026-10-13T11:34:53Z",
+          "viewCount": 12955,
+          "likeCount": 470,
           "commentCount": 9,
           "durationSeconds": 12
         }
@@ -2126,8 +2142,8 @@
       "publishedAt": "2026-10-11T09:00:12Z",
       "durationSeconds": 1093,
       "isShort": false,
-      "likeRate": 1.720774461271298,
-      "commentRate": 0.05976477486722071,
+      "likeRate": 1.71229093480038,
+      "commentRate": 0.05854930293188396,
       "dailyStats": [
         {
           "date": "2026-10-12",
@@ -2227,6 +2243,15 @@
           "likeCount": 1526,
           "commentCount": 53,
           "durationSeconds": 1093
+        },
+        {
+          "date": "2026-10-23",
+          "title": "주말 VLOG 집 계약하고 네일 바꾸고.. + 오랜만에 한남동 나들이",
+          "publishedAt": "2026-10-11T09:00:12Z",
+          "viewCount": 90522,
+          "likeCount": 1550,
+          "commentCount": 53,
+          "durationSeconds": 1093
         }
       ],
       "thumbnailFeatures": null
@@ -2237,8 +2262,8 @@
       "publishedAt": "2026-10-19T02:39:54Z",
       "durationSeconds": 10,
       "isShort": true,
-      "likeRate": 3.8314961275253046,
-      "commentRate": 0.053272138671474824,
+      "likeRate": 3.779295359304672,
+      "commentRate": 0.054322520564954214,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -2274,6 +2299,15 @@
           "viewCount": 24403,
           "likeCount": 935,
           "commentCount": 13,
+          "durationSeconds": 10
+        },
+        {
+          "date": "2026-10-23",
+          "title": "상해 패션위크 준비🖤",
+          "publishedAt": "2026-10-19T02:39:54Z",
+          "viewCount": 25772,
+          "likeCount": 974,
+          "commentCount": 14,
           "durationSeconds": 10
         }
       ],
@@ -2567,8 +2601,8 @@
       "publishedAt": "2026-10-18T10:42:33Z",
       "durationSeconds": 841,
       "isShort": false,
-      "likeRate": 2.247191011235955,
-      "commentRate": 0.11616834888592649,
+      "likeRate": 2.172555007982231,
+      "commentRate": 0.11105712500867634,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -2604,6 +2638,15 @@
           "viewCount": 52510,
           "likeCount": 1180,
           "commentCount": 61,
+          "durationSeconds": 841
+        },
+        {
+          "date": "2026-10-23",
+          "title": "집순이의 하루 vlog🤍스킨케어•헤어케어•필라테스까지.. 부지런한척하는 p의 일상 살펴보기 ㅋ",
+          "publishedAt": "2026-10-18T10:42:33Z",
+          "viewCount": 57628,
+          "likeCount": 1252,
+          "commentCount": 64,
           "durationSeconds": 841
         }
       ],
@@ -3479,8 +3522,8 @@
       "publishedAt": "2026-10-10T08:44:26Z",
       "durationSeconds": 12,
       "isShort": true,
-      "likeRate": 4.641999038923594,
-      "commentRate": 0.08169149447381067,
+      "likeRate": 4.614074109128769,
+      "commentRate": 0.08045052292839903,
       "dailyStats": [
         {
           "date": "2026-10-11",
@@ -3589,6 +3632,15 @@
           "likeCount": 966,
           "commentCount": 17,
           "durationSeconds": 12
+        },
+        {
+          "date": "2026-10-23",
+          "title": "반년만에 톤다운",
+          "publishedAt": "2026-10-10T08:44:26Z",
+          "viewCount": 21131,
+          "likeCount": 975,
+          "commentCount": 17,
+          "durationSeconds": 12
         }
       ],
       "thumbnailFeatures": null
@@ -3599,8 +3651,8 @@
       "publishedAt": "2026-10-04T12:18:15Z",
       "durationSeconds": 963,
       "isShort": false,
-      "likeRate": 1.5869428750784682,
-      "commentRate": 0.12554927809165098,
+      "likeRate": 1.5824528018428565,
+      "commentRate": 0.125194050778707,
       "dailyStats": [
         {
           "date": "2026-10-05",
@@ -3760,6 +3812,15 @@
           "title": "나의 대한 추측 읽기하면서 겟레디윗미🍁 다들 나를 어떻게 생각하고 있었던거야?!?!!?",
           "publishedAt": "2026-10-04T12:18:15Z",
           "viewCount": 39825,
+          "likeCount": 632,
+          "commentCount": 50,
+          "durationSeconds": 963
+        },
+        {
+          "date": "2026-10-23",
+          "title": "나의 대한 추측 읽기하면서 겟레디윗미🍁 다들 나를 어떻게 생각하고 있었던거야?!?!!?",
+          "publishedAt": "2026-10-04T12:18:15Z",
+          "viewCount": 39938,
           "likeCount": 632,
           "commentCount": 50,
           "durationSeconds": 963
