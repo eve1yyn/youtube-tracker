@@ -582,6 +582,13 @@
       "subscriberCount": 8120,
       "totalViewCount": 2668885,
       "videoCount": 277
+    },
+    {
+      "date": "2026-10-24",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8120,
+      "totalViewCount": 2669271,
+      "videoCount": 278
     }
   ],
   "videos": [
@@ -591,8 +598,8 @@
       "publishedAt": "2026-09-27T00:34:41Z",
       "durationSeconds": 482,
       "isShort": false,
-      "likeRate": 1.6205266711681297,
-      "commentRate": 0.1350438892640108,
+      "likeRate": 1.6129032258064515,
+      "commentRate": 0.13440860215053765,
       "dailyStats": [
         {
           "date": "2026-09-27",
@@ -833,6 +840,15 @@
           "title": "생활은 가볍게 여행은 꽉차게~",
           "publishedAt": "2026-09-27T00:34:41Z",
           "viewCount": 1481,
+          "likeCount": 24,
+          "commentCount": 2,
+          "durationSeconds": 482
+        },
+        {
+          "date": "2026-10-24",
+          "title": "생활은 가볍게 여행은 꽉차게~",
+          "publishedAt": "2026-09-27T00:34:41Z",
+          "viewCount": 1488,
           "likeCount": 24,
           "commentCount": 2,
           "durationSeconds": 482
@@ -1983,8 +1999,8 @@
       "publishedAt": "2026-09-25T01:06:46Z",
       "durationSeconds": 612,
       "isShort": false,
-      "likeRate": 0.6784132667483276,
-      "commentRate": 0.0942240648261566,
+      "likeRate": 0.6775832862789385,
+      "commentRate": 0.09410878976096368,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -2243,6 +2259,15 @@
           "title": "쓰레기 안 만드는 생활하기",
           "publishedAt": "2026-09-25T01:06:46Z",
           "viewCount": 10613,
+          "likeCount": 72,
+          "commentCount": 10,
+          "durationSeconds": 612
+        },
+        {
+          "date": "2026-10-24",
+          "title": "쓰레기 안 만드는 생활하기",
+          "publishedAt": "2026-09-25T01:06:46Z",
+          "viewCount": 10626,
           "likeCount": 72,
           "commentCount": 10,
           "durationSeconds": 612
@@ -2538,8 +2563,8 @@
       "publishedAt": "2026-10-10T06:16:21Z",
       "durationSeconds": 696,
       "isShort": false,
-      "likeRate": 1.0866719036396961,
-      "commentRate": 0.0916470280178057,
+      "likeRate": 1.082279306298083,
+      "commentRate": 0.09127656800104315,
       "dailyStats": [
         {
           "date": "2026-10-11",
@@ -2657,6 +2682,15 @@
           "likeCount": 83,
           "commentCount": 7,
           "durationSeconds": 696
+        },
+        {
+          "date": "2026-10-24",
+          "title": "버릴 물건도 한번 더 사용하기",
+          "publishedAt": "2026-10-10T06:16:21Z",
+          "viewCount": 7669,
+          "likeCount": 83,
+          "commentCount": 7,
+          "durationSeconds": 696
         }
       ],
       "thumbnailFeatures": null
@@ -2667,8 +2701,8 @@
       "publishedAt": "2026-10-16T11:46:32Z",
       "durationSeconds": 577,
       "isShort": false,
-      "likeRate": 0.6404901141743247,
-      "commentRate": 0.0556947925368978,
+      "likeRate": 0.6498893805309734,
+      "commentRate": 0.06913716814159292,
       "dailyStats": [
         {
           "date": "2026-10-17",
@@ -2731,6 +2765,15 @@
           "viewCount": 7182,
           "likeCount": 46,
           "commentCount": 4,
+          "durationSeconds": 577
+        },
+        {
+          "date": "2026-10-24",
+          "title": "[나래이션]이런 집에도 버릴게 있다구요??",
+          "publishedAt": "2026-10-16T11:46:32Z",
+          "viewCount": 7232,
+          "likeCount": 47,
+          "commentCount": 5,
           "durationSeconds": 577
         }
       ],
@@ -2912,6 +2955,27 @@
         "overlayTone": "none",
         "hasFace": false
       }
+    },
+    {
+      "videoId": "rz49ZZZhlzE",
+      "title": "[나래이션]집을 청소했을 뿐인데 마음이 단단해졌어요.",
+      "publishedAt": "2026-10-23T07:00:21Z",
+      "durationSeconds": 644,
+      "isShort": false,
+      "likeRate": 1.004326328800989,
+      "commentRate": 0.030902348578491962,
+      "dailyStats": [
+        {
+          "date": "2026-10-24",
+          "title": "[나래이션]집을 청소했을 뿐인데 마음이 단단해졌어요.",
+          "publishedAt": "2026-10-23T07:00:21Z",
+          "viewCount": 6472,
+          "likeCount": 65,
+          "commentCount": 2,
+          "durationSeconds": 644
+        }
+      ],
+      "thumbnailFeatures": null
     },
     {
       "videoId": "x1u0nfVRX78",

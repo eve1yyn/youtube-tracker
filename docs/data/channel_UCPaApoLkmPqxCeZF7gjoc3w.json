@@ -582,6 +582,13 @@
       "subscriberCount": 2370000,
       "totalViewCount": 431736874,
       "videoCount": 326
+    },
+    {
+      "date": "2026-10-24",
+      "title": "planD플랜디",
+      "subscriberCount": 2370000,
+      "totalViewCount": 431771491,
+      "videoCount": 327
     }
   ],
   "videos": [
@@ -591,8 +598,8 @@
       "publishedAt": "2026-09-24T11:00:31Z",
       "durationSeconds": 2476,
       "isShort": false,
-      "likeRate": 1.38334772058964,
-      "commentRate": 0.043248613525873614,
+      "likeRate": 1.3809178645881481,
+      "commentRate": 0.043110486388231097,
       "dailyStats": [
         {
           "date": "2026-09-25",
@@ -853,6 +860,15 @@
           "viewCount": 1151482,
           "likeCount": 15929,
           "commentCount": 498,
+          "durationSeconds": 2476
+        },
+        {
+          "date": "2026-10-24",
+          "title": "남대문 쇼핑🛍️ 알찬 코스소개, 귀여운 송편만들고 제철새우🦐 먹는 자취일상",
+          "publishedAt": "2026-09-24T11:00:31Z",
+          "viewCount": 1157491,
+          "likeCount": 15984,
+          "commentCount": 499,
           "durationSeconds": 2476
         }
       ],
@@ -1146,8 +1162,8 @@
       "publishedAt": "2026-10-15T11:00:01Z",
       "durationSeconds": 2010,
       "isShort": false,
-      "likeRate": 1.8195307428359457,
-      "commentRate": 0.04703170334256303,
+      "likeRate": 1.7977169149755643,
+      "commentRate": 0.04598630973389771,
       "dailyStats": [
         {
           "date": "2026-10-16",
@@ -1220,6 +1236,36 @@
           "likeCount": 13734,
           "commentCount": 355,
           "durationSeconds": 2010
+        },
+        {
+          "date": "2026-10-24",
+          "title": "공공마켓에서 구독자님 만나고🤲 입원 전 성북동 힐링투어. 매운🌶️치즈퐁듀 등갈비찜",
+          "publishedAt": "2026-10-15T11:00:01Z",
+          "viewCount": 776318,
+          "likeCount": 13956,
+          "commentCount": 357,
+          "durationSeconds": 2010
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "BtAZxS3sC2w",
+      "title": "동대문 갔다가 드레스 만들기👗 자취방에서 마감하며 틈틈이 잘 챙겨먹는🍳 일상 브이로그",
+      "publishedAt": "2026-10-23T11:00:22Z",
+      "durationSeconds": 2553,
+      "isShort": false,
+      "likeRate": 2.8999093416661843,
+      "commentRate": 0.18054510734332505,
+      "dailyStats": [
+        {
+          "date": "2026-10-24",
+          "title": "동대문 갔다가 드레스 만들기👗 자취방에서 마감하며 틈틈이 잘 챙겨먹는🍳 일상 브이로그",
+          "publishedAt": "2026-10-23T11:00:22Z",
+          "viewCount": 259215,
+          "likeCount": 7517,
+          "commentCount": 468,
+          "durationSeconds": 2553
         }
       ],
       "thumbnailFeatures": null
@@ -2805,8 +2851,8 @@
       "publishedAt": "2026-10-21T03:52:45Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 4.094447449495544,
-      "commentRate": 0.065849815385339,
+      "likeRate": 4.098520883560305,
+      "commentRate": 0.0651593145240112,
       "dailyStats": [
         {
           "date": "2026-10-21",
@@ -2833,6 +2879,15 @@
           "viewCount": 42521,
           "likeCount": 1741,
           "commentCount": 28,
+          "durationSeconds": 59
+        },
+        {
+          "date": "2026-10-24",
+          "title": "매콤한 음식이 땡기는 날, 치즈퐁듀 매콤 등갈비",
+          "publishedAt": "2026-10-21T03:52:45Z",
+          "viewCount": 46041,
+          "likeCount": 1887,
+          "commentCount": 30,
           "durationSeconds": 59
         }
       ],
