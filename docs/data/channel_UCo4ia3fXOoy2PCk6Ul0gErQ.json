@@ -596,6 +596,13 @@
       "subscriberCount": 16800,
       "totalViewCount": 5050881,
       "videoCount": 222
+    },
+    {
+      "date": "2026-10-26",
+      "title": "오리지널 레미 ORIGINAL REMY",
+      "subscriberCount": 16800,
+      "totalViewCount": 5060852,
+      "videoCount": 222
     }
   ],
   "videos": [
@@ -1478,8 +1485,8 @@
       "publishedAt": "2026-10-01T07:10:43Z",
       "durationSeconds": 961,
       "isShort": false,
-      "likeRate": 1.0492008215019197,
-      "commentRate": 0.29020448254308423,
+      "likeRate": 1.0479375696767002,
+      "commentRate": 0.2898550724637681,
       "dailyStats": [
         {
           "date": "2026-10-02",
@@ -1693,6 +1700,15 @@
           "title": "명절이 뭐길래..🫠 설거지투어 끝난 며느리들(만) 오이데~~",
           "publishedAt": "2026-10-01T07:10:43Z",
           "viewCount": 44796,
+          "likeCount": 470,
+          "commentCount": 130,
+          "durationSeconds": 961
+        },
+        {
+          "date": "2026-10-26",
+          "title": "명절이 뭐길래..🫠 설거지투어 끝난 며느리들(만) 오이데~~",
+          "publishedAt": "2026-10-01T07:10:43Z",
+          "viewCount": 44850,
           "likeCount": 470,
           "commentCount": 130,
           "durationSeconds": 961
@@ -2306,8 +2322,8 @@
       "publishedAt": "2026-10-08T06:50:25Z",
       "durationSeconds": 961,
       "isShort": false,
-      "likeRate": 1.3428361678698153,
-      "commentRate": 0.32117949345405605,
+      "likeRate": 1.3388102844971854,
+      "commentRate": 0.3194888178913738,
       "dailyStats": [
         {
           "date": "2026-10-09",
@@ -2459,6 +2475,15 @@
           "publishedAt": "2026-10-08T06:50:25Z",
           "viewCount": 32692,
           "likeCount": 439,
+          "commentCount": 105,
+          "durationSeconds": 961
+        },
+        {
+          "date": "2026-10-26",
+          "title": "3년째 물건비우는데 아직도 비울게 있냐고요? 몰라.. 미니멀라이프 뭐 그딴건 이제 모르겠고ㅋㅋ",
+          "publishedAt": "2026-10-08T06:50:25Z",
+          "viewCount": 32865,
+          "likeCount": 440,
           "commentCount": 105,
           "durationSeconds": 961
         }
@@ -2804,8 +2829,8 @@
       "publishedAt": "2026-10-15T08:46:18Z",
       "durationSeconds": 19280,
       "isShort": false,
-      "likeRate": 1.1481440196187715,
-      "commentRate": 0.06688217590012262,
+      "likeRate": 1.1440630900810842,
+      "commentRate": 0.06664445184938354,
       "dailyStats": [
         {
           "date": "2026-10-15",
@@ -2905,6 +2930,15 @@
           "likeCount": 103,
           "commentCount": 6,
           "durationSeconds": 19280
+        },
+        {
+          "date": "2026-10-26",
+          "title": "업로드 못해서 라이브로 대신..ㅋ 주부님들 오이데~~",
+          "publishedAt": "2026-10-15T08:46:18Z",
+          "viewCount": 9003,
+          "likeCount": 103,
+          "commentCount": 6,
+          "durationSeconds": 19280
         }
       ],
       "thumbnailFeatures": null
@@ -2915,8 +2949,8 @@
       "publishedAt": "2026-09-28T02:49:04Z",
       "durationSeconds": 1031,
       "isShort": false,
-      "likeRate": 0.9891502581063956,
-      "commentRate": 0.18237457883836666,
+      "likeRate": 0.9903433807422948,
+      "commentRate": 0.18202573041680808,
       "dailyStats": [
         {
           "date": "2026-09-28",
@@ -3167,6 +3201,15 @@
           "publishedAt": "2026-09-28T02:49:04Z",
           "viewCount": 32351,
           "likeCount": 320,
+          "commentCount": 59,
+          "durationSeconds": 1031
+        },
+        {
+          "date": "2026-10-26",
+          "title": "감기걸린 주부 나홀로 고군분투 회복 브이로그😵 아파도 살림..해야지?👻감기 빨리낫는법 총동원",
+          "publishedAt": "2026-09-28T02:49:04Z",
+          "viewCount": 32413,
+          "likeCount": 321,
           "commentCount": 59,
           "durationSeconds": 1031
         }
@@ -3461,8 +3504,8 @@
       "publishedAt": "2026-10-20T03:28:52Z",
       "durationSeconds": 989,
       "isShort": false,
-      "likeRate": 0.5649717514124294,
-      "commentRate": 0.06463659867854066,
+      "likeRate": 0.5460014756796641,
+      "commentRate": 0.06129746296611613,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -3515,6 +3558,15 @@
           "publishedAt": "2026-10-20T03:28:52Z",
           "viewCount": 83544,
           "likeCount": 472,
+          "commentCount": 54,
+          "durationSeconds": 989
+        },
+        {
+          "date": "2026-10-26",
+          "title": "새것처럼 돌아온 주방템! 10년묵은 냄비찌든때, 탄자국 음쓰기까지 작정하고 닦아봄",
+          "publishedAt": "2026-10-20T03:28:52Z",
+          "viewCount": 88095,
+          "likeCount": 481,
           "commentCount": 54,
           "durationSeconds": 989
         }

@@ -596,6 +596,13 @@
       "subscriberCount": 8120,
       "totalViewCount": 2677160,
       "videoCount": 278
+    },
+    {
+      "date": "2026-10-26",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8120,
+      "totalViewCount": 2679181,
+      "videoCount": 278
     }
   ],
   "videos": [
@@ -605,8 +612,8 @@
       "publishedAt": "2026-09-27T00:34:41Z",
       "durationSeconds": 482,
       "isShort": false,
-      "likeRate": 1.6096579476861168,
-      "commentRate": 0.1341381623071764,
+      "likeRate": 1.6075016744809107,
+      "commentRate": 0.13395847287340923,
       "dailyStats": [
         {
           "date": "2026-09-27",
@@ -865,6 +872,15 @@
           "title": "생활은 가볍게 여행은 꽉차게~",
           "publishedAt": "2026-09-27T00:34:41Z",
           "viewCount": 1491,
+          "likeCount": 24,
+          "commentCount": 2,
+          "durationSeconds": 482
+        },
+        {
+          "date": "2026-10-26",
+          "title": "생활은 가볍게 여행은 꽉차게~",
+          "publishedAt": "2026-09-27T00:34:41Z",
+          "viewCount": 1493,
           "likeCount": 24,
           "commentCount": 2,
           "durationSeconds": 482
@@ -2579,8 +2595,8 @@
       "publishedAt": "2026-10-10T06:16:21Z",
       "durationSeconds": 696,
       "isShort": false,
-      "likeRate": 1.0808699049355384,
-      "commentRate": 0.09115770282588878,
+      "likeRate": 1.0794641695929248,
+      "commentRate": 0.09103914683313824,
       "dailyStats": [
         {
           "date": "2026-10-11",
@@ -2716,6 +2732,15 @@
           "likeCount": 83,
           "commentCount": 7,
           "durationSeconds": 696
+        },
+        {
+          "date": "2026-10-26",
+          "title": "버릴 물건도 한번 더 사용하기",
+          "publishedAt": "2026-10-10T06:16:21Z",
+          "viewCount": 7689,
+          "likeCount": 83,
+          "commentCount": 7,
+          "durationSeconds": 696
         }
       ],
       "thumbnailFeatures": null
@@ -2726,8 +2751,8 @@
       "publishedAt": "2026-10-16T11:46:32Z",
       "durationSeconds": 577,
       "isShort": false,
-      "likeRate": 0.6605201596257052,
-      "commentRate": 0.08256501995321315,
+      "likeRate": 0.6593406593406593,
+      "commentRate": 0.08241758241758242,
       "dailyStats": [
         {
           "date": "2026-10-17",
@@ -2806,6 +2831,15 @@
           "title": "[나래이션]이런 집에도 버릴게 있다구요??",
           "publishedAt": "2026-10-16T11:46:32Z",
           "viewCount": 7267,
+          "likeCount": 48,
+          "commentCount": 6,
+          "durationSeconds": 577
+        },
+        {
+          "date": "2026-10-26",
+          "title": "[나래이션]이런 집에도 버릴게 있다구요??",
+          "publishedAt": "2026-10-16T11:46:32Z",
+          "viewCount": 7280,
           "likeCount": 48,
           "commentCount": 6,
           "durationSeconds": 577
@@ -2996,8 +3030,8 @@
       "publishedAt": "2026-10-23T07:00:21Z",
       "durationSeconds": 644,
       "isShort": false,
-      "likeRate": 0.879872907246731,
-      "commentRate": 0.02444091409018697,
+      "likeRate": 0.8243844234732617,
+      "commentRate": 0.02169432693350689,
       "dailyStats": [
         {
           "date": "2026-10-24",
@@ -3014,6 +3048,15 @@
           "publishedAt": "2026-10-23T07:00:21Z",
           "viewCount": 8183,
           "likeCount": 72,
+          "commentCount": 2,
+          "durationSeconds": 644
+        },
+        {
+          "date": "2026-10-26",
+          "title": "[나래이션]집을 청소했을 뿐인데 마음이 단단해졌어요.",
+          "publishedAt": "2026-10-23T07:00:21Z",
+          "viewCount": 9219,
+          "likeCount": 76,
           "commentCount": 2,
           "durationSeconds": 644
         }

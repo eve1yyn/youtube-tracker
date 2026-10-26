@@ -596,6 +596,13 @@
       "subscriberCount": 2370000,
       "totalViewCount": 432228257,
       "videoCount": 327
+    },
+    {
+      "date": "2026-10-26",
+      "title": "planD플랜디",
+      "subscriberCount": 2370000,
+      "totalViewCount": 432484524,
+      "videoCount": 327
     }
   ],
   "videos": [
@@ -1169,8 +1176,8 @@
       "publishedAt": "2026-10-15T11:00:01Z",
       "durationSeconds": 2010,
       "isShort": false,
-      "likeRate": 1.7835374100022519,
-      "commentRate": 0.044912383111434286,
+      "likeRate": 1.7664135610218945,
+      "commentRate": 0.04387765386061901,
       "dailyStats": [
         {
           "date": "2026-10-16",
@@ -1261,6 +1268,15 @@
           "likeCount": 14177,
           "commentCount": 357,
           "durationSeconds": 2010
+        },
+        {
+          "date": "2026-10-26",
+          "title": "공공마켓에서 구독자님 만나고🤲 입원 전 성북동 힐링투어. 매운🌶️치즈퐁듀 등갈비찜",
+          "publishedAt": "2026-10-15T11:00:01Z",
+          "viewCount": 813626,
+          "likeCount": 14372,
+          "commentCount": 357,
+          "durationSeconds": 2010
         }
       ],
       "thumbnailFeatures": null
@@ -1271,8 +1287,8 @@
       "publishedAt": "2026-10-23T11:00:22Z",
       "durationSeconds": 2553,
       "isShort": false,
-      "likeRate": 2.411127673633903,
-      "commentRate": 0.15323382647696115,
+      "likeRate": 2.2026082364117094,
+      "commentRate": 0.13346584303674444,
       "dailyStats": [
         {
           "date": "2026-10-24",
@@ -1290,6 +1306,15 @@
           "viewCount": 455513,
           "likeCount": 10983,
           "commentCount": 698,
+          "durationSeconds": 2553
+        },
+        {
+          "date": "2026-10-26",
+          "title": "동대문 갔다가 드레스 만들기👗 자취방에서 마감하며 틈틈이 잘 챙겨먹는🍳 일상 브이로그",
+          "publishedAt": "2026-10-23T11:00:22Z",
+          "viewCount": 592661,
+          "likeCount": 13054,
+          "commentCount": 791,
           "durationSeconds": 2553
         }
       ],
@@ -2876,8 +2901,8 @@
       "publishedAt": "2026-10-21T03:52:45Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 4.087097309863832,
-      "commentRate": 0.06434739289272667,
+      "likeRate": 4.048857273796003,
+      "commentRate": 0.06176898399984059,
       "dailyStats": [
         {
           "date": "2026-10-21",
@@ -2921,6 +2946,15 @@
           "publishedAt": "2026-10-21T03:52:45Z",
           "viewCount": 48176,
           "likeCount": 1969,
+          "commentCount": 31,
+          "durationSeconds": 59
+        },
+        {
+          "date": "2026-10-26",
+          "title": "매콤한 음식이 땡기는 날, 치즈퐁듀 매콤 등갈비",
+          "publishedAt": "2026-10-21T03:52:45Z",
+          "viewCount": 50187,
+          "likeCount": 2032,
           "commentCount": 31,
           "durationSeconds": 59
         }
