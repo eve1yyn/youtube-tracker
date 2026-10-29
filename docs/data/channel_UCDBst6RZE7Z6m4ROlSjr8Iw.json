@@ -617,9 +617,37 @@
       "subscriberCount": 46900,
       "totalViewCount": 6707862,
       "videoCount": 134
+    },
+    {
+      "date": "2026-10-29",
+      "title": "에린남 Erinnam",
+      "subscriberCount": 46900,
+      "totalViewCount": 6708707,
+      "videoCount": 135
     }
   ],
   "videos": [
+    {
+      "videoId": "-4mDAhp3deA",
+      "title": "호주에서 사온 것들",
+      "publishedAt": "2026-10-28T11:00:23Z",
+      "durationSeconds": 375,
+      "isShort": false,
+      "likeRate": 2.5250000000000004,
+      "commentRate": 0.4,
+      "dailyStats": [
+        {
+          "date": "2026-10-29",
+          "title": "호주에서 사온 것들",
+          "publishedAt": "2026-10-28T11:00:23Z",
+          "viewCount": 4000,
+          "likeCount": 101,
+          "commentCount": 16,
+          "durationSeconds": 375
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "YpLWDq-pQfE",
       "title": "미니멀리스트의 여름옷장",
