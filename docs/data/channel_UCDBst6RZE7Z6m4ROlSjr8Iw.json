@@ -624,6 +624,13 @@
       "subscriberCount": 46900,
       "totalViewCount": 6708707,
       "videoCount": 135
+    },
+    {
+      "date": "2026-10-30",
+      "title": "에린남 Erinnam",
+      "subscriberCount": 46900,
+      "totalViewCount": 6715212,
+      "videoCount": 135
     }
   ],
   "videos": [
@@ -633,8 +640,8 @@
       "publishedAt": "2026-10-28T11:00:23Z",
       "durationSeconds": 375,
       "isShort": false,
-      "likeRate": 2.5250000000000004,
-      "commentRate": 0.4,
+      "likeRate": 1.833961028328148,
+      "commentRate": 0.29474373669559517,
       "dailyStats": [
         {
           "date": "2026-10-29",
@@ -643,6 +650,15 @@
           "viewCount": 4000,
           "likeCount": 101,
           "commentCount": 16,
+          "durationSeconds": 375
+        },
+        {
+          "date": "2026-10-30",
+          "title": "호주에서 사온 것들",
+          "publishedAt": "2026-10-28T11:00:23Z",
+          "viewCount": 6107,
+          "likeCount": 112,
+          "commentCount": 18,
           "durationSeconds": 375
         }
       ],
