@@ -631,6 +631,13 @@
       "subscriberCount": 6910,
       "totalViewCount": 1046925,
       "videoCount": 10
+    },
+    {
+      "date": "2026-10-31",
+      "title": "자취반장",
+      "subscriberCount": 6910,
+      "totalViewCount": 1047013,
+      "videoCount": 10
     }
   ],
   "videos": [
@@ -640,8 +647,8 @@
       "publishedAt": "2026-10-03T12:35:31Z",
       "durationSeconds": 61,
       "isShort": true,
-      "likeRate": 0.9224091155724362,
-      "commentRate": 0.16277807921866522,
+      "likeRate": 0.9184224743381956,
+      "commentRate": 0.1620745542949757,
       "dailyStats": [
         {
           "date": "2026-10-04",
@@ -882,6 +889,15 @@
           "title": "자취는 옥탑에서 하세요",
           "publishedAt": "2026-10-03T12:35:31Z",
           "viewCount": 1843,
+          "likeCount": 17,
+          "commentCount": 3,
+          "durationSeconds": 61
+        },
+        {
+          "date": "2026-10-31",
+          "title": "자취는 옥탑에서 하세요",
+          "publishedAt": "2026-10-03T12:35:31Z",
+          "viewCount": 1851,
           "likeCount": 17,
           "commentCount": 3,
           "durationSeconds": 61

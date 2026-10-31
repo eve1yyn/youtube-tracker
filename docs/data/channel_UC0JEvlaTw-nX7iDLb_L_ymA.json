@@ -631,6 +631,13 @@
       "subscriberCount": 114000,
       "totalViewCount": 17511650,
       "videoCount": 63
+    },
+    {
+      "date": "2026-10-31",
+      "title": "아임지현 Jihyun",
+      "subscriberCount": 114000,
+      "totalViewCount": 17567521,
+      "videoCount": 64
     }
   ],
   "videos": [
@@ -1208,6 +1215,27 @@
       }
     },
     {
+      "videoId": "28bcnYeA1Z0",
+      "title": "시원한 맥주 한잔 하겠습니다",
+      "publishedAt": "2026-10-30T10:00:12Z",
+      "durationSeconds": 56,
+      "isShort": true,
+      "likeRate": 1.5388238988772867,
+      "commentRate": 0.03140456936484259,
+      "dailyStats": [
+        {
+          "date": "2026-10-31",
+          "title": "시원한 맥주 한잔 하겠습니다",
+          "publishedAt": "2026-10-30T10:00:12Z",
+          "viewCount": 12737,
+          "likeCount": 196,
+          "commentCount": 4,
+          "durationSeconds": 56
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "2hfZ7dOLyTs",
       "title": "다음부터 고기 더 많이 시키자 … ^^",
       "publishedAt": "2026-08-01T09:00:23Z",
@@ -1585,8 +1613,8 @@
       "publishedAt": "2026-10-07T09:00:33Z",
       "durationSeconds": 1591,
       "isShort": false,
-      "likeRate": 0.7778188710646757,
-      "commentRate": 0.11788636678840554,
+      "likeRate": 0.7776696397772631,
+      "commentRate": 0.11780540087714976,
       "dailyStats": [
         {
           "date": "2026-10-08",
@@ -1792,6 +1820,15 @@
           "publishedAt": "2026-10-07T09:00:33Z",
           "viewCount": 1297860,
           "likeCount": 10095,
+          "commentCount": 1530,
+          "durationSeconds": 1591
+        },
+        {
+          "date": "2026-10-31",
+          "title": "도쿄 2박 3일 Vlog🗼 | 그리고 전하고 싶은 이야기 .. [SUB]",
+          "publishedAt": "2026-10-07T09:00:33Z",
+          "viewCount": 1298752,
+          "likeCount": 10100,
           "commentCount": 1530,
           "durationSeconds": 1591
         }
@@ -3793,8 +3830,8 @@
       "publishedAt": "2026-10-27T09:00:32Z",
       "durationSeconds": 1520,
       "isShort": false,
-      "likeRate": 1.199103321785205,
-      "commentRate": 0.3065009170572651,
+      "likeRate": 1.1485503696613888,
+      "commentRate": 0.28939851833987745,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -3822,6 +3859,15 @@
           "likeCount": 1471,
           "commentCount": 376,
           "durationSeconds": 1520
+        },
+        {
+          "date": "2026-10-31",
+          "title": "가을을 핑계 삼아 글램핑 ㅋ Vlog [SUB]",
+          "publishedAt": "2026-10-27T09:00:32Z",
+          "viewCount": 132689,
+          "likeCount": 1524,
+          "commentCount": 384,
+          "durationSeconds": 1520
         }
       ],
       "thumbnailFeatures": null
@@ -3832,8 +3878,8 @@
       "publishedAt": "2026-10-17T09:00:24Z",
       "durationSeconds": 1451,
       "isShort": false,
-      "likeRate": 0.7593408017469802,
-      "commentRate": 0.18252854421078463,
+      "likeRate": 0.7573678722353329,
+      "commentRate": 0.1822073431754569,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -3950,6 +3996,15 @@
           "viewCount": 362683,
           "likeCount": 2754,
           "commentCount": 662,
+          "durationSeconds": 1451
+        },
+        {
+          "date": "2026-10-31",
+          "title": "아프니까 청춘인가.. | 가을 Vlog",
+          "publishedAt": "2026-10-17T09:00:24Z",
+          "viewCount": 364420,
+          "likeCount": 2760,
+          "commentCount": 664,
           "durationSeconds": 1451
         }
       ],
@@ -4921,8 +4976,8 @@
       "publishedAt": "2026-10-02T09:00:23Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 0.8039266416939455,
-      "commentRate": 0.0069368670108852564,
+      "likeRate": 0.8036406791698205,
+      "commentRate": 0.006915047704484502,
       "dailyStats": [
         {
           "date": "2026-10-03",
@@ -5175,6 +5230,15 @@
           "likeCount": 4288,
           "commentCount": 37,
           "durationSeconds": 57
+        },
+        {
+          "date": "2026-10-31",
+          "title": "추구미 제니...?",
+          "publishedAt": "2026-10-02T09:00:23Z",
+          "viewCount": 535065,
+          "likeCount": 4300,
+          "commentCount": 37,
+          "durationSeconds": 57
         }
       ],
       "thumbnailFeatures": null
@@ -5185,8 +5249,8 @@
       "publishedAt": "2026-10-01T09:00:10Z",
       "durationSeconds": 34,
       "isShort": true,
-      "likeRate": 0.6137865911237016,
-      "commentRate": 0.0026979630379063806,
+      "likeRate": 0.6139419912140467,
+      "commentRate": 0.002686835847763881,
       "dailyStats": [
         {
           "date": "2026-10-02",
@@ -5446,6 +5510,15 @@
           "publishedAt": "2026-10-01T09:00:10Z",
           "viewCount": 74130,
           "likeCount": 455,
+          "commentCount": 2,
+          "durationSeconds": 34
+        },
+        {
+          "date": "2026-10-31",
+          "title": "다이어트 할 때 이르케 해보삼 🥗",
+          "publishedAt": "2026-10-01T09:00:10Z",
+          "viewCount": 74437,
+          "likeCount": 457,
           "commentCount": 2,
           "durationSeconds": 34
         }
