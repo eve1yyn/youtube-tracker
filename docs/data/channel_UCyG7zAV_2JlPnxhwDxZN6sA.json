@@ -638,6 +638,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 358930283,
       "videoCount": 231
+    },
+    {
+      "date": "2026-11-01",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 358954671,
+      "videoCount": 231
     }
   ],
   "videos": [
@@ -2735,8 +2742,8 @@
       "publishedAt": "2026-10-27T14:40:26Z",
       "durationSeconds": 1428,
       "isShort": false,
-      "likeRate": 1.12280492135719,
-      "commentRate": 0.07069389543277607,
+      "likeRate": 1.1076220557269478,
+      "commentRate": 0.06610841780520052,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -2772,6 +2779,15 @@
           "viewCount": 301299,
           "likeCount": 3383,
           "commentCount": 213,
+          "durationSeconds": 1428
+        },
+        {
+          "date": "2026-11-01",
+          "title": "vlog | 새 맥북 언박싱하고 비오는 날 순두부 쫄면  🚘 나 홀로 차에서 도시락 까먹는 내향형 집순이 인간의 자취 일상  🛋️",
+          "publishedAt": "2026-10-27T14:40:26Z",
+          "viewCount": 326736,
+          "likeCount": 3619,
+          "commentCount": 216,
           "durationSeconds": 1428
         }
       ],
@@ -3065,8 +3081,8 @@
       "publishedAt": "2026-10-02T11:40:53Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 3.0478955007256894,
-      "commentRate": 0.045355587808417995,
+      "likeRate": 3.0538723583853367,
+      "commentRate": 0.04522022248349462,
       "dailyStats": [
         {
           "date": "2026-10-03",
@@ -3326,6 +3342,15 @@
           "publishedAt": "2026-10-02T11:40:53Z",
           "viewCount": 33072,
           "likeCount": 1008,
+          "commentCount": 15,
+          "durationSeconds": 84
+        },
+        {
+          "date": "2026-11-01",
+          "title": "집순이 주말 브런치 🍅",
+          "publishedAt": "2026-10-02T11:40:53Z",
+          "viewCount": 33171,
+          "likeCount": 1013,
           "commentCount": 15,
           "durationSeconds": 84
         }
