@@ -652,6 +652,13 @@
       "subscriberCount": 784000,
       "totalViewCount": 231051063,
       "videoCount": 764
+    },
+    {
+      "date": "2026-11-03",
+      "title": "에바EVA",
+      "subscriberCount": 785000,
+      "totalViewCount": 231434297,
+      "videoCount": 765
     }
   ],
   "videos": [
@@ -1267,8 +1274,8 @@
       "publishedAt": "2026-10-24T12:44:40Z",
       "durationSeconds": 175,
       "isShort": true,
-      "likeRate": 1.9614009885630983,
-      "commentRate": 0.022950304091529213,
+      "likeRate": 1.9489027186374057,
+      "commentRate": 0.02351617156726885,
       "dailyStats": [
         {
           "date": "2026-10-25",
@@ -1349,6 +1356,15 @@
           "viewCount": 235291,
           "likeCount": 4615,
           "commentCount": 54,
+          "durationSeconds": 175
+        },
+        {
+          "date": "2026-11-03",
+          "title": "혼자 일하는 프리랜서 여성의 하루",
+          "publishedAt": "2026-10-24T12:44:40Z",
+          "viewCount": 238134,
+          "likeCount": 4641,
+          "commentCount": 56,
           "durationSeconds": 175
         }
       ],
@@ -2860,8 +2876,8 @@
       "publishedAt": "2026-10-08T12:51:37Z",
       "durationSeconds": 44,
       "isShort": true,
-      "likeRate": 1.1185703983001216,
-      "commentRate": 0.021296883394723215,
+      "likeRate": 1.1156858540863108,
+      "commentRate": 0.021200681312804007,
       "dailyStats": [
         {
           "date": "2026-10-09",
@@ -3087,6 +3103,15 @@
           "likeCount": 4622,
           "commentCount": 88,
           "durationSeconds": 44
+        },
+        {
+          "date": "2026-11-03",
+          "title": "혼자 사는 성인 여성 한 달 꾸밈비용",
+          "publishedAt": "2026-10-08T12:51:37Z",
+          "viewCount": 415081,
+          "likeCount": 4631,
+          "commentCount": 88,
+          "durationSeconds": 44
         }
       ],
       "thumbnailFeatures": null
@@ -3097,8 +3122,8 @@
       "publishedAt": "2026-10-15T12:48:22Z",
       "durationSeconds": 102,
       "isShort": true,
-      "likeRate": 1.37838524541161,
-      "commentRate": 0.021297901596221677,
+      "likeRate": 1.372484426299289,
+      "commentRate": 0.02109806156932564,
       "dailyStats": [
         {
           "date": "2026-10-16",
@@ -3261,6 +3286,15 @@
           "likeCount": 3689,
           "commentCount": 57,
           "durationSeconds": 102
+        },
+        {
+          "date": "2026-11-03",
+          "title": "혼자 사는 여성의 주말 하루 동안 먹은 것들",
+          "publishedAt": "2026-10-15T12:48:22Z",
+          "viewCount": 270167,
+          "likeCount": 3708,
+          "commentCount": 57,
+          "durationSeconds": 102
         }
       ],
       "thumbnailFeatures": null
@@ -3271,8 +3305,8 @@
       "publishedAt": "2026-10-17T12:18:08Z",
       "durationSeconds": 2531,
       "isShort": false,
-      "likeRate": 0.7963130414491146,
-      "commentRate": 0.05615027856371963,
+      "likeRate": 0.7926820407748084,
+      "commentRate": 0.05594547858813956,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -3415,6 +3449,15 @@
           "publishedAt": "2026-10-17T12:18:08Z",
           "viewCount": 137132,
           "likeCount": 1092,
+          "commentCount": 77,
+          "durationSeconds": 2531
+        },
+        {
+          "date": "2026-11-03",
+          "title": "애매하긴 해;",
+          "publishedAt": "2026-10-17T12:18:08Z",
+          "viewCount": 137634,
+          "likeCount": 1091,
           "commentCount": 77,
           "durationSeconds": 2531
         }
@@ -3709,8 +3752,8 @@
       "publishedAt": "2026-10-18T12:34:23Z",
       "durationSeconds": 92,
       "isShort": true,
-      "likeRate": 1.446307332170573,
-      "commentRate": 0.016275026243479818,
+      "likeRate": 1.4433538745417231,
+      "commentRate": 0.016138880445863472,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -3844,6 +3887,15 @@
           "publishedAt": "2026-10-18T12:34:23Z",
           "viewCount": 368663,
           "likeCount": 5332,
+          "commentCount": 60,
+          "durationSeconds": 92
+        },
+        {
+          "date": "2026-11-03",
+          "title": "서울 사는 지방러의 본가 내려가는 날",
+          "publishedAt": "2026-10-18T12:34:23Z",
+          "viewCount": 371773,
+          "likeCount": 5366,
           "commentCount": 60,
           "durationSeconds": 92
         }
@@ -5548,8 +5600,8 @@
       "publishedAt": "2026-10-11T12:38:13Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 1.4364045568696286,
-      "commentRate": 0.023027659260160413,
+      "likeRate": 1.420280742301679,
+      "commentRate": 0.022517164026918633,
       "dailyStats": [
         {
           "date": "2026-10-12",
@@ -5746,6 +5798,15 @@
           "publishedAt": "2026-10-11T12:38:13Z",
           "viewCount": 230158,
           "likeCount": 3306,
+          "commentCount": 53,
+          "durationSeconds": 50
+        },
+        {
+          "date": "2026-11-03",
+          "title": "장원영 샤워 라쓰고",
+          "publishedAt": "2026-10-11T12:38:13Z",
+          "viewCount": 235376,
+          "likeCount": 3343,
           "commentCount": 53,
           "durationSeconds": 50
         }
@@ -6881,6 +6942,27 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "gdill-5vkXE",
+      "title": "비행 전 24시간 동안 하는 것들",
+      "publishedAt": "2026-11-02T13:23:53Z",
+      "durationSeconds": 82,
+      "isShort": true,
+      "likeRate": 1.491295373742395,
+      "commentRate": 0.01837102996639182,
+      "dailyStats": [
+        {
+          "date": "2026-11-03",
+          "title": "비행 전 24시간 동안 하는 것들",
+          "publishedAt": "2026-11-02T13:23:53Z",
+          "viewCount": 185074,
+          "likeCount": 2760,
+          "commentCount": 34,
+          "durationSeconds": 82
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "hRgCK4RUQZc",
       "title": "행복은 10,415km 떨어진 곳에 있었다..",
       "publishedAt": "2026-08-02T12:35:07Z",
@@ -7180,8 +7262,8 @@
       "publishedAt": "2026-11-01T13:32:34Z",
       "durationSeconds": 1674,
       "isShort": false,
-      "likeRate": 1.209018486365029,
-      "commentRate": 0.1442651414564396,
+      "likeRate": 0.9664651503239623,
+      "commentRate": 0.09556212215685743,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -7190,6 +7272,15 @@
           "viewCount": 78328,
           "likeCount": 947,
           "commentCount": 113,
+          "durationSeconds": 1674
+        },
+        {
+          "date": "2026-11-03",
+          "title": "밥찷이기",
+          "publishedAt": "2026-11-01T13:32:34Z",
+          "viewCount": 147548,
+          "likeCount": 1426,
+          "commentCount": 141,
           "durationSeconds": 1674
         }
       ],
@@ -7201,8 +7292,8 @@
       "publishedAt": "2026-10-06T12:23:29Z",
       "durationSeconds": 1199,
       "isShort": false,
-      "likeRate": 0.7817244654842176,
-      "commentRate": 0.07318934238597256,
+      "likeRate": 0.7809993064684754,
+      "commentRate": 0.07245851749873199,
       "dailyStats": [
         {
           "date": "2026-10-07",
@@ -7445,6 +7536,15 @@
           "viewCount": 192651,
           "likeCount": 1506,
           "commentCount": 141,
+          "durationSeconds": 1199
+        },
+        {
+          "date": "2026-11-03",
+          "title": "어른 여자의 10가지 조건",
+          "publishedAt": "2026-10-06T12:23:29Z",
+          "viewCount": 193214,
+          "likeCount": 1509,
+          "commentCount": 140,
           "durationSeconds": 1199
         }
       ],
@@ -9286,8 +9386,8 @@
       "publishedAt": "2026-10-07T12:09:42Z",
       "durationSeconds": 92,
       "isShort": true,
-      "likeRate": 1.7368754897205327,
-      "commentRate": 0.020894742733480094,
+      "likeRate": 1.7315728391491192,
+      "commentRate": 0.020764042610781727,
       "dailyStats": [
         {
           "date": "2026-10-08",
@@ -9522,6 +9622,15 @@
           "likeCount": 4655,
           "commentCount": 56,
           "durationSeconds": 92
+        },
+        {
+          "date": "2026-11-03",
+          "title": "욘나 지친 날 퇴근 후 저녁 루틴",
+          "publishedAt": "2026-10-07T12:09:42Z",
+          "viewCount": 269697,
+          "likeCount": 4670,
+          "commentCount": 56,
+          "durationSeconds": 92
         }
       ],
       "thumbnailFeatures": null
@@ -9532,8 +9641,8 @@
       "publishedAt": "2026-10-29T12:05:05Z",
       "durationSeconds": 166,
       "isShort": true,
-      "likeRate": 1.6041479029234929,
-      "commentRate": 0.05306589420900173,
+      "likeRate": 1.5810379237201095,
+      "commentRate": 0.051677798655512336,
       "dailyStats": [
         {
           "date": "2026-10-30",
@@ -9570,6 +9679,15 @@
           "likeCount": 6590,
           "commentCount": 218,
           "durationSeconds": 166
+        },
+        {
+          "date": "2026-11-03",
+          "title": "객관적 판단 부탁드립니다",
+          "publishedAt": "2026-10-29T12:05:05Z",
+          "viewCount": 462481,
+          "likeCount": 7312,
+          "commentCount": 239,
+          "durationSeconds": 166
         }
       ],
       "thumbnailFeatures": null
@@ -9580,8 +9698,8 @@
       "publishedAt": "2026-10-25T12:25:06Z",
       "durationSeconds": 1398,
       "isShort": false,
-      "likeRate": 0.855479333602352,
-      "commentRate": 0.16832881766299648,
+      "likeRate": 0.850011679114894,
+      "commentRate": 0.16407732143772755,
       "dailyStats": [
         {
           "date": "2026-10-26",
@@ -9653,6 +9771,15 @@
           "viewCount": 173470,
           "likeCount": 1484,
           "commentCount": 292,
+          "durationSeconds": 1398
+        },
+        {
+          "date": "2026-11-03",
+          "title": "당신은 축복받았습니다",
+          "publishedAt": "2026-10-25T12:25:06Z",
+          "viewCount": 175527,
+          "likeCount": 1492,
+          "commentCount": 288,
           "durationSeconds": 1398
         }
       ],
