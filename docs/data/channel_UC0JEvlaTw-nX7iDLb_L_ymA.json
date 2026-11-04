@@ -659,6 +659,13 @@
       "subscriberCount": 114000,
       "totalViewCount": 17711981,
       "videoCount": 66
+    },
+    {
+      "date": "2026-11-04",
+      "title": "아임지현 Jihyun",
+      "subscriberCount": 114000,
+      "totalViewCount": 17723844,
+      "videoCount": 66
     }
   ],
   "videos": [
@@ -1241,8 +1248,8 @@
       "publishedAt": "2026-10-30T10:00:12Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 1.3561594389728253,
-      "commentRate": 0.04125199814366008,
+      "likeRate": 1.3313536253402622,
+      "commentRate": 0.03959415986142044,
       "dailyStats": [
         {
           "date": "2026-10-31",
@@ -1277,6 +1284,15 @@
           "publishedAt": "2026-10-30T10:00:12Z",
           "viewCount": 19393,
           "likeCount": 263,
+          "commentCount": 8,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-11-04",
+          "title": "시원한 맥주 한잔 하겠습니다",
+          "publishedAt": "2026-10-30T10:00:12Z",
+          "viewCount": 20205,
+          "likeCount": 269,
           "commentCount": 8,
           "durationSeconds": 56
         }
@@ -1631,8 +1647,8 @@
       "publishedAt": "2026-10-31T09:00:12Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 0.8595003438001375,
-      "commentRate": 0.022920009168003668,
+      "likeRate": 0.8483390756029383,
+      "commentRate": 0.026002730286680098,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -1659,6 +1675,15 @@
           "viewCount": 52356,
           "likeCount": 450,
           "commentCount": 12,
+          "durationSeconds": 53
+        },
+        {
+          "date": "2026-11-04",
+          "title": "진원 - 고칠게 🥢",
+          "publishedAt": "2026-10-31T09:00:12Z",
+          "viewCount": 61532,
+          "likeCount": 522,
+          "commentCount": 16,
           "durationSeconds": 53
         }
       ],
@@ -1700,8 +1725,8 @@
       "publishedAt": "2026-10-07T09:00:33Z",
       "durationSeconds": 1591,
       "isShort": false,
-      "likeRate": 0.7759924037096447,
-      "commentRate": 0.11769333357916796,
+      "likeRate": 0.7757890541793014,
+      "commentRate": 0.11763919934699495,
       "dailyStats": [
         {
           "date": "2026-10-08",
@@ -1943,6 +1968,15 @@
           "publishedAt": "2026-10-07T09:00:33Z",
           "viewCount": 1301688,
           "likeCount": 10101,
+          "commentCount": 1532,
+          "durationSeconds": 1591
+        },
+        {
+          "date": "2026-11-04",
+          "title": "도쿄 2박 3일 Vlog🗼 | 그리고 전하고 싶은 이야기 .. [SUB]",
+          "publishedAt": "2026-10-07T09:00:33Z",
+          "viewCount": 1302287,
+          "likeCount": 10103,
           "commentCount": 1532,
           "durationSeconds": 1591
         }
@@ -3944,8 +3978,8 @@
       "publishedAt": "2026-10-27T09:00:32Z",
       "durationSeconds": 1520,
       "isShort": false,
-      "likeRate": 1.055769306527648,
-      "commentRate": 0.25934631596916735,
+      "likeRate": 1.0481086373943518,
+      "commentRate": 0.25703463203463206,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -4009,6 +4043,15 @@
           "likeCount": 1608,
           "commentCount": 395,
           "durationSeconds": 1520
+        },
+        {
+          "date": "2026-11-04",
+          "title": "가을을 핑계 삼아 글램핑 ㅋ Vlog [SUB]",
+          "publishedAt": "2026-10-27T09:00:32Z",
+          "viewCount": 155232,
+          "likeCount": 1627,
+          "commentCount": 399,
+          "durationSeconds": 1520
         }
       ],
       "thumbnailFeatures": null
@@ -4019,8 +4062,8 @@
       "publishedAt": "2026-10-17T09:00:24Z",
       "durationSeconds": 1451,
       "isShort": false,
-      "likeRate": 0.7469936743021223,
-      "commentRate": 0.179192124182301,
+      "likeRate": 0.7442873858485872,
+      "commentRate": 0.17887644076230952,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -4173,6 +4216,15 @@
           "viewCount": 370552,
           "likeCount": 2768,
           "commentCount": 664,
+          "durationSeconds": 1451
+        },
+        {
+          "date": "2026-11-04",
+          "title": "아프니까 청춘인가.. | 가을 Vlog",
+          "publishedAt": "2026-10-17T09:00:24Z",
+          "viewCount": 371765,
+          "likeCount": 2767,
+          "commentCount": 665,
           "durationSeconds": 1451
         }
       ],
@@ -8789,8 +8841,8 @@
       "publishedAt": "2026-11-01T09:00:36Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 0.9853132552519055,
-      "commentRate": 0.012393877424552271,
+      "likeRate": 1.0364842454394694,
+      "commentRate": 0.017768301350390904,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -8808,6 +8860,15 @@
           "viewCount": 16137,
           "likeCount": 159,
           "commentCount": 2,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-11-04",
+          "title": "언니랑 살자 ㅋ",
+          "publishedAt": "2026-11-01T09:00:36Z",
+          "viewCount": 16884,
+          "likeCount": 175,
+          "commentCount": 3,
           "durationSeconds": 33
         }
       ],
