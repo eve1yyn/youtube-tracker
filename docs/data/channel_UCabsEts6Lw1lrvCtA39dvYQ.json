@@ -687,6 +687,13 @@
       "subscriberCount": 89100,
       "totalViewCount": 14169663,
       "videoCount": 202
+    },
+    {
+      "date": "2026-11-08",
+      "title": "소수콩",
+      "subscriberCount": 89100,
+      "totalViewCount": 14174731,
+      "videoCount": 202
     }
   ],
   "videos": [
@@ -1542,8 +1549,8 @@
       "publishedAt": "2026-10-17T17:55:48Z",
       "durationSeconds": 87,
       "isShort": true,
-      "likeRate": 1.6638584667228304,
-      "commentRate": 0.16849199663016007,
+      "likeRate": 1.6586185177409194,
+      "commentRate": 0.1679613688851564,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -1730,6 +1737,15 @@
           "title": "빵순이의 덕목. 빵집까지 영원히 걸어가기",
           "publishedAt": "2026-10-17T17:55:48Z",
           "viewCount": 4748,
+          "likeCount": 79,
+          "commentCount": 8,
+          "durationSeconds": 87
+        },
+        {
+          "date": "2026-11-08",
+          "title": "빵순이의 덕목. 빵집까지 영원히 걸어가기",
+          "publishedAt": "2026-10-17T17:55:48Z",
+          "viewCount": 4763,
           "likeCount": 79,
           "commentCount": 8,
           "durationSeconds": 87
@@ -7440,8 +7456,8 @@
       "publishedAt": "2026-11-04T20:57:50Z",
       "durationSeconds": 60,
       "isShort": true,
-      "likeRate": 1.6059957173447537,
-      "commentRate": 0.07137758743754462,
+      "likeRate": 1.6062884483937117,
+      "commentRate": 0.0683526999316473,
       "dailyStats": [
         {
           "date": "2026-11-05",
@@ -7469,6 +7485,15 @@
           "likeCount": 45,
           "commentCount": 2,
           "durationSeconds": 60
+        },
+        {
+          "date": "2026-11-08",
+          "title": "어찌저찌 살아가는 중..",
+          "publishedAt": "2026-11-04T20:57:50Z",
+          "viewCount": 2926,
+          "likeCount": 47,
+          "commentCount": 2,
+          "durationSeconds": 60
         }
       ],
       "thumbnailFeatures": null
@@ -7479,8 +7504,8 @@
       "publishedAt": "2026-10-12T10:00:34Z",
       "durationSeconds": 871,
       "isShort": false,
-      "likeRate": 0.925187430212155,
-      "commentRate": 0.4147391928537246,
+      "likeRate": 0.9243027888446215,
+      "commentRate": 0.4143426294820717,
       "dailyStats": [
         {
           "date": "2026-10-13",
@@ -7712,6 +7737,15 @@
           "title": "[#31 대딩로그] 채식하는 빵순이가 대왕 사워도우를 대하는 자세..냠냠/교환학생 브이로그",
           "publishedAt": "2026-10-12T10:00:34Z",
           "viewCount": 6269,
+          "likeCount": 58,
+          "commentCount": 26,
+          "durationSeconds": 871
+        },
+        {
+          "date": "2026-11-08",
+          "title": "[#31 대딩로그] 채식하는 빵순이가 대왕 사워도우를 대하는 자세..냠냠/교환학생 브이로그",
+          "publishedAt": "2026-10-12T10:00:34Z",
+          "viewCount": 6275,
           "likeCount": 58,
           "commentCount": 26,
           "durationSeconds": 871
@@ -8853,8 +8887,8 @@
       "publishedAt": "2026-10-29T21:28:14Z",
       "durationSeconds": 48,
       "isShort": true,
-      "likeRate": 1.7882895875396594,
-      "commentRate": 0.1442169022209403,
+      "likeRate": 1.7836593785960875,
+      "commentRate": 0.14384349827387802,
       "dailyStats": [
         {
           "date": "2026-10-30",
@@ -8933,6 +8967,15 @@
           "title": "네덜란드인과 첫 데이트..?",
           "publishedAt": "2026-10-29T21:28:14Z",
           "viewCount": 3467,
+          "likeCount": 62,
+          "commentCount": 5,
+          "durationSeconds": 48
+        },
+        {
+          "date": "2026-11-08",
+          "title": "네덜란드인과 첫 데이트..?",
+          "publishedAt": "2026-10-29T21:28:14Z",
+          "viewCount": 3476,
           "likeCount": 62,
           "commentCount": 5,
           "durationSeconds": 48
@@ -9228,8 +9271,8 @@
       "publishedAt": "2026-10-25T20:45:30Z",
       "durationSeconds": 49,
       "isShort": true,
-      "likeRate": 1.7043693833281686,
-      "commentRate": 0.061977068484660676,
+      "likeRate": 1.7033137194177765,
+      "commentRate": 0.06193868070610096,
       "dailyStats": [
         {
           "date": "2026-10-26",
@@ -9347,6 +9390,15 @@
           "likeCount": 55,
           "commentCount": 2,
           "durationSeconds": 49
+        },
+        {
+          "date": "2026-11-08",
+          "title": "외롭다가 괜찮다가 외롭다가 괜찮다가",
+          "publishedAt": "2026-10-25T20:45:30Z",
+          "viewCount": 3229,
+          "likeCount": 55,
+          "commentCount": 2,
+          "durationSeconds": 49
         }
       ],
       "thumbnailFeatures": null
@@ -9357,8 +9409,8 @@
       "publishedAt": "2026-10-23T19:51:19Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 1.889763779527559,
-      "commentRate": 0.09448818897637795,
+      "likeRate": 1.8879798615481436,
+      "commentRate": 0.09439899307740718,
       "dailyStats": [
         {
           "date": "2026-10-24",
@@ -9491,6 +9543,15 @@
           "title": "개백수지만 베이킹은 하고 싶어!! 그럼해!!!!!!!",
           "publishedAt": "2026-10-23T19:51:19Z",
           "viewCount": 3175,
+          "likeCount": 60,
+          "commentCount": 3,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-11-08",
+          "title": "개백수지만 베이킹은 하고 싶어!! 그럼해!!!!!!!",
+          "publishedAt": "2026-10-23T19:51:19Z",
+          "viewCount": 3178,
           "likeCount": 60,
           "commentCount": 3,
           "durationSeconds": 56
@@ -11196,8 +11257,8 @@
       "publishedAt": "2026-10-21T20:43:14Z",
       "durationSeconds": 45,
       "isShort": true,
-      "likeRate": 2.012987012987013,
-      "commentRate": 0.09740259740259741,
+      "likeRate": 2.011680726800779,
+      "commentRate": 0.0973393900064893,
       "dailyStats": [
         {
           "date": "2026-10-22",
@@ -11348,6 +11409,15 @@
           "title": "폐급교환학생이지만 타코는먹을테야,",
           "publishedAt": "2026-10-21T20:43:14Z",
           "viewCount": 3080,
+          "likeCount": 62,
+          "commentCount": 3,
+          "durationSeconds": 45
+        },
+        {
+          "date": "2026-11-08",
+          "title": "폐급교환학생이지만 타코는먹을테야,",
+          "publishedAt": "2026-10-21T20:43:14Z",
+          "viewCount": 3082,
           "likeCount": 62,
           "commentCount": 3,
           "durationSeconds": 45
@@ -13053,8 +13123,8 @@
       "publishedAt": "2026-10-28T21:11:18Z",
       "durationSeconds": 44,
       "isShort": true,
-      "likeRate": 2.1517883105553937,
-      "commentRate": 0.11631288165164291,
+      "likeRate": 2.175805047867711,
+      "commentRate": 0.11604293588627793,
       "dailyStats": [
         {
           "date": "2026-10-29",
@@ -13143,6 +13213,15 @@
           "publishedAt": "2026-10-28T21:11:18Z",
           "viewCount": 3439,
           "likeCount": 74,
+          "commentCount": 4,
+          "durationSeconds": 44
+        },
+        {
+          "date": "2026-11-08",
+          "title": "성균관대 교환학생의 하루",
+          "publishedAt": "2026-10-28T21:11:18Z",
+          "viewCount": 3447,
+          "likeCount": 75,
           "commentCount": 4,
           "durationSeconds": 44
         }
@@ -13740,8 +13819,8 @@
       "publishedAt": "2026-10-20T20:42:13Z",
       "durationSeconds": 41,
       "isShort": true,
-      "likeRate": 1.6271835367312755,
-      "commentRate": 0.0957166786312515,
+      "likeRate": 1.6186622232801713,
+      "commentRate": 0.09521542489883361,
       "dailyStats": [
         {
           "date": "2026-10-21",
@@ -13904,6 +13983,15 @@
           "likeCount": 68,
           "commentCount": 4,
           "durationSeconds": 41
+        },
+        {
+          "date": "2026-11-08",
+          "title": "다크초코버터바게트가 먹고싶엇으나,나는한국인이엇어",
+          "publishedAt": "2026-10-20T20:42:13Z",
+          "viewCount": 4201,
+          "likeCount": 68,
+          "commentCount": 4,
+          "durationSeconds": 41
         }
       ],
       "thumbnailFeatures": null
@@ -13914,8 +14002,8 @@
       "publishedAt": "2026-11-05T21:33:11Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.6816581931951506,
-      "commentRate": 0.11732499022291748,
+      "likeRate": 1.7366136034732274,
+      "commentRate": 0.10853835021707671,
       "dailyStats": [
         {
           "date": "2026-11-06",
@@ -13932,6 +14020,15 @@
           "publishedAt": "2026-11-05T21:33:11Z",
           "viewCount": 2557,
           "likeCount": 43,
+          "commentCount": 3,
+          "durationSeconds": 54
+        },
+        {
+          "date": "2026-11-08",
+          "title": "덴마크에서 엽떡 먹는 권력.",
+          "publishedAt": "2026-11-05T21:33:11Z",
+          "viewCount": 2764,
+          "likeCount": 48,
           "commentCount": 3,
           "durationSeconds": 54
         }
@@ -14226,8 +14323,8 @@
       "publishedAt": "2026-10-19T19:49:07Z",
       "durationSeconds": 43,
       "isShort": true,
-      "likeRate": 1.6647398843930634,
-      "commentRate": 0.046242774566473986,
+      "likeRate": 1.6544117647058825,
+      "commentRate": 0.04595588235294117,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -14396,6 +14493,15 @@
           "title": "20대에만 할 수 있는 미친짓..",
           "publishedAt": "2026-10-19T19:49:07Z",
           "viewCount": 4325,
+          "likeCount": 72,
+          "commentCount": 2,
+          "durationSeconds": 43
+        },
+        {
+          "date": "2026-11-08",
+          "title": "20대에만 할 수 있는 미친짓..",
+          "publishedAt": "2026-10-19T19:49:07Z",
+          "viewCount": 4352,
           "likeCount": 72,
           "commentCount": 2,
           "durationSeconds": 43
@@ -15255,8 +15361,8 @@
       "publishedAt": "2026-10-24T21:36:30Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.7754569190600522,
-      "commentRate": 0.2349869451697128,
+      "likeRate": 1.7745302713987474,
+      "commentRate": 0.23486430062630478,
       "dailyStats": [
         {
           "date": "2026-10-25",
@@ -15380,6 +15486,15 @@
           "title": "쿠키 브라우니 겉절이만 잇으면 하루종일 떠들수잇네,",
           "publishedAt": "2026-10-24T21:36:30Z",
           "viewCount": 3830,
+          "likeCount": 68,
+          "commentCount": 9,
+          "durationSeconds": 54
+        },
+        {
+          "date": "2026-11-08",
+          "title": "쿠키 브라우니 겉절이만 잇으면 하루종일 떠들수잇네,",
+          "publishedAt": "2026-10-24T21:36:30Z",
+          "viewCount": 3832,
           "likeCount": 68,
           "commentCount": 9,
           "durationSeconds": 54
@@ -16227,8 +16342,8 @@
       "publishedAt": "2026-10-26T11:00:21Z",
       "durationSeconds": 1078,
       "isShort": false,
-      "likeRate": 0.8634881192731791,
-      "commentRate": 0.17083398043174408,
+      "likeRate": 0.8665458009402944,
+      "commentRate": 0.16900715975785885,
       "dailyStats": [
         {
           "date": "2026-10-27",
@@ -16337,6 +16452,15 @@
           "likeCount": 278,
           "commentCount": 55,
           "durationSeconds": 1078
+        },
+        {
+          "date": "2026-11-08",
+          "title": "[#대딩로그 32] 수능 D-24, 내가 성균관대를 어케 왔더라… / (나름)수능 영어 1등급 받을 수 있었던 꿀팁",
+          "publishedAt": "2026-10-26T11:00:21Z",
+          "viewCount": 32543,
+          "likeCount": 282,
+          "commentCount": 55,
+          "durationSeconds": 1078
         }
       ],
       "thumbnailFeatures": null
@@ -16443,8 +16567,8 @@
       "publishedAt": "2026-11-02T10:07:28Z",
       "durationSeconds": 1150,
       "isShort": false,
-      "likeRate": 0.29798102651423014,
-      "commentRate": 0.10338117246412065,
+      "likeRate": 0.30856727976766696,
+      "commentRate": 0.10285575992255566,
       "dailyStats": [
         {
           "date": "2026-11-03",
@@ -16488,6 +16612,15 @@
           "publishedAt": "2026-11-02T10:07:28Z",
           "viewCount": 16444,
           "likeCount": 49,
+          "commentCount": 17,
+          "durationSeconds": 1150
+        },
+        {
+          "date": "2026-11-08",
+          "title": "3년 전 수능 치고 성균관대 왔다가. 각자 유럽 교환학생 가서. 유럽에서 만나기 [#33 대딩로그]",
+          "publishedAt": "2026-11-02T10:07:28Z",
+          "viewCount": 16528,
+          "likeCount": 51,
           "commentCount": 17,
           "durationSeconds": 1150
         }
@@ -19614,8 +19747,8 @@
       "publishedAt": "2026-11-01T22:26:27Z",
       "durationSeconds": 44,
       "isShort": true,
-      "likeRate": 1.9058619693907017,
-      "commentRate": 0.17326017903551832,
+      "likeRate": 1.917572982255295,
+      "commentRate": 0.17172295363480253,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -19668,6 +19801,15 @@
           "publishedAt": "2026-11-01T22:26:27Z",
           "viewCount": 3463,
           "likeCount": 66,
+          "commentCount": 6,
+          "durationSeconds": 44
+        },
+        {
+          "date": "2026-11-08",
+          "title": "나 여기서 살아도 되니?💋",
+          "publishedAt": "2026-11-01T22:26:27Z",
+          "viewCount": 3494,
+          "likeCount": 67,
           "commentCount": 6,
           "durationSeconds": 44
         }
@@ -19962,8 +20104,8 @@
       "publishedAt": "2026-10-18T20:40:17Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 1.699909338168631,
-      "commentRate": 0.11332728921124206,
+      "likeRate": 1.6952983725135624,
+      "commentRate": 0.11301989150090416,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -20141,6 +20283,15 @@
           "title": "하루만에 나라 옮겨 수업 듣기 가능할까요",
           "publishedAt": "2026-10-18T20:40:17Z",
           "viewCount": 4412,
+          "likeCount": 75,
+          "commentCount": 5,
+          "durationSeconds": 82
+        },
+        {
+          "date": "2026-11-08",
+          "title": "하루만에 나라 옮겨 수업 듣기 가능할까요",
+          "publishedAt": "2026-10-18T20:40:17Z",
+          "viewCount": 4424,
           "likeCount": 75,
           "commentCount": 5,
           "durationSeconds": 82
@@ -21012,8 +21163,8 @@
       "publishedAt": "2026-10-17T12:41:19Z",
       "durationSeconds": 71,
       "isShort": true,
-      "likeRate": 2.564102564102564,
-      "commentRate": 0.4273504273504274,
+      "likeRate": 2.5625381330079318,
+      "commentRate": 0.4270896888346553,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -21203,6 +21354,15 @@
           "likeCount": 42,
           "commentCount": 7,
           "durationSeconds": 71
+        },
+        {
+          "date": "2026-11-08",
+          "title": "오로지 먹기 위해 독일감",
+          "publishedAt": "2026-10-17T12:41:19Z",
+          "viewCount": 1639,
+          "likeCount": 42,
+          "commentCount": 7,
+          "durationSeconds": 71
         }
       ],
       "thumbnailFeatures": null
@@ -21213,8 +21373,8 @@
       "publishedAt": "2026-10-31T21:39:52Z",
       "durationSeconds": 41,
       "isShort": true,
-      "likeRate": 1.9230769230769231,
-      "commentRate": 0.1955671447196871,
+      "likeRate": 1.9081500646830531,
+      "commentRate": 0.19404915912031048,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -21275,6 +21435,15 @@
           "title": "하루종일 빵만 먹기 가능?",
           "publishedAt": "2026-10-31T21:39:52Z",
           "viewCount": 3068,
+          "likeCount": 59,
+          "commentCount": 6,
+          "durationSeconds": 41
+        },
+        {
+          "date": "2026-11-08",
+          "title": "하루종일 빵만 먹기 가능?",
+          "publishedAt": "2026-10-31T21:39:52Z",
+          "viewCount": 3092,
           "likeCount": 59,
           "commentCount": 6,
           "durationSeconds": 41
@@ -22134,8 +22303,8 @@
       "publishedAt": "2026-10-22T20:28:52Z",
       "durationSeconds": 59,
       "isShort": true,
-      "likeRate": 1.7290632987520673,
-      "commentRate": 0.15035333032626672,
+      "likeRate": 1.7277644230769231,
+      "commentRate": 0.15024038461538464,
       "dailyStats": [
         {
           "date": "2026-10-23",
@@ -22280,6 +22449,15 @@
           "likeCount": 115,
           "commentCount": 10,
           "durationSeconds": 59
+        },
+        {
+          "date": "2026-11-08",
+          "title": "아증말공부드럽게하기싫네!!!!",
+          "publishedAt": "2026-10-22T20:28:52Z",
+          "viewCount": 6656,
+          "likeCount": 115,
+          "commentCount": 10,
+          "durationSeconds": 59
         }
       ],
       "thumbnailFeatures": null
@@ -22290,8 +22468,8 @@
       "publishedAt": "2026-11-03T20:50:49Z",
       "durationSeconds": 47,
       "isShort": true,
-      "likeRate": 1.756007393715342,
-      "commentRate": 0.11552680221811461,
+      "likeRate": 1.838879159369527,
+      "commentRate": 0.10945709281961472,
       "dailyStats": [
         {
           "date": "2026-11-04",
@@ -22328,6 +22506,15 @@
           "likeCount": 76,
           "commentCount": 5,
           "durationSeconds": 47
+        },
+        {
+          "date": "2026-11-08",
+          "title": "성균관대에서 덴마크 공대 간 교환학생",
+          "publishedAt": "2026-11-03T20:50:49Z",
+          "viewCount": 4568,
+          "likeCount": 84,
+          "commentCount": 5,
+          "durationSeconds": 47
         }
       ],
       "thumbnailFeatures": null
@@ -22338,8 +22525,8 @@
       "publishedAt": "2026-10-26T21:19:06Z",
       "durationSeconds": 43,
       "isShort": true,
-      "likeRate": 1.9946808510638299,
-      "commentRate": 0.03324468085106383,
+      "likeRate": 1.9913707268503154,
+      "commentRate": 0.033189512114171926,
       "dailyStats": [
         {
           "date": "2026-10-27",
@@ -22445,6 +22632,15 @@
           "title": "세끼모두 빵.빵순이의 덕목",
           "publishedAt": "2026-10-26T21:19:06Z",
           "viewCount": 3008,
+          "likeCount": 60,
+          "commentCount": 1,
+          "durationSeconds": 43
+        },
+        {
+          "date": "2026-11-08",
+          "title": "세끼모두 빵.빵순이의 덕목",
+          "publishedAt": "2026-10-26T21:19:06Z",
+          "viewCount": 3013,
           "likeCount": 60,
           "commentCount": 1,
           "durationSeconds": 43
@@ -23304,8 +23500,8 @@
       "publishedAt": "2026-10-27T19:57:16Z",
       "durationSeconds": 31,
       "isShort": true,
-      "likeRate": 2.4483133841131663,
-      "commentRate": 0.1088139281828074,
+      "likeRate": 2.444323737099402,
+      "commentRate": 0.10863661053775121,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -23402,6 +23598,15 @@
           "title": "덴마크에서 떡볶이?너무가능입니다,,",
           "publishedAt": "2026-10-27T19:57:16Z",
           "viewCount": 1838,
+          "likeCount": 45,
+          "commentCount": 2,
+          "durationSeconds": 31
+        },
+        {
+          "date": "2026-11-08",
+          "title": "덴마크에서 떡볶이?너무가능입니다,,",
+          "publishedAt": "2026-10-27T19:57:16Z",
+          "viewCount": 1841,
           "likeCount": 45,
           "commentCount": 2,
           "durationSeconds": 31
@@ -23697,8 +23902,8 @@
       "publishedAt": "2026-11-02T20:42:24Z",
       "durationSeconds": 32,
       "isShort": true,
-      "likeRate": 1.7592592592592593,
-      "commentRate": 0.1851851851851852,
+      "likeRate": 1.7747858017135865,
+      "commentRate": 0.18359853121175032,
       "dailyStats": [
         {
           "date": "2026-11-03",
@@ -23742,6 +23947,15 @@
           "publishedAt": "2026-11-02T20:42:24Z",
           "viewCount": 3240,
           "likeCount": 57,
+          "commentCount": 6,
+          "durationSeconds": 32
+        },
+        {
+          "date": "2026-11-08",
+          "title": "이런 날도 잇는 거지……",
+          "publishedAt": "2026-11-02T20:42:24Z",
+          "viewCount": 3268,
+          "likeCount": 58,
           "commentCount": 6,
           "durationSeconds": 32
         }

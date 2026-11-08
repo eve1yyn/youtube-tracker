@@ -687,6 +687,13 @@
       "subscriberCount": 8840,
       "totalViewCount": 1635213,
       "videoCount": 49
+    },
+    {
+      "date": "2026-11-08",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8840,
+      "totalViewCount": 1635304,
+      "videoCount": 49
     }
   ],
   "videos": [
@@ -1260,8 +1267,8 @@
       "publishedAt": "2026-10-09T15:40:55Z",
       "durationSeconds": 25,
       "isShort": true,
-      "likeRate": 2.3004059539918806,
-      "commentRate": 0.8119079837618403,
+      "likeRate": 2.4193548387096775,
+      "commentRate": 0.8064516129032258,
       "dailyStats": [
         {
           "date": "2026-10-10",
@@ -1521,6 +1528,15 @@
           "publishedAt": "2026-10-09T15:40:55Z",
           "viewCount": 739,
           "likeCount": 17,
+          "commentCount": 6,
+          "durationSeconds": 25
+        },
+        {
+          "date": "2026-11-08",
+          "title": "스티로폼 가루 지옥 탈출법 #생활꿀팁",
+          "publishedAt": "2026-10-09T15:40:55Z",
+          "viewCount": 744,
+          "likeCount": 18,
           "commentCount": 6,
           "durationSeconds": 25
         }
@@ -2097,8 +2113,8 @@
       "publishedAt": "2026-11-06T14:01:38Z",
       "durationSeconds": 35,
       "isShort": true,
-      "likeRate": 4.651162790697675,
-      "commentRate": 2.3255813953488373,
+      "likeRate": 4.301075268817205,
+      "commentRate": 1.0752688172043012,
       "dailyStats": [
         {
           "date": "2026-11-07",
@@ -2106,6 +2122,15 @@
           "publishedAt": "2026-11-06T14:01:38Z",
           "viewCount": 43,
           "likeCount": 2,
+          "commentCount": 1,
+          "durationSeconds": 35
+        },
+        {
+          "date": "2026-11-08",
+          "title": "겨울 잠옷 이것보고 구매하세요! #잠옷추천",
+          "publishedAt": "2026-11-06T14:01:38Z",
+          "viewCount": 93,
+          "likeCount": 4,
           "commentCount": 1,
           "durationSeconds": 35
         }
