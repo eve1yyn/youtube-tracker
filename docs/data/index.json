@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-11-08T05:15:02.754Z",
+  "generatedAt": "2026-11-09T05:27:24.308Z",
   "channels": [
     {
       "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
       "title": "아임지현 Jihyun",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "아임지현 Jihyun",
         "subscriberCount": 114000,
-        "totalViewCount": 17546137,
+        "totalViewCount": 17589851,
         "videoCount": 66
       },
       "delta7d": 0,
-      "delta30d": 1000,
-      "growthRate30d": 0.8849557522123894,
-      "viewDelta7d": -77127,
-      "viewDelta30d": -5522232,
+      "delta30d": 0,
+      "growthRate30d": 0,
+      "viewDelta7d": -90382,
+      "viewDelta30d": -5155922,
       "videosLast30d": 6,
       "uploadsPerWeek": 1.4000000000000001,
-      "avgViewsPerVideo": 186894.77777777778,
-      "reachRate": 163.94278752436648,
+      "avgViewsPerVideo": 187000.53333333333,
+      "reachRate": 164.03555555555556,
       "reachRateMedian": 110.41929824561403,
-      "engagementRate": 0.9104677467744224,
+      "engagementRate": 0.9097780656076531,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -715,6 +715,13 @@
           "subscriberCount": 114000,
           "totalViewCount": 17546137,
           "videoCount": 66
+        },
+        {
+          "date": "2026-11-09",
+          "title": "아임지현 Jihyun",
+          "subscriberCount": 114000,
+          "totalViewCount": 17589851,
+          "videoCount": 66
         }
       ]
     },
@@ -722,23 +729,23 @@
       "channelId": "UC31beQxRocqnWrVeQecWYJA",
       "title": "상큼한 뿌미맘_MinimalTV",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "상큼한 뿌미맘_MinimalTV",
         "subscriberCount": 60000,
-        "totalViewCount": 29128446,
+        "totalViewCount": 29131341,
         "videoCount": 788
       },
-      "delta7d": -100,
+      "delta7d": 0,
       "delta30d": -100,
       "growthRate30d": -0.16638935108153077,
-      "viewDelta7d": 33919,
-      "viewDelta30d": 270946,
-      "videosLast30d": 18,
-      "uploadsPerWeek": 4.2,
-      "avgViewsPerVideo": 8513.14,
-      "reachRate": 14.188566666666667,
-      "reachRateMedian": 9.9925,
-      "engagementRate": 1.7639311347295656,
+      "viewDelta7d": 27132,
+      "viewDelta30d": 270214,
+      "videosLast30d": 17,
+      "uploadsPerWeek": 3.966666666666667,
+      "avgViewsPerVideo": 8522.64,
+      "reachRate": 14.2044,
+      "reachRateMedian": 10.009166666666665,
+      "engagementRate": 1.7673372640649128,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -1432,6 +1439,13 @@
           "subscriberCount": 60000,
           "totalViewCount": 29128446,
           "videoCount": 788
+        },
+        {
+          "date": "2026-11-09",
+          "title": "상큼한 뿌미맘_MinimalTV",
+          "subscriberCount": 60000,
+          "totalViewCount": 29131341,
+          "videoCount": 788
         }
       ]
     },
@@ -1439,23 +1453,23 @@
       "channelId": "UC6hIfm4cG58W0DLvvrrd9sQ",
       "title": "설아의날들 (Seola's Moments)",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "설아의날들 (Seola's Moments)",
-        "subscriberCount": 44400,
-        "totalViewCount": 1647621,
+        "subscriberCount": 44500,
+        "totalViewCount": 1651022,
         "videoCount": 38
       },
-      "delta7d": 200,
-      "delta30d": 1300,
-      "growthRate30d": 3.0162412993039442,
-      "viewDelta7d": 23766,
-      "viewDelta30d": 219730,
+      "delta7d": 300,
+      "delta30d": 1400,
+      "growthRate30d": 3.248259860788863,
+      "viewDelta7d": 20619,
+      "viewDelta30d": 222254,
       "videosLast30d": 2,
       "uploadsPerWeek": 0.4666666666666667,
-      "avgViewsPerVideo": 39928.666666666664,
-      "reachRate": 89.92942942942942,
-      "reachRateMedian": 32.40990990990991,
-      "engagementRate": 4.328677908346497,
+      "avgViewsPerVideo": 40114,
+      "reachRate": 90.1438202247191,
+      "reachRateMedian": 32.620224719101124,
+      "engagementRate": 4.319413927917461,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -2149,6 +2163,13 @@
           "subscriberCount": 44400,
           "totalViewCount": 1647621,
           "videoCount": 38
+        },
+        {
+          "date": "2026-11-09",
+          "title": "설아의날들 (Seola's Moments)",
+          "subscriberCount": 44500,
+          "totalViewCount": 1651022,
+          "videoCount": 38
         }
       ]
     },
@@ -2156,17 +2177,17 @@
       "channelId": "UCC4lLxNewZaghdrxcvZe1SA",
       "title": "자취반장",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "자취반장",
         "subscriberCount": 6920,
-        "totalViewCount": 1047950,
+        "totalViewCount": 1048161,
         "videoCount": 10
       },
-      "delta7d": 10,
-      "delta30d": 80,
-      "growthRate30d": 1.1695906432748537,
-      "viewDelta7d": 817,
-      "viewDelta30d": 5623,
+      "delta7d": 0,
+      "delta30d": 70,
+      "growthRate30d": 1.0218978102189782,
+      "viewDelta7d": 766,
+      "viewDelta30d": 5699,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
       "avgViewsPerVideo": 1892,
@@ -2866,6 +2887,13 @@
           "subscriberCount": 6920,
           "totalViewCount": 1047950,
           "videoCount": 10
+        },
+        {
+          "date": "2026-11-09",
+          "title": "자취반장",
+          "subscriberCount": 6920,
+          "totalViewCount": 1048161,
+          "videoCount": 10
         }
       ]
     },
@@ -2873,23 +2901,23 @@
       "channelId": "UCDBst6RZE7Z6m4ROlSjr8Iw",
       "title": "에린남 Erinnam",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "에린남 Erinnam",
         "subscriberCount": 46900,
-        "totalViewCount": 6735246,
+        "totalViewCount": 6737089,
         "videoCount": 135
       },
       "delta7d": 0,
       "delta30d": 0,
       "growthRate30d": 0,
-      "viewDelta7d": 13275,
-      "viewDelta30d": 60272,
+      "viewDelta7d": 10915,
+      "viewDelta30d": 61331,
       "videosLast30d": 1,
       "uploadsPerWeek": 0.23333333333333334,
-      "avgViewsPerVideo": 7916,
-      "reachRate": 16.878464818763327,
+      "avgViewsPerVideo": 7943.333333333333,
+      "reachRate": 16.936744847192607,
       "reachRateMedian": 16.752665245202557,
-      "engagementRate": 3.0797892143868446,
+      "engagementRate": 3.0888824956567476,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -3583,6 +3611,13 @@
           "subscriberCount": 46900,
           "totalViewCount": 6735246,
           "videoCount": 135
+        },
+        {
+          "date": "2026-11-09",
+          "title": "에린남 Erinnam",
+          "subscriberCount": 46900,
+          "totalViewCount": 6737089,
+          "videoCount": 135
         }
       ]
     },
@@ -3590,17 +3625,17 @@
       "channelId": "UCHCzM5Q07KU-QsaqWjKUxew",
       "title": "자취하는 해달이",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "자취하는 해달이",
         "subscriberCount": 10400,
-        "totalViewCount": 1583652,
+        "totalViewCount": 1583948,
         "videoCount": 66
       },
       "delta7d": 0,
       "delta30d": 0,
       "growthRate30d": 0,
-      "viewDelta7d": 1907,
-      "viewDelta30d": 8319,
+      "viewDelta7d": 2050,
+      "viewDelta30d": 8444,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
       "avgViewsPerVideo": 611,
@@ -4300,6 +4335,13 @@
           "subscriberCount": 10400,
           "totalViewCount": 1583652,
           "videoCount": 66
+        },
+        {
+          "date": "2026-11-09",
+          "title": "자취하는 해달이",
+          "subscriberCount": 10400,
+          "totalViewCount": 1583948,
+          "videoCount": 66
         }
       ]
     },
@@ -4307,23 +4349,23 @@
       "channelId": "UCJcsfpxHdQ5PKIF5mOSRbUQ",
       "title": "데일리지현[Daily JiHyun]",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "데일리지현[Daily JiHyun]",
         "subscriberCount": 68200,
-        "totalViewCount": 54559029,
+        "totalViewCount": 54569635,
         "videoCount": 405
       },
       "delta7d": 0,
       "delta30d": 800,
       "growthRate30d": 1.1869436201780417,
-      "viewDelta7d": 149228,
-      "viewDelta30d": 1097116,
+      "viewDelta7d": 115565,
+      "viewDelta30d": 1099561,
       "videosLast30d": 10,
       "uploadsPerWeek": 2.3333333333333335,
-      "avgViewsPerVideo": 58975.765957446805,
-      "reachRate": 86.47473014288389,
+      "avgViewsPerVideo": 59038.78723404255,
+      "reachRate": 86.56713670680726,
       "reachRateMedian": 46.901759530791786,
-      "engagementRate": 2.3521581793961035,
+      "engagementRate": 2.348037388946114,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -5017,6 +5059,13 @@
           "subscriberCount": 68200,
           "totalViewCount": 54559029,
           "videoCount": 405
+        },
+        {
+          "date": "2026-11-09",
+          "title": "데일리지현[Daily JiHyun]",
+          "subscriberCount": 68200,
+          "totalViewCount": 54569635,
+          "videoCount": 405
         }
       ]
     },
@@ -5024,23 +5073,23 @@
       "channelId": "UCMxGrrcSv8mLjDSsMmKTQBw",
       "title": "소소한 나의 미니멀라이프",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "소소한 나의 미니멀라이프",
         "subscriberCount": 8100,
-        "totalViewCount": 2684839,
+        "totalViewCount": 2685085,
         "videoCount": 278
       },
       "delta7d": -10,
       "delta30d": -10,
       "growthRate30d": -0.12330456226880394,
-      "viewDelta7d": 1995,
-      "viewDelta30d": 36282,
+      "viewDelta7d": 1943,
+      "viewDelta30d": 36331,
       "videosLast30d": 3,
       "uploadsPerWeek": 0.7000000000000001,
-      "avgViewsPerVideo": 7229.307692307692,
-      "reachRate": 89.25071225071225,
-      "reachRateMedian": 90.48148148148148,
-      "engagementRate": 2.43219059217181,
+      "avgViewsPerVideo": 7230.7692307692305,
+      "reachRate": 89.26875593542259,
+      "reachRateMedian": 90.50617283950618,
+      "engagementRate": 2.432065516063135,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -5734,6 +5783,13 @@
           "subscriberCount": 8100,
           "totalViewCount": 2684839,
           "videoCount": 278
+        },
+        {
+          "date": "2026-11-09",
+          "title": "소소한 나의 미니멀라이프",
+          "subscriberCount": 8100,
+          "totalViewCount": 2685085,
+          "videoCount": 278
         }
       ]
     },
@@ -5741,23 +5797,23 @@
       "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
       "title": "planD플랜디",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "planD플랜디",
         "subscriberCount": 2370000,
-        "totalViewCount": 435267263,
+        "totalViewCount": 435526109,
         "videoCount": 328
       },
       "delta7d": 0,
       "delta30d": 0,
       "growthRate30d": 0,
-      "viewDelta7d": 1675579,
-      "viewDelta30d": 5576399,
+      "viewDelta7d": 1680951,
+      "viewDelta30d": 5779907,
       "videosLast30d": 4,
       "uploadsPerWeek": 0.9333333333333333,
-      "avgViewsPerVideo": 693166.7142857143,
-      "reachRate": 29.247540687160946,
-      "reachRateMedian": 32.331983122362864,
-      "engagementRate": 2.4076709737456645,
+      "avgViewsPerVideo": 695971.1333333333,
+      "reachRate": 29.365870604781996,
+      "reachRateMedian": 31.644725738396623,
+      "engagementRate": 2.3675423448400794,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -6451,6 +6507,13 @@
           "subscriberCount": 2370000,
           "totalViewCount": 435267263,
           "videoCount": 328
+        },
+        {
+          "date": "2026-11-09",
+          "title": "planD플랜디",
+          "subscriberCount": 2370000,
+          "totalViewCount": 435526109,
+          "videoCount": 328
         }
       ]
     },
@@ -6458,23 +6521,23 @@
       "channelId": "UCSn90DAxCF3yRs6mFK0-8TA",
       "title": "ondo온도",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "ondo온도",
         "subscriberCount": 1220000,
-        "totalViewCount": 150111504,
+        "totalViewCount": 150135715,
         "videoCount": 411
       },
       "delta7d": 0,
       "delta30d": 0,
       "growthRate30d": 0,
-      "viewDelta7d": 188963,
-      "viewDelta30d": 765931,
+      "viewDelta7d": 144178,
+      "viewDelta30d": 783788,
       "videosLast30d": 12,
       "uploadsPerWeek": 2.8000000000000003,
-      "avgViewsPerVideo": 62213,
-      "reachRate": 5.099426229508197,
-      "reachRateMedian": 3.9579098360655736,
-      "engagementRate": 2.1465054179914356,
+      "avgViewsPerVideo": 61208.294117647056,
+      "reachRate": 5.017073288331726,
+      "reachRateMedian": 3.217049180327869,
+      "engagementRate": 2.101842862219787,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -7168,6 +7231,13 @@
           "subscriberCount": 1220000,
           "totalViewCount": 150111504,
           "videoCount": 411
+        },
+        {
+          "date": "2026-11-09",
+          "title": "ondo온도",
+          "subscriberCount": 1220000,
+          "totalViewCount": 150135715,
+          "videoCount": 411
         }
       ]
     },
@@ -7175,23 +7245,23 @@
       "channelId": "UCTnH8Piru1x6uYBkVK0_JNQ",
       "title": "알밤로그",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "알밤로그",
-        "subscriberCount": 8450,
-        "totalViewCount": 6870674,
+        "subscriberCount": 8460,
+        "totalViewCount": 6880693,
         "videoCount": 205
       },
       "delta7d": 50,
-      "delta30d": 370,
-      "growthRate30d": 4.579207920792079,
-      "viewDelta7d": 77359,
-      "viewDelta30d": 357509,
+      "delta30d": 330,
+      "growthRate30d": 4.059040590405904,
+      "viewDelta7d": 67550,
+      "viewDelta30d": 360909,
       "videosLast30d": 18,
       "uploadsPerWeek": 4.2,
-      "avgViewsPerVideo": 5364.762711864407,
-      "reachRate": 63.48831611673854,
-      "reachRateMedian": 36.40236686390533,
-      "engagementRate": 1.7832640507807465,
+      "avgViewsPerVideo": 5309.483333333334,
+      "reachRate": 62.75985027580773,
+      "reachRateMedian": 36.14066193853428,
+      "engagementRate": 1.7735644071071062,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -7885,6 +7955,13 @@
           "subscriberCount": 8450,
           "totalViewCount": 6870674,
           "videoCount": 205
+        },
+        {
+          "date": "2026-11-09",
+          "title": "알밤로그",
+          "subscriberCount": 8460,
+          "totalViewCount": 6880693,
+          "videoCount": 205
         }
       ]
     },
@@ -7892,23 +7969,23 @@
       "channelId": "UCabsEts6Lw1lrvCtA39dvYQ",
       "title": "소수콩",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "소수콩",
         "subscriberCount": 89100,
-        "totalViewCount": 14174731,
+        "totalViewCount": 14179812,
         "videoCount": 202
       },
       "delta7d": 0,
       "delta30d": -100,
       "growthRate30d": -0.11210762331838565,
-      "viewDelta7d": 3077512,
-      "viewDelta30d": 3249274,
+      "viewDelta7d": 3070099,
+      "viewDelta30d": 3248723,
       "videosLast30d": 24,
       "uploadsPerWeek": 5.6000000000000005,
-      "avgViewsPerVideo": 8481.051546391753,
-      "reachRate": 9.518576370810047,
-      "reachRateMedian": 7.470258136924804,
-      "engagementRate": 1.9983357875862582,
+      "avgViewsPerVideo": 8433.938775510203,
+      "reachRate": 9.465700084747702,
+      "reachRateMedian": 7.473063973063973,
+      "engagementRate": 1.9952293864415245,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -8602,6 +8679,13 @@
           "subscriberCount": 89100,
           "totalViewCount": 14174731,
           "videoCount": 202
+        },
+        {
+          "date": "2026-11-09",
+          "title": "소수콩",
+          "subscriberCount": 89100,
+          "totalViewCount": 14179812,
+          "videoCount": 202
         }
       ]
     },
@@ -8609,19 +8693,19 @@
       "channelId": "UCf1XpmvM9dzX-S-y7azW9tg",
       "title": "김곰돌자취일기",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "김곰돌자취일기",
         "subscriberCount": 8840,
-        "totalViewCount": 1635304,
+        "totalViewCount": 1635366,
         "videoCount": 49
       },
-      "delta7d": 10,
-      "delta30d": 180,
-      "growthRate30d": 2.0785219399538106,
-      "viewDelta7d": 9547,
-      "viewDelta30d": 96517,
-      "videosLast30d": 2,
-      "uploadsPerWeek": 0.4666666666666667,
+      "delta7d": 0,
+      "delta30d": 170,
+      "growthRate30d": 1.9607843137254901,
+      "viewDelta7d": 4529,
+      "viewDelta30d": 94059,
+      "videosLast30d": 1,
+      "uploadsPerWeek": 0.23333333333333334,
       "avgViewsPerVideo": 14583.4,
       "reachRate": 164.97058823529412,
       "reachRateMedian": 11.583710407239819,
@@ -9319,6 +9403,13 @@
           "subscriberCount": 8840,
           "totalViewCount": 1635304,
           "videoCount": 49
+        },
+        {
+          "date": "2026-11-09",
+          "title": "김곰돌자취일기",
+          "subscriberCount": 8840,
+          "totalViewCount": 1635366,
+          "videoCount": 49
         }
       ]
     },
@@ -9326,23 +9417,23 @@
       "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
       "title": "에바EVA",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "에바EVA",
         "subscriberCount": 786000,
-        "totalViewCount": 232612100,
-        "videoCount": 766
+        "totalViewCount": 232901884,
+        "videoCount": 767
       },
       "delta7d": 2000,
       "delta30d": 3000,
       "growthRate30d": 0.38314176245210724,
-      "viewDelta7d": 1707426,
-      "viewDelta30d": 5482629,
-      "videosLast30d": 10,
-      "uploadsPerWeek": 2.3333333333333335,
-      "avgViewsPerVideo": 264113.0243902439,
-      "reachRate": 33.60216595295724,
-      "reachRateMedian": 28.958015267175576,
-      "engagementRate": 1.4834993965630494,
+      "viewDelta7d": 1850821,
+      "viewDelta30d": 5675050,
+      "videosLast30d": 11,
+      "uploadsPerWeek": 2.566666666666667,
+      "avgViewsPerVideo": 266700.56097560975,
+      "reachRate": 33.93136908086638,
+      "reachRateMedian": 28.967684478371503,
+      "engagementRate": 1.4797577940620799,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -10036,6 +10127,13 @@
           "subscriberCount": 786000,
           "totalViewCount": 232612100,
           "videoCount": 766
+        },
+        {
+          "date": "2026-11-09",
+          "title": "에바EVA",
+          "subscriberCount": 786000,
+          "totalViewCount": 232901884,
+          "videoCount": 767
         }
       ]
     },
@@ -10043,17 +10141,17 @@
       "channelId": "UCioqBNry60RpQs38YcNDGpQ",
       "title": "절약의 달인 곽지현 (舊 자취린이)",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "절약의 달인 곽지현 (舊 자취린이)",
         "subscriberCount": 62800,
-        "totalViewCount": 2556684,
+        "totalViewCount": 2559598,
         "videoCount": 93
       },
       "delta7d": 100,
       "delta30d": 200,
       "growthRate30d": 0.3194888178913738,
-      "viewDelta7d": 13700,
-      "viewDelta30d": 47492,
+      "viewDelta7d": 14099,
+      "viewDelta30d": 49372,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
       "avgViewsPerVideo": 18637,
@@ -10753,6 +10851,13 @@
           "subscriberCount": 62800,
           "totalViewCount": 2556684,
           "videoCount": 93
+        },
+        {
+          "date": "2026-11-09",
+          "title": "절약의 달인 곽지현 (舊 자취린이)",
+          "subscriberCount": 62800,
+          "totalViewCount": 2559598,
+          "videoCount": 93
         }
       ]
     },
@@ -10760,23 +10865,23 @@
       "channelId": "UCjQBsQBy9vFxG3t82pve85Q",
       "title": "준희 JUNEHEE",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "준희 JUNEHEE",
         "subscriberCount": 35500,
-        "totalViewCount": 3980421,
+        "totalViewCount": 3987856,
         "videoCount": 113
       },
-      "delta7d": 300,
+      "delta7d": 200,
       "delta30d": 1000,
       "growthRate30d": 2.898550724637681,
-      "viewDelta7d": 71547,
-      "viewDelta30d": 309130,
+      "viewDelta7d": 69853,
+      "viewDelta30d": 315064,
       "videosLast30d": 7,
       "uploadsPerWeek": 1.6333333333333333,
-      "avgViewsPerVideo": 14882.111111111111,
-      "reachRate": 41.921439749608766,
+      "avgViewsPerVideo": 14990.388888888889,
+      "reachRate": 42.2264475743349,
       "reachRateMedian": 16.771830985915493,
-      "engagementRate": 1.193170180126482,
+      "engagementRate": 1.1909903588747457,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -11470,6 +11575,13 @@
           "subscriberCount": 35500,
           "totalViewCount": 3980421,
           "videoCount": 113
+        },
+        {
+          "date": "2026-11-09",
+          "title": "준희 JUNEHEE",
+          "subscriberCount": 35500,
+          "totalViewCount": 3987856,
+          "videoCount": 113
         }
       ]
     },
@@ -11477,17 +11589,17 @@
       "channelId": "UCnD6dVL_ZQGmB651igqBJ2g",
       "title": "형은순 청담헤어 & 라이프",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "형은순 청담헤어 & 라이프",
         "subscriberCount": 25700,
-        "totalViewCount": 4023102,
+        "totalViewCount": 4024201,
         "videoCount": 123
       },
       "delta7d": 0,
       "delta30d": 0,
       "growthRate30d": 0,
-      "viewDelta7d": 4355,
-      "viewDelta30d": 14183,
+      "viewDelta7d": 4972,
+      "viewDelta30d": 15021,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
       "avgViewsPerVideo": 611,
@@ -12187,6 +12299,13 @@
           "subscriberCount": 25700,
           "totalViewCount": 4023102,
           "videoCount": 123
+        },
+        {
+          "date": "2026-11-09",
+          "title": "형은순 청담헤어 & 라이프",
+          "subscriberCount": 25700,
+          "totalViewCount": 4024201,
+          "videoCount": 123
         }
       ]
     },
@@ -12194,23 +12313,23 @@
       "channelId": "UCo4ia3fXOoy2PCk6Ul0gErQ",
       "title": "오리지널 레미 ORIGINAL REMY",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "오리지널 레미 ORIGINAL REMY",
         "subscriberCount": 16900,
-        "totalViewCount": 5194921,
+        "totalViewCount": 5201048,
         "videoCount": 224
       },
       "delta7d": 100,
       "delta30d": 200,
       "growthRate30d": 1.1976047904191618,
-      "viewDelta7d": 80603,
-      "viewDelta30d": 353367,
+      "viewDelta7d": 79583,
+      "viewDelta30d": 338982,
       "videosLast30d": 4,
       "uploadsPerWeek": 0.9333333333333333,
-      "avgViewsPerVideo": 28473.0625,
-      "reachRate": 168.4796597633136,
-      "reachRateMedian": 122.75443786982248,
-      "engagementRate": 2.331378799714506,
+      "avgViewsPerVideo": 29955.941176470587,
+      "reachRate": 177.2540898016011,
+      "reachRateMedian": 134.74556213017752,
+      "engagementRate": 2.2466579439887404,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -12904,6 +13023,13 @@
           "subscriberCount": 16900,
           "totalViewCount": 5194921,
           "videoCount": 224
+        },
+        {
+          "date": "2026-11-09",
+          "title": "오리지널 레미 ORIGINAL REMY",
+          "subscriberCount": 16900,
+          "totalViewCount": 5201048,
+          "videoCount": 224
         }
       ]
     },
@@ -12911,23 +13037,23 @@
       "channelId": "UCpOtHjfr_hcAhPTky6OWcHA",
       "title": "세빈 SEBIN",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "세빈 SEBIN",
         "subscriberCount": 1010000,
-        "totalViewCount": 16149621,
+        "totalViewCount": 16162133,
         "videoCount": 207
       },
       "delta7d": 0,
       "delta30d": 0,
       "growthRate30d": 0,
-      "viewDelta7d": -500487,
-      "viewDelta30d": 95476,
+      "viewDelta7d": -522604,
+      "viewDelta30d": 99905,
       "videosLast30d": 8,
       "uploadsPerWeek": 1.8666666666666667,
-      "avgViewsPerVideo": 57411.48275862069,
-      "reachRate": 5.6843052236258105,
+      "avgViewsPerVideo": 57536,
+      "reachRate": 5.696633663366336,
       "reachRateMedian": 3.4891089108910895,
-      "engagementRate": 3.314945798930511,
+      "engagementRate": 3.3099517606251077,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -13621,6 +13747,13 @@
           "subscriberCount": 1010000,
           "totalViewCount": 16149621,
           "videoCount": 207
+        },
+        {
+          "date": "2026-11-09",
+          "title": "세빈 SEBIN",
+          "subscriberCount": 1010000,
+          "totalViewCount": 16162133,
+          "videoCount": 207
         }
       ]
     },
@@ -13628,17 +13761,17 @@
       "channelId": "UCpXj65Icu4FzbgMTpe6yYYw",
       "title": "호주패밀리 Hojufamily",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "호주패밀리 Hojufamily",
         "subscriberCount": 5430,
-        "totalViewCount": 565150,
+        "totalViewCount": 565351,
         "videoCount": 23
       },
       "delta7d": 0,
       "delta30d": 0,
       "growthRate30d": 0,
-      "viewDelta7d": 1203,
-      "viewDelta30d": 6593,
+      "viewDelta7d": 1169,
+      "viewDelta30d": 6652,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
       "avgViewsPerVideo": null,
@@ -14338,6 +14471,13 @@
           "subscriberCount": 5430,
           "totalViewCount": 565150,
           "videoCount": 23
+        },
+        {
+          "date": "2026-11-09",
+          "title": "호주패밀리 Hojufamily",
+          "subscriberCount": 5430,
+          "totalViewCount": 565351,
+          "videoCount": 23
         }
       ]
     },
@@ -14345,23 +14485,23 @@
       "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
       "title": "Daily소현",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "Daily소현",
         "subscriberCount": 156000,
-        "totalViewCount": 265642446,
-        "videoCount": 1269
+        "totalViewCount": 266320098,
+        "videoCount": 1270
       },
       "delta7d": 0,
       "delta30d": 1000,
       "growthRate30d": 0.6451612903225806,
-      "viewDelta7d": 2772526,
-      "viewDelta30d": 12320880,
+      "viewDelta7d": 2947967,
+      "viewDelta30d": 12817810,
       "videosLast30d": 31,
       "uploadsPerWeek": 7.233333333333333,
-      "avgViewsPerVideo": 214028.17682926828,
-      "reachRate": 137.19754924953097,
-      "reachRateMedian": 131.20641025641027,
-      "engagementRate": 2.2051057850922544,
+      "avgViewsPerVideo": 214751.10303030303,
+      "reachRate": 137.6609634809635,
+      "reachRateMedian": 130.71346153846153,
+      "engagementRate": 2.2052219427890702,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -15055,6 +15195,13 @@
           "subscriberCount": 156000,
           "totalViewCount": 265642446,
           "videoCount": 1269
+        },
+        {
+          "date": "2026-11-09",
+          "title": "Daily소현",
+          "subscriberCount": 156000,
+          "totalViewCount": 266320098,
+          "videoCount": 1270
         }
       ]
     },
@@ -15062,23 +15209,23 @@
       "channelId": "UCvsp8e2LrbUAuE5oLHrBQ_Q",
       "title": "효뎡 Dyeong",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "효뎡 Dyeong",
         "subscriberCount": 728000,
-        "totalViewCount": 127207722,
+        "totalViewCount": 127216018,
         "videoCount": 356
       },
       "delta7d": 0,
       "delta30d": -1000,
       "growthRate30d": -0.1371742112482853,
-      "viewDelta7d": 71839,
-      "viewDelta30d": 511633,
+      "viewDelta7d": 63428,
+      "viewDelta30d": 505853,
       "videosLast30d": 7,
       "uploadsPerWeek": 1.6333333333333333,
-      "avgViewsPerVideo": 67904.34615384616,
-      "reachRate": 9.32752007607777,
-      "reachRateMedian": 3.8160714285714286,
-      "engagementRate": 1.851612627259077,
+      "avgViewsPerVideo": 68036.23076923077,
+      "reachRate": 9.345636094674555,
+      "reachRateMedian": 3.819230769230769,
+      "engagementRate": 1.8490769142462655,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -15772,6 +15919,13 @@
           "subscriberCount": 728000,
           "totalViewCount": 127207722,
           "videoCount": 356
+        },
+        {
+          "date": "2026-11-09",
+          "title": "효뎡 Dyeong",
+          "subscriberCount": 728000,
+          "totalViewCount": 127216018,
+          "videoCount": 356
         }
       ]
     },
@@ -15779,23 +15933,23 @@
       "channelId": "UCxOUr6CvZkcOZ8H2IRAYK-Q",
       "title": "némo 김네모",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "némo 김네모",
         "subscriberCount": 126000,
-        "totalViewCount": 8904449,
+        "totalViewCount": 8912983,
         "videoCount": 112
       },
       "delta7d": 0,
       "delta30d": 2000,
       "growthRate30d": 1.6129032258064515,
-      "viewDelta7d": 96867,
-      "viewDelta30d": 671210,
+      "viewDelta7d": 79652,
+      "viewDelta30d": 658427,
       "videosLast30d": 3,
       "uploadsPerWeek": 0.7000000000000001,
-      "avgViewsPerVideo": 53577.03571428572,
-      "reachRate": 42.52145691609977,
+      "avgViewsPerVideo": 53660,
+      "reachRate": 42.58730158730158,
       "reachRateMedian": 26.34166666666667,
-      "engagementRate": 1.765572665721809,
+      "engagementRate": 1.7649463175252695,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -16489,6 +16643,13 @@
           "subscriberCount": 126000,
           "totalViewCount": 8904449,
           "videoCount": 112
+        },
+        {
+          "date": "2026-11-09",
+          "title": "némo 김네모",
+          "subscriberCount": 126000,
+          "totalViewCount": 8912983,
+          "videoCount": 112
         }
       ]
     },
@@ -16496,23 +16657,23 @@
       "channelId": "UCyG7zAV_2JlPnxhwDxZN6sA",
       "title": "지현꿍",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "지현꿍",
         "subscriberCount": 2990000,
-        "totalViewCount": 359435772,
+        "totalViewCount": 359474890,
         "videoCount": 232
       },
       "delta7d": 0,
       "delta30d": 0,
       "growthRate30d": 0,
-      "viewDelta7d": 481101,
-      "viewDelta30d": 1529724,
+      "viewDelta7d": 377615,
+      "viewDelta30d": 1542242,
       "videosLast30d": 2,
       "uploadsPerWeek": 0.4666666666666667,
-      "avgViewsPerVideo": 212339.7857142857,
-      "reachRate": 7.101665074056378,
-      "reachRateMedian": 7.4622073578595325,
-      "engagementRate": 2.1440865402434497,
+      "avgViewsPerVideo": 213655.2857142857,
+      "reachRate": 7.1456617295747735,
+      "reachRateMedian": 7.627759197324415,
+      "engagementRate": 2.142876781669405,
       "dailyStats": [
         {
           "date": "2026-08-02",
@@ -17206,6 +17367,13 @@
           "subscriberCount": 2990000,
           "totalViewCount": 359435772,
           "videoCount": 232
+        },
+        {
+          "date": "2026-11-09",
+          "title": "지현꿍",
+          "subscriberCount": 2990000,
+          "totalViewCount": 359474890,
+          "videoCount": 232
         }
       ]
     },
@@ -17213,17 +17381,17 @@
       "channelId": "UCyU9SS7OSXHox_ZRGBIVcCg",
       "title": "고초희 Daily Chohees",
       "latest": {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "title": "고초희 Daily Chohees",
         "subscriberCount": 17500,
-        "totalViewCount": 2871863,
+        "totalViewCount": 2872690,
         "videoCount": 86
       },
       "delta7d": 0,
       "delta30d": -100,
       "growthRate30d": -0.5681818181818182,
-      "viewDelta7d": 5447,
-      "viewDelta30d": 28210,
+      "viewDelta7d": 5732,
+      "viewDelta30d": 28332,
       "videosLast30d": 0,
       "uploadsPerWeek": 0,
       "avgViewsPerVideo": 31452,
@@ -17923,6 +18091,13 @@
           "subscriberCount": 17500,
           "totalViewCount": 2871863,
           "videoCount": 86
+        },
+        {
+          "date": "2026-11-09",
+          "title": "고초희 Daily Chohees",
+          "subscriberCount": 17500,
+          "totalViewCount": 2872690,
+          "videoCount": 86
         }
       ]
     }
@@ -17933,7 +18108,7 @@
       "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
       "channelTitle": "Daily소현",
       "title": "어제보다 더 멋진 내가 되기 vlog॰｡ཻ˚♡(광고)•Daily소현 #16년생 #학생브이로그 #minivlog #fyp #블블못참지",
-      "viewDelta": 228546,
+      "viewDelta": 132014,
       "isShort": true
     },
     {
@@ -17941,15 +18116,15 @@
       "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
       "channelTitle": "에바EVA",
       "title": "비행 전 24시간 동안 하는 것들",
-      "viewDelta": 47873,
+      "viewDelta": 55144,
       "isShort": true
     },
     {
-      "videoId": "MndIWoWl1IU",
+      "videoId": "F2s3U89o_X4",
       "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
       "channelTitle": "Daily소현",
-      "title": "치과에 갔다 온 그묠 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
-      "viewDelta": 33733,
+      "title": "엄마랑 둘이 데이뚜한 토욜 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+      "viewDelta": 33537,
       "isShort": true
     },
     {
@@ -17961,14 +18136,6 @@
       "isShort": true
     },
     {
-      "videoId": "wgh7UGkywaA",
-      "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
-      "channelTitle": "에바EVA",
-      "title": "객관적 판단 부탁드립니다",
-      "viewDelta": 20543,
-      "isShort": true
-    },
-    {
       "videoId": "2xX4W-s-Rak",
       "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
       "channelTitle": "아임지현 Jihyun",
@@ -17977,35 +18144,43 @@
       "isShort": true
     },
     {
+      "videoId": "wgh7UGkywaA",
+      "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
+      "channelTitle": "에바EVA",
+      "title": "객관적 판단 부탁드립니다",
+      "viewDelta": 19112,
+      "isShort": true
+    },
+    {
+      "videoId": "MvqfQVoGEFU",
+      "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
+      "channelTitle": "에바EVA",
+      "title": "뉴욕 쇼핑템 언박싱 ㄱㄱ",
+      "viewDelta": 18210,
+      "isShort": true
+    },
+    {
       "videoId": "pr5EhwnFTrM",
       "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
       "channelTitle": "Daily소현",
       "title": "가는 곳마다 아는 사람 계속 마주치는 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
-      "viewDelta": 18815,
+      "viewDelta": 13113,
       "isShort": true
     },
     {
-      "videoId": "wTKF6c1VQBU",
-      "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
-      "channelTitle": "Daily소현",
-      "title": "학원 안 가면 체포하겠어🚨•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
-      "viewDelta": 12272,
+      "videoId": "7sxdbmPD208",
+      "channelId": "UCSn90DAxCF3yRs6mFK0-8TA",
+      "channelTitle": "ondo온도",
+      "title": "연희동 작은 카페를 운영하는 나의 일상#카페#브이로그#vlog #디저트카페브이로그",
+      "viewDelta": 12328,
       "isShort": true
     },
     {
-      "videoId": "VYwGpia5xbM",
-      "channelId": "UCqhdXqj-fa3W8yYwXGg6-zA",
-      "channelTitle": "Daily소현",
-      "title": "어제의 공부 vlog 레츠고˖ ˚⋆📓𖦹 ׂ 𓈒✏️•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
-      "viewDelta": 9773,
-      "isShort": true
-    },
-    {
-      "videoId": "BcywYu1dx08",
-      "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
-      "channelTitle": "아임지현 Jihyun",
-      "title": "연애프로에서 제대로 뜨는 방법..?😈 #short",
-      "viewDelta": 9342,
+      "videoId": "_cLD3b53BBI",
+      "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
+      "channelTitle": "에바EVA",
+      "title": "장원영 샤워 라쓰고",
+      "viewDelta": 11783,
       "isShort": true
     }
   ],
@@ -18015,7 +18190,7 @@
       "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
       "channelTitle": "planD플랜디",
       "title": "모란시장 5일장 투어, 시장표 인절미로 고디바 찹쌀떡🍓 디저트 3종 만들어 먹는 자취일상",
-      "viewDelta": 116109,
+      "viewDelta": 98587,
       "isShort": false
     },
     {
@@ -18023,7 +18198,15 @@
       "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
       "channelTitle": "planD플랜디",
       "title": "동대문 갔다가 드레스 만들기👗 자취방에서 마감하며 틈틈이 잘 챙겨먹는🍳 일상 브이로그",
-      "viewDelta": 44100,
+      "viewDelta": 51258,
+      "isShort": false
+    },
+    {
+      "videoId": "Jrk8SMXrEsQ",
+      "channelId": "UC0JEvlaTw-nX7iDLb_L_ymA",
+      "channelTitle": "아임지현 Jihyun",
+      "title": "오랜만에 배우로 돌아갑니다.. Vlog | 송이들 만날 준비 🌹[SUB]",
+      "viewDelta": 27571,
       "isShort": false
     },
     {
@@ -18031,7 +18214,7 @@
       "channelId": "UCyG7zAV_2JlPnxhwDxZN6sA",
       "channelTitle": "지현꿍",
       "title": "vlog | 프라이빗한 1인 사우나 🧖🏻‍♀️♨️ 즐기고 매콤한 등갈비찜 만들어먹는 집순이 일상 | 비오는 날 곰돌이 식빵 굽고 요즘 푹빠진 사우나 꿀템",
-      "viewDelta": 9670,
+      "viewDelta": 9900,
       "isShort": false
     },
     {
@@ -18039,7 +18222,15 @@
       "channelId": "UCyG7zAV_2JlPnxhwDxZN6sA",
       "channelTitle": "지현꿍",
       "title": "vlog | 새 맥북 언박싱하고 비오는 날 순두부 쫄면  🚘 나 홀로 차에서 도시락 까먹는 내향형 집순이 인간의 자취 일상  🛋️",
-      "viewDelta": 8574,
+      "viewDelta": 8517,
+      "isShort": false
+    },
+    {
+      "videoId": "VKwKIcWsXVk",
+      "channelId": "UCo4ia3fXOoy2PCk6Ul0gErQ",
+      "channelTitle": "오리지널 레미 ORIGINAL REMY",
+      "title": "할인에 홀려서 장본 다음날..뭘 또 잔뜩산겨..수다떨며 싹 정리 : 쓱데이, 창고형할인매장. 짝퉁스크럽대디 일본비누?",
+      "viewDelta": 8398,
       "isShort": false
     },
     {
@@ -18047,7 +18238,7 @@
       "channelId": "UCf3b81YFYvGMtx3KBrnpsLg",
       "channelTitle": "에바EVA",
       "title": "밥찷이기",
-      "viewDelta": 8028,
+      "viewDelta": 8240,
       "isShort": false
     },
     {
@@ -18073,29 +18264,13 @@
       "title": "못나가는 집순이의 격리생활🏠 KFC치킨 만들기🍗  5가지 초간단 홈카페 메뉴",
       "viewDelta": 5632,
       "isShort": false
-    },
-    {
-      "videoId": "2ksz4dGPTf0",
-      "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
-      "channelTitle": "planD플랜디",
-      "title": "떡지순례 갔다가 우주떡집 떡🐰만드는 자취일상. 비오는날 놀러간 이태원 빈티지마켓 쇼핑",
-      "viewDelta": 5123,
-      "isShort": false
-    },
-    {
-      "videoId": "8iZAt8t5E1A",
-      "channelId": "UCPaApoLkmPqxCeZF7gjoc3w",
-      "channelTitle": "planD플랜디",
-      "title": "공공마켓에서 구독자님 만나고🤲 입원 전 성북동 힐링투어. 매운🌶️치즈퐁듀 등갈비찜",
-      "viewDelta": 4940,
-      "isShort": false
     }
   ],
   "thumbnailInsightsByTier": {
     "all": {
       "sampleSize": 184,
       "stableSampleSize": 184,
-      "generatedAt": "2026-11-08T05:15:02.752Z",
+      "generatedAt": "2026-11-09T05:27:24.307Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -18494,7 +18669,7 @@
     "nano": {
       "sampleSize": 22,
       "stableSampleSize": 22,
-      "generatedAt": "2026-11-08T05:15:02.753Z",
+      "generatedAt": "2026-11-09T05:27:24.307Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -18819,7 +18994,7 @@
     "micro": {
       "sampleSize": 49,
       "stableSampleSize": 49,
-      "generatedAt": "2026-11-08T05:15:02.753Z",
+      "generatedAt": "2026-11-09T05:27:24.307Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -19201,7 +19376,7 @@
     "macro": {
       "sampleSize": 95,
       "stableSampleSize": 95,
-      "generatedAt": "2026-11-08T05:15:02.754Z",
+      "generatedAt": "2026-11-09T05:27:24.308Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -19576,7 +19751,7 @@
     "mega": {
       "sampleSize": 18,
       "stableSampleSize": 18,
-      "generatedAt": "2026-11-08T05:15:02.754Z",
+      "generatedAt": "2026-11-09T05:27:24.308Z",
       "dimensions": {
         "faceCount": {
           "label": "얼굴 수",
@@ -19915,15 +20090,15 @@
       "subscriberCount": 114000,
       "analyzedVideoCount": 14,
       "clickbaitRate": 78.57142857142857,
-      "growthRate30d": 0.8849557522123894
+      "growthRate30d": 0
     },
     {
       "channelId": "UC6hIfm4cG58W0DLvvrrd9sQ",
       "title": "설아의날들 (Seola's Moments)",
-      "subscriberCount": 44400,
+      "subscriberCount": 44500,
       "analyzedVideoCount": 1,
       "clickbaitRate": 100,
-      "growthRate30d": 3.0162412993039442
+      "growthRate30d": 3.248259860788863
     },
     {
       "channelId": "UCDBst6RZE7Z6m4ROlSjr8Iw",
@@ -19976,10 +20151,10 @@
     {
       "channelId": "UCTnH8Piru1x6uYBkVK0_JNQ",
       "title": "알밤로그",
-      "subscriberCount": 8450,
+      "subscriberCount": 8460,
       "analyzedVideoCount": 18,
       "clickbaitRate": 33.33333333333333,
-      "growthRate30d": 4.579207920792079
+      "growthRate30d": 4.059040590405904
     },
     {
       "channelId": "UCabsEts6Lw1lrvCtA39dvYQ",

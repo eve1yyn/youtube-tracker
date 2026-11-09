@@ -694,6 +694,13 @@
       "subscriberCount": 126000,
       "totalViewCount": 8904449,
       "videoCount": 112
+    },
+    {
+      "date": "2026-11-09",
+      "title": "némo 김네모",
+      "subscriberCount": 126000,
+      "totalViewCount": 8912983,
+      "videoCount": 112
     }
   ],
   "videos": [
@@ -2149,8 +2156,8 @@
       "publishedAt": "2026-10-11T13:27:04Z",
       "durationSeconds": 1054,
       "isShort": false,
-      "likeRate": 1.5720732837203741,
-      "commentRate": 0.11656056666367794,
+      "likeRate": 1.5721019032277312,
+      "commentRate": 0.11634150706998389,
       "dailyStats": [
         {
           "date": "2026-10-12",
@@ -2401,6 +2408,15 @@
           "publishedAt": "2026-10-11T13:27:04Z",
           "viewCount": 66918,
           "likeCount": 1052,
+          "commentCount": 78,
+          "durationSeconds": 1054
+        },
+        {
+          "date": "2026-11-09",
+          "title": "수상할 정도로 잘 챙겨 먹는 집순이 자취 집밥 🍅 토마토 마라탕, 라면 말려먹기, 우삼겹 비빔면, 묵은지찜, 떡볶이, 솥밥, 파전, 스초생 등",
+          "publishedAt": "2026-10-11T13:27:04Z",
+          "viewCount": 67044,
+          "likeCount": 1054,
           "commentCount": 78,
           "durationSeconds": 1054
         }
@@ -5959,8 +5975,8 @@
       "publishedAt": "2026-10-30T13:29:39Z",
       "durationSeconds": 1240,
       "isShort": false,
-      "likeRate": 1.6519111966210223,
-      "commentRate": 0.06613657202122383,
+      "likeRate": 1.6377860641953643,
+      "commentRate": 0.0643415953791036,
       "dailyStats": [
         {
           "date": "2026-10-31",
@@ -6040,6 +6056,15 @@
           "publishedAt": "2026-10-30T13:29:39Z",
           "viewCount": 66529,
           "likeCount": 1099,
+          "commentCount": 44,
+          "durationSeconds": 1240
+        },
+        {
+          "date": "2026-11-09",
+          "title": "지치고 병든 나그네여 집밥 먹어라 | 감바스 짜파게티, 멕시카나 고추화삭, 토마토 카레, 스카치에그, 임실치즈피자 등",
+          "publishedAt": "2026-10-30T13:29:39Z",
+          "viewCount": 68385,
+          "likeCount": 1120,
           "commentCount": 44,
           "durationSeconds": 1240
         }
@@ -6334,8 +6359,8 @@
       "publishedAt": "2026-10-18T13:52:05Z",
       "durationSeconds": 1238,
       "isShort": false,
-      "likeRate": 1.4680395555102457,
-      "commentRate": 0.07589402023085375,
+      "likeRate": 1.4669043804021575,
+      "commentRate": 0.07560199498995736,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -6523,6 +6548,15 @@
           "publishedAt": "2026-10-18T13:52:05Z",
           "viewCount": 88281,
           "likeCount": 1296,
+          "commentCount": 67,
+          "durationSeconds": 1238
+        },
+        {
+          "date": "2026-11-09",
+          "title": "어떻게 자취생 집밥이 장원영 | 게딱지 불닭, 치즈밥, 장원영 고구마 맛탕, 김치우동, 꽃게탕 등",
+          "publishedAt": "2026-10-18T13:52:05Z",
+          "viewCount": 88622,
+          "likeCount": 1300,
           "commentCount": 67,
           "durationSeconds": 1238
         }
