@@ -701,6 +701,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 359474890,
       "videoCount": 232
+    },
+    {
+      "date": "2026-11-10",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 359512362,
+      "videoCount": 232
     }
   ],
   "videos": [
@@ -2234,8 +2241,8 @@
       "publishedAt": "2026-11-01T12:02:22Z",
       "durationSeconds": 1750,
       "isShort": false,
-      "likeRate": 1.268628267981099,
-      "commentRate": 0.0678197501750902,
+      "likeRate": 1.2662072387698968,
+      "commentRate": 0.06544922551749804,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -2306,6 +2313,15 @@
           "publishedAt": "2026-11-01T12:02:22Z",
           "viewCount": 225598,
           "likeCount": 2862,
+          "commentCount": 153,
+          "durationSeconds": 1750
+        },
+        {
+          "date": "2026-11-10",
+          "title": "vlog | 프라이빗한 1인 사우나 🧖🏻‍♀️♨️ 즐기고 매콤한 등갈비찜 만들어먹는 집순이 일상 | 비오는 날 곰돌이 식빵 굽고 요즘 푹빠진 사우나 꿀템",
+          "publishedAt": "2026-11-01T12:02:22Z",
+          "viewCount": 233769,
+          "likeCount": 2960,
           "commentCount": 153,
           "durationSeconds": 1750
         }
@@ -2882,8 +2898,8 @@
       "publishedAt": "2026-10-27T14:40:26Z",
       "durationSeconds": 1428,
       "isShort": false,
-      "likeRate": 1.0883825603278414,
-      "commentRate": 0.05994703041083371,
+      "likeRate": 1.0853944755371006,
+      "commentRate": 0.058975747728230124,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -3000,6 +3016,15 @@
           "viewCount": 407026,
           "likeCount": 4430,
           "commentCount": 244,
+          "durationSeconds": 1428
+        },
+        {
+          "date": "2026-11-10",
+          "title": "vlog | 새 맥북 언박싱하고 비오는 날 순두부 쫄면  🚘 나 홀로 차에서 도시락 까먹는 내향형 집순이 인간의 자취 일상  🛋️",
+          "publishedAt": "2026-10-27T14:40:26Z",
+          "viewCount": 415425,
+          "likeCount": 4509,
+          "commentCount": 245,
           "durationSeconds": 1428
         }
       ],

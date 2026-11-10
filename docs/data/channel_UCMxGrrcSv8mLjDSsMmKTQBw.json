@@ -701,6 +701,13 @@
       "subscriberCount": 8100,
       "totalViewCount": 2685085,
       "videoCount": 278
+    },
+    {
+      "date": "2026-11-10",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8100,
+      "totalViewCount": 2685502,
+      "videoCount": 278
     }
   ],
   "videos": [
@@ -2975,8 +2982,8 @@
       "publishedAt": "2026-10-16T11:46:32Z",
       "durationSeconds": 577,
       "isShort": false,
-      "likeRate": 0.6683944891556404,
-      "commentRate": 0.08184422316191516,
+      "likeRate": 0.6682121914632484,
+      "commentRate": 0.0818219009954998,
       "dailyStats": [
         {
           "date": "2026-10-17",
@@ -3193,6 +3200,15 @@
           "likeCount": 49,
           "commentCount": 6,
           "durationSeconds": 577
+        },
+        {
+          "date": "2026-11-10",
+          "title": "[나래이션]이런 집에도 버릴게 있다구요??",
+          "publishedAt": "2026-10-16T11:46:32Z",
+          "viewCount": 7333,
+          "likeCount": 49,
+          "commentCount": 6,
+          "durationSeconds": 577
         }
       ],
       "thumbnailFeatures": null
@@ -3380,8 +3396,8 @@
       "publishedAt": "2026-10-23T07:00:21Z",
       "durationSeconds": 644,
       "isShort": false,
-      "likeRate": 0.766682442025556,
-      "commentRate": 0.01893043066729768,
+      "likeRate": 0.7660298846226593,
+      "commentRate": 0.018914318138831095,
       "dailyStats": [
         {
           "date": "2026-10-24",
@@ -3532,6 +3548,15 @@
           "title": "[나래이션]집을 청소했을 뿐인데 마음이 단단해졌어요.",
           "publishedAt": "2026-10-23T07:00:21Z",
           "viewCount": 10565,
+          "likeCount": 81,
+          "commentCount": 2,
+          "durationSeconds": 644
+        },
+        {
+          "date": "2026-11-10",
+          "title": "[나래이션]집을 청소했을 뿐인데 마음이 단단해졌어요.",
+          "publishedAt": "2026-10-23T07:00:21Z",
+          "viewCount": 10574,
           "likeCount": 81,
           "commentCount": 2,
           "durationSeconds": 644

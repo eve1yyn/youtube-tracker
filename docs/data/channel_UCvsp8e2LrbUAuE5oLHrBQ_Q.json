@@ -701,6 +701,13 @@
       "subscriberCount": 728000,
       "totalViewCount": 127216018,
       "videoCount": 356
+    },
+    {
+      "date": "2026-11-10",
+      "title": "효뎡 Dyeong",
+      "subscriberCount": 728000,
+      "totalViewCount": 127222487,
+      "videoCount": 356
     }
   ],
   "videos": [
@@ -992,8 +999,8 @@
       "publishedAt": "2026-10-31T12:50:24Z",
       "durationSeconds": 46,
       "isShort": true,
-      "likeRate": 2.012133468149646,
-      "commentRate": 0.030333670374115267,
+      "likeRate": 2.016250376166115,
+      "commentRate": 0.03009328919650918,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -1073,6 +1080,15 @@
           "publishedAt": "2026-10-31T12:50:24Z",
           "viewCount": 9890,
           "likeCount": 199,
+          "commentCount": 3,
+          "durationSeconds": 46
+        },
+        {
+          "date": "2026-11-10",
+          "title": "가을맞이 보늬밤 만들기🌰 오래 두고 먹는 달달한 밤조림 | Candied Chestnuts",
+          "publishedAt": "2026-10-31T12:50:24Z",
+          "viewCount": 9969,
+          "likeCount": 201,
           "commentCount": 3,
           "durationSeconds": 46
         }
@@ -1640,8 +1656,8 @@
       "publishedAt": "2026-10-13T13:19:31Z",
       "durationSeconds": 43,
       "isShort": true,
-      "likeRate": 1.554821216742925,
-      "commentRate": 0.02541942043721403,
+      "likeRate": 1.551993910432613,
+      "commentRate": 0.025373197445764793,
       "dailyStats": [
         {
           "date": "2026-10-14",
@@ -1882,6 +1898,15 @@
           "title": "초간단 치즈 김치볶음밥 김밥🧀 냉동 김볶으로 만드는 도시락 | Cheesy Kimchi Fried Rice Kimbap",
           "publishedAt": "2026-10-13T13:19:31Z",
           "viewCount": 23604,
+          "likeCount": 367,
+          "commentCount": 6,
+          "durationSeconds": 43
+        },
+        {
+          "date": "2026-11-10",
+          "title": "초간단 치즈 김치볶음밥 김밥🧀 냉동 김볶으로 만드는 도시락 | Cheesy Kimchi Fried Rice Kimbap",
+          "publishedAt": "2026-10-13T13:19:31Z",
+          "viewCount": 23647,
           "likeCount": 367,
           "commentCount": 6,
           "durationSeconds": 43
@@ -3005,8 +3030,8 @@
       "publishedAt": "2026-10-28T11:42:31Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 1.9885215423167086,
-      "commentRate": 0.03233368361490583,
+      "likeRate": 1.9808358160882518,
+      "commentRate": 0.03220871245671954,
       "dailyStats": [
         {
           "date": "2026-10-29",
@@ -3112,6 +3137,15 @@
           "title": "퇴근 후 등갈비김치찜🍖 푹 익은 김치에 부드러운 등갈비까지 | Braised Pork Ribs with Kimchi",
           "publishedAt": "2026-10-28T11:42:31Z",
           "viewCount": 12371,
+          "likeCount": 246,
+          "commentCount": 4,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-11-10",
+          "title": "퇴근 후 등갈비김치찜🍖 푹 익은 김치에 부드러운 등갈비까지 | Braised Pork Ribs with Kimchi",
+          "publishedAt": "2026-10-28T11:42:31Z",
+          "viewCount": 12419,
           "likeCount": 246,
           "commentCount": 4,
           "durationSeconds": 56
@@ -4757,8 +4791,8 @@
       "publishedAt": "2026-10-11T13:40:01Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 2.06324287956941,
-      "commentRate": 0.03737758839799656,
+      "likeRate": 2.0609318996415773,
+      "commentRate": 0.03733572281959379,
       "dailyStats": [
         {
           "date": "2026-10-12",
@@ -5017,6 +5051,15 @@
           "title": "퇴근 후 원팬 바지락 파스타🍝 한 팬으로 후다닥 만드는 저녁 | One-Pan Clam Pasta",
           "publishedAt": "2026-10-11T13:40:01Z",
           "viewCount": 13377,
+          "likeCount": 276,
+          "commentCount": 5,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-11-10",
+          "title": "퇴근 후 원팬 바지락 파스타🍝 한 팬으로 후다닥 만드는 저녁 | One-Pan Clam Pasta",
+          "publishedAt": "2026-10-11T13:40:01Z",
+          "viewCount": 13392,
           "likeCount": 276,
           "commentCount": 5,
           "durationSeconds": 33
@@ -5312,8 +5355,8 @@
       "publishedAt": "2026-10-24T11:37:12Z",
       "durationSeconds": 947,
       "isShort": false,
-      "likeRate": 1.1935951718168847,
-      "commentRate": 0.0380125850897097,
+      "likeRate": 1.187897462034774,
+      "commentRate": 0.03764667724634827,
       "dailyStats": [
         {
           "date": "2026-10-25",
@@ -5456,6 +5499,15 @@
           "publishedAt": "2026-10-24T11:37:12Z",
           "viewCount": 170996,
           "likeCount": 2041,
+          "commentCount": 65,
+          "durationSeconds": 947
+        },
+        {
+          "date": "2026-11-10",
+          "title": "보늬밤 만들어 밤파이 굽고🌰 하루 종일 가을 디저트 만드는 집순이의 베이킹 일상🍂 | 커피파운드케이크·쑥인절미티그레·황치즈휘낭시에·백앙금 4kg 소진·초코바나나푸딩",
+          "publishedAt": "2026-10-24T11:37:12Z",
+          "viewCount": 172658,
+          "likeCount": 2051,
           "commentCount": 65,
           "durationSeconds": 947
         }
@@ -6608,8 +6660,8 @@
       "publishedAt": "2026-10-24T11:54:02Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 1.36303739087465,
-      "commentRate": 0.01235381321034426,
+      "likeRate": 1.3631697803325804,
+      "commentRate": 0.012317799219872715,
       "dailyStats": [
         {
           "date": "2026-10-25",
@@ -6752,6 +6804,15 @@
           "publishedAt": "2026-10-24T11:54:02Z",
           "viewCount": 24284,
           "likeCount": 331,
+          "commentCount": 3,
+          "durationSeconds": 50
+        },
+        {
+          "date": "2026-11-10",
+          "title": "불닭볶음탕면으로 초간단 닭볶음탕🔥 라면 하나로 후다닥 저녁 만들기 | Spicy Chicken Stew Ramen",
+          "publishedAt": "2026-10-24T11:54:02Z",
+          "viewCount": 24355,
+          "likeCount": 332,
           "commentCount": 3,
           "durationSeconds": 50
         }
