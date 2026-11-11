@@ -708,6 +708,13 @@
       "subscriberCount": 35500,
       "totalViewCount": 3996405,
       "videoCount": 113
+    },
+    {
+      "date": "2026-11-11",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 35600,
+      "totalViewCount": 4001166,
+      "videoCount": 114
     }
   ],
   "videos": [
@@ -1458,8 +1465,8 @@
       "publishedAt": "2026-10-22T14:40:04Z",
       "durationSeconds": 83,
       "isShort": true,
-      "likeRate": 1.701093560145808,
-      "commentRate": 0.04556500607533414,
+      "likeRate": 1.7124831004957188,
+      "commentRate": 0.04506534474988734,
       "dailyStats": [
         {
           "date": "2026-10-23",
@@ -1631,6 +1638,15 @@
           "likeCount": 112,
           "commentCount": 3,
           "durationSeconds": 83
+        },
+        {
+          "date": "2026-11-11",
+          "title": "-50kg 모델의 최애 관리템 !!!!!",
+          "publishedAt": "2026-10-22T14:40:04Z",
+          "viewCount": 6657,
+          "likeCount": 114,
+          "commentCount": 3,
+          "durationSeconds": 83
         }
       ],
       "thumbnailFeatures": null
@@ -1641,8 +1657,8 @@
       "publishedAt": "2026-10-21T12:27:24Z",
       "durationSeconds": 86,
       "isShort": true,
-      "likeRate": 1.674641148325359,
-      "commentRate": 0.07974481658692185,
+      "likeRate": 1.6600790513833994,
+      "commentRate": 0.07905138339920949,
       "dailyStats": [
         {
           "date": "2026-10-22",
@@ -1820,6 +1836,15 @@
           "title": "성형 수술 뿐만 아니라 평소에 마셔주면 다들 살 빠졌냐고 물어봄😎🍯,,,",
           "publishedAt": "2026-10-21T12:27:24Z",
           "viewCount": 3762,
+          "likeCount": 63,
+          "commentCount": 3,
+          "durationSeconds": 86
+        },
+        {
+          "date": "2026-11-11",
+          "title": "성형 수술 뿐만 아니라 평소에 마셔주면 다들 살 빠졌냐고 물어봄😎🍯,,,",
+          "publishedAt": "2026-10-21T12:27:24Z",
+          "viewCount": 3795,
           "likeCount": 63,
           "commentCount": 3,
           "durationSeconds": 86
@@ -3243,8 +3268,8 @@
       "publishedAt": "2026-11-06T13:08:31Z",
       "durationSeconds": 105,
       "isShort": true,
-      "likeRate": 1.5197568389057752,
-      "commentRate": 0.07151796888968354,
+      "likeRate": 1.4915019077349982,
+      "commentRate": 0.0693721817551162,
       "dailyStats": [
         {
           "date": "2026-11-07",
@@ -3281,6 +3306,15 @@
           "likeCount": 85,
           "commentCount": 4,
           "durationSeconds": 105
+        },
+        {
+          "date": "2026-11-11",
+          "title": "첫 수술은 망하는게 국룰이야 (?)",
+          "publishedAt": "2026-11-06T13:08:31Z",
+          "viewCount": 5766,
+          "likeCount": 86,
+          "commentCount": 4,
+          "durationSeconds": 105
         }
       ],
       "thumbnailFeatures": null
@@ -3291,8 +3325,8 @@
       "publishedAt": "2026-11-06T12:02:38Z",
       "durationSeconds": 1075,
       "isShort": false,
-      "likeRate": 1.01628664495114,
-      "commentRate": 0.34310532030401736,
+      "likeRate": 1.006711409395973,
+      "commentRate": 0.3272847791863452,
       "dailyStats": [
         {
           "date": "2026-11-07",
@@ -3327,6 +3361,15 @@
           "publishedAt": "2026-11-06T12:02:38Z",
           "viewCount": 23025,
           "likeCount": 234,
+          "commentCount": 79,
+          "durationSeconds": 1075
+        },
+        {
+          "date": "2026-11-11",
+          "title": "외모정병에 대한 내 생각... 그리고 (재)쌍수 Q&A",
+          "publishedAt": "2026-11-06T12:02:38Z",
+          "viewCount": 24138,
+          "likeCount": 243,
           "commentCount": 79,
           "durationSeconds": 1075
         }
@@ -3621,8 +3664,8 @@
       "publishedAt": "2026-10-20T12:00:52Z",
       "durationSeconds": 2013,
       "isShort": false,
-      "likeRate": 0.6012279496639781,
-      "commentRate": 0.1487136271253656,
+      "likeRate": 0.6009412162542974,
+      "commentRate": 0.14935467508313136,
       "dailyStats": [
         {
           "date": "2026-10-21",
@@ -3811,6 +3854,15 @@
           "viewCount": 141211,
           "likeCount": 849,
           "commentCount": 210,
+          "durationSeconds": 2013
+        },
+        {
+          "date": "2026-11-11",
+          "title": "여러분이 제일 기다려준 절개 쌍수 VLOG , 후기 (그리고 인스타 정지...🙄)",
+          "publishedAt": "2026-10-20T12:00:52Z",
+          "viewCount": 141944,
+          "likeCount": 853,
+          "commentCount": 212,
           "durationSeconds": 2013
         }
       ],
@@ -4381,13 +4433,34 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "nKUK2tZ-E_8",
+      "title": "인스타 @169.9dayssss 으로 와주세요...!🥺",
+      "publishedAt": "2026-11-11T03:35:49Z",
+      "durationSeconds": 96,
+      "isShort": true,
+      "likeRate": 5.64516129032258,
+      "commentRate": 1.0368663594470047,
+      "dailyStats": [
+        {
+          "date": "2026-11-11",
+          "title": "인스타 @169.9dayssss 으로 와주세요...!🥺",
+          "publishedAt": "2026-11-11T03:35:49Z",
+          "viewCount": 868,
+          "likeCount": 49,
+          "commentCount": 9,
+          "durationSeconds": 96
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "ob6o71wadFM",
       "title": "오늘은 작정하고 ‘악마의 여자’ 커버 메이크업 도전! 🖤😈✨",
       "publishedAt": "2026-10-12T12:14:09Z",
       "durationSeconds": 48,
       "isShort": true,
-      "likeRate": 1.5725518227305217,
-      "commentRate": 0.014295925661186561,
+      "likeRate": 1.5574118646467505,
+      "commentRate": 0.014158289678606824,
       "dailyStats": [
         {
           "date": "2026-10-13",
@@ -4646,6 +4719,15 @@
           "title": "오늘은 작정하고 ‘악마의 여자’ 커버 메이크업 도전! 🖤😈✨",
           "publishedAt": "2026-10-12T12:14:09Z",
           "viewCount": 6995,
+          "likeCount": 110,
+          "commentCount": 1,
+          "durationSeconds": 48
+        },
+        {
+          "date": "2026-11-11",
+          "title": "오늘은 작정하고 ‘악마의 여자’ 커버 메이크업 도전! 🖤😈✨",
+          "publishedAt": "2026-10-12T12:14:09Z",
+          "viewCount": 7063,
           "likeCount": 110,
           "commentCount": 1,
           "durationSeconds": 48
