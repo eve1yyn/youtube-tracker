@@ -715,6 +715,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 359547692,
       "videoCount": 232
+    },
+    {
+      "date": "2026-11-12",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 359580163,
+      "videoCount": 232
     }
   ],
   "videos": [
@@ -2248,8 +2255,8 @@
       "publishedAt": "2026-11-01T12:02:22Z",
       "durationSeconds": 1750,
       "isShort": false,
-      "likeRate": 1.2607750107074396,
-      "commentRate": 0.06362090258517092,
+      "likeRate": 1.2484894046132269,
+      "commentRate": 0.06385928324017152,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -2339,6 +2346,15 @@
           "viewCount": 240487,
           "likeCount": 3032,
           "commentCount": 153,
+          "durationSeconds": 1750
+        },
+        {
+          "date": "2026-11-12",
+          "title": "vlog | 프라이빗한 1인 사우나 🧖🏻‍♀️♨️ 즐기고 매콤한 등갈비찜 만들어먹는 집순이 일상 | 비오는 날 곰돌이 식빵 굽고 요즘 푹빠진 사우나 꿀템",
+          "publishedAt": "2026-11-01T12:02:22Z",
+          "viewCount": 247419,
+          "likeCount": 3089,
+          "commentCount": 158,
           "durationSeconds": 1750
         }
       ],
@@ -2914,8 +2930,8 @@
       "publishedAt": "2026-10-27T14:40:26Z",
       "durationSeconds": 1428,
       "isShort": false,
-      "likeRate": 1.079332603990547,
-      "commentRate": 0.058015903461536636,
+      "likeRate": 1.0700795843951985,
+      "commentRate": 0.05746334375927064,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -3050,6 +3066,15 @@
           "viewCount": 422298,
           "likeCount": 4558,
           "commentCount": 245,
+          "durationSeconds": 1428
+        },
+        {
+          "date": "2026-11-12",
+          "title": "vlog | 새 맥북 언박싱하고 비오는 날 순두부 쫄면  🚘 나 홀로 차에서 도시락 까먹는 내향형 집순이 인간의 자취 일상  🛋️",
+          "publishedAt": "2026-10-27T14:40:26Z",
+          "viewCount": 428099,
+          "likeCount": 4581,
+          "commentCount": 246,
           "durationSeconds": 1428
         }
       ],
