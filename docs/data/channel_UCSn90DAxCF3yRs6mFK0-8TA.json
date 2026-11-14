@@ -729,17 +729,45 @@
       "subscriberCount": 1220000,
       "totalViewCount": 150255375,
       "videoCount": 416
+    },
+    {
+      "date": "2026-11-14",
+      "title": "ondo온도",
+      "subscriberCount": 1220000,
+      "totalViewCount": 150283305,
+      "videoCount": 417
     }
   ],
   "videos": [
+    {
+      "videoId": "-hnvvsrDphI",
+      "title": "#vlog",
+      "publishedAt": "2026-11-13T08:01:57Z",
+      "durationSeconds": 86,
+      "isShort": true,
+      "likeRate": 2.95932238837185,
+      "commentRate": 0.07319878699152986,
+      "dailyStats": [
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-11-13T08:01:57Z",
+          "viewCount": 9563,
+          "likeCount": 283,
+          "commentCount": 7,
+          "durationSeconds": 86
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "7sxdbmPD208",
       "title": "연희동 작은 카페를 운영하는 나의 일상#카페#브이로그#vlog #디저트카페브이로그",
       "publishedAt": "2026-11-05T08:11:05Z",
       "durationSeconds": 88,
       "isShort": true,
-      "likeRate": 1.1467185420292823,
-      "commentRate": 0.012286270093170881,
+      "likeRate": 1.1407257904942816,
+      "commentRate": 0.011872254541137363,
       "dailyStats": [
         {
           "date": "2026-11-06",
@@ -812,6 +840,15 @@
           "likeCount": 1120,
           "commentCount": 12,
           "durationSeconds": 88
+        },
+        {
+          "date": "2026-11-14",
+          "title": "연희동 작은 카페를 운영하는 나의 일상#카페#브이로그#vlog #디저트카페브이로그",
+          "publishedAt": "2026-11-05T08:11:05Z",
+          "viewCount": 101076,
+          "likeCount": 1153,
+          "commentCount": 12,
+          "durationSeconds": 88
         }
       ],
       "thumbnailFeatures": null
@@ -822,8 +859,8 @@
       "publishedAt": "2026-11-01T05:00:36Z",
       "durationSeconds": 1537,
       "isShort": false,
-      "likeRate": 1.4038367535953487,
-      "commentRate": 0.11920177687828556,
+      "likeRate": 1.397476073515711,
+      "commentRate": 0.11687981705767764,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -941,6 +978,15 @@
           "likeCount": 1637,
           "commentCount": 139,
           "durationSeconds": 1537
+        },
+        {
+          "date": "2026-11-14",
+          "title": "카페 운영하는 일상🍰카페에 대한 고민,집에서 완벽하게 휴무를 보내는 방법..🏠",
+          "publishedAt": "2026-11-01T05:00:36Z",
+          "viewCount": 118070,
+          "likeCount": 1650,
+          "commentCount": 138,
+          "durationSeconds": 1537
         }
       ],
       "thumbnailFeatures": null
@@ -951,8 +997,8 @@
       "publishedAt": "2026-10-19T07:58:41Z",
       "durationSeconds": 77,
       "isShort": true,
-      "likeRate": 1.5486930016318237,
-      "commentRate": 0.03386803780904585,
+      "likeRate": 1.5536723163841808,
+      "commentRate": 0.03377548513878654,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -1178,6 +1224,15 @@
           "likeCount": 503,
           "commentCount": 11,
           "durationSeconds": 77
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog #카페브이로그",
+          "publishedAt": "2026-10-19T07:58:41Z",
+          "viewCount": 32568,
+          "likeCount": 506,
+          "commentCount": 11,
+          "durationSeconds": 77
         }
       ],
       "thumbnailFeatures": null
@@ -1374,8 +1429,8 @@
       "publishedAt": "2026-11-10T02:47:30Z",
       "durationSeconds": 83,
       "isShort": true,
-      "likeRate": 2.117368873602752,
-      "commentRate": 0.03224419604471195,
+      "likeRate": 2.2217713300192754,
+      "commentRate": 0.030435223698894183,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -1412,6 +1467,15 @@
           "likeCount": 197,
           "commentCount": 3,
           "durationSeconds": 83
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-11-10T02:47:30Z",
+          "viewCount": 9857,
+          "likeCount": 219,
+          "commentCount": 3,
+          "durationSeconds": 83
         }
       ],
       "thumbnailFeatures": null
@@ -1422,8 +1486,8 @@
       "publishedAt": "2026-10-21T09:52:09Z",
       "durationSeconds": 8,
       "isShort": true,
-      "likeRate": 3.740535653746186,
-      "commentRate": 0.06780427166911515,
+      "likeRate": 3.75238737220537,
+      "commentRate": 0.06740815638692282,
       "dailyStats": [
         {
           "date": "2026-10-22",
@@ -1631,6 +1695,15 @@
           "likeCount": 331,
           "commentCount": 6,
           "durationSeconds": 8
+        },
+        {
+          "date": "2026-11-14",
+          "title": "2026년 10월 21일",
+          "publishedAt": "2026-10-21T09:52:09Z",
+          "viewCount": 8901,
+          "likeCount": 334,
+          "commentCount": 6,
+          "durationSeconds": 8
         }
       ],
       "thumbnailFeatures": null
@@ -1641,8 +1714,8 @@
       "publishedAt": "2026-10-26T06:00:02Z",
       "durationSeconds": 6,
       "isShort": true,
-      "likeRate": 1.4615779565291802,
-      "commentRate": 0.051343487934280334,
+      "likeRate": 1.4637799564270153,
+      "commentRate": 0.05106209150326798,
       "dailyStats": [
         {
           "date": "2026-10-27",
@@ -1803,6 +1876,15 @@
           "publishedAt": "2026-10-26T06:00:02Z",
           "viewCount": 29215,
           "likeCount": 427,
+          "commentCount": 15,
+          "durationSeconds": 6
+        },
+        {
+          "date": "2026-11-14",
+          "title": "난 광묘와 살고있다..🐱🤎",
+          "publishedAt": "2026-10-26T06:00:02Z",
+          "viewCount": 29376,
+          "likeCount": 430,
           "commentCount": 15,
           "durationSeconds": 6
         }
@@ -2391,8 +2473,8 @@
       "publishedAt": "2026-11-10T02:47:45Z",
       "durationSeconds": 78,
       "isShort": true,
-      "likeRate": 2.9347826086956523,
-      "commentRate": 0.05434782608695652,
+      "likeRate": 2.903147109050988,
+      "commentRate": 0.04879238838741156,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -2429,6 +2511,15 @@
           "likeCount": 108,
           "commentCount": 2,
           "durationSeconds": 78
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-11-10T02:47:45Z",
+          "viewCount": 4099,
+          "likeCount": 119,
+          "commentCount": 2,
+          "durationSeconds": 78
         }
       ],
       "thumbnailFeatures": null
@@ -2439,8 +2530,8 @@
       "publishedAt": "2026-10-20T02:28:38Z",
       "durationSeconds": 95,
       "isShort": true,
-      "likeRate": 2.5944136415943087,
-      "commentRate": 0.01046134532900931,
+      "likeRate": 2.6001040041601664,
+      "commentRate": 0.010400416016640665,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -2664,6 +2755,15 @@
           "publishedAt": "2026-10-20T02:28:38Z",
           "viewCount": 9559,
           "likeCount": 248,
+          "commentCount": 1,
+          "durationSeconds": 95
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:28:38Z",
+          "viewCount": 9615,
+          "likeCount": 250,
           "commentCount": 1,
           "durationSeconds": 95
         }
@@ -2958,8 +3058,8 @@
       "publishedAt": "2026-11-10T02:47:34Z",
       "durationSeconds": 72,
       "isShort": true,
-      "likeRate": 2.957773885970033,
-      "commentRate": 0.15567230978789648,
+      "likeRate": 3.0848787446504993,
+      "commentRate": 0.16048502139800286,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -2996,6 +3096,15 @@
           "likeCount": 152,
           "commentCount": 8,
           "durationSeconds": 72
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-11-10T02:47:34Z",
+          "viewCount": 5608,
+          "likeCount": 173,
+          "commentCount": 9,
+          "durationSeconds": 72
         }
       ],
       "thumbnailFeatures": null
@@ -3006,8 +3115,8 @@
       "publishedAt": "2026-10-20T02:35:30Z",
       "durationSeconds": 115,
       "isShort": true,
-      "likeRate": 2.949526813880126,
-      "commentRate": 0.01577287066246057,
+      "likeRate": 2.9572836801752467,
+      "commentRate": 0.015647003598810827,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -3233,6 +3342,15 @@
           "likeCount": 187,
           "commentCount": 1,
           "durationSeconds": 115
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:35:30Z",
+          "viewCount": 6391,
+          "likeCount": 189,
+          "commentCount": 1,
+          "durationSeconds": 115
         }
       ],
       "thumbnailFeatures": null
@@ -3243,8 +3361,8 @@
       "publishedAt": "2026-11-10T02:49:25Z",
       "durationSeconds": 84,
       "isShort": true,
-      "likeRate": 2.862493311931514,
-      "commentRate": 0.05350454788657035,
+      "likeRate": 2.9640427599611274,
+      "commentRate": 0.048590864917395525,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -3281,6 +3399,15 @@
           "likeCount": 107,
           "commentCount": 2,
           "durationSeconds": 84
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-11-10T02:49:25Z",
+          "viewCount": 4116,
+          "likeCount": 122,
+          "commentCount": 2,
+          "durationSeconds": 84
         }
       ],
       "thumbnailFeatures": null
@@ -3291,8 +3418,8 @@
       "publishedAt": "2026-11-10T02:46:44Z",
       "durationSeconds": 73,
       "isShort": true,
-      "likeRate": 3.248310442555047,
-      "commentRate": 0.04360148245040331,
+      "likeRate": 3.3214709371292996,
+      "commentRate": 0.039541320680110716,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -3329,6 +3456,15 @@
           "likeCount": 149,
           "commentCount": 2,
           "durationSeconds": 73
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-11-10T02:46:44Z",
+          "viewCount": 5058,
+          "likeCount": 168,
+          "commentCount": 2,
+          "durationSeconds": 73
         }
       ],
       "thumbnailFeatures": null
@@ -3339,8 +3475,8 @@
       "publishedAt": "2026-10-20T02:26:07Z",
       "durationSeconds": 110,
       "isShort": true,
-      "likeRate": 1.791044776119403,
-      "commentRate": 0.016135538523598225,
+      "likeRate": 1.8057784911717496,
+      "commentRate": 0.016051364365971106,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -3566,6 +3702,15 @@
           "likeCount": 222,
           "commentCount": 2,
           "durationSeconds": 110
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-10-20T02:26:07Z",
+          "viewCount": 12460,
+          "likeCount": 225,
+          "commentCount": 2,
+          "durationSeconds": 110
         }
       ],
       "thumbnailFeatures": null
@@ -3576,8 +3721,8 @@
       "publishedAt": "2026-10-19T09:32:23Z",
       "durationSeconds": 80,
       "isShort": true,
-      "likeRate": 1.2306794983960339,
-      "commentRate": 0.026246719160104987,
+      "likeRate": 1.2361838278068644,
+      "commentRate": 0.026178010471204192,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -3803,6 +3948,15 @@
           "likeCount": 422,
           "commentCount": 9,
           "durationSeconds": 80
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-10-19T09:32:23Z",
+          "viewCount": 34380,
+          "likeCount": 425,
+          "commentCount": 9,
+          "durationSeconds": 80
         }
       ],
       "thumbnailFeatures": null
@@ -3813,8 +3967,8 @@
       "publishedAt": "2026-10-21T09:53:19Z",
       "durationSeconds": 101,
       "isShort": true,
-      "likeRate": 1.1632760971808644,
-      "commentRate": 0.00927652390096383,
+      "likeRate": 1.1659763668397798,
+      "commentRate": 0.009224496573099523,
       "dailyStats": [
         {
           "date": "2026-10-22",
@@ -4022,6 +4176,15 @@
           "likeCount": 1254,
           "commentCount": 10,
           "durationSeconds": 101
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#vlog",
+          "publishedAt": "2026-10-21T09:53:19Z",
+          "viewCount": 108407,
+          "likeCount": 1264,
+          "commentCount": 10,
+          "durationSeconds": 101
         }
       ],
       "thumbnailFeatures": null
@@ -4032,8 +4195,8 @@
       "publishedAt": "2026-10-21T10:52:38Z",
       "durationSeconds": 29,
       "isShort": true,
-      "likeRate": 2.9338066402171643,
-      "commentRate": 0.08352474420547087,
+      "likeRate": 2.9335544728931273,
+      "commentRate": 0.08292733492277392,
       "dailyStats": [
         {
           "date": "2026-10-22",
@@ -4241,6 +4404,15 @@
           "likeCount": 281,
           "commentCount": 8,
           "durationSeconds": 29
+        },
+        {
+          "date": "2026-11-14",
+          "title": "#cat",
+          "publishedAt": "2026-10-21T10:52:38Z",
+          "viewCount": 9647,
+          "likeCount": 283,
+          "commentCount": 8,
+          "durationSeconds": 29
         }
       ],
       "thumbnailFeatures": null
@@ -4251,8 +4423,8 @@
       "publishedAt": "2026-10-18T02:30:01Z",
       "durationSeconds": 1661,
       "isShort": false,
-      "likeRate": 1.208188216012093,
-      "commentRate": 0.07530412345446591,
+      "likeRate": 1.2078349034450369,
+      "commentRate": 0.07514434897919717,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -4494,6 +4666,15 @@
           "publishedAt": "2026-10-18T02:30:01Z",
           "viewCount": 180601,
           "likeCount": 2182,
+          "commentCount": 136,
+          "durationSeconds": 1661
+        },
+        {
+          "date": "2026-11-14",
+          "title": "작은 카페 운영하는 일상🍰남대문 시장에서 쇼핑 🛒",
+          "publishedAt": "2026-10-18T02:30:01Z",
+          "viewCount": 180985,
+          "likeCount": 2186,
           "commentCount": 136,
           "durationSeconds": 1661
         }

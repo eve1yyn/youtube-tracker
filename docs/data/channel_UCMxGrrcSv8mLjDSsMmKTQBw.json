@@ -729,6 +729,13 @@
       "subscriberCount": 8100,
       "totalViewCount": 2686302,
       "videoCount": 278
+    },
+    {
+      "date": "2026-11-14",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8100,
+      "totalViewCount": 2687110,
+      "videoCount": 279
     }
   ],
   "videos": [
@@ -3003,8 +3010,8 @@
       "publishedAt": "2026-10-16T11:46:32Z",
       "durationSeconds": 577,
       "isShort": false,
-      "likeRate": 0.6812917291184085,
-      "commentRate": 0.08175500749420903,
+      "likeRate": 0.6809206046574969,
+      "commentRate": 0.08171047255889964,
       "dailyStats": [
         {
           "date": "2026-10-17",
@@ -3257,6 +3264,15 @@
           "likeCount": 50,
           "commentCount": 6,
           "durationSeconds": 577
+        },
+        {
+          "date": "2026-11-14",
+          "title": "[나래이션]이런 집에도 버릴게 있다구요??",
+          "publishedAt": "2026-10-16T11:46:32Z",
+          "viewCount": 7343,
+          "likeCount": 50,
+          "commentCount": 6,
+          "durationSeconds": 577
         }
       ],
       "thumbnailFeatures": null
@@ -3444,8 +3460,8 @@
       "publishedAt": "2026-10-23T07:00:21Z",
       "durationSeconds": 644,
       "isShort": false,
-      "likeRate": 0.7722007722007722,
-      "commentRate": 0.018834165175628588,
+      "likeRate": 0.7708940490739871,
+      "commentRate": 0.01880229387985334,
       "dailyStats": [
         {
           "date": "2026-10-24",
@@ -3635,6 +3651,36 @@
           "likeCount": 82,
           "commentCount": 2,
           "durationSeconds": 644
+        },
+        {
+          "date": "2026-11-14",
+          "title": "[나래이션]집을 청소했을 뿐인데 마음이 단단해졌어요.",
+          "publishedAt": "2026-10-23T07:00:21Z",
+          "viewCount": 10637,
+          "likeCount": 82,
+          "commentCount": 2,
+          "durationSeconds": 644
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "uGXMMMWoVyU",
+      "title": "[나래이션]다 갖추고 살 필요 없는 삶!",
+      "publishedAt": "2026-11-13T07:00:07Z",
+      "durationSeconds": 602,
+      "isShort": false,
+      "likeRate": 6.477732793522267,
+      "commentRate": 0,
+      "dailyStats": [
+        {
+          "date": "2026-11-14",
+          "title": "[나래이션]다 갖추고 살 필요 없는 삶!",
+          "publishedAt": "2026-11-13T07:00:07Z",
+          "viewCount": 494,
+          "likeCount": 32,
+          "commentCount": 0,
+          "durationSeconds": 602
         }
       ],
       "thumbnailFeatures": null

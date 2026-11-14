@@ -729,6 +729,13 @@
       "subscriberCount": 157000,
       "totalViewCount": 268220227,
       "videoCount": 1274
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Daily소현",
+      "subscriberCount": 157000,
+      "totalViewCount": 269082973,
+      "videoCount": 1276
     }
   ],
   "videos": [
@@ -738,8 +745,8 @@
       "publishedAt": "2026-11-10T08:50:10Z",
       "durationSeconds": 21,
       "isShort": true,
-      "likeRate": 2.662560790130875,
-      "commentRate": 0.12392737104981505,
+      "likeRate": 2.56978097372032,
+      "commentRate": 0.11897938269675021,
       "dailyStats": [
         {
           "date": "2026-11-11",
@@ -766,6 +773,15 @@
           "viewCount": 106514,
           "likeCount": 2836,
           "commentCount": 132,
+          "durationSeconds": 21
+        },
+        {
+          "date": "2026-11-14",
+          "title": "고모댁에서 놀고 온 vlog⋰˚☆•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-10T08:50:10Z",
+          "viewCount": 115146,
+          "likeCount": 2959,
+          "commentCount": 137,
           "durationSeconds": 21
         }
       ],
@@ -1068,8 +1084,8 @@
       "publishedAt": "2026-10-21T07:50:26Z",
       "durationSeconds": 25,
       "isShort": true,
-      "likeRate": 2.1202625086915523,
-      "commentRate": 0.1328735938735272,
+      "likeRate": 2.100440792771186,
+      "commentRate": 0.13116044201068958,
       "dailyStats": [
         {
           "date": "2026-10-22",
@@ -1276,6 +1292,15 @@
           "viewCount": 209974,
           "likeCount": 4452,
           "commentCount": 279,
+          "durationSeconds": 25
+        },
+        {
+          "date": "2026-11-14",
+          "title": "🤖니온앤비욘이 계속 맴돌아•A2O LITE NEON•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-21T07:50:26Z",
+          "viewCount": 213479,
+          "likeCount": 4484,
+          "commentCount": 280,
           "durationSeconds": 25
         }
       ],
@@ -1569,8 +1594,8 @@
       "publishedAt": "2026-11-09T08:50:08Z",
       "durationSeconds": 20,
       "isShort": true,
-      "likeRate": 2.625294059769046,
-      "commentRate": 0.13685519289426373,
+      "likeRate": 2.5647773966787786,
+      "commentRate": 0.1307433694434068,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -1606,6 +1631,15 @@
           "viewCount": 111797,
           "likeCount": 2935,
           "commentCount": 153,
+          "durationSeconds": 20
+        },
+        {
+          "date": "2026-11-14",
+          "title": "숙제하려고 앉았는데 갑자기 우사기•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-09T08:50:08Z",
+          "viewCount": 117788,
+          "likeCount": 3021,
+          "commentCount": 154,
           "durationSeconds": 20
         }
       ],
@@ -2607,8 +2641,8 @@
       "publishedAt": "2026-10-22T08:50:23Z",
       "durationSeconds": 26,
       "isShort": true,
-      "likeRate": 2.2231239674212344,
-      "commentRate": 0.09449001478218022,
+      "likeRate": 2.2128767972093772,
+      "commentRate": 0.09466545800869774,
       "dailyStats": [
         {
           "date": "2026-10-23",
@@ -2806,6 +2840,15 @@
           "viewCount": 172505,
           "likeCount": 3835,
           "commentCount": 163,
+          "durationSeconds": 26
+        },
+        {
+          "date": "2026-11-14",
+          "title": "너를 내 최애 파우치로 임명한닷 🍓🍰•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-22T08:50:23Z",
+          "viewCount": 174298,
+          "likeCount": 3857,
+          "commentCount": 165,
           "durationSeconds": 26
         }
       ],
@@ -6097,13 +6140,34 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "9WUrKoF__38",
+      "title": "미열앤비염 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+      "publishedAt": "2026-11-14T00:50:07Z",
+      "durationSeconds": 30,
+      "isShort": true,
+      "likeRate": 3.949559425518629,
+      "commentRate": 0.22028724068549227,
+      "dailyStats": [
+        {
+          "date": "2026-11-14",
+          "title": "미열앤비염 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-14T00:50:07Z",
+          "viewCount": 57652,
+          "likeCount": 2277,
+          "commentCount": 127,
+          "durationSeconds": 30
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "9fwe21bLe88",
       "title": "체험학습 가방싸기🧳✧˚ ༘ ⋆｡ ˚•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
       "publishedAt": "2026-11-11T07:50:02Z",
       "durationSeconds": 17,
       "isShort": true,
-      "likeRate": 2.543995821666401,
-      "commentRate": 0.12839670956229055,
+      "likeRate": 2.3985180926830827,
+      "commentRate": 0.11816933346108396,
       "dailyStats": [
         {
           "date": "2026-11-12",
@@ -6121,6 +6185,15 @@
           "viewCount": 137854,
           "likeCount": 3507,
           "commentCount": 177,
+          "durationSeconds": 17
+        },
+        {
+          "date": "2026-11-14",
+          "title": "체험학습 가방싸기🧳✧˚ ༘ ⋆｡ ˚•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-11T07:50:02Z",
+          "viewCount": 156555,
+          "likeCount": 3755,
+          "commentCount": 185,
           "durationSeconds": 17
         }
       ],
@@ -6987,8 +7060,8 @@
       "publishedAt": "2026-10-20T07:50:33Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 1.6588940461359236,
-      "commentRate": 0.07239745837146143,
+      "likeRate": 1.6343661544134394,
+      "commentRate": 0.07121657430202336,
       "dailyStats": [
         {
           "date": "2026-10-21",
@@ -7203,6 +7276,15 @@
           "publishedAt": "2026-10-20T07:50:33Z",
           "viewCount": 272109,
           "likeCount": 4514,
+          "commentCount": 197,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-11-14",
+          "title": "학원 가기 전 긴박한 vlogꉂꉂ(˃▿˂๑)•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-20T07:50:33Z",
+          "viewCount": 276621,
+          "likeCount": 4521,
           "commentCount": 197,
           "durationSeconds": 33
         }
@@ -9495,8 +9577,8 @@
       "publishedAt": "2026-11-07T09:30:31Z",
       "durationSeconds": 37,
       "isShort": true,
-      "likeRate": 2.3823819749040838,
-      "commentRate": 0.09769699683502438,
+      "likeRate": 2.339654086334575,
+      "commentRate": 0.09473689431628234,
       "dailyStats": [
         {
           "date": "2026-11-08",
@@ -9550,6 +9632,15 @@
           "viewCount": 196526,
           "likeCount": 4682,
           "commentCount": 192,
+          "durationSeconds": 37
+        },
+        {
+          "date": "2026-11-14",
+          "title": "엄마랑 둘이 데이뚜한 토욜 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-07T09:30:31Z",
+          "viewCount": 201611,
+          "likeCount": 4717,
+          "commentCount": 191,
           "durationSeconds": 37
         }
       ],
@@ -12613,13 +12704,34 @@
       "thumbnailFeatures": null
     },
     {
+      "videoId": "KuW4lx-NABw",
+      "title": "핑크템으로 스킨케어하기 레츠고₊˚ʚ 🎀 ₊˚✧ﾟ.(협찬)•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+      "publishedAt": "2026-11-13T07:50:33Z",
+      "durationSeconds": 42,
+      "isShort": true,
+      "likeRate": 4.704318446171741,
+      "commentRate": 0.17355020955264663,
+      "dailyStats": [
+        {
+          "date": "2026-11-14",
+          "title": "핑크템으로 스킨케어하기 레츠고₊˚ʚ 🎀 ₊˚✧ﾟ.(협찬)•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-13T07:50:33Z",
+          "viewCount": 54163,
+          "likeCount": 2548,
+          "commentCount": 94,
+          "durationSeconds": 42
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "MEUBR0pUYME",
       "title": "친구들이랑 우리집에서⋆𐙚₊˚⊹♡•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
       "publishedAt": "2026-10-29T07:50:28Z",
       "durationSeconds": 11,
       "isShort": true,
-      "likeRate": 1.6364650415178525,
-      "commentRate": 0.04884453235690457,
+      "likeRate": 1.622100520974081,
+      "commentRate": 0.048232006212008745,
       "dailyStats": [
         {
           "date": "2026-10-30",
@@ -12755,6 +12867,15 @@
           "likeCount": 4724,
           "commentCount": 141,
           "durationSeconds": 11
+        },
+        {
+          "date": "2026-11-14",
+          "title": "친구들이랑 우리집에서⋆𐙚₊˚⊹♡•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-29T07:50:28Z",
+          "viewCount": 292337,
+          "likeCount": 4742,
+          "commentCount": 141,
+          "durationSeconds": 11
         }
       ],
       "thumbnailFeatures": null
@@ -12765,8 +12886,8 @@
       "publishedAt": "2026-11-06T09:30:28Z",
       "durationSeconds": 22,
       "isShort": true,
-      "likeRate": 1.9664303637116618,
-      "commentRate": 0.08721284318741017,
+      "likeRate": 1.9356615726537938,
+      "commentRate": 0.08405596132475994,
       "dailyStats": [
         {
           "date": "2026-11-07",
@@ -12829,6 +12950,15 @@
           "viewCount": 205245,
           "likeCount": 4036,
           "commentCount": 179,
+          "durationSeconds": 22
+        },
+        {
+          "date": "2026-11-14",
+          "title": "치과에 갔다 온 그묠 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-06T09:30:28Z",
+          "viewCount": 210574,
+          "likeCount": 4076,
+          "commentCount": 177,
           "durationSeconds": 22
         }
       ],
@@ -13782,8 +13912,8 @@
       "publishedAt": "2026-10-27T07:50:20Z",
       "durationSeconds": 47,
       "isShort": true,
-      "likeRate": 2.5236736193980756,
-      "commentRate": 0.09709927266292487,
+      "likeRate": 2.502135805948052,
+      "commentRate": 0.09750904642414646,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -13936,6 +14066,15 @@
           "viewCount": 220393,
           "likeCount": 5562,
           "commentCount": 214,
+          "durationSeconds": 47
+        },
+        {
+          "date": "2026-11-14",
+          "title": "하교 후 관리하는 vlog˚.✦ ⵢ₊˚.(광고)•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-27T07:50:20Z",
+          "viewCount": 223569,
+          "likeCount": 5594,
+          "commentCount": 218,
           "durationSeconds": 47
         }
       ],
@@ -14751,8 +14890,8 @@
       "publishedAt": "2026-11-08T08:50:00Z",
       "durationSeconds": 35,
       "isShort": true,
-      "likeRate": 2.607271360292143,
-      "commentRate": 0.10069276623167392,
+      "likeRate": 2.5602651473790363,
+      "commentRate": 0.09634715807999383,
       "dailyStats": [
         {
           "date": "2026-11-09",
@@ -14796,6 +14935,15 @@
           "publishedAt": "2026-11-08T08:50:00Z",
           "viewCount": 148968,
           "likeCount": 3884,
+          "commentCount": 150,
+          "durationSeconds": 35
+        },
+        {
+          "date": "2026-11-14",
+          "title": "일욜 아침 외출 준비 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-08T08:50:00Z",
+          "viewCount": 155687,
+          "likeCount": 3986,
           "commentCount": 150,
           "durationSeconds": 35
         }
@@ -16443,8 +16591,8 @@
       "publishedAt": "2026-10-30T07:50:08Z",
       "durationSeconds": 45,
       "isShort": true,
-      "likeRate": 0.39766817417442185,
-      "commentRate": 0.015636383630940106,
+      "likeRate": 0.36099173421746533,
+      "commentRate": 0.013673173234114667,
       "dailyStats": [
         {
           "date": "2026-10-31",
@@ -16570,6 +16718,15 @@
           "viewCount": 1745928,
           "likeCount": 6943,
           "commentCount": 273,
+          "durationSeconds": 45
+        },
+        {
+          "date": "2026-11-14",
+          "title": "어제보다 더 멋진 내가 되기 vlog॰｡ཻ˚♡(광고)•Daily소현 #16년생 #학생브이로그 #minivlog #fyp #블블못참지",
+          "publishedAt": "2026-10-30T07:50:08Z",
+          "viewCount": 2003924,
+          "likeCount": 7234,
+          "commentCount": 274,
           "durationSeconds": 45
         }
       ],
@@ -17904,8 +18061,8 @@
       "publishedAt": "2026-10-24T09:50:35Z",
       "durationSeconds": 28,
       "isShort": true,
-      "likeRate": 2.115347720338406,
-      "commentRate": 0.1188258520494365,
+      "likeRate": 2.0979874206162803,
+      "commentRate": 0.11652096462277099,
       "dailyStats": [
         {
           "date": "2026-10-25",
@@ -18086,6 +18243,15 @@
           "likeCount": 3418,
           "commentCount": 192,
           "durationSeconds": 28
+        },
+        {
+          "date": "2026-11-14",
+          "title": "망한 플라워노즈 깡•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-24T09:50:35Z",
+          "viewCount": 163919,
+          "likeCount": 3439,
+          "commentCount": 191,
+          "durationSeconds": 28
         }
       ],
       "thumbnailFeatures": null
@@ -18096,8 +18262,8 @@
       "publishedAt": "2026-11-03T07:50:21Z",
       "durationSeconds": 38,
       "isShort": true,
-      "likeRate": 2.454160411752091,
-      "commentRate": 0.12599185073986705,
+      "likeRate": 2.4239796622194194,
+      "commentRate": 0.1234981508122631,
       "dailyStats": [
         {
           "date": "2026-11-04",
@@ -18186,6 +18352,15 @@
           "publishedAt": "2026-11-03T07:50:21Z",
           "viewCount": 149216,
           "likeCount": 3662,
+          "commentCount": 188,
+          "durationSeconds": 38
+        },
+        {
+          "date": "2026-11-14",
+          "title": "어제의 공부 vlog 레츠고˖ ˚⋆📓𖦹 ׂ 𓈒✏️•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-03T07:50:21Z",
+          "viewCount": 152229,
+          "likeCount": 3690,
           "commentCount": 188,
           "durationSeconds": 38
         }
@@ -22266,8 +22441,8 @@
       "publishedAt": "2026-10-26T07:50:31Z",
       "durationSeconds": 37,
       "isShort": true,
-      "likeRate": 3.153249341590149,
-      "commentRate": 0.17184751329530318,
+      "likeRate": 3.1211474276092255,
+      "commentRate": 0.16938789828707743,
       "dailyStats": [
         {
           "date": "2026-10-27",
@@ -22428,6 +22603,15 @@
           "publishedAt": "2026-10-26T07:50:31Z",
           "viewCount": 98343,
           "likeCount": 3101,
+          "commentCount": 169,
+          "durationSeconds": 37
+        },
+        {
+          "date": "2026-11-14",
+          "title": "오랜만에 클리커 눌러요☆⋆｡𖦹°‧★•Daily소현 #16년생 #학생브이로그 #minivlog #fyp #클리커",
+          "publishedAt": "2026-10-26T07:50:31Z",
+          "viewCount": 99771,
+          "likeCount": 3114,
           "commentCount": 169,
           "durationSeconds": 37
         }
@@ -24549,8 +24733,8 @@
       "publishedAt": "2026-10-23T08:50:22Z",
       "durationSeconds": 27,
       "isShort": true,
-      "likeRate": 1.8278968573073011,
-      "commentRate": 0.09674219633359321,
+      "likeRate": 1.8142126776988228,
+      "commentRate": 0.09684409311559553,
       "dailyStats": [
         {
           "date": "2026-10-24",
@@ -24739,6 +24923,15 @@
           "viewCount": 244981,
           "likeCount": 4478,
           "commentCount": 237,
+          "durationSeconds": 27
+        },
+        {
+          "date": "2026-11-14",
+          "title": "체육대회 날 등교 vlog.·˖*·⑅♡•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-23T08:50:22Z",
+          "viewCount": 247821,
+          "likeCount": 4496,
+          "commentCount": 240,
           "durationSeconds": 27
         }
       ],
@@ -25032,8 +25225,8 @@
       "publishedAt": "2026-10-15T07:50:10Z",
       "durationSeconds": 28,
       "isShort": true,
-      "likeRate": 1.5455484624587472,
-      "commentRate": 0.08635226070218519,
+      "likeRate": 1.5307938768244929,
+      "commentRate": 0.08605878619963782,
       "dailyStats": [
         {
           "date": "2026-10-16",
@@ -25294,6 +25487,15 @@
           "viewCount": 318463,
           "likeCount": 4922,
           "commentCount": 275,
+          "durationSeconds": 28
+        },
+        {
+          "date": "2026-11-14",
+          "title": "감자전 만들어 먹는 vlog🥔•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-15T07:50:10Z",
+          "viewCount": 323035,
+          "likeCount": 4945,
+          "commentCount": 278,
           "durationSeconds": 28
         }
       ],
@@ -25737,8 +25939,8 @@
       "publishedAt": "2026-10-19T07:50:26Z",
       "durationSeconds": 41,
       "isShort": true,
-      "likeRate": 1.926598655289473,
-      "commentRate": 0.07904895326011058,
+      "likeRate": 1.9155821560303432,
+      "commentRate": 0.0782935486115944,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -25962,6 +26164,15 @@
           "publishedAt": "2026-10-19T07:50:26Z",
           "viewCount": 227707,
           "likeCount": 4387,
+          "commentCount": 180,
+          "durationSeconds": 41
+        },
+        {
+          "date": "2026-11-14",
+          "title": "10/18(SUN) 비오는 일욜 vlog꒰ • ˕ • ꒱•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-19T07:50:26Z",
+          "viewCount": 229904,
+          "likeCount": 4404,
           "commentCount": 180,
           "durationSeconds": 41
         }
@@ -26259,8 +26470,8 @@
       "publishedAt": "2026-10-25T07:50:01Z",
       "durationSeconds": 48,
       "isShort": true,
-      "likeRate": 2.476399704180624,
-      "commentRate": 0.09135598381694,
+      "likeRate": 2.4589060640812352,
+      "commentRate": 0.09045242364038701,
       "dailyStats": [
         {
           "date": "2026-10-26",
@@ -26430,6 +26641,15 @@
           "publishedAt": "2026-10-25T07:50:01Z",
           "viewCount": 183896,
           "likeCount": 4554,
+          "commentCount": 168,
+          "durationSeconds": 48
+        },
+        {
+          "date": "2026-11-14",
+          "title": "토욜 또 간 성수동 vlog౨९ ⁺ ⊹ ﾟ.⋆•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-25T07:50:01Z",
+          "viewCount": 185733,
+          "likeCount": 4567,
           "commentCount": 168,
           "durationSeconds": 48
         }
@@ -27594,8 +27814,8 @@
       "publishedAt": "2026-10-18T00:50:21Z",
       "durationSeconds": 41,
       "isShort": true,
-      "likeRate": 1.871973200305866,
-      "commentRate": 0.07610239230965299,
+      "likeRate": 1.8631005691503195,
+      "commentRate": 0.07583855776731287,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -27838,6 +28058,15 @@
           "viewCount": 274630,
           "likeCount": 5141,
           "commentCount": 209,
+          "durationSeconds": 41
+        },
+        {
+          "date": "2026-11-14",
+          "title": "늘어지는 토욜 집콕 vlog˚ ༘ ೀ⋆｡˚•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-18T00:50:21Z",
+          "viewCount": 276904,
+          "likeCount": 5159,
+          "commentCount": 210,
           "durationSeconds": 41
         }
       ],
@@ -28806,8 +29035,8 @@
       "publishedAt": "2026-10-17T01:25:10Z",
       "durationSeconds": 32,
       "isShort": true,
-      "likeRate": 1.7047124857285452,
-      "commentRate": 0.08374865831231071,
+      "likeRate": 1.69655808152697,
+      "commentRate": 0.08303170794528719,
       "dailyStats": [
         {
           "date": "2026-10-17",
@@ -29058,6 +29287,15 @@
           "publishedAt": "2026-10-17T01:25:10Z",
           "viewCount": 292542,
           "likeCount": 4987,
+          "commentCount": 245,
+          "durationSeconds": 32
+        },
+        {
+          "date": "2026-11-14",
+          "title": "독감주사 맞은 날 vlog·̩͙ ₊ ᨦ ♡ ᨩ ໋₊ ·̩͙•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-17T01:25:10Z",
+          "viewCount": 295068,
+          "likeCount": 5006,
           "commentCount": 245,
           "durationSeconds": 32
         }
@@ -30567,8 +30805,8 @@
       "publishedAt": "2026-10-31T07:50:13Z",
       "durationSeconds": 40,
       "isShort": true,
-      "likeRate": 2.330397894479672,
-      "commentRate": 0.09217203966729225,
+      "likeRate": 2.3028367009813038,
+      "commentRate": 0.09080068702206566,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -30684,6 +30922,15 @@
           "publishedAt": "2026-10-31T07:50:13Z",
           "viewCount": 180098,
           "likeCount": 4197,
+          "commentCount": 166,
+          "durationSeconds": 40
+        },
+        {
+          "date": "2026-11-14",
+          "title": "1박 2일 여행 짐싸기🧳˚ ༘ ೀ⋆｡˚•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-31T07:50:13Z",
+          "viewCount": 182818,
+          "likeCount": 4210,
           "commentCount": 166,
           "durationSeconds": 40
         }
@@ -30945,8 +31192,8 @@
       "publishedAt": "2026-10-28T07:50:08Z",
       "durationSeconds": 28,
       "isShort": true,
-      "likeRate": 2.1429097147127596,
-      "commentRate": 0.09001919277128898,
+      "likeRate": 2.1220233115832916,
+      "commentRate": 0.08811555406837321,
       "dailyStats": [
         {
           "date": "2026-10-29",
@@ -31090,6 +31337,15 @@
           "viewCount": 176629,
           "likeCount": 3785,
           "commentCount": 159,
+          "durationSeconds": 28
+        },
+        {
+          "date": "2026-11-14",
+          "title": "책상 정리 레츠고ꗯ ⋆˳ ˚ ⋆•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-28T07:50:08Z",
+          "viewCount": 179310,
+          "likeCount": 3805,
+          "commentCount": 158,
           "durationSeconds": 28
         }
       ],
@@ -33048,8 +33304,8 @@
       "publishedAt": "2026-11-04T08:50:42Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 2.0409408338654638,
-      "commentRate": 0.06385566180089235,
+      "likeRate": 2.0155584160157343,
+      "commentRate": 0.06276133901516666,
       "dailyStats": [
         {
           "date": "2026-11-05",
@@ -33129,6 +33385,15 @@
           "publishedAt": "2026-11-04T08:50:42Z",
           "viewCount": 245867,
           "likeCount": 5018,
+          "commentCount": 157,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-11-14",
+          "title": "가는 곳마다 아는 사람 계속 마주치는 vlog•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-04T08:50:42Z",
+          "viewCount": 250154,
+          "likeCount": 5042,
           "commentCount": 157,
           "durationSeconds": 33
         }
@@ -33423,8 +33688,8 @@
       "publishedAt": "2026-11-02T08:50:32Z",
       "durationSeconds": 20,
       "isShort": true,
-      "likeRate": 3.0077100700559667,
-      "commentRate": 0.16339869281045752,
+      "likeRate": 2.9577748181931414,
+      "commentRate": 0.16096733704452473,
       "dailyStats": [
         {
           "date": "2026-11-03",
@@ -33523,6 +33788,15 @@
           "viewCount": 102204,
           "likeCount": 3074,
           "commentCount": 167,
+          "durationSeconds": 20
+        },
+        {
+          "date": "2026-11-14",
+          "title": "먼작귀 다 꺼내보기˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-02T08:50:32Z",
+          "viewCount": 104369,
+          "likeCount": 3087,
+          "commentCount": 168,
           "durationSeconds": 20
         }
       ],
@@ -35502,8 +35776,8 @@
       "publishedAt": "2026-10-18T07:50:37Z",
       "durationSeconds": 19,
       "isShort": true,
-      "likeRate": 2.5827661923305554,
-      "commentRate": 0.17529812813140686,
+      "likeRate": 2.5704369622327734,
+      "commentRate": 0.1753392301945,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -35738,6 +36012,15 @@
           "likeCount": 4258,
           "commentCount": 289,
           "durationSeconds": 19
+        },
+        {
+          "date": "2026-11-14",
+          "title": "방구석 댄스 IVE-Looks Can Kill🌟•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-18T07:50:37Z",
+          "viewCount": 165964,
+          "likeCount": 4266,
+          "commentCount": 291,
+          "durationSeconds": 19
         }
       ],
       "thumbnailFeatures": null
@@ -35853,8 +36136,8 @@
       "publishedAt": "2026-10-16T07:50:01Z",
       "durationSeconds": 45,
       "isShort": true,
-      "likeRate": 2.512487025027281,
-      "commentRate": 0.17832270198816505,
+      "likeRate": 2.504876477285766,
+      "commentRate": 0.1782893052895436,
       "dailyStats": [
         {
           "date": "2026-10-17",
@@ -36106,6 +36389,15 @@
           "viewCount": 112717,
           "likeCount": 2832,
           "commentCount": 201,
+          "durationSeconds": 45
+        },
+        {
+          "date": "2026-11-14",
+          "title": "콰삭모짜킹 먹어용🍗•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-10-16T07:50:01Z",
+          "viewCount": 113299,
+          "likeCount": 2838,
+          "commentCount": 202,
           "durationSeconds": 45
         }
       ],
@@ -36939,8 +37231,8 @@
       "publishedAt": "2026-11-12T08:50:27Z",
       "durationSeconds": 22,
       "isShort": true,
-      "likeRate": 3.2410287535088385,
-      "commentRate": 0.17601092481602307,
+      "likeRate": 2.892646623728351,
+      "commentRate": 0.1354150071690298,
       "dailyStats": [
         {
           "date": "2026-11-13",
@@ -36949,6 +37241,15 @@
           "viewCount": 65905,
           "likeCount": 2136,
           "commentCount": 116,
+          "durationSeconds": 22
+        },
+        {
+          "date": "2026-11-14",
+          "title": "잊을 것 같아서 찾아 온 음료계☕️•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-12T08:50:27Z",
+          "viewCount": 87878,
+          "likeCount": 2542,
+          "commentCount": 119,
           "durationSeconds": 22
         }
       ],
@@ -38088,8 +38389,8 @@
       "publishedAt": "2026-11-05T07:50:24Z",
       "durationSeconds": 30,
       "isShort": true,
-      "likeRate": 2.924114588842152,
-      "commentRate": 0.1440089822551644,
+      "likeRate": 2.861151396683271,
+      "commentRate": 0.13951068793744875,
       "dailyStats": [
         {
           "date": "2026-11-06",
@@ -38162,6 +38463,15 @@
           "likeCount": 3594,
           "commentCount": 177,
           "durationSeconds": 30
+        },
+        {
+          "date": "2026-11-14",
+          "title": "학원 안 가면 체포하겠어🚨•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-05T07:50:24Z",
+          "viewCount": 126872,
+          "likeCount": 3630,
+          "commentCount": 177,
+          "durationSeconds": 30
         }
       ],
       "thumbnailFeatures": null
@@ -38172,8 +38482,8 @@
       "publishedAt": "2026-11-01T08:50:28Z",
       "durationSeconds": 26,
       "isShort": true,
-      "likeRate": 2.2557765833656562,
-      "commentRate": 0.09918546018728874,
+      "likeRate": 2.231871851945026,
+      "commentRate": 0.0978939136236608,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -38280,6 +38590,15 @@
           "publishedAt": "2026-11-01T08:50:28Z",
           "viewCount": 180470,
           "likeCount": 4071,
+          "commentCount": 179,
+          "durationSeconds": 26
+        },
+        {
+          "date": "2026-11-14",
+          "title": "비오고 쌀쌀한 11월의 첫째날 vlog✩°｡⋆⸜ ☔️✮•Daily소현 #16년생 #학생브이로그 #minivlog #fyp",
+          "publishedAt": "2026-11-01T08:50:28Z",
+          "viewCount": 182851,
+          "likeCount": 4081,
           "commentCount": 179,
           "durationSeconds": 26
         }
