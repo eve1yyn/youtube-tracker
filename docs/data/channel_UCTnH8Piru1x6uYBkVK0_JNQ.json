@@ -736,6 +736,13 @@
       "subscriberCount": 8490,
       "totalViewCount": 6918494,
       "videoCount": 207
+    },
+    {
+      "date": "2026-11-15",
+      "title": "알밤로그",
+      "subscriberCount": 8500,
+      "totalViewCount": 6928090,
+      "videoCount": 208
     }
   ],
   "videos": [
@@ -745,8 +752,8 @@
       "publishedAt": "2026-11-07T11:02:18Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 3.7835792659856224,
-      "commentRate": 0,
+      "likeRate": 3.7728800896525962,
+      "commentRate": 0.03735524841240195,
       "dailyStats": [
         {
           "date": "2026-11-08",
@@ -809,6 +816,15 @@
           "viewCount": 2643,
           "likeCount": 100,
           "commentCount": 0,
+          "durationSeconds": 58
+        },
+        {
+          "date": "2026-11-15",
+          "title": "효과 없음 절대 안먹는 여자의 효과 좋은 찐템 영양제 Best5",
+          "publishedAt": "2026-11-07T11:02:18Z",
+          "viewCount": 2677,
+          "likeCount": 101,
+          "commentCount": 1,
           "durationSeconds": 58
         }
       ],
@@ -1396,7 +1412,7 @@
       "publishedAt": "2026-11-05T11:00:55Z",
       "durationSeconds": 51,
       "isShort": true,
-      "likeRate": 1.4854426619132501,
+      "likeRate": 1.5195791934541203,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -1477,6 +1493,15 @@
           "publishedAt": "2026-11-05T11:00:55Z",
           "viewCount": 1683,
           "likeCount": 25,
+          "commentCount": 0,
+          "durationSeconds": 51
+        },
+        {
+          "date": "2026-11-15",
+          "title": "화장품에 수 억 쓴 여자의 각질 없는 애기 발 만드는 법🌷",
+          "publishedAt": "2026-11-05T11:00:55Z",
+          "viewCount": 1711,
+          "likeCount": 26,
           "commentCount": 0,
           "durationSeconds": 51
         }
@@ -1771,7 +1796,7 @@
       "publishedAt": "2026-10-29T11:06:41Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 1.539250897896357,
+      "likeRate": 1.5768056968463884,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -1915,6 +1940,15 @@
           "publishedAt": "2026-10-29T11:06:41Z",
           "viewCount": 1949,
           "likeCount": 30,
+          "commentCount": 0,
+          "durationSeconds": 57
+        },
+        {
+          "date": "2026-11-15",
+          "title": "화장품에 수 억 쓴 여자의 가을철 피부 관리 필수 루틴🧡",
+          "publishedAt": "2026-10-29T11:06:41Z",
+          "viewCount": 1966,
+          "likeCount": 31,
           "commentCount": 0,
           "durationSeconds": 57
         }
@@ -2269,7 +2303,7 @@
       "publishedAt": "2026-10-24T11:01:32Z",
       "durationSeconds": 51,
       "isShort": true,
-      "likeRate": 1.8220467658669908,
+      "likeRate": 1.8143332325370427,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -2457,6 +2491,15 @@
           "title": "헤어케어에 수 억 쓴 여자의 지금 딱 쓰기 좋은 헤어에센스 추천 Best4🌷",
           "publishedAt": "2026-10-24T11:01:32Z",
           "viewCount": 3293,
+          "likeCount": 60,
+          "commentCount": 0,
+          "durationSeconds": 51
+        },
+        {
+          "date": "2026-11-15",
+          "title": "헤어케어에 수 억 쓴 여자의 지금 딱 쓰기 좋은 헤어에센스 추천 Best4🌷",
+          "publishedAt": "2026-10-24T11:01:32Z",
+          "viewCount": 3307,
           "likeCount": 60,
           "commentCount": 0,
           "durationSeconds": 51
@@ -3022,8 +3065,8 @@
       "publishedAt": "2026-10-20T11:02:47Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.3220018885741265,
-      "commentRate": 0.03147623544224111,
+      "likeRate": 1.317027281279398,
+      "commentRate": 0.03135779241141424,
       "dailyStats": [
         {
           "date": "2026-10-21",
@@ -3249,6 +3292,15 @@
           "likeCount": 42,
           "commentCount": 1,
           "durationSeconds": 54
+        },
+        {
+          "date": "2026-11-15",
+          "title": "한국엔 절대 없는 일본 화장품 중 이게 제일 신기해요🥰",
+          "publishedAt": "2026-10-20T11:02:47Z",
+          "viewCount": 3189,
+          "likeCount": 42,
+          "commentCount": 1,
+          "durationSeconds": 54
         }
       ],
       "thumbnailFeatures": null
@@ -3259,7 +3311,7 @@
       "publishedAt": "2026-11-11T11:01:07Z",
       "durationSeconds": 57,
       "isShort": true,
-      "likeRate": 0.4897959183673469,
+      "likeRate": 0.4746835443037975,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -3285,6 +3337,15 @@
           "title": "GPT가 시킨대로 해 본 여행 공주 1박 2일 Vlog💜",
           "publishedAt": "2026-11-11T11:01:07Z",
           "viewCount": 1225,
+          "likeCount": 6,
+          "commentCount": 0,
+          "durationSeconds": 57
+        },
+        {
+          "date": "2026-11-15",
+          "title": "GPT가 시킨대로 해 본 여행 공주 1박 2일 Vlog💜",
+          "publishedAt": "2026-11-11T11:01:07Z",
+          "viewCount": 1264,
           "likeCount": 6,
           "commentCount": 0,
           "durationSeconds": 57
@@ -4574,6 +4635,27 @@
       }
     },
     {
+      "videoId": "Kaax__WOW2k",
+      "title": "한번만 써도 피부 좋아지는 고능한 마스크팩 추천 Best3 💜",
+      "publishedAt": "2026-11-14T11:00:35Z",
+      "durationSeconds": 60,
+      "isShort": true,
+      "likeRate": 2.0093770931011385,
+      "commentRate": 0.06697923643670461,
+      "dailyStats": [
+        {
+          "date": "2026-11-15",
+          "title": "한번만 써도 피부 좋아지는 고능한 마스크팩 추천 Best3 💜",
+          "publishedAt": "2026-11-14T11:00:35Z",
+          "viewCount": 1493,
+          "likeCount": 30,
+          "commentCount": 1,
+          "durationSeconds": 60
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "L9O-SotIHag",
       "title": "수건에만 수 천 쓴 여자의 최고의 수건 추천 Best 3🌷",
       "publishedAt": "2026-09-12T10:57:40Z",
@@ -5707,8 +5789,8 @@
       "publishedAt": "2026-10-25T00:00:08Z",
       "durationSeconds": 348,
       "isShort": false,
-      "likeRate": 0.8554319931565441,
-      "commentRate": 0.3421727972626176,
+      "likeRate": 0.8517887563884157,
+      "commentRate": 0.34071550255536626,
       "dailyStats": [
         {
           "date": "2026-10-25",
@@ -5895,6 +5977,15 @@
           "title": "억대연봉 직장 그만두고 뼈저리게 후회한 한 가지 | 다비네스 팝업 구경 | 프레데릭 말 피스마이너스원 GD 지드래곤 참석한 전시 | 정선 파크로쉬 힐링",
           "publishedAt": "2026-10-25T00:00:08Z",
           "viewCount": 1169,
+          "likeCount": 10,
+          "commentCount": 4,
+          "durationSeconds": 348
+        },
+        {
+          "date": "2026-11-15",
+          "title": "억대연봉 직장 그만두고 뼈저리게 후회한 한 가지 | 다비네스 팝업 구경 | 프레데릭 말 피스마이너스원 GD 지드래곤 참석한 전시 | 정선 파크로쉬 힐링",
+          "publishedAt": "2026-10-25T00:00:08Z",
+          "viewCount": 1174,
           "likeCount": 10,
           "commentCount": 4,
           "durationSeconds": 348
@@ -6544,8 +6635,8 @@
       "publishedAt": "2026-10-25T10:51:51Z",
       "durationSeconds": 48,
       "isShort": true,
-      "likeRate": 1.1816192560175056,
-      "commentRate": 0.0437636761487965,
+      "likeRate": 1.1713665943600868,
+      "commentRate": 0.04338394793926247,
       "dailyStats": [
         {
           "date": "2026-10-26",
@@ -6723,6 +6814,15 @@
           "title": "화장품에 수 억 쓴 여자의 왓츠 인 마이 카 뷰티템 소개🌷",
           "publishedAt": "2026-10-25T10:51:51Z",
           "viewCount": 2285,
+          "likeCount": 27,
+          "commentCount": 1,
+          "durationSeconds": 48
+        },
+        {
+          "date": "2026-11-15",
+          "title": "화장품에 수 억 쓴 여자의 왓츠 인 마이 카 뷰티템 소개🌷",
+          "publishedAt": "2026-10-25T10:51:51Z",
+          "viewCount": 2305,
           "likeCount": 27,
           "commentCount": 1,
           "durationSeconds": 48
@@ -8068,8 +8168,8 @@
       "publishedAt": "2026-10-29T01:00:07Z",
       "durationSeconds": 335,
       "isShort": false,
-      "likeRate": 0.8064516129032258,
-      "commentRate": 0.08488964346349745,
+      "likeRate": 0.798990748528175,
+      "commentRate": 0.08410428931875526,
       "dailyStats": [
         {
           "date": "2026-10-29",
@@ -8220,6 +8320,15 @@
           "title": "헤어케어에 수 천 만원 쓴 여자의 극강의 가성비 최고 샴푸 🥰 57% 할인📉 마켓 프루티드 X 알밤마켓 | 온 가족 샴푸는 프루티드가 최고예요!",
           "publishedAt": "2026-10-29T01:00:07Z",
           "viewCount": 2356,
+          "likeCount": 19,
+          "commentCount": 2,
+          "durationSeconds": 335
+        },
+        {
+          "date": "2026-11-15",
+          "title": "헤어케어에 수 천 만원 쓴 여자의 극강의 가성비 최고 샴푸 🥰 57% 할인📉 마켓 프루티드 X 알밤마켓 | 온 가족 샴푸는 프루티드가 최고예요!",
+          "publishedAt": "2026-10-29T01:00:07Z",
+          "viewCount": 2378,
           "likeCount": 19,
           "commentCount": 2,
           "durationSeconds": 335
@@ -8515,8 +8624,8 @@
       "publishedAt": "2026-10-18T11:01:26Z",
       "durationSeconds": 55,
       "isShort": true,
-      "likeRate": 1.8310311596530677,
-      "commentRate": 0.16061676839061997,
+      "likeRate": 1.8181818181818181,
+      "commentRate": 0.1594896331738437,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -8757,6 +8866,15 @@
           "title": "화장품에 수 억 쓴 여자의 진짜 잘 산 공구템 Best4🌷",
           "publishedAt": "2026-10-18T11:01:26Z",
           "viewCount": 3113,
+          "likeCount": 57,
+          "commentCount": 5,
+          "durationSeconds": 55
+        },
+        {
+          "date": "2026-11-15",
+          "title": "화장품에 수 억 쓴 여자의 진짜 잘 산 공구템 Best4🌷",
+          "publishedAt": "2026-10-18T11:01:26Z",
+          "viewCount": 3135,
           "likeCount": 57,
           "commentCount": 5,
           "durationSeconds": 55
@@ -9052,8 +9170,8 @@
       "publishedAt": "2026-11-12T11:01:19Z",
       "durationSeconds": 58,
       "isShort": true,
-      "likeRate": 2.15369554576603,
-      "commentRate": 0.048947626040137054,
+      "likeRate": 2.0104895104895104,
+      "commentRate": 0.043706293706293704,
       "dailyStats": [
         {
           "date": "2026-11-13",
@@ -9070,6 +9188,15 @@
           "publishedAt": "2026-11-12T11:01:19Z",
           "viewCount": 2043,
           "likeCount": 44,
+          "commentCount": 1,
+          "durationSeconds": 58
+        },
+        {
+          "date": "2026-11-15",
+          "title": "비싸지만 돈 값하는 백화점 화장품 Best5💜",
+          "publishedAt": "2026-11-12T11:01:19Z",
+          "viewCount": 2288,
+          "likeCount": 46,
           "commentCount": 1,
           "durationSeconds": 58
         }
@@ -10033,7 +10160,7 @@
       "publishedAt": "2026-10-31T11:00:57Z",
       "durationSeconds": 49,
       "isShort": true,
-      "likeRate": 2.471066624960901,
+      "likeRate": 2.454178316247282,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -10158,6 +10285,15 @@
           "title": "화장품에 수 억 쓴 여자의 따라 쓰면 무조건 윤기나는 목욕템 Best3 🌷",
           "publishedAt": "2026-10-31T11:00:57Z",
           "viewCount": 3197,
+          "likeCount": 79,
+          "commentCount": 0,
+          "durationSeconds": 49
+        },
+        {
+          "date": "2026-11-15",
+          "title": "화장품에 수 억 쓴 여자의 따라 쓰면 무조건 윤기나는 목욕템 Best3 🌷",
+          "publishedAt": "2026-10-31T11:00:57Z",
+          "viewCount": 3219,
           "likeCount": 79,
           "commentCount": 0,
           "durationSeconds": 49
@@ -10747,8 +10883,8 @@
       "publishedAt": "2026-10-18T12:42:48Z",
       "durationSeconds": 193,
       "isShort": false,
-      "likeRate": 0.7538341564855732,
-      "commentRate": 0.12997140629061607,
+      "likeRate": 0.7532467532467533,
+      "commentRate": 0.12987012987012986,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -10989,6 +11125,15 @@
           "title": "드디어 돈, 시간, 커리어를 다 가져버린 어른여자가 됐다고 느꼈던 순간 3가지",
           "publishedAt": "2026-10-18T12:42:48Z",
           "viewCount": 3847,
+          "likeCount": 29,
+          "commentCount": 5,
+          "durationSeconds": 193
+        },
+        {
+          "date": "2026-11-15",
+          "title": "드디어 돈, 시간, 커리어를 다 가져버린 어른여자가 됐다고 느꼈던 순간 3가지",
+          "publishedAt": "2026-10-18T12:42:48Z",
+          "viewCount": 3850,
           "likeCount": 29,
           "commentCount": 5,
           "durationSeconds": 193
@@ -12709,8 +12854,8 @@
       "publishedAt": "2026-10-26T11:03:48Z",
       "durationSeconds": 47,
       "isShort": true,
-      "likeRate": 1.9738839963559063,
-      "commentRate": 0.06073489219556636,
+      "likeRate": 1.9472738166566805,
+      "commentRate": 0.05991611743559017,
       "dailyStats": [
         {
           "date": "2026-10-27",
@@ -12879,6 +13024,15 @@
           "title": "헤어케어에 수 억 쓴 여자가 추천하는 향기 좋은 트리트먼트 best3🌷",
           "publishedAt": "2026-10-26T11:03:48Z",
           "viewCount": 3293,
+          "likeCount": 65,
+          "commentCount": 2,
+          "durationSeconds": 47
+        },
+        {
+          "date": "2026-11-15",
+          "title": "헤어케어에 수 억 쓴 여자가 추천하는 향기 좋은 트리트먼트 best3🌷",
+          "publishedAt": "2026-10-26T11:03:48Z",
+          "viewCount": 3338,
           "likeCount": 65,
           "commentCount": 2,
           "durationSeconds": 47
@@ -13174,8 +13328,8 @@
       "publishedAt": "2026-10-17T11:00:41Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 1.0548523206751055,
-      "commentRate": 0.08438818565400844,
+      "likeRate": 1.0434056761268782,
+      "commentRate": 0.08347245409015025,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -13428,6 +13582,15 @@
           "likeCount": 25,
           "commentCount": 2,
           "durationSeconds": 42
+        },
+        {
+          "date": "2026-11-15",
+          "title": "2026년 하반기 제일 잘 산 명품 신발 아이템 Best3🌷",
+          "publishedAt": "2026-10-17T11:00:41Z",
+          "viewCount": 2396,
+          "likeCount": 25,
+          "commentCount": 2,
+          "durationSeconds": 42
         }
       ],
       "thumbnailFeatures": null
@@ -13438,8 +13601,8 @@
       "publishedAt": "2026-10-19T11:02:56Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 1.0897435897435896,
-      "commentRate": 0.1282051282051282,
+      "likeRate": 1.0828025477707006,
+      "commentRate": 0.12738853503184713,
       "dailyStats": [
         {
           "date": "2026-10-20",
@@ -13671,6 +13834,15 @@
           "title": "뷰티에 수 억 쓴 여자의 무조건 젊어지는 아침 루틴 3가지🌷",
           "publishedAt": "2026-10-19T11:02:56Z",
           "viewCount": 1560,
+          "likeCount": 17,
+          "commentCount": 2,
+          "durationSeconds": 50
+        },
+        {
+          "date": "2026-11-15",
+          "title": "뷰티에 수 억 쓴 여자의 무조건 젊어지는 아침 루틴 3가지🌷",
+          "publishedAt": "2026-10-19T11:02:56Z",
+          "viewCount": 1570,
           "likeCount": 17,
           "commentCount": 2,
           "durationSeconds": 50
@@ -14515,8 +14687,8 @@
       "publishedAt": "2026-11-02T11:01:01Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.3215859030837005,
-      "commentRate": 0.10166045408336156,
+      "likeRate": 1.353135313531353,
+      "commentRate": 0.09900990099009901,
       "dailyStats": [
         {
           "date": "2026-11-03",
@@ -14625,6 +14797,15 @@
           "likeCount": 39,
           "commentCount": 3,
           "durationSeconds": 54
+        },
+        {
+          "date": "2026-11-15",
+          "title": "헤어케어에 수 억 쓴 여자의 가을, 겨울 탈모 샴푸 추천Best3 🌷",
+          "publishedAt": "2026-11-02T11:01:01Z",
+          "viewCount": 3030,
+          "likeCount": 41,
+          "commentCount": 3,
+          "durationSeconds": 54
         }
       ],
       "thumbnailFeatures": null
@@ -14635,8 +14816,8 @@
       "publishedAt": "2026-11-01T13:48:10Z",
       "durationSeconds": 54,
       "isShort": true,
-      "likeRate": 1.455604075691412,
-      "commentRate": 0.10917030567685589,
+      "likeRate": 1.4378145219266714,
+      "commentRate": 0.10783608914450035,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -14751,6 +14932,15 @@
           "title": "가을 겨울엔 하루 두 번 머리 감으면 진짜 큰 일나요🥺",
           "publishedAt": "2026-11-01T13:48:10Z",
           "viewCount": 2748,
+          "likeCount": 40,
+          "commentCount": 3,
+          "durationSeconds": 54
+        },
+        {
+          "date": "2026-11-15",
+          "title": "가을 겨울엔 하루 두 번 머리 감으면 진짜 큰 일나요🥺",
+          "publishedAt": "2026-11-01T13:48:10Z",
+          "viewCount": 2782,
           "likeCount": 40,
           "commentCount": 3,
           "durationSeconds": 54
