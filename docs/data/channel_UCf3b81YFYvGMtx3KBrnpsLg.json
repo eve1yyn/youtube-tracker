@@ -743,6 +743,13 @@
       "subscriberCount": 787000,
       "totalViewCount": 233994376,
       "videoCount": 769
+    },
+    {
+      "date": "2026-11-16",
+      "title": "에바EVA",
+      "subscriberCount": 787000,
+      "totalViewCount": 234255004,
+      "videoCount": 769
     }
   ],
   "videos": [
@@ -1076,8 +1083,8 @@
       "publishedAt": "2026-11-09T12:40:56Z",
       "durationSeconds": 78,
       "isShort": true,
-      "likeRate": 1.5156969826402662,
-      "commentRate": 0.020746254995881258,
+      "likeRate": 1.458028775871355,
+      "commentRate": 0.01978478549995054,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -1131,6 +1138,15 @@
           "viewCount": 163885,
           "likeCount": 2484,
           "commentCount": 34,
+          "durationSeconds": 78
+        },
+        {
+          "date": "2026-11-16",
+          "title": "해외 바이럴 핀터엉니 머리 따라하기",
+          "publishedAt": "2026-11-09T12:40:56Z",
+          "viewCount": 181958,
+          "likeCount": 2653,
+          "commentCount": 36,
           "durationSeconds": 78
         }
       ],
@@ -1424,8 +1440,8 @@
       "publishedAt": "2026-10-24T12:44:40Z",
       "durationSeconds": 175,
       "isShort": true,
-      "likeRate": 1.865952639946448,
-      "commentRate": 0.023581138132221725,
+      "likeRate": 1.8577478749286638,
+      "commentRate": 0.02365362088126633,
       "dailyStats": [
         {
           "date": "2026-10-25",
@@ -1623,6 +1639,15 @@
           "viewCount": 262922,
           "likeCount": 4906,
           "commentCount": 62,
+          "durationSeconds": 175
+        },
+        {
+          "date": "2026-11-16",
+          "title": "혼자 일하는 프리랜서 여성의 하루",
+          "publishedAt": "2026-10-24T12:44:40Z",
+          "viewCount": 266344,
+          "likeCount": 4948,
+          "commentCount": 63,
           "durationSeconds": 175
         }
       ],
@@ -3698,8 +3723,8 @@
       "publishedAt": "2026-10-17T12:18:08Z",
       "durationSeconds": 2531,
       "isShort": false,
-      "likeRate": 0.7829070048824928,
-      "commentRate": 0.0548034903417745,
+      "likeRate": 0.7839318839240659,
+      "commentRate": 0.0547259792041279,
       "dailyStats": [
         {
           "date": "2026-10-18",
@@ -3959,6 +3984,15 @@
           "publishedAt": "2026-10-17T12:18:08Z",
           "viewCount": 140502,
           "likeCount": 1100,
+          "commentCount": 77,
+          "durationSeconds": 2531
+        },
+        {
+          "date": "2026-11-16",
+          "title": "애매하긴 해;",
+          "publishedAt": "2026-10-17T12:18:08Z",
+          "viewCount": 140701,
+          "likeCount": 1103,
           "commentCount": 77,
           "durationSeconds": 2531
         }
@@ -4253,8 +4287,8 @@
       "publishedAt": "2026-10-18T12:34:23Z",
       "durationSeconds": 92,
       "isShort": true,
-      "likeRate": 1.3891013453960068,
-      "commentRate": 0.015296868512488801,
+      "likeRate": 1.3837153830214772,
+      "commentRate": 0.015179186684721065,
       "dailyStats": [
         {
           "date": "2026-10-19",
@@ -4507,6 +4541,15 @@
           "likeCount": 5721,
           "commentCount": 63,
           "durationSeconds": 92
+        },
+        {
+          "date": "2026-11-16",
+          "title": "서울 사는 지방러의 본가 내려가는 날",
+          "publishedAt": "2026-10-18T12:34:23Z",
+          "viewCount": 415042,
+          "likeCount": 5743,
+          "commentCount": 63,
+          "durationSeconds": 92
         }
       ],
       "thumbnailFeatures": null
@@ -4517,8 +4560,8 @@
       "publishedAt": "2026-11-07T12:46:00Z",
       "durationSeconds": 67,
       "isShort": true,
-      "likeRate": 1.240286272402351,
-      "commentRate": 0.023031450725490697,
+      "likeRate": 1.2340566506542985,
+      "commentRate": 0.02236210038098393,
       "dailyStats": [
         {
           "date": "2026-11-08",
@@ -4589,6 +4632,15 @@
           "publishedAt": "2026-11-07T12:46:00Z",
           "viewCount": 117231,
           "likeCount": 1454,
+          "commentCount": 27,
+          "durationSeconds": 67
+        },
+        {
+          "date": "2026-11-16",
+          "title": "뉴욕 쇼핑템 언박싱 ㄱㄱ",
+          "publishedAt": "2026-11-07T12:46:00Z",
+          "viewCount": 120740,
+          "likeCount": 1490,
           "commentCount": 27,
           "durationSeconds": 67
         }
@@ -6011,8 +6063,8 @@
       "publishedAt": "2026-11-08T12:27:45Z",
       "durationSeconds": 1419,
       "isShort": false,
-      "likeRate": 0.9707494736043402,
-      "commentRate": 0.08251607640798983,
+      "likeRate": 0.9552435459299213,
+      "commentRate": 0.08097610518658815,
       "dailyStats": [
         {
           "date": "2026-11-09",
@@ -6075,6 +6127,15 @@
           "viewCount": 210868,
           "likeCount": 2047,
           "commentCount": 174,
+          "durationSeconds": 1419
+        },
+        {
+          "date": "2026-11-16",
+          "title": "갓생 포기 선언",
+          "publishedAt": "2026-11-08T12:27:45Z",
+          "viewCount": 218583,
+          "likeCount": 2088,
+          "commentCount": 177,
           "durationSeconds": 1419
         }
       ],
@@ -7778,8 +7839,8 @@
       "publishedAt": "2026-11-14T12:27:37Z",
       "durationSeconds": 90,
       "isShort": true,
-      "likeRate": 2.3469387755102042,
-      "commentRate": 0.043731778425655975,
+      "likeRate": 2.0512995351902994,
+      "commentRate": 0.029547804939029244,
       "dailyStats": [
         {
           "date": "2026-11-15",
@@ -7788,6 +7849,15 @@
           "viewCount": 109760,
           "likeCount": 2576,
           "commentCount": 48,
+          "durationSeconds": 90
+        },
+        {
+          "date": "2026-11-16",
+          "title": "인스타 속 보여주기식 아침",
+          "publishedAt": "2026-11-14T12:27:37Z",
+          "viewCount": 175986,
+          "likeCount": 3610,
+          "commentCount": 52,
           "durationSeconds": 90
         }
       ],
@@ -7799,8 +7869,8 @@
       "publishedAt": "2026-11-02T13:23:53Z",
       "durationSeconds": 82,
       "isShort": true,
-      "likeRate": 0.9926549281510328,
-      "commentRate": 0.00933756444715154,
+      "likeRate": 0.9856077820506121,
+      "commentRate": 0.009179611095184094,
       "dailyStats": [
         {
           "date": "2026-11-03",
@@ -7916,6 +7986,15 @@
           "publishedAt": "2026-11-02T13:23:53Z",
           "viewCount": 696113,
           "likeCount": 6910,
+          "commentCount": 65,
+          "durationSeconds": 82
+        },
+        {
+          "date": "2026-11-16",
+          "title": "비행 전 24시간 동안 하는 것들",
+          "publishedAt": "2026-11-02T13:23:53Z",
+          "viewCount": 708091,
+          "likeCount": 6979,
           "commentCount": 65,
           "durationSeconds": 82
         }
@@ -8222,8 +8301,8 @@
       "publishedAt": "2026-11-01T13:32:34Z",
       "durationSeconds": 1674,
       "isShort": false,
-      "likeRate": 0.8215014198296203,
-      "commentRate": 0.07319121705395353,
+      "likeRate": 0.8144488526911621,
+      "commentRate": 0.07278221898745693,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -8349,6 +8428,15 @@
           "viewCount": 250030,
           "likeCount": 2054,
           "commentCount": 183,
+          "durationSeconds": 1674
+        },
+        {
+          "date": "2026-11-16",
+          "title": "밥찷이기",
+          "publishedAt": "2026-11-01T13:32:34Z",
+          "viewCount": 252809,
+          "likeCount": 2059,
+          "commentCount": 184,
           "durationSeconds": 1674
         }
       ],
@@ -10754,8 +10842,8 @@
       "publishedAt": "2026-10-29T12:05:05Z",
       "durationSeconds": 166,
       "isShort": true,
-      "likeRate": 1.4456934960701373,
-      "commentRate": 0.047203442610477195,
+      "likeRate": 1.4397841653128023,
+      "commentRate": 0.04687799546892688,
       "dailyStats": [
         {
           "date": "2026-10-30",
@@ -10909,6 +10997,15 @@
           "likeCount": 10260,
           "commentCount": 335,
           "durationSeconds": 166
+        },
+        {
+          "date": "2026-11-16",
+          "title": "객관적 판단 부탁드립니다",
+          "publishedAt": "2026-10-29T12:05:05Z",
+          "viewCount": 714621,
+          "likeCount": 10289,
+          "commentCount": 335,
+          "durationSeconds": 166
         }
       ],
       "thumbnailFeatures": null
@@ -10919,8 +11016,8 @@
       "publishedAt": "2026-10-25T12:25:06Z",
       "durationSeconds": 1398,
       "isShort": false,
-      "likeRate": 0.8337712196115858,
-      "commentRate": 0.15710287289144353,
+      "likeRate": 0.8343769735504105,
+      "commentRate": 0.1546728321719491,
       "dailyStats": [
         {
           "date": "2026-10-26",
@@ -11109,6 +11206,15 @@
           "viewCount": 186502,
           "likeCount": 1555,
           "commentCount": 293,
+          "durationSeconds": 1398
+        },
+        {
+          "date": "2026-11-16",
+          "title": "당신은 축복받았습니다",
+          "publishedAt": "2026-10-25T12:25:06Z",
+          "viewCount": 186846,
+          "likeCount": 1559,
+          "commentCount": 289,
           "durationSeconds": 1398
         }
       ],
