@@ -757,6 +757,13 @@
       "subscriberCount": 1010000,
       "totalViewCount": 16304235,
       "videoCount": 209
+    },
+    {
+      "date": "2026-11-18",
+      "title": "세빈 SEBIN",
+      "subscriberCount": 1010000,
+      "totalViewCount": 16328089,
+      "videoCount": 209
     }
   ],
   "videos": [
@@ -766,8 +773,8 @@
       "publishedAt": "2026-11-10T09:47:49Z",
       "durationSeconds": 880,
       "isShort": false,
-      "likeRate": 2.2196065242979657,
-      "commentRate": 0.22700521271229193,
+      "likeRate": 2.19857568731368,
+      "commentRate": 0.22358396820139118,
       "dailyStats": [
         {
           "date": "2026-11-11",
@@ -829,6 +836,15 @@
           "publishedAt": "2026-11-10T09:47:49Z",
           "viewCount": 23788,
           "likeCount": 528,
+          "commentCount": 54,
+          "durationSeconds": 880
+        },
+        {
+          "date": "2026-11-18",
+          "title": "요청 많았던 청순 메이크업˚✧₊⁎ 🐰",
+          "publishedAt": "2026-11-10T09:47:49Z",
+          "viewCount": 24152,
+          "likeCount": 531,
           "commentCount": 54,
           "durationSeconds": 880
         }
@@ -1939,8 +1955,8 @@
       "publishedAt": "2026-10-27T09:45:55Z",
       "durationSeconds": 64,
       "isShort": true,
-      "likeRate": 7.479853479853479,
-      "commentRate": 0.16117216117216118,
+      "likeRate": 7.4581430745814306,
+      "commentRate": 0.16670290642893382,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -2129,6 +2145,15 @@
           "viewCount": 13650,
           "likeCount": 1021,
           "commentCount": 22,
+          "durationSeconds": 64
+        },
+        {
+          "date": "2026-11-18",
+          "title": "GRWM 핫걸에서 청순녀로 변신",
+          "publishedAt": "2026-10-27T09:45:55Z",
+          "viewCount": 13797,
+          "likeCount": 1029,
+          "commentCount": 23,
           "durationSeconds": 64
         }
       ],
@@ -5047,8 +5072,8 @@
       "publishedAt": "2026-11-01T09:44:38Z",
       "durationSeconds": 988,
       "isShort": false,
-      "likeRate": 1.9808020824859676,
-      "commentRate": 0.20743512568128206,
+      "likeRate": 1.9756777503939233,
+      "commentRate": 0.20605228071593068,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -5193,6 +5218,15 @@
           "likeCount": 487,
           "commentCount": 51,
           "durationSeconds": 988
+        },
+        {
+          "date": "2026-11-18",
+          "title": "와 이건 꼭 사야해.. 한중일 나라별 렌즈 추천🇰🇷🇨🇳🇯🇵 존예 렌즈들만 모아둠!!!",
+          "publishedAt": "2026-11-01T09:44:38Z",
+          "viewCount": 24751,
+          "likeCount": 489,
+          "commentCount": 51,
+          "durationSeconds": 988
         }
       ],
       "thumbnailFeatures": null
@@ -5203,8 +5237,8 @@
       "publishedAt": "2026-11-15T10:45:57Z",
       "durationSeconds": 1148,
       "isShort": false,
-      "likeRate": 2.1421988446062894,
-      "commentRate": 0.14386225189381166,
+      "likeRate": 2.026700116477018,
+      "commentRate": 0.11826897231430875,
       "dailyStats": [
         {
           "date": "2026-11-16",
@@ -5222,6 +5256,15 @@
           "viewCount": 44487,
           "likeCount": 953,
           "commentCount": 64,
+          "durationSeconds": 1148
+        },
+        {
+          "date": "2026-11-18",
+          "title": "새 집 미리 공개 🏠 이사집 보러 갔다가 운동하고 혼밥해먹는 자취생의 일상",
+          "publishedAt": "2026-11-15T10:45:57Z",
+          "viewCount": 55805,
+          "likeCount": 1131,
+          "commentCount": 66,
           "durationSeconds": 1148
         }
       ],
@@ -7531,8 +7574,8 @@
       "publishedAt": "2026-10-25T10:12:14Z",
       "durationSeconds": 1382,
       "isShort": false,
-      "likeRate": 1.7764393855674658,
-      "commentRate": 0.11189081666482484,
+      "likeRate": 1.7754166724012168,
+      "commentRate": 0.11147965152286708,
       "dailyStats": [
         {
           "date": "2026-10-26",
@@ -7738,6 +7781,15 @@
           "publishedAt": "2026-10-25T10:12:14Z",
           "viewCount": 72392,
           "likeCount": 1286,
+          "commentCount": 81,
+          "durationSeconds": 1382
+        },
+        {
+          "date": "2026-11-18",
+          "title": "상해 출장 겸 여행 vlog🌹 패션쇼 갔다가 대표님 카드로 양꼬치 500개 시키기 + 즉흥 앞머리 자름",
+          "publishedAt": "2026-10-25T10:12:14Z",
+          "viewCount": 72659,
+          "likeCount": 1290,
           "commentCount": 81,
           "durationSeconds": 1382
         }
