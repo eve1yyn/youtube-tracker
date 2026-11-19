@@ -764,6 +764,13 @@
       "subscriberCount": 114000,
       "totalViewCount": 17851209,
       "videoCount": 71
+    },
+    {
+      "date": "2026-11-19",
+      "title": "아임지현 Jihyun",
+      "subscriberCount": 114000,
+      "totalViewCount": 17885888,
+      "videoCount": 71
     }
   ],
   "videos": [
@@ -1346,8 +1353,8 @@
       "publishedAt": "2026-10-30T10:00:12Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 1.2463755571904618,
-      "commentRate": 0.034621543255290606,
+      "likeRate": 1.2415398542915033,
+      "commentRate": 0.03448721817476398,
       "dailyStats": [
         {
           "date": "2026-10-31",
@@ -1516,6 +1523,15 @@
           "title": "시원한 맥주 한잔 하겠습니다",
           "publishedAt": "2026-10-30T10:00:12Z",
           "viewCount": 23107,
+          "likeCount": 288,
+          "commentCount": 8,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-11-19",
+          "title": "시원한 맥주 한잔 하겠습니다",
+          "publishedAt": "2026-10-30T10:00:12Z",
+          "viewCount": 23197,
           "likeCount": 288,
           "commentCount": 8,
           "durationSeconds": 56
@@ -1871,8 +1887,8 @@
       "publishedAt": "2026-10-31T09:00:12Z",
       "durationSeconds": 53,
       "isShort": true,
-      "likeRate": 0.7312411989539328,
-      "commentRate": 0.019110842888754778,
+      "likeRate": 0.7255151058001509,
+      "commentRate": 0.01885743777045536,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -2033,6 +2049,15 @@
           "publishedAt": "2026-10-31T09:00:12Z",
           "viewCount": 99420,
           "likeCount": 727,
+          "commentCount": 19,
+          "durationSeconds": 53
+        },
+        {
+          "date": "2026-11-19",
+          "title": "진원 - 고칠게 🥢",
+          "publishedAt": "2026-10-31T09:00:12Z",
+          "viewCount": 100756,
+          "likeCount": 731,
           "commentCount": 19,
           "durationSeconds": 53
         }
@@ -4346,8 +4371,8 @@
       "publishedAt": "2026-10-27T09:00:32Z",
       "durationSeconds": 1520,
       "isShort": false,
-      "likeRate": 0.99197450725835,
-      "commentRate": 0.23840434320783668,
+      "likeRate": 0.9927298007470513,
+      "commentRate": 0.23801948931858083,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -4546,6 +4571,15 @@
           "likeCount": 1681,
           "commentCount": 404,
           "durationSeconds": 1520
+        },
+        {
+          "date": "2026-11-19",
+          "title": "가을을 핑계 삼아 글램핑 ㅋ Vlog [SUB]",
+          "publishedAt": "2026-10-27T09:00:32Z",
+          "viewCount": 169734,
+          "likeCount": 1685,
+          "commentCount": 404,
+          "durationSeconds": 1520
         }
       ],
       "thumbnailFeatures": null
@@ -4556,8 +4590,8 @@
       "publishedAt": "2026-11-07T09:00:10Z",
       "durationSeconds": 1533,
       "isShort": false,
-      "likeRate": 0.7146044787220652,
-      "commentRate": 0.1516174434438329,
+      "likeRate": 0.7149698960043788,
+      "commentRate": 0.1510901295384054,
       "dailyStats": [
         {
           "date": "2026-11-08",
@@ -4655,6 +4689,15 @@
           "publishedAt": "2026-11-07T09:00:10Z",
           "viewCount": 174782,
           "likeCount": 1249,
+          "commentCount": 265,
+          "durationSeconds": 1533
+        },
+        {
+          "date": "2026-11-19",
+          "title": "오랜만에 배우로 돌아갑니다.. Vlog | 송이들 만날 준비 🌹[SUB]",
+          "publishedAt": "2026-11-07T09:00:10Z",
+          "viewCount": 175392,
+          "likeCount": 1254,
           "commentCount": 265,
           "durationSeconds": 1533
         }
@@ -5627,8 +5670,8 @@
       "publishedAt": "2026-11-12T09:00:25Z",
       "durationSeconds": 67,
       "isShort": true,
-      "likeRate": 1.1881627894064737,
-      "commentRate": 0.044417300538559766,
+      "likeRate": 1.173163215656593,
+      "commentRate": 0.04325025679839974,
       "dailyStats": [
         {
           "date": "2026-11-13",
@@ -5681,6 +5724,15 @@
           "publishedAt": "2026-11-12T09:00:25Z",
           "viewCount": 18011,
           "likeCount": 214,
+          "commentCount": 8,
+          "durationSeconds": 67
+        },
+        {
+          "date": "2026-11-19",
+          "title": "마음이 떨리네요... (매우요)",
+          "publishedAt": "2026-11-12T09:00:25Z",
+          "viewCount": 18497,
+          "likeCount": 217,
           "commentCount": 8,
           "durationSeconds": 67
         }
@@ -7258,12 +7310,12 @@
     },
     {
       "videoId": "TQuVTSxMIb8",
-      "title": "화장하고 옷입고 출근하고 윤녕이도 만나는 어른이 여자 Vlog",
+      "title": "화장하고 옷입고 출근하고 윤녕이도 만나는 어른이 여자 Vlog [SUB]",
       "publishedAt": "2026-11-17T09:00:17Z",
       "durationSeconds": 1393,
       "isShort": false,
-      "likeRate": 1.1023964280775234,
-      "commentRate": 0.3299286800877176,
+      "likeRate": 1.00348613690418,
+      "commentRate": 0.27693610921056916,
       "dailyStats": [
         {
           "date": "2026-11-18",
@@ -7272,6 +7324,15 @@
           "viewCount": 50617,
           "likeCount": 558,
           "commentCount": 167,
+          "durationSeconds": 1393
+        },
+        {
+          "date": "2026-11-19",
+          "title": "화장하고 옷입고 출근하고 윤녕이도 만나는 어른이 여자 Vlog [SUB]",
+          "publishedAt": "2026-11-17T09:00:17Z",
+          "viewCount": 61386,
+          "likeCount": 616,
+          "commentCount": 170,
           "durationSeconds": 1393
         }
       ],
@@ -7691,8 +7752,8 @@
       "publishedAt": "2026-11-16T09:00:15Z",
       "durationSeconds": 14,
       "isShort": true,
-      "likeRate": 1.8906605922551254,
-      "commentRate": 0.10630220197418376,
+      "likeRate": 1.5557847687811588,
+      "commentRate": 0.06446621970087674,
       "dailyStats": [
         {
           "date": "2026-11-17",
@@ -7710,6 +7771,15 @@
           "viewCount": 13170,
           "likeCount": 249,
           "commentCount": 14,
+          "durationSeconds": 14
+        },
+        {
+          "date": "2026-11-19",
+          "title": "포토부스에서 영상(만) 잘 찍고 온 사람 🙋🏻‍♀️.. #photobooth",
+          "publishedAt": "2026-11-16T09:00:15Z",
+          "viewCount": 23268,
+          "likeCount": 362,
+          "commentCount": 15,
           "durationSeconds": 14
         }
       ],
@@ -9194,8 +9264,8 @@
       "publishedAt": "2026-11-15T09:00:34Z",
       "durationSeconds": 29,
       "isShort": true,
-      "likeRate": 1.296405421331762,
-      "commentRate": 0.11785503830288745,
+      "likeRate": 1.257174091281771,
+      "commentRate": 0.10931948619841486,
       "dailyStats": [
         {
           "date": "2026-11-16",
@@ -9221,6 +9291,15 @@
           "publishedAt": "2026-11-15T09:00:34Z",
           "viewCount": 3394,
           "likeCount": 44,
+          "commentCount": 4,
+          "durationSeconds": 29
+        },
+        {
+          "date": "2026-11-19",
+          "title": "우리 곧 만나 💌",
+          "publishedAt": "2026-11-15T09:00:34Z",
+          "viewCount": 3659,
+          "likeCount": 46,
           "commentCount": 4,
           "durationSeconds": 29
         }
@@ -9710,8 +9789,8 @@
       "publishedAt": "2026-11-01T09:00:36Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 0.9814024240639874,
-      "commentRate": 0.014721036360959812,
+      "likeRate": 0.9799619716249817,
+      "commentRate": 0.01462629808395495,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -9863,6 +9942,15 @@
           "publishedAt": "2026-11-01T09:00:36Z",
           "viewCount": 20379,
           "likeCount": 200,
+          "commentCount": 3,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-11-19",
+          "title": "언니랑 살자 ㅋ",
+          "publishedAt": "2026-11-01T09:00:36Z",
+          "viewCount": 20511,
+          "likeCount": 201,
           "commentCount": 3,
           "durationSeconds": 33
         }
@@ -11489,8 +11577,8 @@
       "publishedAt": "2026-11-13T09:00:23Z",
       "durationSeconds": 17,
       "isShort": true,
-      "likeRate": 0.5833730465219463,
-      "commentRate": 0.008216521781999244,
+      "likeRate": 0.5705976259345314,
+      "commentRate": 0.007903014209619549,
       "dailyStats": [
         {
           "date": "2026-11-14",
@@ -11534,6 +11622,15 @@
           "publishedAt": "2026-11-13T09:00:23Z",
           "viewCount": 60853,
           "likeCount": 355,
+          "commentCount": 5,
+          "durationSeconds": 17
+        },
+        {
+          "date": "2026-11-19",
+          "title": "너 이런 언니 만나봤어?",
+          "publishedAt": "2026-11-13T09:00:23Z",
+          "viewCount": 63267,
+          "likeCount": 361,
           "commentCount": 5,
           "durationSeconds": 17
         }

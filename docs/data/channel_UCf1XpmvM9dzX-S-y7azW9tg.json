@@ -764,6 +764,13 @@
       "subscriberCount": 8820,
       "totalViewCount": 1635667,
       "videoCount": 49
+    },
+    {
+      "date": "2026-11-19",
+      "title": "김곰돌자취일기",
+      "subscriberCount": 8820,
+      "totalViewCount": 1635691,
+      "videoCount": 49
     }
   ],
   "videos": [
@@ -2183,8 +2190,8 @@
       "publishedAt": "2026-11-06T14:01:38Z",
       "durationSeconds": 35,
       "isShort": true,
-      "likeRate": 5.232558139534884,
-      "commentRate": 1.744186046511628,
+      "likeRate": 5.202312138728324,
+      "commentRate": 1.7341040462427744,
       "dailyStats": [
         {
           "date": "2026-11-07",
@@ -2290,6 +2297,15 @@
           "title": "겨울 잠옷 이것보고 구매하세요! #잠옷추천",
           "publishedAt": "2026-11-06T14:01:38Z",
           "viewCount": 172,
+          "likeCount": 9,
+          "commentCount": 3,
+          "durationSeconds": 35
+        },
+        {
+          "date": "2026-11-19",
+          "title": "겨울 잠옷 이것보고 구매하세요! #잠옷추천",
+          "publishedAt": "2026-11-06T14:01:38Z",
+          "viewCount": 173,
           "likeCount": 9,
           "commentCount": 3,
           "durationSeconds": 35
