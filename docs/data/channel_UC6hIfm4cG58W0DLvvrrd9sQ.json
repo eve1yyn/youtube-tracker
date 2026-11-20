@@ -771,6 +771,13 @@
       "subscriberCount": 44700,
       "totalViewCount": 1669917,
       "videoCount": 38
+    },
+    {
+      "date": "2026-11-20",
+      "title": "설아의날들 (Seola's Moments)",
+      "subscriberCount": 44700,
+      "totalViewCount": 1671139,
+      "videoCount": 38
     }
   ],
   "videos": [
@@ -1722,8 +1729,8 @@
       "publishedAt": "2026-10-31T10:00:22Z",
       "durationSeconds": 729,
       "isShort": false,
-      "likeRate": 2.9800142755174877,
-      "commentRate": 0.39257673090649536,
+      "likeRate": 2.9740767045454546,
+      "commentRate": 0.390625,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -1893,6 +1900,15 @@
           "publishedAt": "2026-10-31T10:00:22Z",
           "viewCount": 11208,
           "likeCount": 334,
+          "commentCount": 44,
+          "durationSeconds": 729
+        },
+        {
+          "date": "2026-11-20",
+          "title": "만복이와 나의 특별한 가을소풍",
+          "publishedAt": "2026-10-31T10:00:22Z",
+          "viewCount": 11264,
+          "likeCount": 335,
           "commentCount": 44,
           "durationSeconds": 729
         }
