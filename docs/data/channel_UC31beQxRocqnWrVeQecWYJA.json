@@ -778,6 +778,13 @@
       "subscriberCount": 60000,
       "totalViewCount": 29163819,
       "videoCount": 790
+    },
+    {
+      "date": "2026-11-21",
+      "title": "상큼한 뿌미맘_MinimalTV",
+      "subscriberCount": 60000,
+      "totalViewCount": 29166740,
+      "videoCount": 790
     }
   ],
   "videos": [
@@ -1633,8 +1640,8 @@
       "publishedAt": "2026-10-22T09:50:35Z",
       "durationSeconds": 38,
       "isShort": true,
-      "likeRate": 1.559792027729636,
-      "commentRate": 0.05777007510109763,
+      "likeRate": 1.552021460049818,
+      "commentRate": 0.057482276298141406,
       "dailyStats": [
         {
           "date": "2026-10-23",
@@ -1893,6 +1900,15 @@
           "title": "🩵냄비 뚜껑 세균 걱정 안 되세요?",
           "publishedAt": "2026-10-22T09:50:35Z",
           "viewCount": 5193,
+          "likeCount": 81,
+          "commentCount": 3,
+          "durationSeconds": 38
+        },
+        {
+          "date": "2026-11-21",
+          "title": "🩵냄비 뚜껑 세균 걱정 안 되세요?",
+          "publishedAt": "2026-10-22T09:50:35Z",
+          "viewCount": 5219,
           "likeCount": 81,
           "commentCount": 3,
           "durationSeconds": 38
@@ -2188,8 +2204,8 @@
       "publishedAt": "2026-11-14T03:43:26Z",
       "durationSeconds": 51,
       "isShort": true,
-      "likeRate": 2.954719877206447,
-      "commentRate": 0.23023791250959325,
+      "likeRate": 3.0494607660840463,
+      "commentRate": 0.2231312755671253,
       "dailyStats": [
         {
           "date": "2026-11-14",
@@ -2251,6 +2267,15 @@
           "publishedAt": "2026-11-14T03:43:26Z",
           "viewCount": 2606,
           "likeCount": 77,
+          "commentCount": 6,
+          "durationSeconds": 51
+        },
+        {
+          "date": "2026-11-21",
+          "title": "❤️크리스마스 트리는 여전히 소망을 주네요",
+          "publishedAt": "2026-11-14T03:43:26Z",
+          "viewCount": 2689,
+          "likeCount": 82,
           "commentCount": 6,
           "durationSeconds": 51
         }
@@ -4519,8 +4544,8 @@
       "publishedAt": "2026-11-17T11:39:26Z",
       "durationSeconds": 52,
       "isShort": true,
-      "likeRate": 2.297668038408779,
-      "commentRate": 0.034293552812071325,
+      "likeRate": 2.433830240340736,
+      "commentRate": 0.0608457560085184,
       "dailyStats": [
         {
           "date": "2026-11-18",
@@ -4547,6 +4572,15 @@
           "viewCount": 2916,
           "likeCount": 67,
           "commentCount": 1,
+          "durationSeconds": 52
+        },
+        {
+          "date": "2026-11-21",
+          "title": "💙가계부 쓰는데 왜 돈이 없어요?",
+          "publishedAt": "2026-11-17T11:39:26Z",
+          "viewCount": 3287,
+          "likeCount": 80,
+          "commentCount": 2,
           "durationSeconds": 52
         }
       ],
@@ -4840,8 +4874,8 @@
       "publishedAt": "2026-11-04T07:40:18Z",
       "durationSeconds": 38,
       "isShort": true,
-      "likeRate": 1.7139479905437354,
-      "commentRate": 0.14775413711583923,
+      "likeRate": 1.7446932247746436,
+      "commentRate": 0.14539110206455366,
       "dailyStats": [
         {
           "date": "2026-11-05",
@@ -4984,6 +5018,15 @@
           "publishedAt": "2026-11-04T07:40:18Z",
           "viewCount": 3384,
           "likeCount": 58,
+          "commentCount": 5,
+          "durationSeconds": 38
+        },
+        {
+          "date": "2026-11-21",
+          "title": "🩵싱크대 수전 닦은 적 있으세요?",
+          "publishedAt": "2026-11-04T07:40:18Z",
+          "viewCount": 3439,
+          "likeCount": 60,
           "commentCount": 5,
           "durationSeconds": 38
         }
@@ -5560,8 +5603,8 @@
       "publishedAt": "2026-10-29T08:42:45Z",
       "durationSeconds": 35,
       "isShort": true,
-      "likeRate": 1.794697484704283,
-      "commentRate": 0.17675050985723997,
+      "likeRate": 1.7975402081362346,
+      "commentRate": 0.17569941884038384,
       "dailyStats": [
         {
           "date": "2026-10-30",
@@ -5758,6 +5801,15 @@
           "publishedAt": "2026-10-29T08:42:45Z",
           "viewCount": 7355,
           "likeCount": 132,
+          "commentCount": 13,
+          "durationSeconds": 35
+        },
+        {
+          "date": "2026-11-21",
+          "title": "🧡배달 음식 통 10초 만에 씻는 법",
+          "publishedAt": "2026-10-29T08:42:45Z",
+          "viewCount": 7399,
+          "likeCount": 133,
           "commentCount": 13,
           "durationSeconds": 35
         }
@@ -7462,8 +7514,8 @@
       "publishedAt": "2026-10-27T08:20:11Z",
       "durationSeconds": 46,
       "isShort": true,
-      "likeRate": 1.1492479753181644,
-      "commentRate": 0.04627844195912071,
+      "likeRate": 1.1467713384129916,
+      "commentRate": 0.046178711613945975,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -7677,6 +7729,15 @@
           "title": "🩵늘 깔끔한 집을 위한 아주 작은 습관",
           "publishedAt": "2026-10-27T08:20:11Z",
           "viewCount": 12965,
+          "likeCount": 149,
+          "commentCount": 6,
+          "durationSeconds": 46
+        },
+        {
+          "date": "2026-11-21",
+          "title": "🩵늘 깔끔한 집을 위한 아주 작은 습관",
+          "publishedAt": "2026-10-27T08:20:11Z",
+          "viewCount": 12993,
           "likeCount": 149,
           "commentCount": 6,
           "durationSeconds": 46
@@ -9946,8 +10007,8 @@
       "publishedAt": "2026-10-31T06:12:04Z",
       "durationSeconds": 27,
       "isShort": true,
-      "likeRate": 1.8192154633314381,
-      "commentRate": 0.312677657760091,
+      "likeRate": 1.8647369885889231,
+      "commentRate": 0.30615084887280825,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -10126,6 +10187,15 @@
           "publishedAt": "2026-10-31T06:12:04Z",
           "viewCount": 3518,
           "likeCount": 64,
+          "commentCount": 11,
+          "durationSeconds": 27
+        },
+        {
+          "date": "2026-11-21",
+          "title": "💙살 쪘다고 청바지 사지 마세요!",
+          "publishedAt": "2026-10-31T06:12:04Z",
+          "viewCount": 3593,
+          "likeCount": 67,
           "commentCount": 11,
           "durationSeconds": 27
         }
@@ -11830,7 +11900,7 @@
       "publishedAt": "2026-11-02T12:00:20Z",
       "durationSeconds": 33,
       "isShort": true,
-      "likeRate": 1.8997197134848955,
+      "likeRate": 1.92896509491733,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -11992,6 +12062,15 @@
           "publishedAt": "2026-11-02T12:00:20Z",
           "viewCount": 3211,
           "likeCount": 61,
+          "commentCount": 0,
+          "durationSeconds": 33
+        },
+        {
+          "date": "2026-11-21",
+          "title": "🩷아이 방이 늘 깨끗한 비결",
+          "publishedAt": "2026-11-02T12:00:20Z",
+          "viewCount": 3266,
+          "likeCount": 63,
           "commentCount": 0,
           "durationSeconds": 33
         }
@@ -13414,8 +13493,8 @@
       "publishedAt": "2026-10-23T05:59:27Z",
       "durationSeconds": 50,
       "isShort": true,
-      "likeRate": 1.4294996751137101,
-      "commentRate": 0.10829542993285683,
+      "likeRate": 1.4337175792507204,
+      "commentRate": 0.10806916426512969,
       "dailyStats": [
         {
           "date": "2026-10-24",
@@ -13666,6 +13745,15 @@
           "publishedAt": "2026-10-23T05:59:27Z",
           "viewCount": 13851,
           "likeCount": 198,
+          "commentCount": 15,
+          "durationSeconds": 50
+        },
+        {
+          "date": "2026-11-21",
+          "title": "💙요일별로 청소하는 이유",
+          "publishedAt": "2026-10-23T05:59:27Z",
+          "viewCount": 13880,
+          "likeCount": 199,
           "commentCount": 15,
           "durationSeconds": 50
         }

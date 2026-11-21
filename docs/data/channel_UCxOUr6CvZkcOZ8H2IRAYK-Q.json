@@ -778,6 +778,13 @@
       "subscriberCount": 126000,
       "totalViewCount": 9088655,
       "videoCount": 113
+    },
+    {
+      "date": "2026-11-21",
+      "title": "némo 김네모",
+      "subscriberCount": 126000,
+      "totalViewCount": 9095057,
+      "videoCount": 113
     }
   ],
   "videos": [
@@ -3580,8 +3587,8 @@
       "publishedAt": "2026-11-09T13:14:36Z",
       "durationSeconds": 1330,
       "isShort": false,
-      "likeRate": 1.3806941431670283,
-      "commentRate": 0.04880694143167028,
+      "likeRate": 1.3694406345358467,
+      "commentRate": 0.047845363784249306,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -3679,6 +3686,15 @@
           "publishedAt": "2026-11-09T13:14:36Z",
           "viewCount": 92200,
           "likeCount": 1273,
+          "commentCount": 45,
+          "durationSeconds": 1330
+        },
+        {
+          "date": "2026-11-21",
+          "title": "NO배달, 악성 집밥파가 바로 나예요 | 오는정 김밥, 치즈폭탄 라볶퀸, 목살 김치찜, 꽃게라면, 무생채비빔밥 등",
+          "publishedAt": "2026-11-09T13:14:36Z",
+          "viewCount": 94053,
+          "likeCount": 1288,
           "commentCount": 45,
           "durationSeconds": 1330
         }
@@ -6172,8 +6188,8 @@
       "publishedAt": "2026-10-30T13:29:39Z",
       "durationSeconds": 1240,
       "isShort": false,
-      "likeRate": 1.6005877568156177,
-      "commentRate": 0.059038072997297374,
+      "likeRate": 1.5996965416208864,
+      "commentRate": 0.058860461466017894,
       "dailyStats": [
         {
           "date": "2026-10-31",
@@ -6361,6 +6377,15 @@
           "publishedAt": "2026-10-30T13:29:39Z",
           "viewCount": 76222,
           "likeCount": 1220,
+          "commentCount": 45,
+          "durationSeconds": 1240
+        },
+        {
+          "date": "2026-11-21",
+          "title": "지치고 병든 나그네여 집밥 먹어라 | 감바스 짜파게티, 멕시카나 고추화삭, 토마토 카레, 스카치에그, 임실치즈피자 등",
+          "publishedAt": "2026-10-30T13:29:39Z",
+          "viewCount": 76452,
+          "likeCount": 1223,
           "commentCount": 45,
           "durationSeconds": 1240
         }
