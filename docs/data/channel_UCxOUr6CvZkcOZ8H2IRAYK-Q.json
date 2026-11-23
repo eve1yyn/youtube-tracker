@@ -792,6 +792,13 @@
       "subscriberCount": 126000,
       "totalViewCount": 9097542,
       "videoCount": 113
+    },
+    {
+      "date": "2026-11-23",
+      "title": "némo 김네모",
+      "subscriberCount": 126000,
+      "totalViewCount": 9106833,
+      "videoCount": 114
     }
   ],
   "videos": [
@@ -3594,8 +3601,8 @@
       "publishedAt": "2026-11-09T13:14:36Z",
       "durationSeconds": 1330,
       "isShort": false,
-      "likeRate": 1.3531714956930305,
-      "commentRate": 0.04698512137823023,
+      "likeRate": 1.3504611330698288,
+      "commentRate": 0.048377799736495385,
       "dailyStats": [
         {
           "date": "2026-11-10",
@@ -3712,6 +3719,15 @@
           "viewCount": 95775,
           "likeCount": 1296,
           "commentCount": 45,
+          "durationSeconds": 1330
+        },
+        {
+          "date": "2026-11-23",
+          "title": "NO배달, 악성 집밥파가 바로 나예요 | 오는정 김밥, 치즈폭탄 라볶퀸, 목살 김치찜, 꽃게라면, 무생채비빔밥 등",
+          "publishedAt": "2026-11-09T13:14:36Z",
+          "viewCount": 97152,
+          "likeCount": 1312,
+          "commentCount": 47,
           "durationSeconds": 1330
         }
       ],
@@ -5917,6 +5933,27 @@
       }
     },
     {
+      "videoId": "tNSsNzp9hxo",
+      "title": "사는 게 버거워도 집밥 처하자. 콩불, 어묵탕, 서울엄마 파기름 떡볶이, 크림탑 스초생, 나폴리탄 스파게티, 청국장 처하자",
+      "publishedAt": "2026-11-22T13:19:33Z",
+      "durationSeconds": 1334,
+      "isShort": false,
+      "likeRate": 2.7633542226201135,
+      "commentRate": 0.23276633840644584,
+      "dailyStats": [
+        {
+          "date": "2026-11-23",
+          "title": "사는 게 버거워도 집밥 처하자. 콩불, 어묵탕, 서울엄마 파기름 떡볶이, 크림탑 스초생, 나폴리탄 스파게티, 청국장 처하자",
+          "publishedAt": "2026-11-22T13:19:33Z",
+          "viewCount": 16755,
+          "likeCount": 463,
+          "commentCount": 39,
+          "durationSeconds": 1334
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
       "videoId": "vb6ga8Ob5_c",
       "title": "금손과 똥손 사이 그 어딘가, 자취생 일주일 집밥 기록 | 쫀득 감자 치킨?, 크림 김볶밥, 삼겹살 김밥, 봉골레 수제비, 마제소바 등",
       "publishedAt": "2026-09-15T12:49:33Z",
@@ -6204,8 +6241,8 @@
       "publishedAt": "2026-10-30T13:29:39Z",
       "durationSeconds": 1240,
       "isShort": false,
-      "likeRate": 1.5968272191201796,
-      "commentRate": 0.05870688305588895,
+      "likeRate": 1.6000520765525321,
+      "commentRate": 0.0572842077854446,
       "dailyStats": [
         {
           "date": "2026-10-31",
@@ -6412,6 +6449,15 @@
           "viewCount": 76652,
           "likeCount": 1224,
           "commentCount": 45,
+          "durationSeconds": 1240
+        },
+        {
+          "date": "2026-11-23",
+          "title": "지치고 병든 나그네여 집밥 먹어라 | 감바스 짜파게티, 멕시카나 고추화삭, 토마토 카레, 스카치에그, 임실치즈피자 등",
+          "publishedAt": "2026-10-30T13:29:39Z",
+          "viewCount": 76810,
+          "likeCount": 1229,
+          "commentCount": 44,
           "durationSeconds": 1240
         }
       ],

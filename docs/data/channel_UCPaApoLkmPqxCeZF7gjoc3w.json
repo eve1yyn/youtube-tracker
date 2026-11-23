@@ -792,6 +792,13 @@
       "subscriberCount": 2380000,
       "totalViewCount": 438204851,
       "videoCount": 330
+    },
+    {
+      "date": "2026-11-23",
+      "title": "planD플랜디",
+      "subscriberCount": 2380000,
+      "totalViewCount": 438478931,
+      "videoCount": 330
     }
   ],
   "videos": [
@@ -1083,8 +1090,8 @@
       "publishedAt": "2026-11-15T09:01:30Z",
       "durationSeconds": 2084,
       "isShort": false,
-      "likeRate": 1.6121799082248807,
-      "commentRate": 0.039976082298636056,
+      "likeRate": 1.5671146684929163,
+      "commentRate": 0.03841544322218893,
       "dailyStats": [
         {
           "date": "2026-11-16",
@@ -1147,6 +1154,15 @@
           "viewCount": 883028,
           "likeCount": 14236,
           "commentCount": 353,
+          "durationSeconds": 2084
+        },
+        {
+          "date": "2026-11-23",
+          "title": "남대문에서 5만원에 안경 맞추기. 가방사고 영화보는 일상. 대패 꿔바로우, 김파스타,커트러리 만들기",
+          "publishedAt": "2026-11-15T09:01:30Z",
+          "viewCount": 934520,
+          "likeCount": 14645,
+          "commentCount": 359,
           "durationSeconds": 2084
         }
       ],
@@ -3234,8 +3250,8 @@
       "publishedAt": "2026-11-18T05:03:46Z",
       "durationSeconds": 94,
       "isShort": true,
-      "likeRate": 3.494916804446477,
-      "commentRate": 0.06859675660463645,
+      "likeRate": 3.445485806756119,
+      "commentRate": 0.06742633672712561,
       "dailyStats": [
         {
           "date": "2026-11-18",
@@ -3280,6 +3296,15 @@
           "viewCount": 56854,
           "likeCount": 1987,
           "commentCount": 39,
+          "durationSeconds": 94
+        },
+        {
+          "date": "2026-11-23",
+          "title": "인절미 만원어치로 찰떡 디저트 만들기🍓",
+          "publishedAt": "2026-11-18T05:03:46Z",
+          "viewCount": 59324,
+          "likeCount": 2044,
+          "commentCount": 40,
           "durationSeconds": 94
         }
       ],
@@ -3636,8 +3661,8 @@
       "publishedAt": "2026-11-05T10:43:37Z",
       "durationSeconds": 2512,
       "isShort": false,
-      "likeRate": 1.5353188194061904,
-      "commentRate": 0.03542659609289552,
+      "likeRate": 1.5288393343772224,
+      "commentRate": 0.035115033883534805,
       "dailyStats": [
         {
           "date": "2026-11-06",
@@ -3789,6 +3814,15 @@
           "publishedAt": "2026-11-05T10:43:37Z",
           "viewCount": 1002072,
           "likeCount": 15385,
+          "commentCount": 355,
+          "durationSeconds": 2512
+        },
+        {
+          "date": "2026-11-23",
+          "title": "모란시장 5일장 투어, 시장표 인절미로 고디바 찹쌀떡🍓 디저트 3종 만들어 먹는 자취일상",
+          "publishedAt": "2026-11-05T10:43:37Z",
+          "viewCount": 1010963,
+          "likeCount": 15456,
           "commentCount": 355,
           "durationSeconds": 2512
         }

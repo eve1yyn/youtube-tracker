@@ -792,6 +792,13 @@
       "subscriberCount": 8100,
       "totalViewCount": 2689791,
       "videoCount": 279
+    },
+    {
+      "date": "2026-11-23",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8100,
+      "totalViewCount": 2690227,
+      "videoCount": 279
     }
   ],
   "videos": [
@@ -3807,7 +3814,7 @@
       "publishedAt": "2026-11-13T07:00:07Z",
       "durationSeconds": 602,
       "isShort": false,
-      "likeRate": 4.3852106620808255,
+      "likeRate": 4.355251921434671,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -3887,6 +3894,15 @@
           "title": "[나래이션]다 갖추고 살 필요 없는 삶!",
           "publishedAt": "2026-11-13T07:00:07Z",
           "viewCount": 1163,
+          "likeCount": 51,
+          "commentCount": 0,
+          "durationSeconds": 602
+        },
+        {
+          "date": "2026-11-23",
+          "title": "[나래이션]다 갖추고 살 필요 없는 삶!",
+          "publishedAt": "2026-11-13T07:00:07Z",
+          "viewCount": 1171,
           "likeCount": 51,
           "commentCount": 0,
           "durationSeconds": 602
