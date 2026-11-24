@@ -799,9 +799,37 @@
       "subscriberCount": 2380000,
       "totalViewCount": 438478931,
       "videoCount": 330
+    },
+    {
+      "date": "2026-11-24",
+      "title": "planD플랜디",
+      "subscriberCount": 2380000,
+      "totalViewCount": 438689005,
+      "videoCount": 331
     }
   ],
   "videos": [
+    {
+      "videoId": "0wHyFvWqCk0",
+      "title": "주말에도 일하는 자취생의 월동준비",
+      "publishedAt": "2026-11-23T09:00:40Z",
+      "durationSeconds": 76,
+      "isShort": true,
+      "likeRate": 2.8441733456273495,
+      "commentRate": 0.046102560465281224,
+      "dailyStats": [
+        {
+          "date": "2026-11-24",
+          "title": "주말에도 일하는 자취생의 월동준비",
+          "publishedAt": "2026-11-23T09:00:40Z",
+          "viewCount": 56396,
+          "likeCount": 1604,
+          "commentCount": 26,
+          "durationSeconds": 76
+        }
+      ],
+      "thumbnailFeatures": null
+    },
     {
       "videoId": "1eQ9aCgYL7U",
       "title": "남대문 쇼핑🛍️ 알찬 코스소개, 귀여운 송편만들고 제철새우🦐 먹는 자취일상",
@@ -1090,8 +1118,8 @@
       "publishedAt": "2026-11-15T09:01:30Z",
       "durationSeconds": 2084,
       "isShort": false,
-      "likeRate": 1.5671146684929163,
-      "commentRate": 0.03841544322218893,
+      "likeRate": 1.5341777067037252,
+      "commentRate": 0.03729684713912746,
       "dailyStats": [
         {
           "date": "2026-11-16",
@@ -1163,6 +1191,15 @@
           "viewCount": 934520,
           "likeCount": 14645,
           "commentCount": 359,
+          "durationSeconds": 2084
+        },
+        {
+          "date": "2026-11-24",
+          "title": "남대문에서 5만원에 안경 맞추기. 가방사고 영화보는 일상. 대패 꿔바로우, 김파스타,커트러리 만들기",
+          "publishedAt": "2026-11-15T09:01:30Z",
+          "viewCount": 978635,
+          "likeCount": 15014,
+          "commentCount": 365,
           "durationSeconds": 2084
         }
       ],
@@ -3250,8 +3287,8 @@
       "publishedAt": "2026-11-18T05:03:46Z",
       "durationSeconds": 94,
       "isShort": true,
-      "likeRate": 3.445485806756119,
-      "commentRate": 0.06742633672712561,
+      "likeRate": 3.390871476596845,
+      "commentRate": 0.06464959917248513,
       "dailyStats": [
         {
           "date": "2026-11-18",
@@ -3304,6 +3341,15 @@
           "publishedAt": "2026-11-18T05:03:46Z",
           "viewCount": 59324,
           "likeCount": 2044,
+          "commentCount": 40,
+          "durationSeconds": 94
+        },
+        {
+          "date": "2026-11-24",
+          "title": "인절미 만원어치로 찰떡 디저트 만들기🍓",
+          "publishedAt": "2026-11-18T05:03:46Z",
+          "viewCount": 61872,
+          "likeCount": 2098,
           "commentCount": 40,
           "durationSeconds": 94
         }
@@ -3661,8 +3707,8 @@
       "publishedAt": "2026-11-05T10:43:37Z",
       "durationSeconds": 2512,
       "isShort": false,
-      "likeRate": 1.5288393343772224,
-      "commentRate": 0.035115033883534805,
+      "likeRate": 1.525138816057085,
+      "commentRate": 0.0347959048650556,
       "dailyStats": [
         {
           "date": "2026-11-06",
@@ -3823,6 +3869,15 @@
           "publishedAt": "2026-11-05T10:43:37Z",
           "viewCount": 1010963,
           "likeCount": 15456,
+          "commentCount": 355,
+          "durationSeconds": 2512
+        },
+        {
+          "date": "2026-11-24",
+          "title": "모란시장 5일장 투어, 시장표 인절미로 고디바 찹쌀떡🍓 디저트 3종 만들어 먹는 자취일상",
+          "publishedAt": "2026-11-05T10:43:37Z",
+          "viewCount": 1020235,
+          "likeCount": 15560,
           "commentCount": 355,
           "durationSeconds": 2512
         }
