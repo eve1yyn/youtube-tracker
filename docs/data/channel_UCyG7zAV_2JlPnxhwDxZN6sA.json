@@ -806,6 +806,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 359897582,
       "videoCount": 232
+    },
+    {
+      "date": "2026-11-25",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 359921383,
+      "videoCount": 232
     }
   ],
   "videos": [
@@ -2339,8 +2346,8 @@
       "publishedAt": "2026-11-01T12:02:22Z",
       "durationSeconds": 1750,
       "isShort": false,
-      "likeRate": 1.1716192579418978,
-      "commentRate": 0.05537260879903326,
+      "likeRate": 1.166005103487383,
+      "commentRate": 0.05541665592700466,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -2547,6 +2554,15 @@
           "viewCount": 307011,
           "likeCount": 3597,
           "commentCount": 170,
+          "durationSeconds": 1750
+        },
+        {
+          "date": "2026-11-25",
+          "title": "vlog | 프라이빗한 1인 사우나 🧖🏻‍♀️♨️ 즐기고 매콤한 등갈비찜 만들어먹는 집순이 일상 | 비오는 날 곰돌이 식빵 굽고 요즘 푹빠진 사우나 꿀템",
+          "publishedAt": "2026-11-01T12:02:22Z",
+          "viewCount": 310376,
+          "likeCount": 3619,
+          "commentCount": 172,
           "durationSeconds": 1750
         }
       ],
@@ -3122,8 +3138,8 @@
       "publishedAt": "2026-10-27T14:40:26Z",
       "durationSeconds": 1428,
       "isShort": false,
-      "likeRate": 1.0586447025840475,
-      "commentRate": 0.05417921711031276,
+      "likeRate": 1.0582814861757566,
+      "commentRate": 0.05395244477367806,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -3374,6 +3390,15 @@
           "publishedAt": "2026-10-27T14:40:26Z",
           "viewCount": 465123,
           "likeCount": 4924,
+          "commentCount": 252,
+          "durationSeconds": 1428
+        },
+        {
+          "date": "2026-11-25",
+          "title": "vlog | 새 맥북 언박싱하고 비오는 날 순두부 쫄면  🚘 나 홀로 차에서 도시락 까먹는 내향형 집순이 인간의 자취 일상  🛋️",
+          "publishedAt": "2026-10-27T14:40:26Z",
+          "viewCount": 467078,
+          "likeCount": 4943,
           "commentCount": 252,
           "durationSeconds": 1428
         }
