@@ -813,6 +813,13 @@
       "subscriberCount": 727000,
       "totalViewCount": 127545980,
       "videoCount": 358
+    },
+    {
+      "date": "2026-11-26",
+      "title": "효뎡 Dyeong",
+      "subscriberCount": 727000,
+      "totalViewCount": 127555139,
+      "videoCount": 358
     }
   ],
   "videos": [
@@ -1104,8 +1111,8 @@
       "publishedAt": "2026-10-31T12:50:24Z",
       "durationSeconds": 46,
       "isShort": true,
-      "likeRate": 2.018533810441325,
-      "commentRate": 0.027525461051472612,
+      "likeRate": 2.0144675396026006,
+      "commentRate": 0.027470011903671827,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -1328,6 +1335,15 @@
           "title": "가을맞이 보늬밤 만들기🌰 오래 두고 먹는 달달한 밤조림 | Candied Chestnuts",
           "publishedAt": "2026-10-31T12:50:24Z",
           "viewCount": 10899,
+          "likeCount": 220,
+          "commentCount": 3,
+          "durationSeconds": 46
+        },
+        {
+          "date": "2026-11-26",
+          "title": "가을맞이 보늬밤 만들기🌰 오래 두고 먹는 달달한 밤조림 | Candied Chestnuts",
+          "publishedAt": "2026-10-31T12:50:24Z",
+          "viewCount": 10921,
           "likeCount": 220,
           "commentCount": 3,
           "durationSeconds": 46
@@ -2733,8 +2749,8 @@
       "publishedAt": "2026-11-17T09:00:32Z",
       "durationSeconds": 1114,
       "isShort": false,
-      "likeRate": 1.2592461354475792,
-      "commentRate": 0.13775080834477565,
+      "likeRate": 1.2538093164997823,
+      "commentRate": 0.13582934262080976,
       "dailyStats": [
         {
           "date": "2026-11-18",
@@ -2806,6 +2822,15 @@
           "viewCount": 225770,
           "likeCount": 2843,
           "commentCount": 311,
+          "durationSeconds": 1114
+        },
+        {
+          "date": "2026-11-26",
+          "title": "결혼 소식💍 이사 앞두고 부지런히 냉털하고 상견례 선물 만드는 일상 | 곶감샌드·육회깻잎무침·밥버거 도시락·바질포카치아·감바스·된장술밥",
+          "publishedAt": "2026-11-17T09:00:32Z",
+          "viewCount": 229700,
+          "likeCount": 2880,
+          "commentCount": 312,
           "durationSeconds": 1114
         }
       ],
@@ -3372,8 +3397,8 @@
       "publishedAt": "2026-10-28T11:42:31Z",
       "durationSeconds": 56,
       "isShort": true,
-      "likeRate": 1.987673343605547,
-      "commentRate": 0.030816640986132512,
+      "likeRate": 1.9904703350753152,
+      "commentRate": 0.03074085459575776,
       "dailyStats": [
         {
           "date": "2026-10-29",
@@ -3624,6 +3649,15 @@
           "publishedAt": "2026-10-28T11:42:31Z",
           "viewCount": 12980,
           "likeCount": 258,
+          "commentCount": 4,
+          "durationSeconds": 56
+        },
+        {
+          "date": "2026-11-26",
+          "title": "퇴근 후 등갈비김치찜🍖 푹 익은 김치에 부드러운 등갈비까지 | Braised Pork Ribs with Kimchi",
+          "publishedAt": "2026-10-28T11:42:31Z",
+          "viewCount": 13012,
+          "likeCount": 259,
           "commentCount": 4,
           "durationSeconds": 56
         }
@@ -4755,8 +4789,8 @@
       "publishedAt": "2026-11-10T14:53:33Z",
       "durationSeconds": 67,
       "isShort": true,
-      "likeRate": 3.408982093268218,
-      "commentRate": 0.038303169587283345,
+      "likeRate": 3.396298416332761,
+      "commentRate": 0.03816065636328945,
       "dailyStats": [
         {
           "date": "2026-11-11",
@@ -4889,6 +4923,15 @@
           "title": "보늬밤 커피 파운드케이크🌰 밤 페이스트까지 넣은 진한 가을 베이킹 | Chestnut Coffee Pound Cake",
           "publishedAt": "2026-11-10T14:53:33Z",
           "viewCount": 10443,
+          "likeCount": 356,
+          "commentCount": 4,
+          "durationSeconds": 67
+        },
+        {
+          "date": "2026-11-26",
+          "title": "보늬밤 커피 파운드케이크🌰 밤 페이스트까지 넣은 진한 가을 베이킹 | Chestnut Coffee Pound Cake",
+          "publishedAt": "2026-11-10T14:53:33Z",
+          "viewCount": 10482,
           "likeCount": 356,
           "commentCount": 4,
           "durationSeconds": 67

@@ -813,6 +813,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 359921383,
       "videoCount": 232
+    },
+    {
+      "date": "2026-11-26",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 359981958,
+      "videoCount": 233
     }
   ],
   "videos": [
@@ -1208,6 +1215,27 @@
           "likeCount": 4568,
           "commentCount": 214,
           "durationSeconds": 1038
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "HhznfBGpqbI",
+      "title": "vlog | MBA 진학 준비부터 결과 발표 🎓 | 정전(?)된 집에서 요리하고 🚘 차에서 혼밥하는 자취생 일상 | 겨울 집밥으로 참치 무조림, 고등어 덮밥, 슬랩 샌드위치",
+      "publishedAt": "2026-11-25T15:19:44Z",
+      "durationSeconds": 1207,
+      "isShort": false,
+      "likeRate": 1.743956528806632,
+      "commentRate": 0.14629728537259365,
+      "dailyStats": [
+        {
+          "date": "2026-11-26",
+          "title": "vlog | MBA 진학 준비부터 결과 발표 🎓 | 정전(?)된 집에서 요리하고 🚘 차에서 혼밥하는 자취생 일상 | 겨울 집밥으로 참치 무조림, 고등어 덮밥, 슬랩 샌드위치",
+          "publishedAt": "2026-11-25T15:19:44Z",
+          "viewCount": 86126,
+          "likeCount": 1502,
+          "commentCount": 126,
+          "durationSeconds": 1207
         }
       ],
       "thumbnailFeatures": null
@@ -2346,8 +2374,8 @@
       "publishedAt": "2026-11-01T12:02:22Z",
       "durationSeconds": 1750,
       "isShort": false,
-      "likeRate": 1.166005103487383,
-      "commentRate": 0.05541665592700466,
+      "likeRate": 1.1608597119206459,
+      "commentRate": 0.05482368765797669,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -2562,6 +2590,15 @@
           "publishedAt": "2026-11-01T12:02:22Z",
           "viewCount": 310376,
           "likeCount": 3619,
+          "commentCount": 172,
+          "durationSeconds": 1750
+        },
+        {
+          "date": "2026-11-26",
+          "title": "vlog | 프라이빗한 1인 사우나 🧖🏻‍♀️♨️ 즐기고 매콤한 등갈비찜 만들어먹는 집순이 일상 | 비오는 날 곰돌이 식빵 굽고 요즘 푹빠진 사우나 꿀템",
+          "publishedAt": "2026-11-01T12:02:22Z",
+          "viewCount": 313733,
+          "likeCount": 3642,
           "commentCount": 172,
           "durationSeconds": 1750
         }
@@ -3138,8 +3175,8 @@
       "publishedAt": "2026-10-27T14:40:26Z",
       "durationSeconds": 1428,
       "isShort": false,
-      "likeRate": 1.0582814861757566,
-      "commentRate": 0.05395244477367806,
+      "likeRate": 1.0575074287711939,
+      "commentRate": 0.053717369895251124,
       "dailyStats": [
         {
           "date": "2026-10-28",
@@ -3399,6 +3436,15 @@
           "publishedAt": "2026-10-27T14:40:26Z",
           "viewCount": 467078,
           "likeCount": 4943,
+          "commentCount": 252,
+          "durationSeconds": 1428
+        },
+        {
+          "date": "2026-11-26",
+          "title": "vlog | 새 맥북 언박싱하고 비오는 날 순두부 쫄면  🚘 나 홀로 차에서 도시락 까먹는 내향형 집순이 인간의 자취 일상  🛋️",
+          "publishedAt": "2026-10-27T14:40:26Z",
+          "viewCount": 469122,
+          "likeCount": 4961,
           "commentCount": 252,
           "durationSeconds": 1428
         }
