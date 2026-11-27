@@ -820,6 +820,13 @@
       "subscriberCount": 8100,
       "totalViewCount": 2691157,
       "videoCount": 279
+    },
+    {
+      "date": "2026-11-27",
+      "title": "소소한 나의 미니멀라이프",
+      "subscriberCount": 8090,
+      "totalViewCount": 2691473,
+      "videoCount": 280
     }
   ],
   "videos": [
@@ -1101,6 +1108,27 @@
           "likeCount": 24,
           "commentCount": 2,
           "durationSeconds": 482
+        }
+      ],
+      "thumbnailFeatures": null
+    },
+    {
+      "videoId": "8eWsS2YTV1Q",
+      "title": "매일이 깔끔한 집을 유지하려면",
+      "publishedAt": "2026-11-27T06:35:15Z",
+      "durationSeconds": 580,
+      "isShort": false,
+      "likeRate": 13.725490196078432,
+      "commentRate": 0,
+      "dailyStats": [
+        {
+          "date": "2026-11-27",
+          "title": "매일이 깔끔한 집을 유지하려면",
+          "publishedAt": "2026-11-27T06:35:15Z",
+          "viewCount": 51,
+          "likeCount": 7,
+          "commentCount": 0,
+          "durationSeconds": 580
         }
       ],
       "thumbnailFeatures": null
@@ -3835,7 +3863,7 @@
       "publishedAt": "2026-11-13T07:00:07Z",
       "durationSeconds": 602,
       "isShort": false,
-      "likeRate": 4.274937133277452,
+      "likeRate": 4.271356783919598,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -3951,6 +3979,15 @@
           "title": "[나래이션]다 갖추고 살 필요 없는 삶!",
           "publishedAt": "2026-11-13T07:00:07Z",
           "viewCount": 1193,
+          "likeCount": 51,
+          "commentCount": 0,
+          "durationSeconds": 602
+        },
+        {
+          "date": "2026-11-27",
+          "title": "[나래이션]다 갖추고 살 필요 없는 삶!",
+          "publishedAt": "2026-11-13T07:00:07Z",
+          "viewCount": 1194,
           "likeCount": 51,
           "commentCount": 0,
           "durationSeconds": 602

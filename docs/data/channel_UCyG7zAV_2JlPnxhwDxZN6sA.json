@@ -820,6 +820,13 @@
       "subscriberCount": 2990000,
       "totalViewCount": 359981958,
       "videoCount": 233
+    },
+    {
+      "date": "2026-11-27",
+      "title": "지현꿍",
+      "subscriberCount": 2990000,
+      "totalViewCount": 360130834,
+      "videoCount": 233
     }
   ],
   "videos": [
@@ -1225,8 +1232,8 @@
       "publishedAt": "2026-11-25T15:19:44Z",
       "durationSeconds": 1207,
       "isShort": false,
-      "likeRate": 1.743956528806632,
-      "commentRate": 0.14629728537259365,
+      "likeRate": 1.3427738636165298,
+      "commentRate": 0.11170389160068186,
       "dailyStats": [
         {
           "date": "2026-11-26",
@@ -1235,6 +1242,15 @@
           "viewCount": 86126,
           "likeCount": 1502,
           "commentCount": 126,
+          "durationSeconds": 1207
+        },
+        {
+          "date": "2026-11-27",
+          "title": "vlog | MBA 진학 준비부터 결과 발표 🎓 | 정전(?)된 집에서 요리하고 🚘 차에서 혼밥하는 자취생 일상 | 겨울 집밥으로 참치 무조림, 고등어 덮밥, 슬랩 샌드위치",
+          "publishedAt": "2026-11-25T15:19:44Z",
+          "viewCount": 171883,
+          "likeCount": 2308,
+          "commentCount": 192,
           "durationSeconds": 1207
         }
       ],
@@ -2374,8 +2390,8 @@
       "publishedAt": "2026-11-01T12:02:22Z",
       "durationSeconds": 1750,
       "isShort": false,
-      "likeRate": 1.1608597119206459,
-      "commentRate": 0.05482368765797669,
+      "likeRate": 1.1591611325595061,
+      "commentRate": 0.054972482165536685,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -2600,6 +2616,15 @@
           "viewCount": 313733,
           "likeCount": 3642,
           "commentCount": 172,
+          "durationSeconds": 1750
+        },
+        {
+          "date": "2026-11-27",
+          "title": "vlog | 프라이빗한 1인 사우나 🧖🏻‍♀️♨️ 즐기고 매콤한 등갈비찜 만들어먹는 집순이 일상 | 비오는 날 곰돌이 식빵 굽고 요즘 푹빠진 사우나 꿀템",
+          "publishedAt": "2026-11-01T12:02:22Z",
+          "viewCount": 316522,
+          "likeCount": 3669,
+          "commentCount": 174,
           "durationSeconds": 1750
         }
       ],

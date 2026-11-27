@@ -820,6 +820,13 @@
       "subscriberCount": 35800,
       "totalViewCount": 4083368,
       "videoCount": 118
+    },
+    {
+      "date": "2026-11-27",
+      "title": "준희 JUNEHEE",
+      "subscriberCount": 35800,
+      "totalViewCount": 4087578,
+      "videoCount": 118
     }
   ],
   "videos": [
@@ -1852,7 +1859,7 @@
       "publishedAt": "2026-11-20T15:53:05Z",
       "durationSeconds": 115,
       "isShort": true,
-      "likeRate": 0.8613728129205921,
+      "likeRate": 0.8868022952529996,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -1906,6 +1913,15 @@
           "publishedAt": "2026-11-20T15:53:05Z",
           "viewCount": 3715,
           "likeCount": 32,
+          "commentCount": 0,
+          "durationSeconds": 115
+        },
+        {
+          "date": "2026-11-27",
+          "title": "강아지 엄마들 집중 2탄 🐶🤎🪽",
+          "publishedAt": "2026-11-20T15:53:05Z",
+          "viewCount": 3834,
+          "likeCount": 34,
           "commentCount": 0,
           "durationSeconds": 115
         }
@@ -2200,8 +2216,8 @@
       "publishedAt": "2026-11-12T04:28:28Z",
       "durationSeconds": 48,
       "isShort": true,
-      "likeRate": 1.5558267236119585,
-      "commentRate": 0.09151921903599756,
+      "likeRate": 1.5389257694628848,
+      "commentRate": 0.09052504526252263,
       "dailyStats": [
         {
           "date": "2026-11-12",
@@ -2334,6 +2350,15 @@
           "title": "다시 살아갈 의지가 생김. 문제는 하나도 해결 안 됐는데🤎",
           "publishedAt": "2026-11-12T04:28:28Z",
           "viewCount": 3278,
+          "likeCount": 51,
+          "commentCount": 3,
+          "durationSeconds": 48
+        },
+        {
+          "date": "2026-11-27",
+          "title": "다시 살아갈 의지가 생김. 문제는 하나도 해결 안 됐는데🤎",
+          "publishedAt": "2026-11-12T04:28:28Z",
+          "viewCount": 3314,
           "likeCount": 51,
           "commentCount": 3,
           "durationSeconds": 48
@@ -3757,7 +3782,7 @@
       "publishedAt": "2026-11-20T14:27:34Z",
       "durationSeconds": 125,
       "isShort": true,
-      "likeRate": 1.321279554937413,
+      "likeRate": 1.266244585138287,
       "commentRate": 0,
       "dailyStats": [
         {
@@ -3813,6 +3838,15 @@
           "likeCount": 38,
           "commentCount": 0,
           "durationSeconds": 125
+        },
+        {
+          "date": "2026-11-27",
+          "title": "강아지 엄마들 집~~~~중 #쇼핑깡 #펫페어",
+          "publishedAt": "2026-11-20T14:27:34Z",
+          "viewCount": 3001,
+          "likeCount": 38,
+          "commentCount": 0,
+          "durationSeconds": 125
         }
       ],
       "thumbnailFeatures": null
@@ -3823,8 +3857,8 @@
       "publishedAt": "2026-11-06T13:08:31Z",
       "durationSeconds": 105,
       "isShort": true,
-      "likeRate": 1.3868709549597147,
-      "commentRate": 0.05283317923656056,
+      "likeRate": 1.3879795731308104,
+      "commentRate": 0.052376587665313605,
       "dailyStats": [
         {
           "date": "2026-11-07",
@@ -4005,6 +4039,15 @@
           "likeCount": 105,
           "commentCount": 4,
           "durationSeconds": 105
+        },
+        {
+          "date": "2026-11-27",
+          "title": "첫 수술은 망하는게 국룰이야 (?)",
+          "publishedAt": "2026-11-06T13:08:31Z",
+          "viewCount": 7637,
+          "likeCount": 106,
+          "commentCount": 4,
+          "durationSeconds": 105
         }
       ],
       "thumbnailFeatures": null
@@ -4015,8 +4058,8 @@
       "publishedAt": "2026-11-06T12:02:38Z",
       "durationSeconds": 1075,
       "isShort": false,
-      "likeRate": 0.9535547483134406,
-      "commentRate": 0.3146081992734821,
+      "likeRate": 0.9493264913406029,
+      "commentRate": 0.3207184092366902,
       "dailyStats": [
         {
           "date": "2026-11-07",
@@ -4196,6 +4239,15 @@
           "viewCount": 30832,
           "likeCount": 294,
           "commentCount": 97,
+          "durationSeconds": 1075
+        },
+        {
+          "date": "2026-11-27",
+          "title": "외모정병에 대한 내 생각... 그리고 (재)쌍수 Q&A",
+          "publishedAt": "2026-11-06T12:02:38Z",
+          "viewCount": 31180,
+          "likeCount": 296,
+          "commentCount": 100,
           "durationSeconds": 1075
         }
       ],
@@ -5335,8 +5387,8 @@
       "publishedAt": "2026-11-11T03:35:49Z",
       "durationSeconds": 96,
       "isShort": true,
-      "likeRate": 2.060111464968153,
-      "commentRate": 0.348328025477707,
+      "likeRate": 2.054320987654321,
+      "commentRate": 0.34567901234567905,
       "dailyStats": [
         {
           "date": "2026-11-11",
@@ -5479,6 +5531,15 @@
           "publishedAt": "2026-11-11T03:35:49Z",
           "viewCount": 10048,
           "likeCount": 207,
+          "commentCount": 35,
+          "durationSeconds": 96
+        },
+        {
+          "date": "2026-11-27",
+          "title": "인스타 @169.9dayssss 으로 와주세요...!🥺",
+          "publishedAt": "2026-11-11T03:35:49Z",
+          "viewCount": 10125,
+          "likeCount": 208,
           "commentCount": 35,
           "durationSeconds": 96
         }
@@ -6055,8 +6116,8 @@
       "publishedAt": "2026-11-18T07:52:29Z",
       "durationSeconds": 11,
       "isShort": true,
-      "likeRate": 1.6351118760757317,
-      "commentRate": 0.17211703958691912,
+      "likeRate": 1.737691352916839,
+      "commentRate": 0.16549441456350847,
       "dailyStats": [
         {
           "date": "2026-11-19",
@@ -6127,6 +6188,15 @@
           "publishedAt": "2026-11-18T07:52:29Z",
           "viewCount": 2324,
           "likeCount": 38,
+          "commentCount": 4,
+          "durationSeconds": 11
+        },
+        {
+          "date": "2026-11-27",
+          "title": "Get Ready With Me: Bambi Edition 🦌🍂🤎",
+          "publishedAt": "2026-11-18T07:52:29Z",
+          "viewCount": 2417,
+          "likeCount": 42,
           "commentCount": 4,
           "durationSeconds": 11
         }
