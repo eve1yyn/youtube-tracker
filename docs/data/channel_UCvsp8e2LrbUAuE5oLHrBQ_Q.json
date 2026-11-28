@@ -827,6 +827,13 @@
       "subscriberCount": 727000,
       "totalViewCount": 127568444,
       "videoCount": 360
+    },
+    {
+      "date": "2026-11-28",
+      "title": "효뎡 Dyeong",
+      "subscriberCount": 727000,
+      "totalViewCount": 127584612,
+      "videoCount": 360
     }
   ],
   "videos": [
@@ -1118,8 +1125,8 @@
       "publishedAt": "2026-10-31T12:50:24Z",
       "durationSeconds": 46,
       "isShort": true,
-      "likeRate": 2.006566946369938,
-      "commentRate": 0.027362276541408243,
+      "likeRate": 2.0072661217075387,
+      "commentRate": 0.027247956403269755,
       "dailyStats": [
         {
           "date": "2026-11-01",
@@ -1361,6 +1368,15 @@
           "publishedAt": "2026-10-31T12:50:24Z",
           "viewCount": 10964,
           "likeCount": 220,
+          "commentCount": 3,
+          "durationSeconds": 46
+        },
+        {
+          "date": "2026-11-28",
+          "title": "가을맞이 보늬밤 만들기🌰 오래 두고 먹는 달달한 밤조림 | Candied Chestnuts",
+          "publishedAt": "2026-10-31T12:50:24Z",
+          "viewCount": 11010,
+          "likeCount": 221,
           "commentCount": 3,
           "durationSeconds": 46
         }
@@ -2765,8 +2781,8 @@
       "publishedAt": "2026-11-17T09:00:32Z",
       "durationSeconds": 1114,
       "isShort": false,
-      "likeRate": 1.2527688161677442,
-      "commentRate": 0.13453126138053068,
+      "likeRate": 1.2433535068566046,
+      "commentRate": 0.13261311180467864,
       "dailyStats": [
         {
           "date": "2026-11-18",
@@ -2857,6 +2873,15 @@
           "likeCount": 2924,
           "commentCount": 314,
           "durationSeconds": 1114
+        },
+        {
+          "date": "2026-11-28",
+          "title": "결혼 소식💍 이사 앞두고 부지런히 냉털하고 상견례 선물 만드는 일상 | 곶감샌드·육회깻잎무침·밥버거 도시락·바질포카치아·감바스·된장술밥",
+          "publishedAt": "2026-11-17T09:00:32Z",
+          "viewCount": 236779,
+          "likeCount": 2944,
+          "commentCount": 314,
+          "durationSeconds": 1114
         }
       ],
       "thumbnailFeatures": null
@@ -2867,8 +2892,8 @@
       "publishedAt": "2026-11-26T11:56:31Z",
       "durationSeconds": 42,
       "isShort": true,
-      "likeRate": 2.447883765003158,
-      "commentRate": 0.03158559696778269,
+      "likeRate": 2.2361571225745385,
+      "commentRate": 0.023663038334122102,
       "dailyStats": [
         {
           "date": "2026-11-27",
@@ -2876,6 +2901,15 @@
           "publishedAt": "2026-11-26T11:56:31Z",
           "viewCount": 6332,
           "likeCount": 155,
+          "commentCount": 2,
+          "durationSeconds": 42
+        },
+        {
+          "date": "2026-11-28",
+          "title": "출근 전 밥버거 대량생산🍙 한 번에 만들어 냉동해두는 도시락 | Rice Burger Meal Prep",
+          "publishedAt": "2026-11-26T11:56:31Z",
+          "viewCount": 8452,
+          "likeCount": 189,
           "commentCount": 2,
           "durationSeconds": 42
         }
@@ -4289,8 +4323,8 @@
       "publishedAt": "2026-11-27T03:56:13Z",
       "durationSeconds": 31,
       "isShort": true,
-      "likeRate": 2.689180737961226,
-      "commentRate": 0.06253908692933083,
+      "likeRate": 2.5116822429906542,
+      "commentRate": 0.03894080996884735,
       "dailyStats": [
         {
           "date": "2026-11-27",
@@ -4299,6 +4333,15 @@
           "viewCount": 1599,
           "likeCount": 43,
           "commentCount": 1,
+          "durationSeconds": 31
+        },
+        {
+          "date": "2026-11-28",
+          "title": "우삼겹으로 초간단 갈비탕🥩 뜨끈하게 한 그릇 | Beef Galbitang",
+          "publishedAt": "2026-11-27T03:56:13Z",
+          "viewCount": 5136,
+          "likeCount": 129,
+          "commentCount": 2,
           "durationSeconds": 31
         }
       ],
@@ -4865,8 +4908,8 @@
       "publishedAt": "2026-11-10T14:53:33Z",
       "durationSeconds": 67,
       "isShort": true,
-      "likeRate": 3.3692977474919554,
-      "commentRate": 0.03785727806170736,
+      "likeRate": 3.348339898705684,
+      "commentRate": 0.03751641343087601,
       "dailyStats": [
         {
           "date": "2026-11-11",
@@ -5018,6 +5061,15 @@
           "publishedAt": "2026-11-10T14:53:33Z",
           "viewCount": 10566,
           "likeCount": 356,
+          "commentCount": 4,
+          "durationSeconds": 67
+        },
+        {
+          "date": "2026-11-28",
+          "title": "보늬밤 커피 파운드케이크🌰 밤 페이스트까지 넣은 진한 가을 베이킹 | Chestnut Coffee Pound Cake",
+          "publishedAt": "2026-11-10T14:53:33Z",
+          "viewCount": 10662,
+          "likeCount": 357,
           "commentCount": 4,
           "durationSeconds": 67
         }

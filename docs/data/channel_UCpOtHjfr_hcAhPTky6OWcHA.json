@@ -827,6 +827,13 @@
       "subscriberCount": 1010000,
       "totalViewCount": 16528063,
       "videoCount": 210
+    },
+    {
+      "date": "2026-11-28",
+      "title": "세빈 SEBIN",
+      "subscriberCount": 1010000,
+      "totalViewCount": 16542884,
+      "videoCount": 210
     }
   ],
   "videos": [
@@ -836,8 +843,8 @@
       "publishedAt": "2026-11-10T09:47:49Z",
       "durationSeconds": 880,
       "isShort": false,
-      "likeRate": 2.1755119420895754,
-      "commentRate": 0.20903495528974567,
+      "likeRate": 2.1703932151117966,
+      "commentRate": 0.20817270624518117,
       "dailyStats": [
         {
           "date": "2026-11-11",
@@ -989,6 +996,15 @@
           "publishedAt": "2026-11-10T09:47:49Z",
           "viewCount": 25833,
           "likeCount": 562,
+          "commentCount": 54,
+          "durationSeconds": 880
+        },
+        {
+          "date": "2026-11-28",
+          "title": "요청 많았던 청순 메이크업˚✧₊⁎ 🐰",
+          "publishedAt": "2026-11-10T09:47:49Z",
+          "viewCount": 25940,
+          "likeCount": 563,
           "commentCount": 54,
           "durationSeconds": 880
         }
@@ -5288,8 +5304,8 @@
       "publishedAt": "2026-11-01T09:44:38Z",
       "durationSeconds": 988,
       "isShort": false,
-      "likeRate": 1.9205902487259452,
-      "commentRate": 0.19015745036890544,
+      "likeRate": 1.916013480252944,
+      "commentRate": 0.19311598318754972,
       "dailyStats": [
         {
           "date": "2026-11-02",
@@ -5524,6 +5540,15 @@
           "likeCount": 505,
           "commentCount": 50,
           "durationSeconds": 988
+        },
+        {
+          "date": "2026-11-28",
+          "title": "와 이건 꼭 사야해.. 한중일 나라별 렌즈 추천🇰🇷🇨🇳🇯🇵 존예 렌즈들만 모아둠!!!",
+          "publishedAt": "2026-11-01T09:44:38Z",
+          "viewCount": 26409,
+          "likeCount": 506,
+          "commentCount": 51,
+          "durationSeconds": 988
         }
       ],
       "thumbnailFeatures": null
@@ -5534,8 +5559,8 @@
       "publishedAt": "2026-11-15T10:45:57Z",
       "durationSeconds": 1148,
       "isShort": false,
-      "likeRate": 1.5510919032184134,
-      "commentRate": 0.06629997053334644,
+      "likeRate": 1.5339162374735498,
+      "commentRate": 0.06787239988821016,
       "dailyStats": [
         {
           "date": "2026-11-16",
@@ -5644,6 +5669,15 @@
           "likeCount": 1895,
           "commentCount": 81,
           "durationSeconds": 1148
+        },
+        {
+          "date": "2026-11-28",
+          "title": "새 집 미리 공개 🏠 이사집 보러 갔다가 운동하고 혼밥해먹는 자취생의 일상",
+          "publishedAt": "2026-11-15T10:45:57Z",
+          "viewCount": 125235,
+          "likeCount": 1921,
+          "commentCount": 85,
+          "durationSeconds": 1148
         }
       ],
       "thumbnailFeatures": null
@@ -5654,8 +5688,8 @@
       "publishedAt": "2026-11-22T10:00:12Z",
       "durationSeconds": 970,
       "isShort": false,
-      "likeRate": 2.2980158823116024,
-      "commentRate": 0.1218112394293612,
+      "likeRate": 2.27757687383482,
+      "commentRate": 0.11904494508209609,
       "dailyStats": [
         {
           "date": "2026-11-23",
@@ -5700,6 +5734,15 @@
           "viewCount": 42689,
           "likeCount": 981,
           "commentCount": 52,
+          "durationSeconds": 970
+        },
+        {
+          "date": "2026-11-28",
+          "title": "이사, 플리마켓 그리고 1일 육아까지,,🍼 정신없었던 3일 브이로그",
+          "publishedAt": "2026-11-22T10:00:12Z",
+          "viewCount": 44521,
+          "likeCount": 1014,
+          "commentCount": 53,
           "durationSeconds": 970
         }
       ],
